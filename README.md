@@ -1,2 +1,4 @@
-# 11th-physics
-11th physics Book
+## Dev
+```sh
+hugo server --ignoreCache --themesDir ../
+```

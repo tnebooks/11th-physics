@@ -3,58 +3,40 @@ title: 'WAVES'
 weight: 11
 ---
 
-**11.1**
+```
+We are slowed down sound and light waves, a walking bundle of frequencies tuned into the cosmos. We are souls dressed up in sacred biochemical garments and our bodies are the instruments through which our souls play their music – Albert Einstein
+```
 
-**Learning Objectives**
+### Learning Objectives
 
-In this unit, the student is exposed to • waves and their types (transverse and longitud • basic terms like wavelength, frequency, time pe • velocity of transverse waves and longitudinal w • velocity of sound waves • reflection of sound waves from plane and curv • progressive waves and their graphical represen • superposition principle, interference of waves, • characteristics of stationary waves, sonometer • fundamental frequency, harmonics and overto • intensity and loudness • vibration of air column – closed organ pipe, op • Doppler effect and its applications
+In this unit, the student is exposed to
 
-**INTRODUCTION**
+- waves and their types (transverse and longitud
+- basic terms like wavelength, frequency, time pe
+- velocity of transverse waves and longitudinal w
+- velocity of sound waves
+- reflection of sound waves from plane and curv
+- progressive waves and their graphical represen
+- superposition principle, interference of waves,
+- characteristics of stationary waves, sonometer
+- fundamental frequency, harmonics and overto
+- intensity and loudness
+- vibration of air column – closed organ pipe, op
+- Doppler effect and its applications
 
-In the previous chapter, we have discussed the oscillation of a particle. Consider a medium which consists of a collection of particles. If the disturbance is created at one end, it
+# INTRODUCTION
 
+In the previous chapter, we have discussed the oscillation of a particle. Consider a medium which consists of a collection of particles. If the disturbance is created at one end, it propagates and reaches the other end. That is, the disturbance produced at the first mass point is transmitted to the next neighbouring mass point, and so on. Notice that here, only the disturbance is transmitted, not the mass points. Similarly, the speech we deliver is due to the vibration of our vocal chord inside the throat. This leads to the vibration of the surrounding air molecules and hence, the effect of speech (information) is transmitted from one point in space to another point in space without the medium carrying the particles. Thus, the disturbance which carries energy and momentum from one point in space to another point in space without the transfer of the medium is known as a wave.
 
-
-
-
-_We are slowed down sound and light waves, a w We are souls dressed up in sacred biochemical ga_
-
-**Figure 11.1** Standing waves in a violin  
-
-inal) riod and amplitude of a wave aves
-
-ed surfaces and its applications tation beats and standing waves
-
-nes
-
-en organ pipe and resonance air column
-
-_alking bundle of frequencies tuned into the cosmos. rments and our bodies are the instruments through which our souls play their music_ – Albert Einstein
-
-propagates and reaches the other end. That is, the disturbance produced at the first mass point is transmitted to the next neighbouring mass point, and so on. Notice that here, only the disturbance is transmitted, not the mass points. Similarly, the speech we deliver is due to the vibration of our vocal chord inside the throat. This leads to the vibration of the surrounding air molecules and hence, the effect of speech (information) is transmitted from one point in space to another point in space without the medium carrying the particles. Thus, the disturbance which carries _energy and momentum from one point in space to another point in space without the transfer of the medium is known as a_ wave.
-
-
-
-
-  
 
 Standing near a beach, one can observe waves in the ocean reaching the seashore with a similar wave pattern; hence they are called ocean waves. A rubber band when plucked vibrates like a wave which is an example of a standing wave. These are shown in Figure 11.2. Other examples of waves are light waves (electromagnetic waves), through which we see and enjoy the beauty of nature and sound waves using which we hear and enjoy pleasant melodious songs. Day to day applications of waves are numerous, such as mobile phone communication, laser surgery, etc.
 
 ## Ripples and wave formation on the water surface
 
-
-**Figure 11.3** Ripples formed on the surface of water
-
 Suppose we drop a stone in a trough of still water, we can see a disturbance produced at the place where the stone strikes the water
-
-**Figure 11.2** Waves formed in (a) ocean, (b) s (c) ripples formed on water surface
-
-(a)  
-
 surface as shown in Figure 11.3. We find that this disturbance spreads out (diverges out) in the form of concentric circles of ever increasing radii (ripples) and strike the boundary of the trough. This is because some of the kinetic energy of the stone is transmitted to the water molecules on the surface. Actually the particles of the water (medium) themselves do not move outward with the disturbance. This can be observed by keeping a paper strip on the water surface. The strip moves up and down when the disturbance (wave) passes on the water surface. This shows that the water molecules only undergo vibratory motion about their mean positions.
 
 ## Formation of waves on stretched string
-
 
 Let us take a long string and tie one end of the string to the wall as shown in Figure 11.4 (a). If we give a quick jerk, a bump (like pulse) is produced in the string as shown in Figure 11.4 (b). Such a disturbance is sudden and it lasts for a short duration, hence it is known as a wave pulse. If jerks are given continuously then the waves produced are standing waves. Similar waves are produced by a plucked string in a guitar.
 
@@ -62,32 +44,16 @@ tanding waves in plucking rubber band and
 
 (b) (c)
 
-
-
-
-  
-
 ## Formation of waves in a tuning fork
-
 
 When we strike a tuning fork on a rubber pad, the prongs of the tuning fork vibrate about their mean positions. The prong vibrating about a mean position means moving outward and inward, as indicated in the Figure 11.5. When a prong moves outward, it pushes the layer of air in its neighbourhood which means there is more accumulation of air molecules in this region. Hence, the density and also the pressure increase. These regions are known as compressed regions or compressions. This compressed air layer moves forward and compresses the next neighbouring layer in a similar manner. Thus a wave of compression advances or passes through air. When the prong moves inwards, the particles of the medium are moved to the right. In this region both density and pressure are low. It is known as a rarefaction or elongation.
 
-**Figure 11.4:** Wave pulse created during jerk produced on one end of the string
-
-(a)
-
-(b)
-
-(c)  
 
 ## Characteristics of wave motion
 
-
-• For the propagation of the waves, the medium must possess both inertia and elasticity, which decide the velocity of the wave in that medium.
-
-• In a given medium, the velocity of a wave is a constant whereas the constituent particles in that medium move with different velocities at different positions. Velocity is maximum at their mean position and zero at extreme positions.
-
-• Waves undergo reflections, refraction, interference, diffraction and polarization.
+- For the propagation of the waves, the medium must possess both inertia and elasticity, which decide the velocity of the wave in that medium.
+- In a given medium, the velocity of a wave is a constant whereas the constituent particles in that medium move with different velocities at different positions. Velocity is maximum at their mean position and zero at extreme positions.
+- Waves undergo reflections, refraction, interference, diffraction and polarization.
 
 **Figure 11.5** Waves due to strike of a tuning fork on a rubber pad
 
@@ -112,17 +78,11 @@ The medium possesses both inertia and elasticity for propagation of waves.
 Light is an electromagnetic wave. what is the medium for its transmission?
 
 
-
-
-
-
-
 |------|
 | Point to pondere m edium p ossesses b oth in ertia a nd elasticity for propagation of waves.Light  is  an  electromagnetic  wave.  what  is the medium for its transmission? |
   
 
 ## Mechanical wave motion and its types
-
 
 Wave motion can be classified into two types
 
@@ -137,11 +97,9 @@ b. **Non mechanical wave** – Waves which do not require any medium for propaga
 Further, waves can also be classified into two types
 
 a. Transverse waves
-
 b. Longitudinal waves
 
 ## Transverse wave motion
-
 
 **Figure 11.6** Transverse wave
 
@@ -159,14 +117,13 @@ In transverse wave motion, the constituents of the medium oscillate or vibrate a
 
 ## Longitudinal wave motion
 
-
 In longitudinal wave motion, the constituents of the medium oscillate or vibrate about their mean positions in a direction parallel to the direction of propagation (direction of energy transfer) of waves as shown in Figure 11.7.
 
 **Example:** Sound waves travelling in air.
 
-**Discuss with your Teacher** • Tsunami (pronounced soo-nah-mee
-
-in Japanese) means Harbour waves. • Tsunami is a series of huge and giant
+**Discuss with your Teacher** 
+- Tsunami (pronounced soo-nah-mee in Japanese) means Harbour waves. 
+- Tsunami is a series of huge and giant
 
 waves which come with great speed and huge force. What happened on 26th December2004 in southern part of India? - Discuss
 
@@ -179,17 +136,12 @@ waves which come with great speed and huge force. What happened on 26th December
 **Stretchedd**
 
 
-
-
-
-
 | Longitudinal waves Motion |
 |------|------|------|
 | Figure 11.7 Longitudinal waves |
   
 
 # TERMS AND DEFINITIONS USED IN WAVE MOTION
-
 
 **Figure 11.8 Two different sinusoidal** waves
 
@@ -211,15 +163,15 @@ Consider a wave produced in a stretched string as shown in Figure 11.9.
 
 **Table 11.1:** Comparison of transverse and
 
-S.No. **Transverse waves** 1\. The direction of vibration of particl
+S.No. **Transverse waves** 1. The direction of vibration of particl
 
 of the medium is perpendicular to t direction of propagation of waves.
 
-2\. The disturbances are in the form of cres and troughs.
+2. The disturbances are in the form of cres and troughs.
 
-3\. Transverse waves are possible in elas medium.
+3. Transverse waves are possible in elas medium.
 
-**NOTE:** 1\. Absence of medium is also known as vacuum. Only 2. Rayleigh waves are considered to be mixture of trans  
+**NOTE:** 1. Absence of medium is also known as vacuum. Only 2. Rayleigh waves are considered to be mixture of trans  
 
 If we are interested in counting the number of waves created, let us put a reference level (mean position) as shown in Figure 11.9. Here the mean position is the horizontal line shown. The highest point in the shaded portion is called _crest_. With respect to the reference level, the lowest point on the un-shaded portion is called trough. This wave contains repetition of a section O to B and hence we define the length of the smallest section without repetition as one _wavelength_ as shown in Figure 11.10. In Figure 11.10 the length OB or length BD is one wavelengh. A Greek letter lambda λ is used to denote one wavelength.
 
@@ -242,10 +194,6 @@ ts The disturbances are in the form of compressions and rarefactions.
 tic Longitudinal waves are possible in all types of media (solid, liquid and gas).
 
 electromagnetic waves can travel through vacuum. verse and longitudinal.
-
-
-
-
 
 
 | 1. |e dir ection o f v ibration o f p articles of  the m edium i s  perpendicular  to  the direction of propagation of waves. |e  direction  of v ibration  of p articles  of the medium is parallel to the direction of propagation of waves. |
@@ -360,11 +308,6 @@ Write down (a) the frequency in ascending order (b) the wavelength in ascending 
 
 (b)
 
-
-
-
-  
-
 From the example 11.2, we observe that the frequency is inversely related to the wavelength, _f_  1
 
  .
@@ -399,13 +342,13 @@ where _v_ is known as the _wave velocity_ or _phase velocity. This is the veloci
 
 **Note:**
 
-1\. The number of cycles (or revolutions) per unit time is called _angular frequency_.
+1. The number of cycles (or revolutions) per unit time is called _angular frequency_.
 
 _Angular frequency,_ ω = 2π _T_
 
 \= 2πf (unit is radians/second)
 
-2\. The number of cycles per unit distance or number of waves per unit distance is called _wave number_.
+2. The number of cycles per unit distance or number of waves per unit distance is called _wave number_.
 
 _wave number, k_ = 2π λ
 
@@ -461,14 +404,8 @@ A man saw a toy duck on a wave in an ocean. He noticed that the duck moved up an
 
 
 
-
-
-
 | From t he exa mple 11.2, w e o bser ve t hat the f requency i s in versely r elated t o t he wavelength,  1 . f en, f λ is equal to what? [(i.e)  ]  ?A sim ple dim ensional a rgument w ill h elp us  to  determine  this  unknown p hysical quantity.Dimension of wavelength is, [λ] = LFrequency  f = 1 , which implies Time periodthat the dimension of frequency is, [][ f ] =  1 = TT⇒ [λf] = [λ][f ]= LT  = [velocity]−1erefore, Velocity, λf =  v –1 (11.4)where  v is k nown  as  the  wave ve loc ity orphas e v elocity . i s i s t he v elo city w ithwhic h t he wave propagates.  Wave veloc ityis t he di stance t ravelle d b y a wa ve in o nes econd. |
 |------|
-
-
-  
 
 _f =_ 15times toy duck moves up and down
 
@@ -548,11 +485,6 @@ This means that the speed of the wave along a string is a constant. Higher the f
 
 Suppose a hammer is struck on long rails at a distance and when a person keeps his ear near the rails at the other end he/she will hear two sounds, at different instants. The sound that is heard through the rails (solid medium)
 
-
-
-
-
-
 | C onsider a s tring w hos e o ne en d i sattached  to  a  wa ll.  en  compute  thefollowing in both situations given in gure(assume waves cr oss es t he di stance in o nes econd)12 m(a) Wavelength, (b) Frequency and(c) Velocity 12 mSolution |
 |------|------|------|
 | First case |Second case |
@@ -566,9 +498,9 @@ is faster than the sound we hear through the air (gaseous medium). This implies 
 
 In this section, we shall derive the velocity of waves in two different cases:
 
-1\. The velocity of a transverse waves along a stretched string.
+1. The velocity of a transverse waves along a stretched string.
 
-2\. The velocity of a longitudinal waves in an elastic medium.
+2. The velocity of a longitudinal waves in an elastic medium.
 
 ## Velocity of transverse waves in a stretched string
 
@@ -661,11 +593,6 @@ F
 
 **_Note_**
 
-
-
-
-  
-
 in the tension force can be ignored. We can resolve T into horizontal component
 
 _T_ cos θ 2 
@@ -720,7 +647,8 @@ _v T_ \=
 
 µ (11.13)
 
-**Observations:** • The velocity of the string is
+**Observations:** 
+- The velocity of the string is
 
 a. directly proportional to the square root of the tension force
 
@@ -769,11 +697,6 @@ ms = milli second.
 
 
 Consider an elastic medium (here we assume air) having a fixed mass contained in a long tube (cylinder) whose cross sectional area is _A_ and maintained under a pressure _P_. One can generate longitudinal waves in the fluid either by displacing the fluid using a piston or by keeping a vibrating tuning fork at one end of the tube. Let us assume that the direction of propagation of waves coincides with the axis of the cylinder. Let _ρ_ be the density of
-
-
-
-
-  
 
 the fluid which is initially at rest. At t = 0, the piston at left end of the tube is set in motion toward the right with a speed _u_.
 
@@ -867,14 +790,8 @@ where _η_ is the modulus of rigidity, K is the bulk modulus and _ρ_ is the den
 
 
 
-
-
-
 | ρ PAir |
 |------|------|------|
-
-
-
 | A |PA |
 |------|------|------|
 
@@ -902,7 +819,7 @@ _v Y_ \= =
 
 0 2564 10 0 506 11
 
-8\. .
+8. .
 
 _ms ms_\= × = × = ×− −0 0
 
@@ -1010,7 +927,7 @@ S.No. **Medium Speed in m s**–1
 
 Solids 1. Rubber 1600 2. Gold 3240
 
-3\. Brass 4700 4. Copper 5010 5. Iron 5950 6. Aluminum 6420
+3. Brass 4700 4. Copper 5010 5. Iron 5950 6. Aluminum 6420
 
 Liquids at 25°C 1. Kerosene 1324 2. Mercury 1450 3. Water 1493 4. Sea Water 1533
 
@@ -1018,18 +935,12 @@ Gas (at 0°C) 1. Oxygen 317 2. Air 331 3. Helium 972 4. Hydrogen 1286
 
 Gas (at 20°C) 1. Air 343
 
-
-
-
-  
-
 # PROPAGATION OF SOUND WAVES
 
 
 We know that sound waves are longitudinal waves, and when they propagate compressions and rarefactions are formed. In the following section, we compute the speed of sound in air by Newton’s method and also discuss the Laplace correction and the factors affecting sound in air.
 
 ## Newton’s formula for speed of sound waves in air
-
 
 Sir Isaac Newton assumed that when sound propagates in air, the formation of compression and rarefaction takes place in a very slow manner so that the process is isothermal in nature. That is, the heat produced during compression (pressure increases, volume decreases), and heat lost during rarefaction (pressure decreases, volume increases) occur over a period of time such that the temperature of the medium remains constant. Therefore, by treating the air molecules to form an ideal gas, the changes in pressure and volume obey Boyle’s law, Mathematically
 
@@ -1085,11 +996,6 @@ not small
 In 1816, Laplace satisfactorily corrected this discrepancy by assuming that when the sound propagates through a medium, the particles oscillate very rapidly such that the compression and rarefaction occur very fast. Hence the exchange of heat produced due to compression and cooling effect due to rarefaction do not take place, because, air (medium) is a bad conductor of heat. Since, temperature is no longer considered as a constant here, sound propagation is an adiabatic process. By adiabatic considerations, the gas obeys Poisson’s law (not Boyle’s law as Newton assumed), which is
 
 _PV_γ = constant (11.23)
-
-
-
-
-  
 
 where, _γ = C C P_
 
@@ -1187,11 +1093,6 @@ _v v t v t_\= + ≅ +
 1 546
 
 (using binomial expansion)
-
-
-
-
-  
 
 Since _v_0 = 331_m s_–1 at 0°C, _v_ at any temperature in _t_°C is
 
@@ -1345,11 +1246,6 @@ _v P_ \=
 
 γ ρ
 
-
-
-
-  
-
 But ρ= _M V_
 
 Therefore,
@@ -1486,9 +1382,6 @@ In this section, we will consider only the reflection of sound waves in a medium
 
 
 
-
-
-
 | Swe |ρρN |M==V M ⇒=M 16M M M 14VO00ting e quation  (5) in 0 equatioN NN+ t 16=⇒ 3822 +=14 t 464014t = 58.4 °C⇒ |(5) |
 |------|------|------|------|
 
@@ -1556,9 +1449,6 @@ The behaviour of sound is different when it is reflected from different surfaces
 
 
 
-
-
-
 | Sound source |
 |------|------|------|------|------|------|------|------|
 
@@ -1601,43 +1491,16 @@ We know that any surface (smooth or rough) can absorb sound. For example, the so
 
 **Figure 11.22** Stethoscope and multiple reflection of signal in a rubber tube
 
-
-
-
-
-
-
 |------|------|------|------|------|
-
-
-
-
-
-
 
 | Dais |Concave Surface |
 |------|------|------|------|------|------|
 
 
 | Figure 11.21 Sound in a big auditorium |
-
-
-
 |------|------|------|
 
-
-
-
-
-
-
 |------|------|------|------|
-
-
-
-
-
-
 
 
 |------|------|
@@ -1688,11 +1551,6 @@ at 344 m away, then the sound will take 1 second to reach the wall. After reflec
 
 **_Solution_** The time taken by the sound to come back as echo is 2_t_ \= 4 ⇒ _t_ \= 2 s ∴The distance is d = vt =(343 m s–1)(2 s) = 686 m.
 
-
-
-
-  
-
 **11.6**
 
 **Note: Classification of sound waves:** Sound waves can be classified in three groups according to their range of frequencies:
@@ -1722,17 +1580,12 @@ If a wave that propagates in a medium is continuous then it is known as progress
 ## Characteristics of progressive waves
 
 
-1\. Particles in the medium vibrate about their mean positions with the same amplitude.
-
-2\. The phase of every particle ranges from 0 to 2π.
-
-3\. No particle remains at rest permanently. During wave propagation, particles come to the rest position only twice at the extreme points.
-
-4\. Transverse progressive waves are characterized by crests and troughs whereas longitudinal progressive waves are characterized by compressions and rarefactions.
-
-5\. When the particles pass through the mean position they always move with the same maximum velocity.
-
-6\. The displacement, velocity and acceleration of particles separated from each other by _nλ_ are the same, where _n_ is an integer, and λ is the wavelength.
+1. Particles in the medium vibrate about their mean positions with the same amplitude.
+2. The phase of every particle ranges from 0 to 2π.
+3. No particle remains at rest permanently. During wave propagation, particles come to the rest position only twice at the extreme points.
+4. Transverse progressive waves are characterized by crests and troughs whereas longitudinal progressive waves are characterized by compressions and rarefactions.
+5. When the particles pass through the mean position they always move with the same maximum velocity.
+6. The displacement, velocity and acceleration of particles separated from each other by _nλ_ are the same, where _n_ is an integer, and λ is the wavelength.
 
 ## Equation of a plane progressive wave
 
@@ -1756,9 +1609,6 @@ If a wave that propagates in a medium is continuous then it is known as progress
 Suppose we give a jerk on a stretched string at time _t_ = 0 _s_. Let us assume that the wave pulse created during this disturbance moves along positive _x_ direction with constant speed _v_ as shown in Figure 11.23 (a).
 
 We can represent the shape of the wave pulse mathematically as _y_ = _y_(_x_, 0) = _f_(_x_) at time _t_ = 0 _s_. Assume that the shape of the wave pulse
-
-
-
 
 
 
@@ -1933,18 +1783,12 @@ shifts towards right. Further, we can take _a_ = _vt_ and _v_ = π
 
 
 
-
-
-
 | yo |
 |------|------|------|------|------|------|------|------|
 
 
 | a=0a=1 a=2 |a=3 |x |
 | 12 3 |
-
-
-
 
 
 | π π 3π |
@@ -1997,7 +1841,6 @@ wavelength and time period, respectively. In general, _y_(_x_,_t_)=A sin(_k_ _x_
 
 ## Graphical representation of the wave
 
-
 Let us graphically represent the two forms of the wave variation
 
 **(a)** Space (or Spatial) variation graph **(b)** Time (or Temporal) variation graph
@@ -2041,9 +1884,6 @@ _k_ \= 2π λ
 rad m–1 (11.40)
 
 where k is called wave number. This measures how many wavelengths are present in 2π radians.
-
-
-
 
 
 
@@ -2133,9 +1973,6 @@ Similarly, we can define velocity (here speed) for the travelling wave (or progr
 
 
 
-
-
-
 | 2π |t |
 |------|------|------|------|
 | o |π |
@@ -2217,11 +2054,6 @@ When a jerk is given to a stretched string which is tied at one end, a wave puls
 
 **Figure 11.26** Superposition of two waves
 
-
-
-
-  
-
 When the pulses have the same shape, at the crossing, the total displacement is the algebraic sum of their individual displacements and hence its net amplitude is higher than the amplitudes of the individual pulses. Whereas, if the two pulses have same amplitude but shapes are 180° out of phase at the crossing point, the net amplitude vanishes at that point and the pulses will recover their identities after crossing. Only waves can possess such a peculiar property and it is called superposition of waves. This means that the principle of superposition explains the net behaviour of the waves when they overlap.
 
 Generalizing to any number of waves i.e, if two or more waves in a medium move simultaneously, when they overlap, their total displacement is the vector sum of the individual displacements. We know that the waves satisfy the wave equation which is a linear second order homogeneous partial differential equation in both space coordinates and time. Hence, their linear combination (often called as linear superposition of waves) will also satisfy the same differential equation.
@@ -2270,11 +2102,6 @@ We will discuss the following in different subsections:
 
 
 **Figure 11.27** Interference of waves
-
-
-
-
-  
 
 **Interference** is a phenomenon in which two waves superimpose to form a resultant wave of greater, lower or the same amplitude.
 
@@ -2372,11 +2199,6 @@ Hence, the resultant amplitude _A_ = A1 _\+ A_2
 
 **wave 2 =**
 
-
-
-
-  
-
 **(b) For destructive interference:** When the trough of one wave overlaps with the crest of another wave, their amplitudes “cancel” each other and we get destructive interference as shown in Figure 11.29 (b). The resultant amplitude is nearly zero. The destructive interference occurs if there is minimum intensity at that point, which means cos_φ_ \= − 1 ⇒ _φ_ \= _π_,3_π_,5_π_,… = (2 n-1) π, where n = 0,1,2,…. i.e. This is the phase difference in which two waves overlap to give destructive interference. Therefore,
 
 _I I I A A_minimum = −( ) = −( )1 2
@@ -2441,20 +2263,11 @@ then the two waves arriving from the paths _r_1 and _r_2 and reaching the receiv
 
 
 
-
-
-
 | ϕ = 0º |x |
 |------|------|------|------|------|------|------|
 
 | Figure 11.31 Maximum intensity when the phase dierence is 0° |
-
-
-
 |------|
-
-
-
 | x |
 |------|------|------|------|
 
@@ -2549,22 +2362,10 @@ phase). The path difference ∆ =_x_ λ 2
 
 In order to calculate the path difference, we have to find the path lengths x1 and x2. In a right triangle BDC,
 
-
-
-
-
-
-
 |------|
 
 
-
-
-
 |------|
-
-
-
 | DO |
 |------|------|------|
 
@@ -2649,9 +2450,6 @@ _m_10 6.
 **A**
 
 **r = 0.05r = 0 r =0.10 r = 0.15**
-
-
-
 
 
 
@@ -2986,9 +2784,6 @@ _n_\=| _f_1 − _f_2|= 1
 
 
 
-
-
-
 | AdditionaFor mathematicsound waves havdierent frequeneach other.Since t he s ounlongitudinal wavand y = A  sin(two waves at a p(region  having higangular f requenen w2 hen they aget the net disply = y + yy = A sin(ωButω  = 2π1  feny = A sin(2πUsing trig1 onom 1sinsCD+=in yA= 22 coss ππLet yA= 22and if  f  i s s ligh ff − p  ff    22  (11.57) va1 ries v ff12+   . er 2 y = y  sin(2i12s r epresents a simfrequency w hicof f requencies o P ff + f =     a 2 time t. 12avg |
 |------|
 
@@ -3073,11 +2868,6 @@ _y_ = _A_ sin(_kx_ − _ωt_)+_A_ sin(_kx_ + _ωt_) (11.62)
 Using trigonometric identity, we rewrite equation (11.62) as
 
 _y_ (_x, t_) = 2_A_ cos(_ωt_) sin(_kx_) (11.63)
-
-
-
-
-  
 
 This represents a stationary wave or standing wave, which means that this wave does not move either forward or backward, whereas progressive or travelling waves will move forward or backward. Further, the displacement of the particle in equation (11.63) can be written in more compact form,
 
@@ -3210,11 +3000,6 @@ For _nth_ mode, the distance between anti- node and neighbouring node is
 
 **(1)** Stationary waves are characterised by the confinement of a wave disturbance between two rigid boundaries. This means, the wave does not move forward or backward in a medium (does not advance), it remains steady at its place. Therefore, they are called “stationary waves or standing waves”.
 
-
-
-
-  
-
 **(2)** Certain points in the region in which the wave exists have _maximum amplitude, called as anti-nodes_ and at certain points the _amplitude is minimum or zero, called as nodes_.
 
 **(3) The distance between two consecutive**
@@ -3233,11 +3018,11 @@ neighbouring anti-node is λ 4
 
 **Table 11.3:** Comparison between progres **S.No. Progressive waves**
 
-1\. Crests and troughs are formed in transverse progressive waves, and compression and rarefaction are form in longitudinal progressive waves. These waves move forward or backwa in a medium i.e., they will advance in medium with a definite velocity.
+1. Crests and troughs are formed in transverse progressive waves, and compression and rarefaction are form in longitudinal progressive waves. These waves move forward or backwa in a medium i.e., they will advance in medium with a definite velocity.
 
-2\. All the particles in the medium vibr such that the amplitude of the vibrati for all particles is same.
+2. All the particles in the medium vibr such that the amplitude of the vibrati for all particles is same.
 
-3\. These wave carry energy wh propagating.
+3. These wave carry energy wh propagating.
 
 P
 
@@ -3268,27 +3053,15 @@ Q
 
 
 
-
-
-
 | Table 11.3: Comparison between progressive and stationar y waves |
 |------|------|------|
 | S.No. |Progressive waves |Stationar y waves |
 | 1. |Crests and troughs are formed in transverse progressive waves, and compression and rarefaction are formed in longitudinal progressive waves. ese waves move for ward or backward in a medium i.e., they will advance in a medium with a denite velocity. |Crests and troughs are formed in transverse stationar y waves, and compression and rarefaction are formed in longitudinal stationar y waves. ese waves neither move for ward nor backward in a medium i.e., they will not advance in a medium. |
 | 2. |All t he p articles in t he m edium v ibrate such t hat t he a mplitude o f t he v ibration for all particles is same. |Except a t n odes, a ll o ther p articles o f the medium vibrate such that amplitude of v ibration i s di erent f or di erent particles.  e  amplitude  is  minimum or zer o a t n odes a nd m aximum a t a nti-nodes. |
 | 3. |ese wa ve c arr y en erg y w hile propagating. |ese waves do not transport energ y. |
-
-
-
 |------|------|------|------|
-
-
-
 | Load |
 |------|------|------|------|
-
-
-
 | Figure 11.34 Sonometer |
   
 
@@ -3423,12 +3196,6 @@ _v f f f f f_2 2 2 2
 1 2 1 2 3
 
 \= + + ⇒ = + +
-
-
-
-
-
-
 
 |------|
 
@@ -3570,11 +3337,6 @@ _v T_ \=
 
 µ
 
-
-
-
-  
-
 The length of the string, L = 80 cm = 0.8 m The mass of the string, m = 0.32 g = 0.32 × 10–3 kg Therefore, the linear mass density,
 
 µ= × = ×
@@ -3660,11 +3422,6 @@ Consider a source and two observers (listeners). The source emits sound waves wh
 
 
 When a sound wave is emitted by a source, the energy is carried to all possible surrounding points. The average sound energy emitted or
-
-
-
-
-  
 
 transmitted per unit time or per second is called sound power. Therefore, the intensity _of sound is defined as “the sound power transmitted per unit area taken normal to the propagation of the sound wave ”._
 
@@ -3781,11 +3538,6 @@ Two sounds with same intensities need not have the same loudness. For example, t
 
 
 Our ear can detect the sound with intensity level ranges from 10-2 _Wm_\-2 to 20 _W m_\-2.
-
-
-
-
-  
 
 According to Weber-Fechner’s law, “loudness (L) is proportional to the logarithm of the actual intensity (I) measured with an accurate non-human instrument”. This means that
 
@@ -3939,11 +3691,6 @@ Musical instruments like flute, clarinet, nathaswaram, etc are known as wind ins
 
 Look at the picture of a clarinet, shown in Figure 11.36. It is a pipe with one end closed and the other end open. If one end of a pipe is closed, the wave reflected at this closed end is 180° out of phase with the incoming wave. Thus there is no
 
-
-
-
-  
-
 displacement of the particles at the closed end. Therefore, nodes are formed at the closed end and anti-nodes are formed at open end.
 
 Let us consider the simplest mode of vibration of the air column called the fundamental mode. Anti-node is formed at the open end and node at closed end. From the Figure 11.37, let _L_ be the length of the tube and the wavelength of the wave produced. For the fundamental mode of vibration, we have,
@@ -4070,9 +3817,6 @@ ads to nodes at closed end and antinodes at tinode)
 
 
 
-
-
-
 | L |A |
 |------|------|------|
 | L |
@@ -4139,7 +3883,7 @@ _L f_3
 
 5= = = λ
 
-is called _second over tone_, and since _n_ = 5 here, this is called fifth harmonic. Hence, the _closed organ pipe has only odd harmonics and frequency of the n_th _harmonic is fn **\=**_ (_2n+1_**)**_f_1\. Therefore, the frequencies of harmonics are _in the ratio_
+is called _second over tone_, and since _n_ = 5 here, this is called fifth harmonic. Hence, the _closed organ pipe has only odd harmonics and frequency of the n_th _harmonic is fn **\=**_ (_2n+1_**)**_f_1. Therefore, the frequencies of harmonics are _in the ratio_
 
 _f_1 _: f_2 _: f_3 _: f_4 _:_…= 1 **:** 3 **:** 5 **:** 7 **:** … (11.76)
 
@@ -4220,9 +3964,6 @@ The frequencies higher than fundamental frequency can be produced by blowing air
 \+ + =
 
 **Figure 11.42** Second mode of vibration in open pipes having two nodes and three anti-nodes
-
-
-
 
 
 
@@ -4333,11 +4074,6 @@ _f_2 2 1
 1 3 4
 
 3= = = λ
-
-
-
-
-  
 
 The fundamental frequency of open organ
 
@@ -4451,9 +4187,6 @@ Now the length of the air column is increased to get the second resonance. Let _
 
 
 
-
-
-
 | Figure 11.44: e resonance air column apparatus and rst, second and third resonance |
   
 
@@ -4555,11 +4288,6 @@ _e L L_
 
 Consider a tuning fork which is used to produce resonance in an air column. A resonance air column is a glass tube whose length can be adjusted by a variable piston. At room temperature, the two successive resonances observed are at 20 cm and 85 cm of the column length. If the frequency of the length is 256 Hz, compute the velocity of the sound in air at room temperature.
 
-
-
-
-  
-
 **_Solution_**
 
 Given two successive length (resonance) to be L1 = 20 cm and L2 = 85 cm
@@ -4611,11 +4339,6 @@ _f_ \= _v l_
 When the listener L is stationary, there is no relative motion between the source and the listener. Since _v_ and _l_ remain unchanged, the frequency of sound observed by the listener is the same as the source frequency _f_.
 
 **_Stationary observer_ and _stationary source_ means the observer and source are both at rest with respect to medium respectively**
-
-
-
-
-  
 
 Now the listener moves directly toward the stationary source (Figure 11.45). If _vL_ is the speed of the listener, then the relative speed of sound with respect to the listener becomes ′ = +_v v vL_ . Since the wavelength remains unchanged (because the source is stationary), the frequency of sound observed by the listener is changed and the observed frequency ¢_f_ is given by
 
@@ -4712,11 +4435,6 @@ A
 Now the listener is stationary and the source moves directly toward the listener (Figure 11.46(b)). Let the speed of the source be _vS_ which is less than the speed of sound _v_.
 
 In a time T, the first compression travels a distance _v T_ \=_l_ and the source moves a distance _vST_ . As a result, the distance between two successive compressions is decreased from _l_ to ′ = −_l l vST_ . Therefore, the wavelength observed by the listener is given by
-
-
-
-
-  
 
 ′ = =− − 
 
@@ -4845,11 +4563,6 @@ If both source and listener move, the change in frequency occurs due to both the
 Suppose the source moves faster than sound (that is, the source is supersonic),
 
 the equations (11.84) and (11.86) for observed frequency will become invalid and a stationary listener in front of the source hears no sound as the sound waves are at the rear of the source. At such speeds, the newly produced waves and the old waves interfere constructively which leads to very large amplitude of sound, called a ‘sonic boom’ or ‘shock wave’.
-
-
-
-
-  
 
 **Table 11.4:** Observed frequency fo **S.No. Situation**
 
@@ -5011,9 +4724,6 @@ But in the case of light and other electromagnetic radiations, the observed freq
 
 
 
-
-
-
 | Table 11.4: Obser ved frequency for dierent situations |
 |------|------|------|
 | S.No. |Situation |Obser ved frequenc y |
@@ -5160,11 +4870,6 @@ _v v v_
 
 So the number of beats = | _f_in–_f_out| = (246–234) = 12
 
-
-
-
-  
-
 „ A disturbance which carries energy and another point in space without the transf
 
 „ The waves which require medium for their „ The waves which do not require medi
@@ -5273,11 +4978,6 @@ es with slightly different frequencies then
 
 e at a point is observed. This phenomenon litude maxima per second is called beat
 
-
-
-
-  
-
 „ If natural frequencies are written as inte then the frequencies are said to be in har (the fundamental frequency is called fi _v_2 = 2 _v_1, the third harmonics is _v3_ = 3 _v1_,
 
 „ _Loudness of sound is defined as “the degre or the perception of sound by the listener_”.
@@ -5296,7 +4996,7 @@ log
 
 „ A closed organ pipe has only odd harm
 
-the _nth_ harmonic is _fn_ \= (2n + 1) _f_1\. „ In a closed organ pipe the frequencies of
+the _nth_ harmonic is _fn_ \= (2n + 1) _f_1. „ In a closed organ pipe the frequencies of
 
 _f_1 : _f_2 : _f_3 : _f_4 :... = 1 : 3 : 5 : 7 :...
 
@@ -5318,14 +5018,9 @@ onics and the corresponding frequency of
 
 harmonics are in the ratio
 
-nd frequency of the _nth_ harmonic is _fn_ \= n _f_1\. f harmonics are in the ratio
+nd frequency of the _nth_ harmonic is _fn_ \= n _f_1. f harmonics are in the ratio
 
 een the source of sound and the listener, the listener is different from the frequency Doppler effect.
-
-
-
-
-  
 
 **C O**
 
@@ -5337,24 +5032,19 @@ een the source of sound and the listener, the listener is different from the fre
 
 **A P**
 
-
-
-
-  
-
 **I. Multiple Choice Questions:**
 
-**1\.** A student tunes his guitar by striking a 120 Hertz with a tuning fork, and simultaneously plays the 4th string on his guitar. By keen observation, he hears the amplitude of the combined sound oscillating thrice per second. Which of the following frequencies is the most likely the frequency of the 4th string on his guitar?.
+1. A student tunes his guitar by striking a 120 Hertz with a tuning fork, and simultaneously plays the 4th string on his guitar. By keen observation, he hears the amplitude of the combined sound oscillating thrice per second. Which of the following frequencies is the most likely the frequency of the 4th string on his guitar?.
 
 a) 130 b) 117 c) 110 d) 120
 
-**2\.** A transverse wave moves from a medium A to a medium B. In medium A, the velocity of the transverse wave is 500 ms-1 and the wavelength is 5 m. The frequency and the wavelength of the wave in medium B when its velocity is 600 ms-1, respectively are a) 120 Hz and 5 m b) 100 Hz and 5 m c) 120 Hz and 6 m d) 100 Hz and 6 m
+2. A transverse wave moves from a medium A to a medium B. In medium A, the velocity of the transverse wave is 500 ms-1 and the wavelength is 5 m. The frequency and the wavelength of the wave in medium B when its velocity is 600 ms-1, respectively are a) 120 Hz and 5 m b) 100 Hz and 5 m c) 120 Hz and 6 m d) 100 Hz and 6 m
 
-**3\.** For a particular tube, among six harmonic frequencies below 1000 Hz, only four harmonic frequencies are given : 300 Hz, 600 Hz, 750 Hz and 900 Hz. What are the two other frequencies missing from this list?. a) 100 Hz, 150 Hz b) 150 Hz, 450 Hz c) 450 Hz, 700 Hz d) 700 Hz, 800 Hz  
+3. For a particular tube, among six harmonic frequencies below 1000 Hz, only four harmonic frequencies are given : 300 Hz, 600 Hz, 750 Hz and 900 Hz. What are the two other frequencies missing from this list?. a) 100 Hz, 150 Hz b) 150 Hz, 450 Hz c) 450 Hz, 700 Hz d) 700 Hz, 800 Hz  
 
 **EVALUATION**
 
-**4\.** Which of the following options is correct?.
+4. Which of the following options is correct?.
 
 **A B** (1) Quality (A) Intensity (2) Pitch (B) Waveform (3) Loudness (C) Frequency
 
@@ -5362,18 +5052,15 @@ Options for (1), (2) and (3), respectively are
 
 a) (B),(C) and (A) b) (C), (A) and (B) c) (A), (B) and (C) d) (B), (A) and (C)
 
-**5\.** Eqution of travelling wave on a stretched string of linear density 5 g/m is _y_ \= 0.03 sin(450_t_ – 9_x_), where distance and time are measured in SI units. The tension in the string is a) 5 N b) 12.5 N c) 7.5 N d) 10 N
+5. Eqution of travelling wave on a stretched string of linear density 5 g/m is _y_ \= 0.03 sin(450_t_ – 9_x_), where distance and time are measured in SI units. The tension in the string is a) 5 N b) 12.5 N c) 7.5 N d) 10 N
 
-**6\.** A sound wave whose frequency is 5000 Hz travels in air and then hits the water surface. The ratio of its wavelengths in water and air is
+6. A sound wave whose frequency is 5000 Hz travels in air and then hits the water surface. The ratio of its wavelengths in water and air is
 
 a) 4.30 b) 0.23
 
 c) 5.30 d) 1.23
 
-**7\.** A person standing between two parallel hills fires a gun and hears the first echo
-
-
-
+7. A person standing between two parallel hills fires a gun and hears the first echo
 
 
 
@@ -5400,9 +5087,9 @@ c) _v t t_ 1 2 +( ) d) _v_(t t )1 2
 
 2 +
 
-**8\.** An air column in a pipe which is closed at one end, will be in resonance with the vibrating body of frequency 83Hz. Then the length of the air column is **a)** 1.5 m (b) 0.5 m (c) 1.0 m (d) 2.0 m
+8. An air column in a pipe which is closed at one end, will be in resonance with the vibrating body of frequency 83Hz. Then the length of the air column is **a)** 1.5 m (b) 0.5 m (c) 1.0 m (d) 2.0 m
 
-9\. The displacement y of a wave travelling in the _x_ direction is given by
+9. The displacement y of a wave travelling in the _x_ direction is given by
 
 _y t x_\= − +− ( x )sin ( )2 10 300 2
 
@@ -5414,9 +5101,9 @@ _x_ and _y_ are measured in metres and _t_ in second. The speed of the wave is (
 
 (c) 450 ms-1 (d) 600 ms-1
 
-**10\.** Consider two uniform wires vibrating simultaneously in their fundamental notes. The tensions, densities, lengths and diameter of the two wires are in the ratio 8 : 1, 1 : 2, _x_ : _y_ and 4 : 1 respectively. If the note of the higher pitch has a frequency of 360 Hz and the number of beats produced per second is 10, then the value of _x_ : _y_ is (a) 36 : 35 (b) 35 : 36 (c) 1 : 1 (d) 1 : 2
+10. Consider two uniform wires vibrating simultaneously in their fundamental notes. The tensions, densities, lengths and diameter of the two wires are in the ratio 8 : 1, 1 : 2, _x_ : _y_ and 4 : 1 respectively. If the note of the higher pitch has a frequency of 360 Hz and the number of beats produced per second is 10, then the value of _x_ : _y_ is (a) 36 : 35 (b) 35 : 36 (c) 1 : 1 (d) 1 : 2
 
-**11\.** Which of the following represents a wave (a) (_x_ \- _vt_)3 (b) _x(x+vt)_
+11. Which of the following represents a wave (a) (_x_ \- _vt_)3 (b) _x(x+vt)_
 
 (c) 1
 
@@ -5428,9 +5115,9 @@ _x_ and _y_ are measured in metres and _t_ in second. The speed of the wave is (
 
 **(b) (a)**  
 
-**12\.** A man sitting on a swing which is moving to an angle of 60° from the vertical is blowing a whistle which has a frequency of 2.0 k Hz. The whistle is 2.0 m from the fixed support point of the swing. A sound detector which detects the whistle sound is kept in front of the swing. The maximum frequency the sound detector detected is (a) 2.027 _k_Hz (b) 1.974 _k_Hz (c) 9.74 _k_Hz (d) 1.011 _k_Hz
+12. A man sitting on a swing which is moving to an angle of 60° from the vertical is blowing a whistle which has a frequency of 2.0 k Hz. The whistle is 2.0 m from the fixed support point of the swing. A sound detector which detects the whistle sound is kept in front of the swing. The maximum frequency the sound detector detected is (a) 2.027 _k_Hz (b) 1.974 _k_Hz (c) 9.74 _k_Hz (d) 1.011 _k_Hz
 
-**13\.** Let _y x_
+13. Let _y x_
 
 \= + 1
 
@@ -5452,7 +5139,7 @@ of the wave does not change during propagation. The velocity of the wave is (a) 
 
 (c) 1.5m s-1 (d) 2.0m s-1
 
-**14\.** A uniform rope having mass m hangs vertically from a rigid support. A transverse wave pulse is produced at the lower end. Which of the following plots shows the correct variation of speed _v_ with height _h_ from the lower end?
+14. A uniform rope having mass m hangs vertically from a rigid support. A transverse wave pulse is produced at the lower end. Which of the following plots shows the correct variation of speed _v_ with height _h_ from the lower end?
 
 **v v v**
 
@@ -5464,15 +5151,7 @@ of the wave does not change during propagation. The velocity of the wave is (a) 
 
 **o oh h (d) (c)**
 
-
-
-
-
-
-
-  
-
-**15\.** An organ pipe A closed at one end is allowed to vibrate in its first harmonic and another pipe B open at both ends is allowed to vibrate in its third harmonic. Both A and B are in resonance with a given tuning fork. The ratio of the length of A and B is
+15. An organ pipe A closed at one end is allowed to vibrate in its first harmonic and another pipe B open at both ends is allowed to vibrate in its third harmonic. Both A and B are in resonance with a given tuning fork. The ratio of the length of A and B is
 
 (a) 8
 
@@ -5492,76 +5171,71 @@ of the wave does not change during propagation. The velocity of the wave is (a) 
 
 **II. Short Answer Questions**
 
-**1\.** What is meant by waves?. **2\.** Write down the types of waves. **3\.** What are transverse waves?. Give one
+1. What is meant by waves?. 2. Write down the types of waves. 3. What are transverse waves?. Give one
 
-example. **4\.** What are longitudinal waves?. Give
+example. 4. What are longitudinal waves?. Give
 
-one example. **5\. Define wavelength. 6.** Write down the relation between
+one example. **5. Define wavelength. 6.** Write down the relation between
 
 frequency, wavelength and velocity of a wave.
 
-**7\.** What is meant by interference of waves?.
+7. What is meant by interference of waves?.
 
-**8\.** Explain the beat phenomenon. **9\. Define intensity of sound and loudness**
+8. Explain the beat phenomenon. **9. Define intensity of sound and loudness**
 
-of sound. **10\. Explain Doppler Effect. 11. Explain red shift and blue shift in**
+of sound. **10. Explain Doppler Effect. 11. Explain red shift and blue shift in**
 
-Doppler Effect. **12\.** What is meant by end correction in
+Doppler Effect. 12. What is meant by end correction in
 
 resonance air column apparatus?  
 
-**13\.** Sketch the function _y_ \= _x_ \+ _a_. Explain your sketch.
+13. Sketch the function _y_ \= _x_ \+ _a_. Explain your sketch.
 
-**14\. Write down the factors affecting** velocity of sound in gases.
+**14. Write down the factors affecting** velocity of sound in gases.
 
-**15\.** What is meant by an echo?. Explain.
+15. What is meant by an echo?. Explain.
 
 **III. Long Answer Questions**
 
-**1\.** Discuss how ripples are formed in still water.
+1. Discuss how ripples are formed in still water.
 
-**2\. Briefly explain the difference between** travelling waves and standing waves.
+**2. Briefly explain the difference between** travelling waves and standing waves.
 
-**3\.** Show that the velocity of a travelling
+3. Show that the velocity of a travelling
 
 wave produced in a string is _v T_ \=
 
 µ
 
-**4\.** Describe Newton’s formula for velocity of sound waves in air and also discuss the Laplace’s correction.
+4. Describe Newton’s formula for velocity of sound waves in air and also discuss the Laplace’s correction.
 
-**5\. Write short notes on reflection of sound** waves from plane and curved surfaces.
+**5. Write short notes on reflection of sound** waves from plane and curved surfaces.
 
-**6\. Briefly explain the concept of** superposition principle.
+**6. Briefly explain the concept of** superposition principle.
 
-**7\.** Explain how the interference of waves is formed.
+7. Explain how the interference of waves is formed.
 
-**8\.** Describe the formation of beats. **9\.** What are stationary waves?. Explain
+8. Describe the formation of beats. 9. What are stationary waves?. Explain
 
 the formation of stationary waves and also write down the characteristics of stationary waves.
 
-**10\.** Discuss the law of transverse vibrations in stretched strings.
+10. Discuss the law of transverse vibrations in stretched strings.
 
-**11\.** Explain the concepts of fundamental frequency, harmonics and overtones in detail.
+11. Explain the concepts of fundamental frequency, harmonics and overtones in detail.
 
-**12\.** What is a sonometer?. Give its construction and working. Explain how to determine the frequency of tuning fork using sonometer.
+12. What is a sonometer?. Give its construction and working. Explain how to determine the frequency of tuning fork using sonometer.
 
+13. Write short notes on intensity and loudness.
 
-
-
-  
-
-**13\.** Write short notes on intensity and loudness.
-
-**14\.** Explain how overtones are produced in a
+14. Explain how overtones are produced in a
 
 (a) Closed organ pipe
 
-(b) Open organ pipe **15\.** How will you determine the velocity
+(b) Open organ pipe 15. How will you determine the velocity
 
 of sound using resonance air column apparatus?
 
-**16\. What is meant by Doppler effect?.** Discuss the following cases **(1)** Source in motion and Observer at
+**16. What is meant by Doppler effect?.** Discuss the following cases **(1)** Source in motion and Observer at
 
 rest
 
@@ -5591,13 +5265,13 @@ from each other
 
 **IV. Exercises**
 
-1\. The speed of a wave in a certain medium is 900 m/s. If 3000 waves passes over a certain point of the medium in 2 minutes, then compute its wavelength?. **Answer** : _λ_ = 36 m  
+1. The speed of a wave in a certain medium is 900 m/s. If 3000 waves passes over a certain point of the medium in 2 minutes, then compute its wavelength?. **Answer** : _λ_ = 36 m  
 
-**2\.** Consider a mixture of 2 mol of helium and 4 mol of oxygen. Compute the speed of sound in this gas mixture at 300 K. **Answer** : 400.9 ms-1
+2. Consider a mixture of 2 mol of helium and 4 mol of oxygen. Compute the speed of sound in this gas mixture at 300 K. **Answer** : 400.9 ms-1
 
-**3\.** A ship in a sea sends SONAR waves straight down into the seawater from the bottom of the ship. The signal reflects from the deep bottom bed rock and returns to the ship after 3.5 s. After the ship moves to 100 km it sends another signal which returns back after 2s. Calculate the depth of the sea in each case and also compute the difference in height between two cases. **Answer** : Δd = 1149.75 m
+3. A ship in a sea sends SONAR waves straight down into the seawater from the bottom of the ship. The signal reflects from the deep bottom bed rock and returns to the ship after 3.5 s. After the ship moves to 100 km it sends another signal which returns back after 2s. Calculate the depth of the sea in each case and also compute the difference in height between two cases. **Answer** : Δd = 1149.75 m
 
-**4\.** A sound wave is transmitted into a tube as shown in figure. The sound wave splits into two waves at the point A which recombine at point B. Let R be the radius of the semi-circle which is varied until the first minimum. Calculate the radius of the semi-circle if the wavelength of the sound is 50.0 m. **Answer** : _R_ = 21.9 _m_
+4. A sound wave is transmitted into a tube as shown in figure. The sound wave splits into two waves at the point A which recombine at point B. Let R be the radius of the semi-circle which is varied until the first minimum. Calculate the radius of the semi-circle if the wavelength of the sound is 50.0 m. **Answer** : _R_ = 21.9 _m_
 
 **Source Detector**
 
@@ -5605,14 +5279,9 @@ from each other
 
 **BA**
 
-**5\.** N tuning forks are arranged in order of increasing frequency and any two successive tuning forks give n beats per second when sounded together. If the last fork gives double the frequency of the first (called as octave), Show that the frequency of the first tuning fork is _f_ = (N−1)_n_.
+5. N tuning forks are arranged in order of increasing frequency and any two successive tuning forks give n beats per second when sounded together. If the last fork gives double the frequency of the first (called as octave), Show that the frequency of the first tuning fork is _f_ = (N−1)_n_.
 
-**6\.** Let the source propagate a sound wave whose intensity at a point (initially) be _I_. Suppose we consider a case when the amplitude of the sound wave is
-
-
-
-
-  
+6. Let the source propagate a sound wave whose intensity at a point (initially) be _I_. Suppose we consider a case when the amplitude of the sound wave is
 
 doubled and the frequency is reduced to one-fourth. Calculate now the new
 
@@ -5622,21 +5291,21 @@ intensity of sound at the same point ?.
 
 4 _I_old.
 
-**7\.** Consider two organ pipes of same length in which one organ pipe is closed and another organ pipe is open. If the fundamental frequency of closed pipe is 250 Hz. Calculate the fundamental frequency of the open pipe. **Answer:** 500Hz
+7. Consider two organ pipes of same length in which one organ pipe is closed and another organ pipe is open. If the fundamental frequency of closed pipe is 250 Hz. Calculate the fundamental frequency of the open pipe. **Answer:** 500Hz
 
-**8\.** A police in a siren car moving with a velocity 20 ms-1 chases a thief who is moving in a car with a velocity _v0ms-1. The police car sounds at_ frequency 300Hz, and both of them move towards a stationary siren of frequency 400Hz. Calculate the speed in which thief is moving. (Assume the thief does not observe any beat) **Answer:** _vthief_ = 10 m s-1
+8. A police in a siren car moving with a velocity 20 ms-1 chases a thief who is moving in a car with a velocity _v0ms-1. The police car sounds at_ frequency 300Hz, and both of them move towards a stationary siren of frequency 400Hz. Calculate the speed in which thief is moving. (Assume the thief does not observe any beat) **Answer:** _vthief_ = 10 m s-1
 
 **BOOKS FOR REFERENCE**
 
-**1\.** Vibrations and Waves – A. P. French, CBS p
+1. Vibrations and Waves – A. P. French, CBS p
 
-**2\.** Concepts of Physics – H. C. Verma, Volume
+2. Concepts of Physics – H. C. Verma, Volume
 
-**3\.** Halliday, Resnick and Walker, Fundamental
+3. Halliday, Resnick and Walker, Fundamental
 
-**4\.** Serway and Jewett, Physics for scientist and publishers, Eighth edition  
+4. Serway and Jewett, Physics for scientist and publishers, Eighth edition  
 
-**9\.** Consider the following function
+9. Consider the following function
 
 (a) _y_ = _x_2 + 2 _α_ _t x_
 
@@ -5654,24 +5323,23 @@ s of Physics, Wiley Publishers, 10th edition
 
 engineers with modern physics, Brook/Coole
 
-
-
-
-  
-
 **Wav**
 
 Through this activity you will be able to learn about the wave motion.
 
-**STEPS:** • Use the URL or scan the QR code to open ‘P
+**STEPS:** 
+- Use the URL or scan the QR code to open ‘P
 
 the play button.
 
-• In the activity window a diagram of string is of wave.
 
-• We can see the ‘oscillations’ and ‘pulse’ by s window and by changing the ‘amplitude’ and
+- In the activity window a diagram of string is of wave.
 
-• By selecting the ‘end types’ on the right side w
+
+- We can see the ‘oscillations’ and ‘pulse’ by s window and by changing the ‘amplitude’ and
+
+
+- By selecting the ‘end types’ on the right side w
 
 **URL:** https://phet.colorado.edu/en/simulation/wave-on-a-str
 
@@ -5700,7 +5368,4 @@ ing
 **Step4**
 
 **Step2**
-
-
-
 

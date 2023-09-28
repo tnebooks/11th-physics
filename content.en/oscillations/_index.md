@@ -9,14 +9,19 @@ weight: 10
 
 **Learning Objectives**
 
-**In this unit, the student is exposed to** • oscillatory motion – periodic motion and non- • simple harmonic motion • angular harmonic motion • linear harmonic oscillator – both horizontal an • combination of springs – series and parallel • simple pendulum • expression of energy – potential energy, kinetic • graphical representation of simple harmonic m • types of oscillation – free, damped, maintained • concept of resonance
+**In this unit, the student is exposed to**
+- oscillatory motion – periodic motion and non-
+- simple harmonic motion
+- angular harmonic motion
+- linear harmonic oscillator – both horizontal an
+- combination of springs – series and parallel
+- simple pendulum
+- expression of energy – potential energy, kinetic
+- graphical representation of simple harmonic m
+- types of oscillation – free, damped, maintained
+- concept of resonance
 
 Have you seen the Thanjavur Dancing Doll (In Tamil, it is called ‘Thanjavur thalayatti bommai’)?. It is a world famous Indian cultural doll (Figure 10.1). What does this
-
-
-
-
-
 _Life is a constant oscillation betwe_
 
 **Figure 10.1. Thanjavur dancing doll**
@@ -36,20 +41,12 @@ _en the sharp horns of a dilemma_ – H.L. Mencken
 doll do when disturbed? It will dance such that the head and body move continuously in a to and fro motion, until the movement gradually stops. Similarly, when we walk on the road, our hands and legs will move front and back. Again similarly, when a mother swings a cradle to make her child sleep, the cradle is made to move in to and fro motion. All these motions are different from the motion that we have discussed so far. These motions are shown in Figure 10.2. Generally, they are known as oscillatory motion or vibratory motion. A similar motion occurs even at atomic levels.
 
 When the temperature is raised, the atoms in a solid vibrate about their mean position or equilibrium position. The study of vibrational motion is very important in engineering applications, such as, designing the structure of building, mechanical equipments, etc.
-
-
-
-
-  
-
 ## Periodic and non- periodic motion
-
-
 Motion in physics can be classified as repetitive (periodic motion) and non- repetitive (non-periodic motion).
 
-**1\. Periodic motion** Any motion which repeats itself in a fixed time interval is known as periodic motion. Examples : Hands in pendulum clock, swing of a cradle, the revolution of the Earth around the Sun, waxing and waning of Moon, etc.
+1. Periodic motion** Any motion which repeats itself in a fixed time interval is known as periodic motion. Examples : Hands in pendulum clock, swing of a cradle, the revolution of the Earth around the Sun, waxing and waning of Moon, etc.
 
-**2\. Non-Periodic motion** Any motion which does not repeat itself after a regular interval of time is known as non-periodic motion. **Example :** Occurance of Earth quake, eruption of volcano, etc.
+2. Non-Periodic motion** Any motion which does not repeat itself after a regular interval of time is known as non-periodic motion. **Example :** Occurance of Earth quake, eruption of volcano, etc.
 
 **EXAMPLE 10.1**
 
@@ -76,26 +73,15 @@ a. Periodic b. Non-periodic
 Discuss “what will happen if the motion of the Earth around the Sun is not a periodic motion”.
 
 ## Oscillatory motion
-
-
 _When an object or a particle moves back and forth repeatedly for some duration of time its motion is said to be oscillatory (or vibratory)_. Examples; our heart beat, swinging motion of the wings of an insect, grandfather’s clock (pendulum clock), etc. Note that all oscillatory motion are periodic whereas all periodic motions need not be oscillation in nature. see Figure 10.3
-
-
-
-
-
 
 | EXAMPLE 1 0 . 2Which o f t he f ollowing f unctions o f t ime represent p eriodic a nd n on-periodic motion?. a. sin ωt + cos ωtb. ln ωtSolutiona. Periodicb. Non-periodicQuestion to ponderDiscuss “ what w ill h appen if t he motion of the E arth around the Sun is not a periodic motion”. |
 |------|
-
-
   
 
 **Figure 10.3 Oscillatory or vibratory motion**
 
 # SIMPLE HARMONIC MOTION (SHM)
-
-
 **Figure 10.4** Simple Harmonic Motion
 
 Equilibrium position
@@ -117,12 +103,6 @@ _Fx_\= _−_ _k_ _x_ (10.3)
 where k is a force constant which is defined as force per unit length. The negative sign indicates that displacement and force (or acceleration) are in opposite directions. This means that when the displacement of the particle is taken towards right of equilibrium position (_x_ takes positive value), the force (or acceleration) will point towards equilibrium (towards left) and similarly, when the
 
 **s**
-
-
-
-
-  
-
 displacement of the particle is taken towards left of equilibrium position (x takes negative value), the force (or acceleration) will point towards equilibrium (towards right). This type of force is known as restoring **_force_** _because it always directs the particle executing simple harmonic motion to restore to its original (equilibrium or mean) position_. This force (restoring force) is central and attractive whose center of attraction is the equilibrium position.
 
 In order to represent in two or three dimensions, we can write using vector notation
@@ -190,8 +170,6 @@ _\=_
 **Figure 10.5** Force verses displacement graph
 
 ## The projection of uniform circular motion on a diameter of SHM
-
-
 Consider a particle of mass _m_ moving with uniform speed _v_ along the circumference of a circle whose radius is _r_ in anti-clockwise direction (as shown in Figure 10.6). Let us assume that the origin of the coordinate system coincides with the center _O_ of the circle. If _ω_ is the angular velocity of the particle and _θ_ the angular displacement of the particle at any instant of time _t_, then _θ_ = _ωt_. By projecting the uniform circular motion on its diameter gives a simple harmonic motion. This means that we can associate
 
 a circle on a diameter **Screen**
@@ -218,17 +196,10 @@ r
 
 x
 
-
-
-
-
-
 | k =  Slope1F |
 |------|------|------|------|
 
 | Figure 10.5 Force verses displacement graph |
-
-
 | On Block+y y = + A Aθ at t > 0 ShadowLightFrSourom Distantce Aθ y = 0 y =    =Aat A  sin t=sinθ 0 t A sin (y = A t)-y Screen -y |r y = r sin |θ |
 |------|------|------|------|------|
 | x = r cos θ |x |
@@ -379,12 +350,6 @@ instant as projected on a vertical axis
 **y- axis**
 
 **o**
-
-
-
-
-  
-
 As a specific example, consider a spring mass system (or oscillation of pendulum) as shown in Figure 10.8. When the spring moves up and down (or pendulum moves to and fro), the motion of the mass or bob is mapped to points on the circular motion.
 
 **Figure 10.8** Motion of spring mass (or simple pendulum) related to uniform circular motion
@@ -398,8 +363,6 @@ b. Sketch the projection of **_spiral out_** motion as a wave form.
 **Activity**  
 
 ## Displacement, velocity, acceleration and its graphical representation - SHM
-
-
 **Figure 10.9** Displacement, velocity and acceleration of a particle at some instant of time
 
 y
@@ -455,11 +418,6 @@ sin sinθ θ= ⇒ = _ON OP_
 _ON OP_ (10.5)
 
 But θ = _ωt_, ON = _y_ and OP = _A_
-
-
-
-
-
 
 |  |x |
 |------|------|
@@ -565,11 +523,6 @@ _π_ 3 2 π 2_π_
 −_A_ ω 0 _A_ ω
 
 0 _A_ ω2 0
-
-
-
-
-
 
 | 0 |π2 |π |3π2 |
 |------|------|------|------|
@@ -731,11 +684,6 @@ _x x v x v x_
 
 1 2π
 
-
-
-
-
-
 | aa = – ω  A sin ω t2 nv oacceleratio |T T2 |t |
 |------|------|------|
 
@@ -857,8 +805,6 @@ _x x v x v x_
 1 2π
 
 ## Time period, frequency, phase, phase difference and epoch in SHM.
-
-
 (i) **Time period** The time period is defined as the time taken by a particle to complete one oscillation. It is usually denoted by _T_. For one complete revolution, the time taken is _t_ = T, therefore
 
 ω_T_ \= 2π ⇒_T_ \= 2π ω
@@ -908,12 +854,6 @@ SI unit for angular frequency is rad _s_−1. (read it as radian per second)
 _y_ \= _A_ sin (ω_t_ \+ φ0) (10.14)
 
 where ω_t_ \+ φ0 = φ _is called the phase of the vibrating particle. At time t_ = 0 _s (initial time), the phase_ φ = φ0 _is called epoch (initial phase) where_ φ0 _is called the angle of epoch. Phase difference: Consider two particles_ executing simple harmonic motions. Their
-
-
-
-
-  
-
 equations are _y_1 = _A_ sin(ω_t_ + φ1) and _y2 = A sin(ωt + φ2), then the phase difference_ ∆φ= (ω_t_ + φ2) − (ω_t_ \+ φ1) = φ2 −φ1.
 
 A sin φ i
@@ -1054,15 +994,8 @@ or 90°. b. velocity and acceleration is π
 
 or 90°.
 
-
-
-
-
-
 | φ (ti) A |+APhase at instant t : φ (t ) = ω t + φi i i  A i sin φi |
 |------|------|------|------|
-
-
   
 
 c. displacement and acceleration is π radian or 180°.
@@ -1118,11 +1051,7 @@ _a_ = − _A_ ω2 sin ω_t_ = A ω2 sin(ω_t_ \+ π)
 The phase difference between displacement and acceleration is π radian.
 
 # ANGULAR SIMPLE HARMONIC MOTION
-
-
 ## Time period and frequency of angular SHM
-
-
 When a body is allowed to rotate freely about a given axis then the oscillation is known as the angular oscillation. The point  
 
 at which the resultant torque acting on the body is taken to be zero is called mean position. If the body is displaced from the mean position, then the resultant torque acts such that it is proportional to the angular displacement and this torque has a tendency to bring the body towards the mean position. (Note: Torque is explained in unit 5) Let
@@ -1154,12 +1083,6 @@ at which the resultant torque acting on the body is taken to be zero is called m
 **0**
 
 **Figure 10.12 A body (disc) allowed to rotate freely about an axis**
-
-
-
-
-  
-
 But α θ  =
 
 _d dt_
@@ -1225,8 +1148,6 @@ restoring force constant.
 rad s-1  
 
 ## Comparison of Simple Harmonic Motion and Angular Simple Harmonic Motion
-
-
 In linear simple harmonic motion, the displacement of the particle is measured in terms of linear displacement _r_
 
 
@@ -1266,18 +1187,8 @@ is The restoring torque τ κθ  
 Angular frequency, ω κ =
 
 _I_ rad s-1
-
-
-
-
-  
-
 # LINEAR SIMPLE HARMONIC OSCILLATOR (LHO)
-
-
 ## Horizontal oscillations of a spring-mass system
-
-
 **Figure 10.13** Horizontal oscillation of a spring-mass system
 
 _y_
@@ -1339,12 +1250,6 @@ which means the angular frequency or natural frequency of the oscillator is
 ω= _k m_
 
 rad _s_−1 (10.22)
-
-
-
-
-  
-
 The frequency of the oscillation is
 
 _f k m_
@@ -1400,8 +1305,6 @@ hence, time period Τ=2π _m k_
 **Note**  
 
 ## Vertical oscillations of a spring
-
-
 **Figure 10.14** Springs
 
 **Figure 10.15** A massless spring with stiffness constant k
@@ -1427,11 +1330,6 @@ Let us consider a massless spring with stiffness constant or force constant k at
 F1 + mg = 0 (10.27)
 
 But the spring elongates by small displacement _l_, therefore,
-
-
-
-
-
 
 | l |
 |------|------|------|------|
@@ -1549,12 +1447,6 @@ The time period of oscillations is given by
 , where _M_ is the mass of the
 
 body. Since, _M_ is unknown, rearranging, we get
-
-
-
-
-  
-
 _M kT kg_\= = = 2
 
 2
@@ -1570,8 +1462,6 @@ _M kT kg_\= = = 2
 The gravitational force acting on the body is _W_ = _Mg_ \= 7.3 × 11.5 = 83.95 _N_ ≈ 84 _N_
 
 ## Combinations of springs
-
-
 **Figure 10.16** Combination of spring as a shock-absorber in the motor cycle
 
 Spring constant or force constant, also called as stiffness constant, is a measure of the stiffness of the spring.
@@ -1601,12 +1491,6 @@ Let _F_ be the applied force towards right as shown in Figure 10.18. Since the s
 _x_ \= _x_1 + _x_2 (10.37)
 
 From Hooke’s law, the net force
-
-
-
-
-  
-
 _F_ \= − _ks_ (_x_1 + _x_2) ⇒ _x_1 + _x_2 =− _F ks_
 
 (10.38)
@@ -1794,12 +1678,6 @@ _ks m_
 _x_o
 
 _F →_
-
-
-
-
-  
-
 **EXAMPLE 10.9**
 
 Consider two springs whose force constants are 1 N m−1 and 2 N m−1 which are connected in series. Calculate the effective spring constant (_ks_ ) and comment on _ks_ .
@@ -1899,12 +1777,6 @@ _x_o
 _F →_
 
 _alent_
-
-
-
-
-  
-
 If all spring constants are identical i.e., _k_1 = _k_2= ... = _kn_ = _k_ then
 
 _kp_ = _n_ _k_ (10.49)
@@ -2016,12 +1888,6 @@ which means, _k_A = 2_k_ and _k_B = 2_k_
 \= + + + =
 
 _k k eq_ \= 3
-
-
-
-
-  
-
 **EXAMPLE 10.12**
 
 A mass _m_ moves with a speed _v_ on a horizontal smooth surface and collides with a nearly massless spring whose spring constant is k. If the mass stops after collision, compute the maximum compression of the spring.
@@ -2039,8 +1905,6 @@ When the mass collides with the spring, from the law of conservation of energy �
 \= ⇒ =
 
 ## Oscillations of a simple pendulum in SHM and laws of simple pendulum
-
-
 **Simple pendulum**
 
 o
@@ -2104,11 +1968,6 @@ _T mg m v l_
 − =cosθ 2
 
 (10.50)
-
-
-
-
-
 
 | l |
 |------|------|
@@ -2240,12 +2099,6 @@ _T g_
 **b. Independent of the following factors (i) Mass of the bob**
 
 The time period of oscillation is independent of mass of the simple
-
-
-
-
-  
-
 _T l g_
 
 _l_ \= =2 2π π
@@ -2352,11 +2205,6 @@ Since _T l_µ
 
 Therefore, _T_ \= constant _l_
 
-
-
-
-
-
 | EXAMPLE 1 0 . 1 3In sim ple p endulum exp eriment, w e h ave used sm all a ngle a pproximation . Di scussthe small angle approximation. θ ( in degrees) θ( in radian) sin θFoy |
 |------|------|------|------|------|------|------|
 | 0 0 05 0.087 0.08710 0.174 0.17415 0.262 0.25620 0.349 0.34225 0.436 0.42230 0.524 0.50035 0.611 0.57440 0.698 0.64345 0.785 0.707r θ in radian, sin θ ≈ θ for very small anglesy = sinθr θ a s lπarge a θs 10 (in radian )he s ame as  θ when  ans”. A s  θ in creases y b ecomes di erent |
@@ -2405,8 +2253,6 @@ _T l g_
 Where _l_ is the total length of liquid column in U- tube.  
 
 # ENERGY IN SIMPLE HARMONIC MOTION
-
-
 **a. Expression for Potential Energy** For the simple harmonic motion, the force and the displacement are related by Hooke’s law
 
 
@@ -2438,12 +2284,6 @@ _tdt xdx pdp yyyy_ \= = =∫∫∫
 2
 
 000 2 Notice that the integrating variables like _t, x_ and _p_ are dummy variables because, in this integration, whether we put _t_ or _x_ or _p_ as variable for integration, we get the same answer.
-
-
-
-
-  
-
 This work done by the force F during a small displacement _dx_ stores as potential energy
 
 _U x k x dx k x kx x_
@@ -2579,12 +2419,6 @@ _E m A t m A t_\= + 1 2
 \= + 1 2
 
 2 2 2 2_m A t_ω ω ω(sin t cos )
-
-
-
-
-  
-
 From trigonometry identity, (sin2 ω_t_ + cos2 ω_t)_ = 1
 
 _E m A_\= 1 2
@@ -2744,12 +2578,6 @@ PE
 TE
 
 TE
-
-
-
-
-  
-
 Conservation of energy Both the kinetic energy and potential energy are
 
 periodic functions, and repeat their
@@ -2811,26 +2639,15 @@ _A_2 − _x_2 = _x_2
 **TYPES OF OSCILLATIONS:**
 
 ## Free oscillations
-
-
 When the oscillator is allowed to oscillate by displacing its position from equilibrium position, it oscillates with a frequency which is equal to the natural frequency of the oscillator. Such an oscillation or vibration is known as free oscillation or free vibration. In this case, the amplitude, frequency and the energy of the vibrating object remains constant.
 
 **Examples:** (i) Vibration of a tuning fork. (ii) Vibration in a stretched string. (iii) Oscillation of a simple pendulum. (iv) Oscillationsof a spring-mass system.
 
 ## Damped oscillations
-
-
 During the oscillation of a simple pendulum (in previous case), we have assumed that the amplitude of the oscillation is constant and also the total energy of the oscillator is constant. But in reality, in a medium, due to the presence of friction and air drag, the amplitude of oscillation decreases as time progresses. It implies that the oscillation is not sustained and the energy of the SHM decreases gradually indicating the loss of energy. The energy lost is absorbed by the surrounding medium. This type of
-
-
-
-
-
 
 | KE = 12U = |k(A x )2 –  2 KE12 kx U2 |Etotal =  2 |
 |------|------|------|------|
-
-
   
 
 oscillatory motion is known as damped oscillation. In other words, if an oscillator moves in a resistive medium, its amplitude goes on decreasing and the energy of the oscillator is used to do work against the resistive medium. The motion of the oscillator is said to be damped and in this case, the resistive force (or damping force) is proportional to the velocity of the oscillator.
@@ -2864,22 +2681,16 @@ _–A_
 (iii) Oscillations in a dead beat and ballistic galvanometers.
 
 ## Maintained oscillations
-
-
 While playing in swing, the oscillations will stop after a few cycles, this is due to damping. To avoid damping we have to supply a push to sustain oscillations. By supplying energy from an external source, the amplitude of the oscillation can be made constant. Such vibrations are known as maintained vibrations.  
 
 **Example:** The vibration of a tuning fork getting energy from a battery or from external power supply.
 
 ## Forced oscillations
-
-
 Any oscillator driven by an external periodic agency to overcome the damping is known as forced oscillator or driven oscillator. In this type of vibration, the body executing vibration initially vibrates with its natural frequency and due to the presence of external periodic force, the body later vibrates with the frequency of the applied periodic force. Such vibrations are known as forced vibrations.
 
 **Example:** Sound boards of stringed instruments.
 
 ## Resonance
-
-
 It is a special case of forced vibrations where the frequency of external periodic force (or driving force) matches with the natural frequency of the vibrating body (driven). As a result the oscillating body begins to vibrate such that its amplitude increases at each step and ultimately it has a large amplitude. Such a phenomenon is known as resonance and the corresponding vibrations are known as resonance vibrations.
 
 **Example** The breaking of glass due to sound
@@ -2890,15 +2701,8 @@ Television) circuits.
 
 **Note**
 
-
-
-
-
-
 | sinusoidally ...... but the amplitude decreases |
 |------|
-
-
   
 
 Extra: Pendulum in a lift: (i) Lift moving upwards with acceleration
@@ -2966,12 +2770,6 @@ de down and will oscillate about higest point.
 hich moves horizontally with acceleration _a_: _a_2
 
 _a_\+ 2
-
-
-
-
-  
-
 � When an object or a particle moves bac point for some duration of time it is said
 
 � For a SHM, the acceleration or force on displacement from a fixed point and always
@@ -3085,12 +2883,6 @@ on is _E m A_\= = 1 2
 amped oscillations, Maintained oscillations
 
 llations.
-
-
-
-
-  
-
 **Oscilla**
 
 **Simple Harmonic**
@@ -3195,14 +2987,6 @@ _k_1_k_2
 
 **T M A P**
 
-
-
-
-
-
-
-
-
 | Ø Ls |Tm |
 |------|------|
 
@@ -3286,12 +3070,6 @@ c) ′=_T T_2 d) ′=_T T_ 2
 (c) 3 cm4
 
 (d) 3 cm8
-
-
-
-
-  
-
 **8\.** A simple pendulum has a time period _T_1\. When its point of suspension is moved vertically upwards according as _y_ = _k t_2, where _y_ is vertical distance covered and _k_ = 1 _ms_−2, its time period becomes T2. Then, T
 
 _T_ 1 2
@@ -3359,12 +3137,6 @@ c) 32 cm d) 64 cm
 **Answers:**
 
 1) d 2) c 3) a 4) b 5) b 6) b 7) d 8) c 9) c 10) d 11) a 12) c 13) b 14) a 15) c
-
-
-
-
-  
-
 **II. Short Answers Questions**
 
 **1\.** What is meant by periodic and non- periodic motion?. Give any two examples, for each motion.
@@ -3434,12 +3206,6 @@ _kx_2.
 **Answer:** 0.86 s 3. A piece of wood of mass m is floating
 
 erect in a liquid whose density is ρ. If it is slightly pressed down and released,
-
-
-
-
-  
-
 then executes simple harmonic motion. Show that its time period of oscillation
 
 is _T m Ag_
@@ -3579,12 +3345,6 @@ m
 _k_
 
 m
-
-
-
-
-  
-
 **Hint and answer:**
 
 Case(a)
@@ -3622,17 +3382,12 @@ ublisher and Distributors Pvt. Ltd.
 and Walker, Wiley Publishers, 10th edition.
 
 dern Physics – Serway and Jewett, Brook/
-
-
-
-
-  
-
 **Oscilla**
 
 Through this activity you will be able to learn about the resonance.
 
-**STEPS:** • Use the URL or scan the QR code to open ‘Ph
+**STEPS:**
+- Use the URL or scan the QR code to open ‘Ph
 
 button.
 
@@ -3669,7 +3424,4 @@ nce
 **Step4**
 
 **Step2**
-
-
-
 

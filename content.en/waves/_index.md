@@ -7,7 +7,8 @@ weight: 11
 We are slowed down sound and light waves, a walking bundle of frequencies tuned into the cosmos. We are souls dressed up in sacred biochemical garments and our bodies are the instruments through which our souls play their music – Albert Einstein
 ```
 
-### Learning Objectives
+---
+#### Learning Objectives
 
 In this unit, the student is exposed to
 
@@ -23,66 +24,46 @@ In this unit, the student is exposed to
 - intensity and loudness
 - vibration of air column – closed organ pipe, op
 - Doppler effect and its applications
-
-# INTRODUCTION
+---
+## INTRODUCTION
 
 In the previous chapter, we have discussed the oscillation of a particle. Consider a medium which consists of a collection of particles. If the disturbance is created at one end, it propagates and reaches the other end. That is, the disturbance produced at the first mass point is transmitted to the next neighbouring mass point, and so on. Notice that here, only the disturbance is transmitted, not the mass points. Similarly, the speech we deliver is due to the vibration of our vocal chord inside the throat. This leads to the vibration of the surrounding air molecules and hence, the effect of speech (information) is transmitted from one point in space to another point in space without the medium carrying the particles. Thus, the disturbance which carries energy and momentum from one point in space to another point in space without the transfer of the medium is known as a wave.
 
+![Figure 11.2 Waves formed in (a) ocean, (b) standing waves in plucking rubber band and (c) ripples formed on water surface](image.png)
 
 Standing near a beach, one can observe waves in the ocean reaching the seashore with a similar wave pattern; hence they are called ocean waves. A rubber band when plucked vibrates like a wave which is an example of a standing wave. These are shown in Figure 11.2. Other examples of waves are light waves (electromagnetic waves), through which we see and enjoy the beauty of nature and sound waves using which we hear and enjoy pleasant melodious songs. Day to day applications of waves are numerous, such as mobile phone communication, laser surgery, etc.
 
-## Ripples and wave formation on the water surface
+### Ripples and wave formation on the water surface
+
+![Figure 11.3 Ripples formed on the surface of water](image-1.png)
 
 Suppose we drop a stone in a trough of still water, we can see a disturbance produced at the place where the stone strikes the water
 surface as shown in Figure 11.3. We find that this disturbance spreads out (diverges out) in the form of concentric circles of ever increasing radii (ripples) and strike the boundary of the trough. This is because some of the kinetic energy of the stone is transmitted to the water molecules on the surface. Actually the particles of the water (medium) themselves do not move outward with the disturbance. This can be observed by keeping a paper strip on the water surface. The strip moves up and down when the disturbance (wave) passes on the water surface. This shows that the water molecules only undergo vibratory motion about their mean positions.
 
-## Formation of waves on stretched string
+### Formation of waves on stretched string
 
 Let us take a long string and tie one end of the string to the wall as shown in Figure 11.4 (a). If we give a quick jerk, a bump (like pulse) is produced in the string as shown in Figure 11.4 (b). Such a disturbance is sudden and it lasts for a short duration, hence it is known as a wave pulse. If jerks are given continuously then the waves produced are standing waves. Similar waves are produced by a plucked string in a guitar.
 
-tanding waves in plucking rubber band and
+![Figure 11.4: Wave pulse created during jerk produced on one end of the string](image-2.png "float-end w-25")
 
-(b) (c)
-
-## Formation of waves in a tuning fork
+### Formation of waves in a tuning fork
 
 When we strike a tuning fork on a rubber pad, the prongs of the tuning fork vibrate about their mean positions. The prong vibrating about a mean position means moving outward and inward, as indicated in the Figure 11.5. When a prong moves outward, it pushes the layer of air in its neighbourhood which means there is more accumulation of air molecules in this region. Hence, the density and also the pressure increase. These regions are known as compressed regions or compressions. This compressed air layer moves forward and compresses the next neighbouring layer in a similar manner. Thus a wave of compression advances or passes through air. When the prong moves inwards, the particles of the medium are moved to the right. In this region both density and pressure are low. It is known as a rarefaction or elongation.
 
+![Figure 11.5 Waves due to strike of a tuning fork on a rubber pad](image-3.png "float-end w-25")
 
-## Characteristics of wave motion
+### Characteristics of wave motion
 
 - For the propagation of the waves, the medium must possess both inertia and elasticity, which decide the velocity of the wave in that medium.
 - In a given medium, the velocity of a wave is a constant whereas the constituent particles in that medium move with different velocities at different positions. Velocity is maximum at their mean position and zero at extreme positions.
 - Waves undergo reflections, refraction, interference, diffraction and polarization.
 
-**Figure 11.5** Waves due to strike of a tuning fork on a rubber pad
-
-**Compression**
-
-**Rarefaction Mean position**
-
-**Compression**
-
-**Compression Expansion**
-
-**Expansion**
-
-**Mean position**
-
-**Mean position**
-
-**Point to ponder**
-
-The medium possesses both inertia and elasticity for propagation of waves.
-
-Light is an electromagnetic wave. what is the medium for its transmission?
-
-
+| Point to ponder|
 |------|
-| Point to pondere m edium p ossesses b oth in ertia a nd elasticity for propagation of waves.Light  is  an  electromagnetic  wave.  what  is the medium for its transmission? |
-  
+|The medium possesses both inertia and elasticity for propagation of waves.|
+|Light is an electromagnetic wave. what is the medium for its transmission?|  
 
-## Mechanical wave motion and its types
+### Mechanical wave motion and its types
 
 Wave motion can be classified into two types
 
@@ -99,138 +80,73 @@ Further, waves can also be classified into two types
 a. Transverse waves
 b. Longitudinal waves
 
-## Transverse wave motion
+### Transverse wave motion
 
-**Figure 11.6** Transverse wave
-
-**_P_**
-
-**Longitudinal waves**
-
-**Stretched CompresseCompressed**
-
-**Figure 11.7** Longitudinal waves  
+![Figure 11.6 Transverse wave](image-4.png "float-end w-25")
 
 In transverse wave motion, the constituents of the medium oscillate or vibrate about their mean positions in a direction perpendicular to the direction of propagation (direction of energy transfer) of waves as shown in Figure 11.6.
 
 **Example:** light (electromagnetic waves)
 
-## Longitudinal wave motion
+### Longitudinal wave motion
 
 In longitudinal wave motion, the constituents of the medium oscillate or vibrate about their mean positions in a direction parallel to the direction of propagation (direction of energy transfer) of waves as shown in Figure 11.7.
 
 **Example:** Sound waves travelling in air.
 
+---
 **Discuss with your Teacher** 
 - Tsunami (pronounced soo-nah-mee in Japanese) means Harbour waves. 
 - Tsunami is a series of huge and giant
 
 waves which come with great speed and huge force. What happened on 26th December2004 in southern part of India? - Discuss
 
-**•** Gravitational waves and LIGO (Laser lnterferometer Gravitational wave Observatory) experiment.
+- Gravitational waves and LIGO (Laser lnterferometer Gravitational wave Observatory) experiment.
 
-**•** Nobel Prize winners in Physics 2017 are Prof. Rainer Weiss, Prof. Barry C. Barish and Prof. Kip S. Thorne for decisive contributions to the LIGO detector and observation of gravitational forces.
+- Nobel Prize winners in Physics 2017 are Prof. Rainer Weiss, Prof. Barry C. Barish and Prof. Kip S. Thorne for decisive contributions to the LIGO detector and observation of gravitational forces.
 
-**Motion**
+---
 
-**Stretchedd**
+![Figure 11.7 Longitudinal waves](image-5.png)
 
 
-| Longitudinal waves Motion |
-|------|------|------|
-| Figure 11.7 Longitudinal waves |
-  
+**Table 11.1: Comparison of transverse and longitudinal waves**
+|S. No|Transverse waves|Longitudinal waves|
+|---|---|---|
+|1.|The direction of vibration of particles of the medium is perpendicular to the direction of propagation of waves.|The direction of vibration of particles of the medium is parallel to the direction of propagation of waves.|
+|2.|The disturbances are in the form of crests and troughs.|The disturbances are in the form of compressions and rarefactions.|
+|3.|Transverse waves are possible in elastic medium.|Longitudinal waves are possible in all types of media (solid, liquid and gas).|
 
-# TERMS AND DEFINITIONS USED IN WAVE MOTION
+**NOTE:**
 
-**Figure 11.8 Two different sinusoidal** waves
+1. Absence of medium is also known as vacuum. Only electromagnetic waves can travel through vacuum.
+2. Rayleigh waves are considered to be mixture of transverse and longitudinal.
 
-**X**
+## TERMS AND DEFINITIONS USED IN WAVE MOTION
 
-**Y**
-
-**O**
+![Figure 11.8 Two different sinusoidal waves](image-6.png)
 
 Suppose we have two waves as shown in Figure 11.8. Are these two waves identical? No. Though, the two waves are both sinusoidal, there are many difference between them. Therefore, we have to define some basic terminologies to distinguish one wave from another.
 
 Consider a wave produced in a stretched string as shown in Figure 11.9.
 
-**Figure 11.9** Crest and Trough of a wave
-
-**O A B C D Trough**
-
-**Crest**
-
-**Table 11.1:** Comparison of transverse and
-
-S.No. **Transverse waves** 1. The direction of vibration of particl
-
-of the medium is perpendicular to t direction of propagation of waves.
-
-2. The disturbances are in the form of cres and troughs.
-
-3. Transverse waves are possible in elas medium.
-
-**NOTE:** 1. Absence of medium is also known as vacuum. Only 2. Rayleigh waves are considered to be mixture of trans  
+![Figure 11.9  Crest and Trough of a wave](image-7.png)
 
 If we are interested in counting the number of waves created, let us put a reference level (mean position) as shown in Figure 11.9. Here the mean position is the horizontal line shown. The highest point in the shaded portion is called _crest_. With respect to the reference level, the lowest point on the un-shaded portion is called trough. This wave contains repetition of a section O to B and hence we define the length of the smallest section without repetition as one _wavelength_ as shown in Figure 11.10. In Figure 11.10 the length OB or length BD is one wavelengh. A Greek letter lambda λ is used to denote one wavelength.
 
-**Figure 11.10 Defining wavelength**
-
-**O AO A BB C D**
-
-**Two wavelength = 2**λ**One wavelength =** λ λλ λ
+![Figure 11.10 Defining wavelength](image-8.png)
 
 For transverse waves (as shown in Figure 11.11), the distance between two neighbouring crests or troughs is known as the _wavelength_. For longitudinal waves, (as shown in Figure 11.12) the distance between two neighbouring compressions or rarefactions is known as the wavelength. The SI unit of wavelength is _meter_.
 
-longitudinal waves
+![Figure 11.11 Wavelength for transverse waves](image-9.png)
 
-**Longitudinal waves** es he
-
-The direction of vibration of particles of the medium is parallel to the direction of propagation of waves.
-
-ts The disturbances are in the form of compressions and rarefactions.
-
-tic Longitudinal waves are possible in all types of media (solid, liquid and gas).
-
-electromagnetic waves can travel through vacuum. verse and longitudinal.
-
-
-| 1. |e dir ection o f v ibration o f p articles of  the m edium i s  perpendicular  to  the direction of propagation of waves. |e  direction  of v ibration  of p articles  of the medium is parallel to the direction of propagation of waves. |
-|------|------|------|
-| 2. |e disturbances are in the form of crests and troughs. |e di sturbances a re in t he f orm o f compressions and rarefactions. |
-| 3. |Transverse wa ves a re p ossible in e lastic medium. |Longitudinal wa ves a re p ossible in a ll types of media (solid, liquid and gas). |
-
-
-| O |
-|------|------|
-| Figure 11.8 Two dierent sinusoidal waves |
-
-
-| O |AB C DTr ough |
-|------|------|
-| Figure 11.9 Crest and Trough of a wave |
-  
+![Figure 11.12 Wavelength for longitudinal waves](image-10.png)
 
 **EXAMPLE 11.1**
 
 Which of the following has longer wavelength?
 
-y
-
-0 x 1 2
-
-y
-
-0 1 3 42
-
-y
-
-0 x x 1
-
-3 4 2
-
-(a) (b) (c)
+![Example 11.1](image-11.png)
 
 **Answer** is (c)
 
@@ -238,261 +154,151 @@ In order to understand frequency and time period, let us consider waves (made of
 
 _f_ = 2 Hz (11.1)
 
-**Figure 11.11** Wavelength for transverse waves
-
-**Wavelength**
-
-**λ λ**
-
-**λ**
-
-**X**
-
-**Y**
-
-**Figure 11.12** Wavelength for longitudinal waves
-
-**StretchedStretched**
-
-**CompressedCompressed _λ_**
-
-**_λ_**
-
-**ExpansionCompression**  
-
-**Figure 11.13** A wave consisting of three wavelengths passing a point A at time (a) t = 0 s and (b) after time t = 1 s
-
-**A**
-
-**t = 0s A**
-
-**t = 1s**
+![Figure 11.13 A wave consisting of three wavelengths passing a point A at time (a) t = 0 s and (b) after time t = 1 s](image-12.png)
 
 If two waves take one second (time) to cross the point A then the time taken by one wave to cross the point A is half a second. This defines the time period T as
 
-_T_ \= =1
-
-2 0 5. s (11.2)
+_T_ = 1\2 = 0.5 s (11.2)
 
 From equation (11.1) and equation (11.2), _frequency and time period are inversely related_ i.e.,
 
-_T f_
-
-\= 1 (11.3)
+_T_ = 1/f (11.3)
 
 _Time period is defined as the time taken by one wave to cross a point_.
 
+---
 **EXAMPLE 11.2**
 
 Three waves are shown in the figure below.
 
-(c)
+![ ](image-13.png)
 
-(b)
+Write down
 
-(a)
+(a) the frequency in ascending order
 
-Write down (a) the frequency in ascending order (b) the wavelength in ascending order
+(b) the wavelength in ascending order
 
 **_Solution_**
 
-(a) _f_c < _f_a < _f_b
+(a) _f_ <sub>c</sub> < _f_<sub>a</sub> < _f_<sub>b</sub>
 
-(b) _λ_b < _λ_a < _λ_c
+(b) _λ_<sub>b</sub> < _λ_<sub>a</sub> < _λ_<sub>c</sub>
 
-**t = 0s A**
-
-**t = 1s**
-
-(a)
-
-(b)
-
-From the example 11.2, we observe that the frequency is inversely related to the wavelength, _f_  1
-
- .
+From the example 11.2, we observe that the frequency is inversely related to the wavelength, _f_ ~= 1/λ
 
 Then, f λ is equal to what?
 
-\[(i.e) _f f_ 
+[(i.e) _f_ λ = ?]
 
-1   ? \] A simple dimensional argument will help us to determine this unknown physical quantity.
+A simple dimensional argument will help us to determine this unknown physical quantity.
 
-Dimension of wavelength is, **\[**λ**\] =** _L_
+Dimension of wavelength is, [**λ**] = _L_
 
-Frequency _f Time period_
+Frequency _f = 1/Time period_ , which implies that the dimension of frequency is,
 
-\= 1
+[f] = 1 / [_T_] = T<sup>-1</sup>
 
-, which implies
-
-that the dimension of frequency is,
-
-\[ _f _\] = 1 1
-
-_T T_\[ \] = −
-
-⇒ \[_λf_\] = \[_λ_\]\[_f _\]= _LT_–1 = \[velocity\]
+⇒ [_λf_] = [_λ_][_f_]= _LT_<sup>-1</sup> = [velocity]
 
 Therefore,
 
-Velocity, _λf_ \= _v_ (11.4)
+Velocity, _λf_ = _v_ (11.4)
 
 where _v_ is known as the _wave velocity_ or _phase velocity. This is the velocity with_ which the wave propagates. _Wave velocity_ is the distance travelled by a wave in one second.
 
+---
+
 **Note:**
 
-1. The number of cycles (or revolutions) per unit time is called _angular frequency_.
-
-_Angular frequency,_ ω = 2π _T_
-
-\= 2πf (unit is radians/second)
+1. The number of cycles (or revolutions) per unit time is called _angular frequency_. _Angular frequency,_ ω = 2π / _T_ = 2πf (unit is radians/second)
 
 2. The number of cycles per unit distance or number of waves per unit distance is called _wave number_.
 
-_wave number, k_ = 2π λ
-
-(unit is radians/ meter)
+_wave number, k_ = 2π / λ (unit is radians/ meter)
 
 The velocity v, angular frequency ω and wave number _k_ are related as:
 
-_velocity_, _v_ = _λf_ = λ π2
+_velocity_, _v_ = _λf_ = λ/π2 = (2π _f_)/(2π / λ) = ω/ _k_  
 
-(2π_f _) = ( ) /
-
-2 2
-
-π π λ
-
-_f_ \= ω _k_  
+---
 
 **EXAMPLE 11.3**
 
-The average range of frequencies at which human beings can hear sound waves varies from 20 Hz to 20 kHz. Calculate the wavelength of the sound wave in these limits. (Assume the speed of sound to be 340 m s–1.
+The average range of frequencies at which human beings can hear sound waves varies from 20 Hz to 20 kHz. Calculate the wavelength of the sound wave in these limits. (Assume the speed of sound to be 340 m s<sup>–1</sup>.
 
 **_Solution_**
 
-
+λ<sub>1</sub> = v/f<sub>1</sub> = 340/20 = 17m
 
-1 = m _v f_ 1
-
-340
-
-20 17 
-
-
-
-2 = m _v f_
-
-2
-
-3
-
-340
-
-20 10 0 017
-
-  .
+λ<sub>2</sub> = v/f<sub>1</sub> = 340/20 x 10<sub>3</sub> = 0.017m 
 
 Therefore, the audible wavelength region is from 0.017 m to 17 m when the velocity of sound in that region is 340 m s–1.
+
+---
+
+---
 
 **EXAMPLE 11.4**
 
 A man saw a toy duck on a wave in an ocean. He noticed that the duck moved up and down 15 times per minute. He roughly measured the wavelength of the ocean wave as 1.2 m. Calculate the time taken by the toy duck for going one time up and down and also the velocity of the ocean wave.
 
-**_Solution_** Given that the number of times the toy duck moves up and down is 15 times per minute. This information gives us frequency (the number of times the toy duck moves up and down)
+![ ](image-14.png)
 
+**_Solution_** 
 
+Given that the number of times the toy duck moves up and down is 15 times per minute. This information gives us frequency (the number of times the toy duck moves up and down)
 
-| From t he exa mple 11.2, w e o bser ve t hat the f requency i s in versely r elated t o t he wavelength,  1 . f en, f λ is equal to what? [(i.e)  ]  ?A sim ple dim ensional a rgument w ill h elp us  to  determine  this  unknown p hysical quantity.Dimension of wavelength is, [λ] = LFrequency  f = 1 , which implies Time periodthat the dimension of frequency is, [][ f ] =  1 = TT⇒ [λf] = [λ][f ]= LT  = [velocity]−1erefore, Velocity, λf =  v –1 (11.4)where  v is k nown  as  the  wave ve loc ity orphas e v elocity . i s i s t he v elo city w ithwhic h t he wave propagates.  Wave veloc ityis t he di stance t ravelle d b y a wa ve in o nes econd. |
-|------|
-
-_f =_ 15times toy duck moves up and down
-
-one minute
-
+f = 15times toy duck moves up and down/one minute
+ 
 But one minute is 60 second, therefore, expressing time in terms of second
 
-_f_ \= = =
-
-15 60
-
-1 4
-
-0 25. Hz
+f = 15/60 = 1/4 = 0.25 Hz
 
 The time taken by the toy duck for going one time up and down is time period which is inverse of frequency
 
-_T_
-
-_f_ \= = =1 1
-
-0 25 4
-
-. s
+T = 1/f = 1/0.25 = 4s
 
 The velocity of ocean wave is
 
-_v = λf =_ 1.2 ×0.25 = 0.3 m s–1.
+v = λf = 1.2 × 0.25 = 0.3 m s<sup>–1</sup>
+
+---
+
+Amplitude of a wave:
+
 
 **Amplitude of a wave:**
 
-**Figure 11.14 Waves of different** amplitude
+![**Figure 11.14 Waves of different amplitude**](image-15.png)
 
-A2 x
+The waves shown in the Figure 11.14 have same wavelength, same frequency and same time period and also move with same velocity. The only difference between two waves is the height of either crest or trough. This means, the height of the crest or trough also signifies a wave character. So we define a quantity called an amplitude of the wave, as the maximum displacement of the medium with respect to a reference axis (for example in this case x-axis). Here, it is denoted by A.
 
-y
-
-\-y
-
-\-y λ
-
-A1 x
-
-y
-
-λ
-
-The waves shown in the Figure 11.14 have same wavelength, same frequency and same time period and also move with same velocity. The only difference between two waves is the height of either crest or trough. This means, the height of the crest or trough also signifies a wave character. So we define a quantity called an amplitude of the wave, as the maximum displacement of the medium with respect to a reference  
-
-**11.3**
-
-axis (for example in this case x-axis). Here, it is denoted by A.
+---
 
 **EXAMPLE 11.5**
 
 Consider a string whose one end is attached to a wall. Then compute the following in both situations given in figure (assume waves crosses the distance in one second)
 
-**12 m**
+![ ](image-16.png)
 
-**12 m**
+(a) Wavelength, (b) Frequency and (c) Velocity 
 
-(a) Wavelength, (b) Frequency and (c) Velocity **Solution**
+**Solution**
 
-First case Second case
-
-**(a)** Wavelength λ = 6 m λ = 2 m
-
-**(b)** Frequency _f_ = 2 Hz _f_ = 6 Hz
-
-**(c)** Velocity _v_ = 6 × 2 = 12 m s–1
-
-_v_ = 2 × 6 = 12 m s–1
+||First case|Second case|
+|---|---|---|
+|**(a)** Wavelength|λ = 6 m|λ = 2 m|
+|**(b)** Frequency|_f_ = 2 Hz|_f_ = 6 Hz|
+|**(c)** Velocity|_v_ = 6 × 2 = 12 m s<sup>–1</sup>|_v_ = 2 × 6 = 12 m s <sup>–1</sup>|
 
 This means that the speed of the wave along a string is a constant. Higher the frequency, shorter the wavelength and vice versa, and their product is velocity which remains the same.
+
+---
 
 **VELOCITY OF WAVES IN DIFFERENT MEDIA**
 
 Suppose a hammer is struck on long rails at a distance and when a person keeps his ear near the rails at the other end he/she will hear two sounds, at different instants. The sound that is heard through the rails (solid medium)
-
-| C onsider a s tring w hos e o ne en d i sattached  to  a  wa ll.  en  compute  thefollowing in both situations given in gure(assume waves cr oss es t he di stance in o nes econd)12 m(a) Wavelength, (b) Frequency and(c) Velocity 12 mSolution |
-|------|------|------|
-| First case |Second case |
-| (a) Wavelength |λ = 6 m |λ = 2 m |
-| (b) Frequency |f = 2 Hz |f = 6 Hz |
-| (c) Velocity |v = 6 × 2 = 12 m s–1 |v = 2 × 6 = 12 m s–1 |
-| is means that the speed of the wave along a string is a constant. Higher the frequency, shorter t he wavelength and v ice versa, and their product is velocity which remains the same. |
-  
 
 is faster than the sound we hear through the air (gaseous medium). This implies the velocity of sound is different in different media.
 
@@ -502,110 +308,31 @@ In this section, we shall derive the velocity of waves in two different cases:
 
 2. The velocity of a longitudinal waves in an elastic medium.
 
-## Velocity of transverse waves in a stretched string
-
+### Velocity of transverse waves in a stretched string
 
 Let us compute the velocity of transverse travelling waves on a string. When a jerk is given at one end (left end) of the rope, the wave pulses move towards right end with a velocity _v_ with respect to an observer who is at rest frame.
 
 Consider an elemental segment in the string as shown in the Figure 11.15. Let A and B be two points on the string at an instant of time. Let _dl_ and _dm_ be the length and mass of the elemental string, respectively. By definition, linear mass density, _μ_ is
 
-**Figure 11.15** Elemental segment in a stretched observer frame who moves with velocity _v_.
+![Figure 11.15 Elemental segment in a stretched string is zoomed and the pulse seen from an observer frame who moves with velocity v](image-17.png)
 
-**v (pulse)**
+µ = dm/dl   ....(11.5)
 
-**v (pulse)**  
+dm = μ dl   ....(11.6)
 
-µ = _dm dl_ (11.5)
+The elemental string AB has a curvature which looks like an arc of a circle with centre at O, radius R and the arc subtending an angle θ at the origin O as shown in Figure 11.15(b). The angle θ can be written in terms of arc length and radius as θ = _dl_ / _R_ . The centripetal acceleration supplied by the tension in the string is
 
-_dm_ = μ _dl_ (11.6)
-
-The elemental string AB has a curvature which looks like an arc of a circle with centre at O, radius R and the arc subtending an angle θ at the origin O as shown in Figure 11.15(b). The angle θ can be written in terms of arc
-
-length and radius as θ = _dl R_
-
-. The centripetal
-
-acceleration supplied by the tension in the string is
-
-acp = _v R_
-
-2
-
-(11.7)
+a<sub>cp</sub> = _v_<sup>2</sup> _R_    .....(11.7)
 
 Then, centripetal force is
 
-Fcp = ( )_dm v R_
-
-2
-
-(11.8)
+F<sub>cp</sub> = (_dm_) _v_<sup>cp</sup> / _R_   .....(11.8)
 
 From eqn 11.6,
 
-(dm) dl_v R_
+(_dm_) _v_<sup>cp</sup> / _R_ = µv<sup>2</sup> dl / R   .....(11.9)
 
-_v R_
-
-2 2
-
-\= µ (11.9)
-
-The tension T acts along the tangent of the elemental segment of the string at A and B. Since the arc length is very small, variation
-
-string is zoomed and the pulse seen from an
-
-**T cos** (**_θ_**
-
-**T sin** (**_θ_T sin** (**_θ_**
-
-**T cos** (**_θ_**
-
-**_θ _**
-
-**_θ _**
-
-**_θ _**
-
-**_θ _**
-
-**_θ _**
-
-**_θ _**
-
-**_θ _**
-
-**_θ _**
-
-**A B**
-
-**O**
-
-**O**
-
-**V** ∆_x_
-
-∆_x_ TT _R_
-
-**_R_**
-
-F
-
-**_Note_**
-
-in the tension force can be ignored. We can resolve T into horizontal component
-
-_T_ cos θ 2 
-
-  
-
-  and vertical component _T_ sin θ
-
-2 
-
-  
-
-  .
+The tension T acts along the tangent of the elemental segment of the string at A and B. Since the arc length is very small, variation in the tension force can be ignored. We can resolve T into horizontal component
 
 The horizontal components at A and B are equal in magnitude but opposite in direction; therefore, they cancel each other. Since the elemental arc length AB is taken to be very small, the vertical components at A and B appears to acts vertical towards the centre of the arc and hence, they add up. The net radial force Fr is
 
@@ -625,7 +352,7 @@ string, sin θ θ 2 2 
 
 Fr = 2T × θ 2
 
-\= _Tθ_ (11.11)
+= _Tθ_ (11.11)
 
 But θ = _dl R_
 
@@ -641,9 +368,9 @@ _T dl R_
 
 _v dl R_
 
-\= µ 2
+= µ 2
 
-_v T_ \=
+_v T_ =
 
 µ (11.13)
 
@@ -660,7 +387,7 @@ c. independent of shape of the waves.
 
 Calculate the velocity of the travelling pulse as shown in the figure below. The linear mass density of pulse is 0.25 kg m–1. Further, compute the time taken by the travelling pulse to cover a distance of 30 cm on the string.
 
-# kg
+## kg
 
 
 **Solution**
@@ -669,7 +396,7 @@ The tension in the string is T = m g = 1.2 × 9.8 = 11.76 N The mass per unit le
 
 Therefore, velocity of the wave pulse is
 
-_v T m s m s_\= = = =− −
+_v T m s m s_= = = =− −
 
 µ 11 76 0 25
 
@@ -693,7 +420,7 @@ _t d s ms v_
 
 ms = milli second.
 
-## Velocity of longitudinal waves in an elastic medium
+### Velocity of longitudinal waves in an elastic medium
 
 
 Consider an elastic medium (here we assume air) having a fixed mass contained in a long tube (cylinder) whose cross sectional area is _A_ and maintained under a pressure _P_. One can generate longitudinal waves in the fluid either by displacing the fluid using a piston or by keeping a vibrating tuning fork at one end of the tube. Let us assume that the direction of propagation of waves coincides with the axis of the cylinder. Let _ρ_ be the density of
@@ -706,7 +433,7 @@ Let _u_ be the velocity of the piston and _v_ be the velocity of the elastic wav
 
 Then, the momentum imparted due to motion of piston with velocity _u_ is
 
-Δ_p =_ \[_ρ A_ (_v_ Δ_t_)\]_u_
+Δ_p =_ [_ρ A_ (_v_ Δ_t_)]_u_
 
 But the change in momentum is impulse.
 
@@ -714,7 +441,7 @@ The net impulse is
 
 _I =_ (Δ_P A_)Δ_t_
 
-Or (Δ_P A_)Δ_t =_ \[_ρ A_ (_v_ Δ_t_)\]_u_
+Or (Δ_P A_)Δ_t =_ [_ρ A_ (_v_ Δ_t_)]_u_
 
 Δ_P = ρ v u_ (11.14)
 
@@ -734,13 +461,13 @@ When the sound wave passes through air, the small volume element (Δ_V_) of the 
 
 ∆_P K V V_
 
-\= ∆
+= ∆
 
 where, _V_ is original volume and _K_ is known as bulk modulus of the elastic medium.
 
-But _V_ \= _A_ ∆_x_ \= _A_ _v_ ∆_t_ and
+But _V_ = _A_ ∆_x_ = _A_ _v_ ∆_t_ and
 
-∆_V_ \= _A_ ∆_d_ \=_A_ _u_ ∆_t_
+∆_V_ = _A_ ∆_d_ =_A_ _u_ ∆_t_
 
 Therefore,
 
@@ -752,7 +479,7 @@ Comparing equation (11.14) and equation (11.15), we get
 
 ρ_v u K u v_
 
-\= or _v K_2 = ρ
+= or _v K_2 = ρ
 
 ⇒ =_v K_ ρ
 
@@ -760,7 +487,7 @@ Comparing equation (11.14) and equation (11.15), we get
 
 In general, the velocity of a longitudinal
 
-wave in elastic medium is _v E_ \=
+wave in elastic medium is _v E_ =
 
 ρ , where _E_
 
@@ -768,7 +495,7 @@ is the modulus of elasticity of the medium.
 
 **Cases: For a solid : (i) one dimensional rod (1D)**
 
-_v Y_ \=
+_v Y_ =
 
 ρ (11.17)
 
@@ -778,7 +505,7 @@ where _Y_ is the Young’s modulus of the material of the rod and _ρ_ is the de
 
 _v K_
 
-\= +
+= +
 
 4 3
 
@@ -799,7 +526,7 @@ where _η_ is the modulus of rigidity, K is the bulk modulus and _ρ_ is the den
 
 **Cases:** **For liquids:**
 
-_v K_ \=
+_v K_ =
 
 ρ (11.19)
 
@@ -811,7 +538,7 @@ Calculate the speed of sound in a steel rod whose Young’s modulus _Y_ = 2 × 1
 
 **Solution**
 
-_v Y_ \= =
+_v Y_ = =
 
 × = × = ×
 
@@ -821,7 +548,7 @@ _v Y_ \= =
 
 8. .
 
-_ms ms_\= × = × = ×− −0 0
+_ms ms_= × = × = ×− −0 0
 
 0 2564 10 0 506 10 5 10 11
 
@@ -843,13 +570,13 @@ An increase in pressure of 100 _k_Pa causes a certain volume of water to decreas
 
 _B V P V_
 
-_M_\= ∆ ∆
+_M_= ∆ ∆
 
-\= × ×
+= × ×
 
-\= × ×
+= × ×
 
-\=− −
+=− −
 
 100 10
 
@@ -871,11 +598,11 @@ _V P V_
 
 _MPa_∆ ∆
 
-\= × ×
+= × ×
 
-\= × ×
+= × ×
 
-\=− −
+=− −
 
 100 10
 
@@ -897,15 +624,15 @@ _MPa_∆ ∆
 
 _MPa_ is mega pascal  
 
-_ms ms_\= ×− −10 5 104 1 3 1
+_ms ms_= ×− −10 5 104 1 3 1
 
 _Pa_
 
 (b) Speed of sound in water is
 
-_v K ms_\= = ×
+_v K ms_= = ×
 
-\= −
+= −
 
 ρ 2000 10
 
@@ -935,36 +662,36 @@ Gas (at 0°C) 1. Oxygen 317 2. Air 331 3. Helium 972 4. Hydrogen 1286
 
 Gas (at 20°C) 1. Air 343
 
-# PROPAGATION OF SOUND WAVES
+## PROPAGATION OF SOUND WAVES
 
 
 We know that sound waves are longitudinal waves, and when they propagate compressions and rarefactions are formed. In the following section, we compute the speed of sound in air by Newton’s method and also discuss the Laplace correction and the factors affecting sound in air.
 
-## Newton’s formula for speed of sound waves in air
+### Newton’s formula for speed of sound waves in air
 
 Sir Isaac Newton assumed that when sound propagates in air, the formation of compression and rarefaction takes place in a very slow manner so that the process is isothermal in nature. That is, the heat produced during compression (pressure increases, volume decreases), and heat lost during rarefaction (pressure decreases, volume increases) occur over a period of time such that the temperature of the medium remains constant. Therefore, by treating the air molecules to form an ideal gas, the changes in pressure and volume obey Boyle’s law, Mathematically
 
-_PV_ \= Constant (11.20)
+_PV_ = Constant (11.20)
 
 Differentiating equation (11.20), we get
 
-_PdV_ \+ _VdP_ \= 0
+_PdV_ \+ _VdP_ = 0
 
-or, _P_ \= − _V_ _dP dV_
+or, _P_ = − _V_ _dP dV_
 
-\= _K_I (11.21)
+= _K_I (11.21)
 
 where, _K_I is an isothermal bulk modulus of air. Substituting equation (11.21) in equation (11.16), the speed of sound in air is
 
 _v K P T_
 
-_I_\= = ρ ρ (11.22)  
+_I_= = ρ ρ (11.22)  
 
 Since _P_ is the pressure of air whose value at NTP (Normal Temperature and Pressure) is 76 cm of mercury, we have _P = hρg_
 
 _P_ = (0.76 × 13.6 ×103 × 9.8) N m–2
 
-_ρ_ \= 1.293 _kg_ _m_–3. Here _ρ_ is density of air
+_ρ_ = 1.293 _kg_ _m_–3. Here _ρ_ is density of air
 
 Then the speed of sound in air at Normal Temperature and Pressure (NTP) is
 
@@ -978,7 +705,7 @@ _v_T = 0 76 13 6 10 9 8
 
 × × ×( )
 
-\= 279.80 m s–1 ≈ 280 ms–1 (theoretical value)
+= 279.80 m s–1 ≈ 280 ms–1 (theoretical value)
 
 But the speed of sound in air at 0°C is experimentally observed as 332 m s–1 which is close upto 16% more than theoretical value (Percentage error is
 
@@ -990,7 +717,7 @@ But the speed of sound in air at 0°C is experimentally observed as 332 m s–1 
 
 not small
 
-## Laplace’s correction
+### Laplace’s correction
 
 
 In 1816, Laplace satisfactorily corrected this discrepancy by assuming that when the sound propagates through a medium, the particles oscillate very rapidly such that the compression and rarefaction occur very fast. Hence the exchange of heat produced due to compression and cooling effect due to rarefaction do not take place, because, air (medium) is a bad conductor of heat. Since, temperature is no longer considered as a constant here, sound propagation is an adiabatic process. By adiabatic considerations, the gas obeys Poisson’s law (not Boyle’s law as Newton assumed), which is
@@ -1021,7 +748,7 @@ _T_ = ‡ ‡ ρ ρ = = (11.25)
 
 Since air contains mainly, nitrogen, oxygen, hydrogen etc, (diatomic gas), we take _γ_ = 1.4. Hence, speed of sound in air is _v_A = ( 1 4. )(280 m s–1)= 331.30 m s–1, which is very much closer to experimental data.
 
-## Factors affecting speed of sound in gases
+### Factors affecting speed of sound in gases
 
 
 Let us consider an ideal gas whose equation of state is
@@ -1030,7 +757,7 @@ _PV_ = _μ R T_ (11.26)
 
 where, _P_ is pressure, _V_ is volume, T is temperature, μ is number of mole and R is universal gas constant. For a given mass of a molecule, equation (11.26) can be written as
 
-_PV T_ \= Constant (11.27)
+_PV T_ = Constant (11.27)
 
 For a fixed mass m, density of the gas inversely varies with volume. i.e.,
 
@@ -1048,7 +775,7 @@ where _c_ is constant.
 
 The speed of sound in air given in equation (11.25) can be written as
 
-_v P cT_\= = γ ρ
+_v P cT_= = γ ρ
 
 γ (11.30)
 
@@ -1084,7 +811,7 @@ _T t_
 
 273 = = +
 
-_v v t v t_\= + ≅ +
+_v v t v t_= + ≅ +
 
   0 0
 
@@ -1108,7 +835,7 @@ _v P_ 1
 
 1
 
-\= γ ρ
+= γ ρ
 
 (11.31)
 
@@ -1120,7 +847,7 @@ _v P_ 2
 
 2
 
-\= γ ρ
+= γ ρ
 
 (11.32)
 
@@ -1146,7 +873,7 @@ _P_ 1
 
 2 1
 
-\= =
+= =
 
 γ ρ
 
@@ -1166,7 +893,7 @@ _v v_
 
 1
 
-\= ρ ρ (11.33)
+= ρ ρ (11.33)
 
 Thus the velocity of sound in a gas is inversely proportional to the square root of the density of the gas.
 
@@ -1174,7 +901,7 @@ Thus the velocity of sound in a gas is inversely proportional to the square root
 
 We know that density of moist air is 0.625 of that of dry air, which means the presence of moisture in air (increase in humidity) decreases its density. Therefore, speed of sound increases with rise in humidity. From equation (11.30)  
 
-_v p_ \=
+_v p_ =
 
 γ ρ
 
@@ -1200,7 +927,7 @@ _P_ 1
 
 1
 
-\= =
+= =
 
 γ ρ
 
@@ -1226,7 +953,7 @@ _v v P p p_1 2
 
 1 2 0 625
 
-\= + .
+= + .
 
 (11.34)
 
@@ -1242,7 +969,7 @@ The ratio of the densities of oxygen and nitrogen is 16:14. Calculate the temper
 
 From equation (11.25), we have
 
-_v P_ \=
+_v P_ =
 
 γ ρ
 
@@ -1252,7 +979,7 @@ Therefore,
 
 _v PV_
 
-_M_ \=
+_M_ =
 
 γ
 
@@ -1260,7 +987,7 @@ Using equation (11.26)
 
 _v RT_
 
-_M_ \=
+_M_ =
 
 γ
 
@@ -1270,9 +997,9 @@ _v R K K MN_
 
 _N_
 
-\= +γ ( )273 17
+= +γ ( )273 17
 
-\= γ_R K_
+= γ_R K_
 
 _MN_
 
@@ -1322,7 +1049,7 @@ Since the densities of oxygen and nitrogen is 16:14,
 
 0 16 14_N_
 
-\= (4)  
+= (4)  
 
 **11.5**
 
@@ -1342,7 +1069,7 @@ _M M_
 
 _M M_
 
-\= = ⇒ = (5)
+= = ⇒ = (5)
 
 Substituting equation (5) in equation (3), we get
 
@@ -1399,7 +1126,7 @@ Similar to reflection of light from a mirror, sound also reflects from a harder 
 
 Specular reflection is observed only when the wavelength of the source is smaller than dimensions of the reflecting surface, as well as smaller than surface irregularities.
 
-## Reflection of sound through the plane surface
+### Reflection of sound through the plane surface
 
 
 **Figure 11.18 Reflection of sound** through the plane surface
@@ -1442,7 +1169,7 @@ Direct sound
 
 **Figure 11.19** Common examples for reflection of sound in real situation
 
-## Reflection of sound through the curved surface
+### Reflection of sound through the curved surface
 
 
 The behaviour of sound is different when it is reflected from different surfaces like convex or concave or plane. The sound reflected from a convex surface is spread out and so it is easily attenuated and weakened. Whereas, if it is reflected from the concave surface it will converge at a point and this can be easily amplified. The parabolic reflector (curved reflector) which is used to focus the sound precisely to a point is used in designing the parabolic mics which are known as high directional microphones.
@@ -1480,7 +1207,7 @@ We know that any surface (smooth or rough) can absorb sound. For example, the so
 
 **Figure 11.21** Sound in a big auditorium
 
-## Applications of reflection of sound waves
+### Applications of reflection of sound waves
 
 
 **(a) Stethoscope:** It works on the principle of multiple reflections.
@@ -1549,7 +1276,7 @@ at 344 m away, then the sound will take 1 second to reach the wall. After reflec
 
 **EXAMPLE 11.10** Suppose a man stands at a distance from a cliff and claps his hands. He receives an echo from the cliff after 4 second. Calculate the distance between the man and the cliff. Assume the speed of sound to be 343 m s–1.
 
-**_Solution_** The time taken by the sound to come back as echo is 2_t_ \= 4 ⇒ _t_ \= 2 s ∴The distance is d = vt =(343 m s–1)(2 s) = 686 m.
+**_Solution_** The time taken by the sound to come back as echo is 2_t_ = 4 ⇒ _t_ = 2 s ∴The distance is d = vt =(343 m s–1)(2 s) = 686 m.
 
 **11.6**
 
@@ -1577,7 +1304,7 @@ source to the velocity of sound.
 
 If a wave that propagates in a medium is continuous then it is known as progressive wave or travelling wave.  
 
-## Characteristics of progressive waves
+### Characteristics of progressive waves
 
 
 1. Particles in the medium vibrate about their mean positions with the same amplitude.
@@ -1587,7 +1314,7 @@ If a wave that propagates in a medium is continuous then it is known as progress
 5. When the particles pass through the mean position they always move with the same maximum velocity.
 6. The displacement, velocity and acceleration of particles separated from each other by _nλ_ are the same, where _n_ is an integer, and λ is the wavelength.
 
-## Equation of a plane progressive wave
+### Equation of a plane progressive wave
 
 
 **(b) Pulse at time _t_**
@@ -1604,7 +1331,7 @@ If a wave that propagates in a medium is continuous then it is known as progress
 
 **_A V V_**
 
-**Figure 11.23** Wave pulse moving with velocity _v_ at two instants at _t_ \= 0 and at time _t_
+**Figure 11.23** Wave pulse moving with velocity _v_ at two instants at _t_ = 0 and at time _t_
 
 Suppose we give a jerk on a stretched string at time _t_ = 0 _s_. Let us assume that the wave pulse created during this disturbance moves along positive _x_ direction with constant speed _v_ as shown in Figure 11.23 (a).
 
@@ -1621,11 +1348,11 @@ remains the same during the propagation. After some time t, the pulse moving tow
 
 _y_(_x, t_) = _f_(_x´_) = _f_(_x_ − _vt_) (11.35)
 
-Similarly, if the wave pulse moves towards left with constant speed _v_, then _y_ \= _f_(_x_ \+ _vt_). Both waves _y_ \= _f_(_x_ \+ _vt_) and _y_ \= _f_(_x_ − _vt_) will satisfy the following one dimensional differential equation known as the wave equation
+Similarly, if the wave pulse moves towards left with constant speed _v_, then _y_ = _f_(_x_ \+ _vt_). Both waves _y_ = _f_(_x_ \+ _vt_) and _y_ = _f_(_x_ − _vt_) will satisfy the following one dimensional differential equation known as the wave equation
 
 ∂ ∂
 
-\= ∂ ∂
+= ∂ ∂
 
 2
 
@@ -1689,7 +1416,7 @@ y
 
 **EXAMPLE 11.12**
 
-How does the wave _y_ = sin(_x_ − _a_) for _a_ \= 0, _a_ = π
+How does the wave _y_ = sin(_x_ − _a_) for _a_ = 0, _a_ = π
 
 4 , _a_ = π
 
@@ -1775,7 +1502,7 @@ From the above picture we observe that _y_ = sin (_x_−_a_) for _a_ = 0, _a_ = 
 
 2 ,
 
-_a_ = 3 2 π and _a_ = π, the function _y_ \= sin (_x_−_a_)
+_a_ = 3 2 π and _a_ = π, the function _y_ = sin (_x_−_a_)
 
 shifts towards right. Further, we can take _a_ = _vt_ and _v_ = π
 
@@ -1803,13 +1530,13 @@ shifts towards right. Further, we can take _a_ = _vt_ and _v_ = π
 | π π 3π |
   
 
-times _t_ = 0_s_, _t_ = 1_s_, _t_ \= 2_s_ etc., we once again observe that _y_ \= sin(_x_−_vt_) moves towards the right. Hence, _y_ \= sin(_x_−_vt_) is a travelling (or progressive) wave moving towards the right. If _y_ \= sin(_x_+_vt_) then the travelling (or progressive) wave moves towards the left. Thus, any arbitrary function of type _y_ \= _f_(_x_−_vt_) characterising the wave must move towards right and similarly, any arbitrary function of type _y_ \= _f_(_x_+_vt_) characterizing the wave must move towards left.
+times _t_ = 0_s_, _t_ = 1_s_, _t_ = 2_s_ etc., we once again observe that _y_ = sin(_x_−_vt_) moves towards the right. Hence, _y_ = sin(_x_−_vt_) is a travelling (or progressive) wave moving towards the right. If _y_ = sin(_x_+_vt_) then the travelling (or progressive) wave moves towards the left. Thus, any arbitrary function of type _y_ = _f_(_x_−_vt_) characterising the wave must move towards right and similarly, any arbitrary function of type _y_ = _f_(_x_+_vt_) characterizing the wave must move towards left.
 
 **EXAMPLE 11.13**
 
-Check the dimensional of the wave _y_ \= sin(_x_−_vt_). If it is dimensionally wrong, write the above equation in the correct form.
+Check the dimensional of the wave _y_ = sin(_x_−_vt_). If it is dimensionally wrong, write the above equation in the correct form.
 
-**_Solution_** Dimensionally it is not correct. we know that _y_ \= sin(_x_−_vt_) must be a dimensionless quantity but x−vt has dimension. The correct equation is _y_ = sin (_k_ _x_−_ωt_), where _k_ and _ω_ have the dimensions of inverse of length and inverse of time respectively. The sine functions and cosine functions are periodic functions with period 2π. Therefore, the correct expression is
+**_Solution_** Dimensionally it is not correct. we know that _y_ = sin(_x_−_vt_) must be a dimensionless quantity but x−vt has dimension. The correct equation is _y_ = sin (_k_ _x_−_ωt_), where _k_ and _ω_ have the dimensions of inverse of length and inverse of time respectively. The sine functions and cosine functions are periodic functions with period 2π. Therefore, the correct expression is
 
 _y_ = sin 2 2π λ
 
@@ -1839,7 +1566,7 @@ wavelength and time period, respectively. In general, _y_(_x_,_t_)=A sin(_k_ _x_
 
 **Time**  
 
-## Graphical representation of the wave
+### Graphical representation of the wave
 
 Let us graphically represent the two forms of the wave variation
 
@@ -1875,11 +1602,11 @@ _y_ = A sin(_kx_ \+ 2π) = A sin(_kx_) (11.39)
 
 Comparing equation (11.38) and equation (11.39), we get
 
-_kx_ \+ _k_ _λ_ \= _kx_ \+ 2π
+_kx_ \+ _k_ _λ_ = _kx_ \+ 2π
 
 This implies
 
-_k_ \= 2π λ
+_k_ = 2π λ
 
 rad m–1 (11.40)
 
@@ -1926,15 +1653,15 @@ _k_2 = 2 6 π = 1.05 rad m-1
 
 sin
 
-**Figure 11.25** Graph of sinusoidal function _y_ \=_A_ sin(_ωt_)
+**Figure 11.25** Graph of sinusoidal function _y_ =_A_ sin(_ωt_)
 
-By keeping the position fixed, the change in displacement with respect to time is plotted. Let us consider a sinusoidal graph, _y_ \=_A_ sin(_ωt_) as shown in the Figure 11.25, where _ω_ is angular frequency of the wave which measures how quickly wave oscillates in time or number of cycles per second.
+By keeping the position fixed, the change in displacement with respect to time is plotted. Let us consider a sinusoidal graph, _y_ =_A_ sin(_ωt_) as shown in the Figure 11.25, where _ω_ is angular frequency of the wave which measures how quickly wave oscillates in time or number of cycles per second.
 
 The temporal periodicity or time period is
 
 _T_
 
-_T_ \= ⇒ =
+_T_ = ⇒ =
 
 2 2π ω
 
@@ -1946,28 +1673,28 @@ per second. Since inverse of frequency is time period, we have,
 
 _T f_
 
-\= 1 in seconds
+= 1 in seconds
 
 This is the time taken by a medium particle to complete one oscillation. Hence, we can define the speed of a wave (wave speed, v) as the distance traversed by the wave per second
 
 _v T_
 
-_f_\= = λ λ in m s-1
+_f_= = λ λ in m s-1
 
 which is the same relation as we obtained in equation (11.4).
 
-## Particle velocity and wave velocity
+### Particle velocity and wave velocity
 
 
 In a plane progressive harmonic wave, the constituent particles in the medium oscillate simple harmonically about their equilibrium positions. When a particle is in motion, the rate of change of displacement at any instant of time is defined as velocity of the particle at that instant of time. This is known as particle velocity.
 
-_v dy dtP_ \= m s-1 (11.41)
+_v dy dtP_ = m s-1 (11.41)
 
 But _y_(_x, t_)= A sin(_k x_ \- _ω t_) (11.42)
 
 Therefore, dy _dt_
 
-\= − ω A cos(_k x_− _ω t_) (11.43)
+= − ω A cos(_k x_− _ω t_) (11.43)
 
 Similarly, we can define velocity (here speed) for the travelling wave (or progressive wave). In order to determine the velocity of a progressive wave, let us consider a progressive wave (shown in Figure 11.23) moving towards right. This can be mathematically represented as a sinusoidal wave. Let _P_ be any point on the phase of the wave and _y_P be its displacement with respect
 
@@ -1982,19 +1709,19 @@ Similarly, we can define velocity (here speed) for the travelling wave (or progr
 
 to the mean position. The displacement of the wave at an instant _t_ is
 
-_y_ \= _y_(_x,t_) = A sin(_k x_− _ω t_)
+_y_ = _y_(_x,t_) = A sin(_k x_− _ω t_)
 
-At the next instant of time _tʹ_ \= _t_ + ∆_t_ the position of the point _P_ is _xʹ_ \= _x_ + ∆_x_. Hence, the displacement of the wave at this instant is
+At the next instant of time _tʹ_ = _t_ + ∆_t_ the position of the point _P_ is _xʹ_ = _x_ + ∆_x_. Hence, the displacement of the wave at this instant is
 
-_y_ \= _y_(_x_ʹ, _t_ʹ) = _y_(_x_ + ∆_x_, _t_ + ∆_t_ )
+_y_ = _y_(_x_ʹ, _t_ʹ) = _y_(_x_ + ∆_x_, _t_ + ∆_t_ )
 
-\= A sin\[_k_ (x + ∆x)- ω (t + ∆t)\] (11.44)
+= A sin[_k_ (x + ∆x)- ω (t + ∆t)] (11.44)
 
 Since the shape of the wave remains the same, this means that the phase of the wave remains constant (i.e., the _y_\- displacement of the point is a constant). Therefore, equating equation (11.42) and equation (11.44), we get
 
 _y_(_x_',_t_') = _y_(_x_,_t_), which implies
 
-A sin\[_k_ (_x_ + ∆_x_)− _ω_ (_t_ + ∆_t_)\]= A sin(_k_ _x_− _ω_ _t_)
+A sin[_k_ (_x_ + ∆_x_)− _ω_ (_t_ + ∆_t_)]= A sin(_k_ _x_− _ω_ _t_)
 
 Or
 
@@ -2004,7 +1731,7 @@ On simplification of equation (11.45), we get
 
 _v x t k_
 
-_vp_\= ∆ ∆ = =
+_vp_= ∆ ∆ = =
 
 ω (11.46)
 
@@ -2012,15 +1739,15 @@ where _v_p is called wave velocity or phase velocity.
 
 By expressing the angular frequency and wave number in terms of frequency and wave length, we obtain
 
-ω =2 π _f_ \= 2π _T_
+ω =2 π _f_ = 2π _T_
 
-_k_ \=
+_k_ =
 
 2π λ
 
 _v_
 
-_k f_\= =
+_k f_= =
 
 ω λ  
 
@@ -2032,7 +1759,7 @@ A mobile phone tower transmits a wave signal of frequency 900MHz. Calculate the 
 
 **_Solution_**
 
-Frequency, _f MHz Hz_\= = ×900 900 10 6
+Frequency, _f MHz Hz_= = ×900 900 10 6
 
 The speed of wave is c = 3 × 108m s−1
 
@@ -2040,7 +1767,7 @@ The speed of wave is c = 3 × 108m s−1
 
 × ×
 
-\= _v f_
+= _v f_
 
 _m_3 10 900 10
 
@@ -2098,7 +1825,7 @@ Waves that obey principle of superposition are called linear waves (amplitude is
 
 We will discuss the following in different subsections:
 
-## Interference of waves
+### Interference of waves
 
 
 **Figure 11.27** Interference of waves
@@ -2131,21 +1858,21 @@ _y_ = A1 sin(_kx_ − _ωt_) + A2 sin(_kx_ − _ωt_ \+ φ)
 
 Using trigonometric identity sin (α+β) = (sin _α_ cos_β_ \+ cos_α_ sin_β_ ), we get
 
-_y_ = _A_1 sin(_kx_ − _ωt_)+_A_2 \[sin(_kx_ − _ωt_) cos_φ_ + cos(_kx_ − _ωt_) sinφ\]
+_y_ = _A_1 sin(_kx_ − _ωt_)+_A_2 [sin(_kx_ − _ωt_) cos_φ_ + cos(_kx_ − _ωt_) sinφ]
 
 _y_ = sin(_kx_ − _ωt_)(_A_1 +_A_2 cos_φ_) + _A_2 sin_φ_ cos(_kx_ − _ωt_) (11.50)
 
 Let us re-define
 
-_A_ cos_θ_ \=(_A_1 + A2 cos_φ_) (11.51)
+_A_ cos_θ_ =(_A_1 + A2 cos_φ_) (11.51)
 
-and _A_ sin_θ_ \= _A_2 sin_φ_ (11.52)
+and _A_ sin_θ_ = _A_2 sin_φ_ (11.52)
 
 then equation (11.50) can be rewritten as
 
 _y_ = _A_ sin(_kx_−_ωt_) cos_θ_ + _A_ cos(_kx_−_ωt_) sin_θ_  
 
-_y_ \= _A_ (sin(_kx_−_ωt_) cos_θ_ \+ sin_θ_ cos(_kx_−_ωt_))
+_y_ = _A_ (sin(_kx_−_ωt_) cos_θ_ \+ sin_θ_ cos(_kx_−_ωt_))
 
 _y_ = _A_ sin(_kx_−_ωt_ \+ _θ_) (11.53)
 
@@ -2157,7 +1884,7 @@ _A_2 = A1 2 + A2
 
 Since, intensity is square of the amplitude (I = _A_2), we have
 
-_I I I I I_\= + + 1 2 1 2
+_I I I I I_= + + 1 2 1 2
 
 2 cos _φ_ (11.55)
 
@@ -2167,7 +1894,7 @@ This means the resultant intensity at any point depends on the phase difference 
 
 When crests of one wave overlap with crests of another wave, their amplitudes will add up and we get constructive interference. The resultant wave has a larger amplitude than the individual waves as shown in Figure 11.29 (a). The constructive interference at a point occurs if there is maximum intensity at that point, which means that
 
-cos_φ_ \= + 1 ⇒ _φ_ = 0, 2π,4π,… = 2_nπ_, where _n_ = 0,1,2,...
+cos_φ_ = + 1 ⇒ _φ_ = 0, 2π,4π,… = 2_nπ_, where _n_ = 0,1,2,...
 
 This is the phase difference in which two waves overlap to give constructive interference.
 
@@ -2199,7 +1926,7 @@ Hence, the resultant amplitude _A_ = A1 _\+ A_2
 
 **wave 2 =**
 
-**(b) For destructive interference:** When the trough of one wave overlaps with the crest of another wave, their amplitudes “cancel” each other and we get destructive interference as shown in Figure 11.29 (b). The resultant amplitude is nearly zero. The destructive interference occurs if there is minimum intensity at that point, which means cos_φ_ \= − 1 ⇒ _φ_ \= _π_,3_π_,5_π_,… = (2 n-1) π, where n = 0,1,2,…. i.e. This is the phase difference in which two waves overlap to give destructive interference. Therefore,
+**(b) For destructive interference:** When the trough of one wave overlaps with the crest of another wave, their amplitudes “cancel” each other and we get destructive interference as shown in Figure 11.29 (b). The resultant amplitude is nearly zero. The destructive interference occurs if there is minimum intensity at that point, which means cos_φ_ = − 1 ⇒ _φ_ = _π_,3_π_,5_π_,… = (2 n-1) π, where n = 0,1,2,…. i.e. This is the phase difference in which two waves overlap to give destructive interference. Therefore,
 
 _I I I A A_minimum = −( ) = −( )1 2
 
@@ -2209,7 +1936,7 @@ _I I I A A_minimum = −( ) = −( )1 2
 
 Hence, the resultant amplitude
 
-_A_\=|_A_1−_A_2|
+_A_=|_A_1−_A_2|
 
 Let us consider a simple instrument to demonstrate the interference of sound waves as shown in Figure 11.30.
 
@@ -2227,11 +1954,11 @@ A sound wave from a loudspeaker S is sent through the tube P. This looks like a 
 
 path length is fixed but the upper path length can be varied by sliding the upper tube i.e., is varied. The difference in path length is known as path difference,
 
-∆_r_ \= |_r_2 − _r_1|
+∆_r_ = |_r_2 − _r_1|
 
 Suppose the path difference is allowed to be either zero or some integer (or integral) multiple of wavelength _λ_. Mathematically, we have
 
-∆_r_ \= _nλ_ where, n = 0, 1, 2, 3,....
+∆_r_ = _nλ_ where, n = 0, 1, 2, 3,....
 
 Then the two waves arriving from the paths _r_1 and _r_2 reach the receiver at any instant are in phase (the phase difference is 0° or 2π) and interfere constructively as shown in Figure 11.31.
 
@@ -2247,7 +1974,7 @@ Therefore, in this case, maximum sound intensity is detected by the receiver. If
 
 mathematically, Δ _r = n_ λ 2
 
-where, _n_ \= 1,3,... (n is odd)
+where, _n_ = 1,3,... (n is odd)
 
 then the two waves arriving from the paths _r_1 and _r_2 and reaching the receiver at any instant are out of phase (phase difference of π or 180°). They interfere destructively as shown in Figure 11.32. They will cancel each other.
 
@@ -2282,7 +2009,7 @@ phase difference = 2π λ
 
 i.e., ∆ ∆ϕ π λ
 
-\= 2 _r_ or ∆ ∆_r_ \= λ
+= 2 _r_ or ∆ ∆_r_ = λ
 
 π ϕ
 
@@ -2304,7 +2031,7 @@ Consider two sources A and B as shown in the figure below. Let the two sources e
 
 The distance between OA and OB are the same and hence, the waves starting from A and B reach O after covering equal distances (equal path lengths). Thus, the path difference between two waves at O is zero.
 
-_OA_ − _OB_ \= 0
+_OA_ − _OB_ = 0
 
 Since the waves are in the same phase, at the point O, the phase difference between two waves is also zero. Thus, the resultant intensity at the point O is maximum. Consider a point Y, such that the path difference between two waves is λ. Then the phase difference at Y is
 
@@ -2394,7 +2121,7 @@ _DB =_ 10m and _OE =_ 1
 
 2 (5) = 2.5m = FA
 
-_FB_ = _FA_ \+ _AB_ \= (2.5 m) + 1 m = 3.5 m
+_FB_ = _FA_ \+ _AB_ = (2.5 m) + 1 m = 3.5 m
 
 _x_ 2
 
@@ -2408,19 +2135,19 @@ _m_2
 
 The path difference ∆x = x2 − x1 = 10.6 m−10.1 m = 0.5 m. Required that this path difference
 
-∆_x_ \= λ 2
+∆_x_ = λ 2
 
-\=0.5 ⇒ _λ_\=1.0 m
+=0.5 ⇒ _λ_=1.0 m
 
 To obtain the frequency of source, we use
 
-_v_ = _λf_ ⇒ _f_ \= _v_ λ
+_v_ = _λf_ ⇒ _f_ = _v_ λ
 
-\= 343
+= 343
 
 1 =343 Hz
 
-\=0.3 _k_Hz
+=0.3 _k_Hz
 
 If the speakers were connected such that already the path difference is .
 
@@ -2428,7 +2155,7 @@ Now, the path difference combines with a path difference of . This gives a total
 
 **Note**  
 
-## Formation of beats
+### Formation of beats
 
 
 When two or more waves superimpose each other with slightly different frequencies, then a sound of periodically varying amplitude at a point is observed. This phenomenon is known as beats. The number of amplitude maxima per second is called beat frequency. If we have two sources, then their difference in frequency gives the beat frequency. Number of beats per second
@@ -2482,7 +2209,7 @@ _y_ = _A_ sin(ω1 t) + A sin(ω2 t)
 
 But ω1 = 2π_f_1 and ω2 = 2π_f_2
 
-Then _y_ \= _A_ sin(2π_f_1_t_) + _A_ sin(2π_f_2_t_)
+Then _y_ = _A_ sin(2π_f_1_t_) + _A_ sin(2π_f_2_t_)
 
 Using trigonometry formula
 
@@ -2506,7 +2233,7 @@ sin sin cos sin_C D C D C D_ \+ =
 
 2 2
 
-_y A f f t f f_ \=
+_y A f f t f f_ =
 
 −
 
@@ -2548,7 +2275,7 @@ _t_
 
 Let _y A f f_
 
-_tp_ \= −
+_tp_ = −
 
  
 
@@ -2598,7 +2325,7 @@ _y_ = _y_P sin(2_πf_avg_t_) (11.58)
 
 This represents a simple harmonic wave of frequency which is an arithmetic average of frequencies of the individual waves,
 
-_f_avg_\= f f_ 1 2
+_f_avg_= f f_ 1 2
 
 2
 
@@ -2670,11 +2397,11 @@ cos 2 2
 
   = ,
 
-or, (_f_1− _f_2 )_t_ \= _n_
+or, (_f_1− _f_2 )_t_ = _n_
 
 or, _t n_
 
-_f f_ \=
+_f f_ =
 
 −( )1 2
 
@@ -2684,7 +2411,7 @@ Hence, the time interval between two successive maxima is _t_2−_t_1 = _t_3−_
 
 1 2 _f f_−( )
 
-; _n_\=| _f_1 − _f_2|= 1
+; _n_=| _f_1 − _f_2|= 1
 
 1 2_t t_\- Therefore, the number of beats produced per second is equal to the reciprocal of the time interval between two consecutive maxima i.e., |f1 - f2|.
 
@@ -2750,7 +2477,7 @@ cos 2 2
 
 or, _t n_
 
-_f f_ \=
+_f f_ =
 
 \+ −
 
@@ -2776,7 +2503,7 @@ _t_2−_t_1 = _t_3−_t_2=...= 1
 
 1 2 _f f_−( ) ;
 
-_n_\=| _f_1 − _f_2|= 1
+_n_=| _f_1 − _f_2|= 1
 
 1 2_t t_\- Therefore, the number of beats produced per second is equal to the reciprocal of the time interval between two consecutive minima i.e., |_f_1 – _f_2|.
 
@@ -2796,11 +2523,11 @@ Consider two sound waves with wavelengths 5 _m_ and 6 _m_. If these two waves pr
 
 **_Solution_**
 
-Given _λ_1 = 5_m_ and _λ_2 = 6_m_ Velocity of sound waves in a gas is _v_ \= 330 _ms_\-1
+Given _λ_1 = 5_m_ and _λ_2 = 6_m_ Velocity of sound waves in a gas is _v_ = 330 _ms_\-1
 
 The relation between wavelength and
 
-velocity is _v_ \= _λf_ ⇒ _f_ = _v_ λ
+velocity is _v_ = _λf_ ⇒ _f_ = _v_ λ
 
 The frequency corresponding to wavelength
 
@@ -2842,7 +2569,7 @@ The number of beats produced is | _f_1 − _f_2| = |120 − 122| = |− 2|=2 bea
 
 **STANDING WAVES**
 
-## Explanation of stationary waves
+### Explanation of stationary waves
 
 
 When the wave hits the rigid boundary it bounces back to the original medium and can interfere with the original waves. A pattern is formed, which are known as standing waves or stationary waves. Consider two harmonic progressive waves (formed by strings) that have the same amplitude and same velocity but move in opposite directions. Then the displacement of the first wave (incident wave) is
@@ -2885,7 +2612,7 @@ sin(_kx_) =1 ⇒ kx = π π π 2
 
 where _m_ takes half integer or half integral values. The position of maximum amplitude is known as _antinode_. Expressing wave number in terms of wavelength, we can represent the anti-nodal positions as
 
-_x m m_ \=
+_x m m_ =
 
 +
 
@@ -2909,13 +2636,13 @@ For _m_ = 1 we have maximum at
 
 _x_1 3 4
 
-\= λ
+= λ
 
 For _m_ = 2 we have maximum at
 
 _x_2 5 4
 
-\= λ
+= λ
 
 and so on.
 
@@ -2949,7 +2676,7 @@ sin(_kx_)= 0 ⇒ _k x_ = 0,_π_,2_π_,3_π_,… = n _π_
 
 where _n_ takes integer or integral values. Note that the elements at these points do not vibrate (not move), and the points are called _nodes. The nthnodal positions is given by,_
 
-_x nn_ \= λ 2
+_x nn_ = λ 2
 
 where, n = 0,1,2,... (11.65)
 
@@ -2995,7 +2722,7 @@ For _nth_ mode, the distance between anti- node and neighbouring node is
 
 λ λ λ
 
-## Characteristics of stationary waves
+### Characteristics of stationary waves
 
 
 **(1)** Stationary waves are characterised by the confinement of a wave disturbance between two rigid boundaries. This means, the wave does not move forward or backward in a medium (does not advance), it remains steady at its place. Therefore, they are called “stationary waves or standing waves”.
@@ -3028,7 +2755,7 @@ P
 
 **Figure 11.34** Sonometer  
 
-## Stationary waves in sonometer
+### Stationary waves in sonometer
 
 
 **Sono** means _sound_ related, and sonometer implies sound-related measurements. It is a device for demonstrating the relationship between the frequency of the sound produced in the transverse standing wave in a string, and the tension, length and mass per unit length of the string. Therefore, using this device, we can determine the following quantities:
@@ -3081,7 +2808,7 @@ A transverse stationary or standing wave is produced and hence, at the knife edg
 
 If the length of the vibrating element is _l_ then
 
-_l l_\= ⇒ = λ λ 2
+_l l_= ⇒ = λ λ 2
 
 2
 
@@ -3089,13 +2816,13 @@ Let _f_ be the frequency of the vibrating element, _T_ the tension of in the str
 
 _f v l_
 
-_T_ \= =
+_T_ = =
 
 λ µ 1 2 in Hertz (11.66)
 
 Let _ρ_ be the density of the material of the string and _d_ be the diameter of the string. Then the mass per unit length μ,
 
-_μ_ \= Area × density = _πr_2_ρ_ \= πρ_d_2
+_μ_ = Area × density = _πr_2_ρ_ = πρ_d_2
 
 4  
 
@@ -3103,7 +2830,7 @@ frequency _f v l_
 
 _T d_
 
-\= = λ π ρ
+= = λ π ρ
 
 1 2
 
@@ -3113,7 +2840,7 @@ _T d_
 
 ∴ _f ld_
 
-_T_ \=
+_T_ =
 
 1 πρ
 
@@ -3125,7 +2852,7 @@ Let _f_ be the fundamental frequency of the string. If the string is divided int
 
 1 1 1 1
 
-1 2 3 _f f f f_ \= + +
+1 2 3 _f f f f_ = + +
 
 **_Solution_**
 
@@ -3153,7 +2880,7 @@ _l v f_1
 
 1 2 2
 
-\= ⇒ =
+= ⇒ =
 
 For the second length segment
 
@@ -3177,7 +2904,7 @@ _l v f_3
 
 3 2 2
 
-\= ⇒ =
+= ⇒ =
 
 Therefore, the total length
 
@@ -3195,17 +2922,17 @@ _v f f f f f_2 2 2 2
 
 1 2 1 2 3
 
-\= + + ⇒ = + +
+= + + ⇒ = + +
 
 |------|
 
 
   
 
-## Fundamental frequency and overtones
+### Fundamental frequency and overtones
 
 
-Let us now keep the rigid boundaries at _x_ \= 0 and _x_ = L and produce a standing waves by wiggling the string (as in plucking strings in a guitar). Standing waves with a specific wavelength are produced. Since, the amplitude must vanish at the boundaries, therefore, the displacement at the boundary must satisfy the following conditions
+Let us now keep the rigid boundaries at _x_ = 0 and _x_ = L and produce a standing waves by wiggling the string (as in plucking strings in a guitar). Standing waves with a specific wavelength are produced. Since, the amplitude must vanish at the boundaries, therefore, the displacement at the boundary must satisfy the following conditions
 
 _y_(_x_ = 0, _t_) = 0 and _y_(_x_ = _L, t_) = 0 (11.68)
 
@@ -3223,7 +2950,7 @@ an integer, L is the length between the two boundaries and λn is the specific w
 
 _ln L n_
 
-\=      
+=      
 
 2 (11.69)
 
@@ -3233,7 +2960,7 @@ Therefore, not all wavelengths are allowed. The (allowed) wavelengths should fit
 
 λ2 2 2
 
-\= 
+= 
 
   
 
@@ -3245,7 +2972,7 @@ For n = 3, the third mode of vibration has specific wavelength
 
 λ3 2 3
 
-\= 
+= 
 
   
 
@@ -3261,7 +2988,7 @@ _f v n v Ln_
 
 _n_
 
-\= = 
+= = 
 
   
 
@@ -3291,7 +3018,7 @@ _T_ 2 2
 
 2 1
 
-\= 
+= 
 
   
 
@@ -3333,7 +3060,7 @@ Consider a string in a guitar whose length is 80 cm and a mass of 0.32 g with te
 
 The velocity of the wave
 
-_v T_ \=
+_v T_ =
 
 µ
 
@@ -3351,13 +3078,13 @@ The length of the string, L = 80 cm = 0.8 m The mass of the string, m = 0.32 g =
 
 The tension in the string, T = 80 N
 
-_v_\= × −
+_v_= × −
 
 80 0 4 10 3.
 
-\= 447.2 m s-1
+= 447.2 m s-1
 
-The wavelength corresponding to the fundamental frequency _f_1 is _λ_1 = _2L_ \= 2 × 0.8 = 1.6 m The fundamental frequency f1 corresponding to the wavelength _λ_1
+The wavelength corresponding to the fundamental frequency _f_1 is _λ_1 = _2L_ = 2 × 0.8 = 1.6 m The fundamental frequency f1 corresponding to the wavelength _λ_1
 
 _f v Hz_1 1
 
@@ -3377,7 +3104,7 @@ _f_3 = 3_f_1 = 838.5 Hz
 
 _f_4 = 4_f_1 = 1118 Hz
 
-## Laws of transverse vibrations in stretched strings
+### Laws of transverse vibrations in stretched strings
 
 
 There are three laws of transverse vibrations of stretched strings which are given as follows:
@@ -3392,7 +3119,7 @@ _f C l_
 
 ∝ ⇒ = 1
 
-⇒_l_×_f_ \= C, where C is a constant  
+⇒_l_×_f_ = C, where C is a constant  
 
 **11.9**
 
@@ -3418,7 +3145,7 @@ _f_ µ 1 µ
 
 Consider a source and two observers (listeners). The source emits sound waves which carry energy. The sound energy emitted by the source is same regardless of whoever measures it, i.e., it is independent of any observer standing in that region. But the sound received by the two observers may be different; this is due to some factors like sensitivity of ears, etc. To quantify such thing, we define two different quantities known as intensity and loudness of sound.
 
-## Intensity of sound
+### Intensity of sound
 
 
 When a sound wave is emitted by a source, the energy is carried to all possible surrounding points. The average sound energy emitted or
@@ -3485,7 +3212,7 @@ _I power of the source_
 
 _r I_
 
-_r_ \= ⇒ ∝
+_r_ = ⇒ ∝
 
 4 1
 
@@ -3529,12 +3256,12 @@ _I I r r_2 1 1 2
 
 _I_2 = 0.25 × 10–2 W m–2
 
-## Loudness of sound
+### Loudness of sound
 
 
 Two sounds with same intensities need not have the same loudness. For example, the sound heard during the explosion of balloons in a silent closed room is very loud when compared to the same explosion happening in a noisy market. Though the intensity of the sound is the same, the loudness is not. If the intensity of sound is increased then loudness also increases. But additionally, not only does intensity matter, the internal and subjective experience of “how loud a sound is” i.e., the sensitivity of the listener also matters here. This is often called loudness. That is, loudness depends on both intensity of sound wave and sensitivity of the ear (It is purely observer dependent quantity which varies from person to person) whereas the intensity of sound does not depend on the observer. The loudness of sound is defined as _“the degree of sensation of sound produced in the ear or the perception of sound by the listener”._
 
-## Intensity and loudness of sound
+### Intensity and loudness of sound
 
 
 Our ear can detect the sound with intensity level ranges from 10-2 _Wm_\-2 to 20 _W m_\-2.
@@ -3545,7 +3272,7 @@ _L_ ∝ ln _I L_ = _k_ ln _I_
 
 where _k_ is a constant, which depends on the unit of measurement. The difference between two loudnesses, _L_1 and _L_0 measures the relative loudness between two precisely measured intensities and is called as sound intensity level. Mathematically, sound intensity level is
 
-∆_L_ \= _L_1−L0 = _k_ ln _I_1− _k_ ln_I_0 = _k_ ln _I I_
+∆_L_ = _L_1−L0 = _k_ ln _I_1− _k_ ln_I_0 = _k_ ln _I I_
 
 1
 
@@ -3585,7 +3312,7 @@ by multiplying and dividing by 10, we get
 
 _L I I_
 
-\= 
+= 
 
    
 
@@ -3611,7 +3338,7 @@ ln bel
 
 _L I I_
 
-\= 
+= 
 
    
 
@@ -3627,7 +3354,7 @@ For practical purposes, we use logarithm to base 10 instead of natural logarithm
 
 ΔL =10 log10 _L I I_
 
-\= 
+= 
 
    
 
@@ -3645,7 +3372,7 @@ log decibel (11.73)
 
 ΔL =10 log10 _L I I_
 
-_dB_\= 
+_dB_= 
 
    
 
@@ -3675,11 +3402,11 @@ _I I_
 
 0
 
-\= 105⇒ _I_1= 105 _I_0 = 105 × 10–12 Wm–2
+= 105⇒ _I_1= 105 _I_0 = 105 × 10–12 Wm–2
 
 _I_1 = 10–7 Wm–2
 
-Since three musical instruments are played, therefore, _Itotal_ \= 3_I_1 = 3 × 10–7 Wm–2.
+Since three musical instruments are played, therefore, _Itotal_ = 3_I_1 = 3 × 10–7 Wm–2.
 
 **11.10 VIBRATIONS OF AIR COLUMN**
 
@@ -3695,7 +3422,7 @@ displacement of the particles at the closed end. Therefore, nodes are formed at 
 
 Let us consider the simplest mode of vibration of the air column called the fundamental mode. Anti-node is formed at the open end and node at closed end. From the Figure 11.37, let _L_ be the length of the tube and the wavelength of the wave produced. For the fundamental mode of vibration, we have,
 
-_L or L_\= = _l_
+_L or L_= = _l_
 
 _l_1
 
@@ -3709,7 +3436,7 @@ _f v v L_1
 
 1 4
 
-\= = _l_ (11.75)
+= = _l_ (11.75)
 
 which is called the fundamental note.
 
@@ -3743,7 +3470,7 @@ nodes, for which we have, from example 11.20.
 
 λ2**\+ =**
 
-**\=**
+**=**
 
 N
 
@@ -3759,13 +3486,13 @@ A
 
 λ2 1 2
 
-λ2 2**\=**
+λ2 2**=**
 
 **Figure 11.38** second mode of vibration having two nodes and two anti-nodes
 
 _4L_ = 3_λ_2
 
-_L_\= 3
+_L_= 3
 
 4
 
@@ -3813,7 +3540,7 @@ ads to nodes at closed end and antinodes at tinode)
 
 λ1 2
 
-**\=**
+**=**
 
 
 
@@ -3857,7 +3584,7 @@ N **N N**
 
 We have, _4L_ = 5_λ_3
 
-_L_\= 5
+_L_= 5
 
 4
 
@@ -3883,7 +3610,7 @@ _L f_3
 
 5= = = λ
 
-is called _second over tone_, and since _n_ = 5 here, this is called fifth harmonic. Hence, the _closed organ pipe has only odd harmonics and frequency of the n_th _harmonic is fn **\=**_ (_2n+1_**)**_f_1. Therefore, the frequencies of harmonics are _in the ratio_
+is called _second over tone_, and since _n_ = 5 here, this is called fifth harmonic. Hence, the _closed organ pipe has only odd harmonics and frequency of the n_th _harmonic is fn **=**_ (_2n+1_**)**_f_1. Therefore, the frequencies of harmonics are _in the ratio_
 
 _f_1 _: f_2 _: f_3 _: f_4 _:_…= 1 **:** 3 **:** 5 **:** 7 **:** … (11.76)
 
@@ -3917,7 +3644,7 @@ both open ends, anti-nodes are formed. Let us consider the simplest mode of vibr
 
 From Figure 11.41, if _L_ be the length of the tube, the wavelength of the wave produced is given by
 
-_L or L_\= = _l_
+_L or L_= = _l_
 
 _l_1
 
@@ -3931,7 +3658,7 @@ _f v v L_1
 
 1 2
 
-\= = _l_
+= = _l_
 
 (11.78)
 
@@ -4021,7 +3748,7 @@ is called first over tone. Since n = 2 here, it is called the **_second harmonic
 
 The Figure 11.43 above shows the third mode of vibration having three nodes and four anti-nodes
 
-_L or L_ \= =
+_L or L_ = =
 
 3
 
@@ -4081,7 +3808,7 @@ pipe is _f v v l_1
 
 1 2 2
 
-\= = _l_
+= = _l_
 
 Therefore, _v l_
 
@@ -4210,11 +3937,11 @@ In order to avoid end correction, let us take the difference of equation (11.82)
 
 ⇒ _λ_ = 2Δ_L_
 
-The speed of the sound in air at room temperature can be computed by using the formula _v_ \= _f λ_ \= 2_f_ Δ_L_
+The speed of the sound in air at room temperature can be computed by using the formula _v_ = _f λ_ = 2_f_ Δ_L_
 
 Further, to compute the end correction, we use equation (11.81) and equation (11.82), we get
 
-_e L L_ \= −2 13 2
+_e L L_ = −2 13 2
 
 **EXAMPLE 11.27**
 
@@ -4230,15 +3957,15 @@ _λ =_ 343 343
 
 \-
 
-_\=_1.0 m
+_=_1.0 m
 
 Let the length of the resonant columns be _L1, L2 and L3. The first resonance occurs at_ length _L_1
 
 _L_1 _=_ λ 4
 
-_\=_ 1
+_=_ 1
 
-4 _\=_ 0.25 m
+4 _=_ 0.25 m
 
 The second resonance occurs at length L2  
 
@@ -4248,7 +3975,7 @@ _L_2 _=_ 3
 
 _l =_ 3
 
-4 _\=_ 0.75 m
+4 _=_ 0.75 m
 
 The third resonance occurs at length
 
@@ -4258,7 +3985,7 @@ _L_3 _=_ 5
 
 _l =_ 5
 
-4 _\=_ 1.25 m
+4 _=_ 1.25 m
 
 and so on. Since total length of the tube is 1.0 m the third and other higher resonances do not occur. Therefore, the minimum height of water Hmin for resonance is,
 
@@ -4274,11 +4001,11 @@ End correction
 
 _e L L_
 
-\= −
+= −
 
-\= −
+= −
 
-\=2 13 2
+=2 13 2
 
 0 7 3 0 2 2
 
@@ -4294,9 +4021,9 @@ Given two successive length (resonance) to be L1 = 20 cm and L2 = 85 cm
 
 The frequency is f = 256 Hz
 
-_v_ = _f λ_ \= 2_f_ Δ_L_ \= 2_f_ (_L_2 − _L_1)
+_v_ = _f λ_ = 2_f_ Δ_L_ = 2_f_ (_L_2 − _L_1)
 
-\= 2 × 256 × (85 − 20) × 10 −2 m s−1
+= 2 × 256 × (85 − 20) × 10 −2 m s−1
 
 _v_ = 332.8 m s−1
 
@@ -4332,7 +4059,7 @@ _vvL_ S
 
 Sound waves travel with the same speed _v_ in all directions radially away from the source in the form of spherical waves. The compressions (or wavefronts) of sound waves are represented by concentric circles in the Figure 11.45. The distance between two successive compressions is equal to its wavelength λ and the frequency of the wave is given by
 
-_f_ \= _v l_
+_f_ = _v l_
 
 (11.83)
 
@@ -4400,7 +4127,7 @@ also shown and are represented by two concentric circles. The second compression
 
 _T f_
 
-\= = 1 _l_
+= = 1 _l_
 
 _v_
 
@@ -4434,7 +4161,7 @@ A
 
 Now the listener is stationary and the source moves directly toward the listener (Figure 11.46(b)). Let the speed of the source be _vS_ which is less than the speed of sound _v_.
 
-In a time T, the first compression travels a distance _v T_ \=_l_ and the source moves a distance _vST_ . As a result, the distance between two successive compressions is decreased from _l_ to ′ = −_l l vST_ . Therefore, the wavelength observed by the listener is given by
+In a time T, the first compression travels a distance _v T_ =_l_ and the source moves a distance _vST_ . As a result, the distance between two successive compressions is decreased from _l_ to ′ = −_l l vST_ . Therefore, the wavelength observed by the listener is given by
 
 ′ = =− − 
 
@@ -4462,7 +4189,7 @@ _v v vl_
 
 _l_
 
-\= 
+= 
 
   
 
@@ -4816,7 +4543,7 @@ observer: The observed frequency due to train arriving station is
 
 _f fin s_
 
-\= −
+= −
 
 
 
@@ -4844,7 +4571,7 @@ _v v v_
 
 _f fout s_
 
-\= +
+= +
 
 
 
@@ -4908,19 +4635,19 @@ _y t_
 
 in on
 
-„ Wave number is given by _k rad m_\= −2 1π λ
+„ Wave number is given by _k rad m_= −2 1π λ
 
 .
 
 „ During interference the resultant inten
 
-intensity is square of the amplitude _I A_\=
+intensity is square of the amplitude _I A_=
 
 For constructive interference, I maximum
 
 For destructive interference, _I_ minimum
 
-\=
+=
 
 „ When we superimpose two or more wav
 
@@ -4940,11 +4667,11 @@ ests or troughs is known as wavelength, _λ_. int per second is known as frequen
 
 velocity is medium dependent. e in a stretched string depends on tension oes not depend on shape of the wave form.
 
-_v T ms_\= −
+_v T ms_= −
 
 µ 1 .
 
-c medium is _v E ms_\= −
+c medium is _v E ms_= −
 
 ρ 1 .
 
@@ -4952,11 +4679,11 @@ eflecting wall to hear an echo at 20°C is
 
 e dimension.
 
-sity is _I I I I I_\= + + 1 2 1 2
+sity is _I I I I I_= + + 1 2 1 2
 
 2 cos ,_j_ where the 2 .
 
-\= +( ) = +( )_I I A A_ 1 2
+= +( ) = +( )_I I A A_ 1 2
 
 2
 
@@ -4996,7 +4723,7 @@ log
 
 „ A closed organ pipe has only odd harm
 
-the _nth_ harmonic is _fn_ \= (2n + 1) _f_1. „ In a closed organ pipe the frequencies of
+the _nth_ harmonic is _fn_ = (2n + 1) _f_1. „ In a closed organ pipe the frequencies of
 
 _f_1 : _f_2 : _f_3 : _f_4 :... = 1 : 3 : 5 : 7 :...
 
@@ -5018,7 +4745,7 @@ onics and the corresponding frequency of
 
 harmonics are in the ratio
 
-nd frequency of the _nth_ harmonic is _fn_ \= n _f_1. f harmonics are in the ratio
+nd frequency of the _nth_ harmonic is _fn_ = n _f_1. f harmonics are in the ratio
 
 een the source of sound and the listener, the listener is different from the frequency Doppler effect.
 
@@ -5052,7 +4779,7 @@ Options for (1), (2) and (3), respectively are
 
 a) (B),(C) and (A) b) (C), (A) and (B) c) (A), (B) and (C) d) (B), (A) and (C)
 
-5. Eqution of travelling wave on a stretched string of linear density 5 g/m is _y_ \= 0.03 sin(450_t_ – 9_x_), where distance and time are measured in SI units. The tension in the string is a) 5 N b) 12.5 N c) 7.5 N d) 10 N
+5. Eqution of travelling wave on a stretched string of linear density 5 g/m is _y_ = 0.03 sin(450_t_ – 9_x_), where distance and time are measured in SI units. The tension in the string is a) 5 N b) 12.5 N c) 7.5 N d) 10 N
 
 6. A sound wave whose frequency is 5000 Hz travels in air and then hits the water surface. The ratio of its wavelengths in water and air is
 
@@ -5091,7 +4818,7 @@ c) _v t t_ 1 2 +( ) d) _v_(t t )1 2
 
 9. The displacement y of a wave travelling in the _x_ direction is given by
 
-_y t x_\= − +− ( x )sin ( )2 10 300 2
+_y t x_= − +− ( x )sin ( )2 10 300 2
 
 4
 
@@ -5119,7 +4846,7 @@ _x_ and _y_ are measured in metres and _t_ in second. The speed of the wave is (
 
 13. Let _y x_
 
-\= + 1
+= + 1
 
 1 2
 
@@ -5129,7 +4856,7 @@ of the wave propagating in the positive x-direction. At _t_ = 2 _s_, the amplitu
 
 _y x_
 
-\= + −
+= + −
 
 1 1 2 2( )
 
@@ -5189,7 +4916,7 @@ Doppler Effect. 12. What is meant by end correction in
 
 resonance air column apparatus?  
 
-13. Sketch the function _y_ \= _x_ \+ _a_. Explain your sketch.
+13. Sketch the function _y_ = _x_ \+ _a_. Explain your sketch.
 
 **14. Write down the factors affecting** velocity of sound in gases.
 
@@ -5203,7 +4930,7 @@ resonance air column apparatus?
 
 3. Show that the velocity of a travelling
 
-wave produced in a string is _v T_ \=
+wave produced in a string is _v T_ =
 
 µ
 

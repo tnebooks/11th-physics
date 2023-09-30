@@ -3,35 +3,31 @@ title: 'WORK, ENERGY AND POWER'
 weight: 4
 ---
 
+# WORK, ENERGY AND POWER
 
-
-
-
-The term work is used in diverse contexts in daily life. It refers to both physical as well as mental work. In fact, any activity can generally be called as work. But in Physics, the term work is treated as a physical quantity with a precise definition. Work is said to be done by the force when the force applied on a body displaces it. To do work, _energy_ is required. In simple words, energy is defined as the ability to do _work_. Hence, work and energy are equivalents and have same dimension. Energy, in Physics exists in different forms such as mechanical, electrical, thermal, nuclear and so on. Many machines consume one form of energy and deliver energy in a different form. In this chapter we deal mainly with mechanical energy and its two types namely kinetic energy and potential energy. The next
-
+---
 **Learning Objectives**
+*********
+In this unit, student is exposed to
+• definition of work
+• work done by a constant and a variable force
+• various types of energy
+• law of conservation of energy
+• vertical circular motion
+• definition of power
+• various types of collisions
+
+---
 
 # INTRODUCTION
 
 
-**In this unit, student is exposed to** • definition of work • work done by a constant and a variable force • various types of energy • law of conservation of energy • vertical circular motion • definition of power • various types of collisions
-
-_“Matter is Energy. Energy_  
-
-ENERGY AND POWER
-
+The term work is used in diverse contexts in daily life. It refers to both physical as well as mental work. In fact, any activity can generally be called as work. But in Physics, the term work is treated as a physical quantity with a precise definition. Work is said to be done by the force when the force applied on a body displaces it. To do work, energy is required. In simple words, energy is defined as the ability to do work. Hence, work and energy are equivalents and have same dimension. Energy, in Physics exists in different forms such as mechanical, electrical, thermal, nuclear and so on. Many machines consume one form of energy and deliver energy in a different form. In this chapter we deal mainly with mechanical energy and its two types namely kinetic energy and potential energy. The next
 quantity in this sequence of discussion is the rate of work done or the rate of energy delivered. The rate of work done is called _power_. A powerful strike in cricket refers to a hit on the ball at a fast rate. This chapter aims at developing a good understanding of these three physical quantities namely work, energy and power and their physical significance.
 
-## WORK
+###  WORK
 
-
-Let us consider a force ( 
-
-F), acting on a body which moves it by a displacement in some direction (d r
-
-
-
-) as shown in Figure 4.1
+Let us consider a force ( F), acting on a body which moves it by a displacement in some direction (d r ) as shown in Figure 4.1
 
 The expression for work done (W) by the force on the body is mathematically written as,
 

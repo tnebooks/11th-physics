@@ -1,4 +1,4 @@
 ## Dev
 ```sh
-hugo server --ignoreCache --themesDir ../
+hugo server --themesDir ../
 ```

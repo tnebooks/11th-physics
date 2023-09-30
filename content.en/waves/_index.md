@@ -1,11 +1,14 @@
 ---
 title: 'WAVES'
 weight: 11
+extensions:
+    - katex
 ---
 
-```
+---
 We are slowed down sound and light waves, a walking bundle of frequencies tuned into the cosmos. We are souls dressed up in sacred biochemical garments and our bodies are the instruments through which our souls play their music – Albert Einstein
-```
+
+---
 
 ---
 #### Learning Objectives
@@ -181,9 +184,9 @@ Write down
 
 **_Solution_**
 
-(a) _f_ <sub>c</sub> < _f_<sub>a</sub> < _f_<sub>b</sub>
+(a) _f_ (\\_c\\) < _f_(\\_a\\) < _f_(\\_b\\)
 
-(b) _λ_<sub>b</sub> < _λ_<sub>a</sub> < _λ_<sub>c</sub>
+(b) _λ_(\\_b\\) < _λ_(\\_a\\) < _λ_(\\_c\\)
 
 From the example 11.2, we observe that the frequency is inversely related to the wavelength, _f_ ~= 1/λ
 
@@ -197,9 +200,9 @@ Dimension of wavelength is, [**λ**] = _L_
 
 Frequency _f = 1/Time period_ , which implies that the dimension of frequency is,
 
-[f] = 1 / [_T_] = T<sup>-1</sup>
+[f] = 1 / [_T_] = T\\(^{-1}\\)
 
-⇒ [_λf_] = [_λ_][_f_]= _LT_<sup>-1</sup> = [velocity]
+⇒ [_λf_] = [_λ_][_f_]= _LT_\\(^{-1}\\) = [velocity]
 
 Therefore,
 
@@ -225,13 +228,13 @@ _velocity_, _v_ = _λf_ = λ/π2 = (2π _f_)/(2π / λ) = ω/ _k_
 
 **EXAMPLE 11.3**
 
-The average range of frequencies at which human beings can hear sound waves varies from 20 Hz to 20 kHz. Calculate the wavelength of the sound wave in these limits. (Assume the speed of sound to be 340 m s<sup>–1</sup>.
+The average range of frequencies at which human beings can hear sound waves varies from 20 Hz to 20 kHz. Calculate the wavelength of the sound wave in these limits. (Assume the speed of sound to be 340 m s\\(^{–1}\\).
 
 **_Solution_**
 
-λ<sub>1</sub> = v/f<sub>1</sub> = 340/20 = 17m
+λ(\\_1\\) = v/f(\\_1\\) = 340/20 = 17m
 
-λ<sub>2</sub> = v/f<sub>1</sub> = 340/20 x 10<sub>3</sub> = 0.017m 
+λ(\\_2\\) = v/f(\\_1\\) = 340/20 x 10(\\_3\\) = 0.017m 
 
 Therefore, the audible wavelength region is from 0.017 m to 17 m when the velocity of sound in that region is 340 m s–1.
 
@@ -261,7 +264,7 @@ T = 1/f = 1/0.25 = 4s
 
 The velocity of ocean wave is
 
-v = λf = 1.2 × 0.25 = 0.3 m s<sup>–1</sup>
+v = λf = 1.2 × 0.25 = 0.3 m s\\(^{–1}\\)
 
 ---
 
@@ -290,7 +293,7 @@ Consider a string whose one end is attached to a wall. Then compute the followin
 |---|---|---|
 |**(a)** Wavelength|λ = 6 m|λ = 2 m|
 |**(b)** Frequency|_f_ = 2 Hz|_f_ = 6 Hz|
-|**(c)** Velocity|_v_ = 6 × 2 = 12 m s<sup>–1</sup>|_v_ = 2 × 6 = 12 m s <sup>–1</sup>|
+|**(c)** Velocity|_v_ = 6 × 2 = 12 m s\\(^{–1}\\)|_v_ = 2 × 6 = 12 ms \\(^{–1}\\)|
 
 This means that the speed of the wave along a string is a constant. Higher the frequency, shorter the wavelength and vice versa, and their product is velocity which remains the same.
 
@@ -322,17 +325,22 @@ dm = μ dl   ....(11.6)
 
 The elemental string AB has a curvature which looks like an arc of a circle with centre at O, radius R and the arc subtending an angle θ at the origin O as shown in Figure 11.15(b). The angle θ can be written in terms of arc length and radius as θ = _dl_ / _R_ . The centripetal acceleration supplied by the tension in the string is
 
-a<sub>cp</sub> = _v_<sup>2</sup> _R_    .....(11.7)
+a(\\_{cp}\\) = _v_\\(^{2}\\) _R_    .....(11.7)
 
 Then, centripetal force is
 
-F<sub>cp</sub> = (_dm_) _v_<sup>cp</sup> / _R_   .....(11.8)
+F(\\_{cp}\\) = (_dm_) _v_\\(^{cp}\\) / _R_   .....(11.8)
 
 From eqn 11.6,
 
-(_dm_) _v_<sup>cp</sup> / _R_ = µv<sup>2</sup> dl / R   .....(11.9)
+(_dm_) _v_ \\(^{cp}\\) / _R_ = µv\\(^{2}\\) dl / R   .....(11.9)
 
 The tension T acts along the tangent of the elemental segment of the string at A and B. Since the arc length is very small, variation in the tension force can be ignored. We can resolve T into horizontal component
+
+
+{{< katex display >}}{{< /katex >}}
+
+T cos \\(\frac{θ}{2}\\)
 
 The horizontal components at A and B are equal in magnitude but opposite in direction; therefore, they cancel each other. Since the elemental arc length AB is taken to be very small, the vertical components at A and B appears to acts vertical towards the centre of the arc and hence, they add up. The net radial force Fr is
 

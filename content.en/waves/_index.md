@@ -338,8 +338,6 @@ From eqn 11.6,
 The tension T acts along the tangent of the elemental segment of the string at A and B. Since the arc length is very small, variation in the tension force can be ignored. We can resolve T into horizontal component
 
 
-<!-- {{< katex display >}} {{< /katex >}} -->
-
 T cos \\(\frac{θ}{2}\\)
 
 The horizontal components at A and B are equal in magnitude but opposite in direction; therefore, they cancel each other. Since the elemental arc length AB is taken to be very small, the vertical components at A and B appears to acts vertical towards the centre of the arc and hence, they add up. The net radial force Fr is

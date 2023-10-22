@@ -338,7 +338,7 @@ From eqn 11.6,
 The tension T acts along the tangent of the elemental segment of the string at A and B. Since the arc length is very small, variation in the tension force can be ignored. We can resolve T into horizontal component
 
 
-{{< katex display >}}{{< /katex >}}
+<!-- {{< katex display >}} {{< /katex >}} -->
 
 T cos \\(\frac{θ}{2}\\)
 

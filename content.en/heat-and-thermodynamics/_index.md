@@ -2,37 +2,44 @@
 title: 'HEAT AND THERMODYNAMICS'
 weight: 8
 ---
-
+![Ramanujan](image_72.JPG)
   
 
+<!-- **8.1** -->
+
+<!-- **Learning Objectives**
+
+**In this unit, a student is exposed to** 
+• meaning of heat, work and temperature • ideal gas laws • concept of specific heat capacity • thermal expansion of solids, liquids and gases • various states of matter • Newton’s law of cooling • Stefan’s law and Wien’s law • meaning of thermodynamic equilibrium • meaning of internal energy • zeroth and first laws of thermodynamics • various thermodynamic processes • work done in various thermodynamic processe • second law of thermodynamics • working of carnot engine and refrigerator -->
+
 **8.1**
-
-**Learning Objectives**
-
-**In this unit, a student is exposed to** • meaning of heat, work and temperature • ideal gas laws • concept of specific heat capacity • thermal expansion of solids, liquids and gases • various states of matter • Newton’s law of cooling • Stefan’s law and Wien’s law • meaning of thermodynamic equilibrium • meaning of internal energy • zeroth and first laws of thermodynamics • various thermodynamic processes • work done in various thermodynamic processe • second law of thermodynamics • working of carnot engine and refrigerator
-
 **HEAT AND TEMPERATURE**
 
-## Introduction
-
-
-Temperature and heat play very important role in everyday life. All species can function properly only if its body is maintained at a particular temperature. In fact life on Earth is possible because the Sun maintains its temperature. Understanding the meaning of temperature and heat are very crucial to understand the nature. Thermodynamics
-
+**8.1.1 Introduction**  
+<!-- ## Introduction -->
 
 
 
+Temperature and heat play very important role in everyday life. All species can function properly only if its body is maintained at a particular temperature. In fact life on Earth is possible because the Sun maintains its temperature. Understanding the meaning of temperature and heat are very crucial to understand the nature. Thermodynamics is a branch of physics which explains the phenomena of temperature, heat etc. The concepts presented in this chapter will help us to understand the terms ‘hot’ and ‘cold’ and also differentiate heat from temperature. In thermodynamics, heat and temperature are two different but closely related parameters.
 
-_Classical thermodynamics…. is the only physical t_  
+
+
+
+
+<!-- _Classical thermodynamics…. is the only physical t_  
 
 s
 
 ND THERMODYNAMICS
 
-_heory of universal content which I am convinced… will never be overthrown. –_ Albert Einstein
+_heory of universal content which I am convinced… will never be overthrown. –_ Albert Einstein -->
 
-is a branch of physics which explains the phenomena of temperature, heat etc. The concepts presented in this chapter will help us to understand the terms ‘hot’ and ‘cold’ and also differentiate heat from temperature. In thermodynamics, heat and temperature are two different but closely related parameters.
 
-## Meaning of heat
+
+<!-- is a branch of physics which explains the phenomena of temperature, heat etc. The concepts presented in this chapter will help us to understand the terms ‘hot’ and ‘cold’ and also differentiate heat from temperature. In thermodynamics, heat and temperature are two different but closely related parameters. -->
+
+**8.1.2 Meaning of heat** 
+<!-- ## Meaning of heat -->
 
 
 When an object at higher temperature is placed in contact with another object at lower temperature, there will be a spontaneous flow of energy from the object
@@ -50,28 +57,33 @@ water has more heat or less heat’. These words are meaningless. Heat is not a 
 
 **Note**
 
-**EXAMPLE 8.1** a. ‘A lake has more rain’. b. ‘A hot cup of coffee has more heat’.
+**E X A M P L E  8.1** 
+a. ‘A lake has more rain’. b. ‘A hot cup of coffee has more heat’.
 
 What is wrong in these two statements?
 
-**_Solution_** a. When it rains, lake receives water
+**_Solution_**
+a. When it rains, lake receives water
 
 from the cloud. Once the rain stops, the lake will have more water than before raining. Here ‘raining’ is a process which brings water from the cloud. Rain is not a quantity rather it is water in transit. So the statement ‘lake has more rain’ is wrong, instead the ‘lake has more water’ will be appropriate.  
 
 b. When heated, a cup of coffee receives heat from the stove. Once the coffee is taken from the stove, the cup of coffee has more internal energy than before. ‘Heat’ is the energy in transit and which flows from an object at higher temperature to an object at lower temperature. Heat is not a quantity. So the statement ‘A hot cup of coffee has more heat’ is wrong, instead ‘coffee is hot’ will be appropriate.
 
-## Meaning of work
+**8.1.2 Meaning of work**
+
 
 
 When you rub your hands against each other the temperature of the hands increases. You have done some work on your hands by rubbing. The temperature of the hands increases due to this work. Now if you place your hands on the chin, the temperature of the chin increases. This is because the hands are at higher temperature than the chin. In the above example, the temperature of hands is increased due to work and temperature of the chin is increased due to heat transfer from the hands to the chin. It is shown in the Figure 8.1
 
 By doing work on the system, the temperature in the system will increase and sometimes may not. Like heat, work is also
 
-**Figure 8.1 Difference between work and** heat
+![Ramanujan](image_66.JPG)
 
-**A person rubbing his hands**
+Figure 8.1 Difference between work and heat
 
-**Keeping the hands on chin**
+<!-- **A person rubbing his hands**
+
+**Keeping the hands on chin** -->
 
 
 
@@ -82,7 +94,8 @@ not a quantity and through the work energy is transferred to the system . So we 
 
 Either the system can transfer energy to the surrounding by doing work on surrounding or the surrounding may transfer energy to the system by doing work on the system. For the transfer of energy from one body to another body through the process of work, they need not be at different temperatures.
 
-## Meaning of temperature
+**8.1.4 Meaning of temperature**
+<!-- ## Meaning of temperature -->
 
 
 Temperature is the degree of hotness or coolness of a body. Hotter the body higher is its temperature. The temperature will determine the direction of heat flow when two bodies are in thermal contact.
@@ -92,10 +105,12 @@ The SI unit of temperature is kelvin (K).
 In our day to day applications, **_Celsius_** (˚C) and **_Fahrenheit_** (°F) scales are used.
 
 Temperature is measured with a thermometer. The conversion of temperature from one scale to other scale is given in Table 8.1
+<!-- ![Alt text](image-1.png) -->
+![Ramanujan](image_73.JPG)
 
 **Table 8.1** Temperature conversion Scale To Kelvin From Kelvin
 
-Celsius K=°C + 273.15 °C = K − 273.15
+<!-- Celsius K=°C + 273.15 °C = K − 273.15
 
 Fahrenheit K=(°F + 459.67)÷1.8 °F=(K × 1.8)-459.67
 
@@ -105,17 +120,22 @@ Celsius °F=(1.8 × °C) + 32 °C = (°F − 32)÷1.8
 
 Scale To Celsius From Celsius
 
-Fahrenheit °C=(°F − 32)÷1.8 °F = (1.8 × °C) + 32  
+Fahrenheit °C=(°F − 32)÷1.8 °F = (1.8 × °C) + 32   -->
 
-# THERMAL PROPERTIES OF MATTER
+<!-- **8.2** -->
+**8.2 THERMAL PROPERTIES OF MATTER**
+<!-- # THERMAL PROPERTIES OF MATTER -->
 
 
-## Boyle’s law, Charles’ law and ideal gas law
+<!-- ## 8.2.1 Boyle’s law, Charles’ law and ideal gas law -->
+**8.2.1 Boyle’s law, Charles’ law and ideal gas law**
 
 
 For a given gas at low pressure (density) kept in a container of volume V, experiments revealed the following information.
 
 � When the gas is kept at constant temperature, the pressure of the gas is inversely proportional to the volume.
+
+
 
 _P V_
 
@@ -129,67 +149,57 @@ pressure, the volume of the gas is directly proportional to absolute temperature
 
 _PV_ = _CT._ Here C is a positive constant. We can infer that C is proportional to the number of particles in the gas container by considering the following argument. If we take two containers of same type of gas with same volume V, same pressure P and same temperature T, then the gas in each container obeys the above equation. _PV_ = _CT._ If the two containers of gas is considered as a single system, then the pressure and temperature of this combined system will be same but volume will be twice and number of particles will also be double as shown in Figure 8.2
 
+![Alt text](image_67.png)
+
 
 
 
   
 
-For this combined system, V becomes 2V, so C should also double to match
-
-with the ideal gas equation _P V T_
-
-_C_( )2 2= . It
-
-implies that C must depend on the number of particles in the gas and also should have
-
-the dimension of _PV T_ 
-
-   
-
-   = −JK 1 . So we can
-
-write the constant C as k times the number of particles N. Here k is the Boltzmann constant (1.381×10−23 JK−1) and it is found to be a universal constant. So the ideal gas law can be stated as follows
+For this combined system, V becomes 2V, so C should also double to match with the ideal gas equation $ \frac{P(2V)}{T} = 2C $. It implies that C must depend on the number of particles in the gas and also should have the dimension of \[\begin{bmatrix}
+\frac{PV}{T}  \end{bmatrix} = -JK_1
+\]   So we can write the constant C as k times the number of particles N. 
+Here k is the Boltzmann constant (1.381×10−23 JK−1) and it is found to be a universal constant. So the ideal gas law can be stated as follows
 
 _PV_ \= _NkT_ (8.1)
 
 The equation (8.1) can also be expressed in terms of mole.
 
-_Mole is the practical unit to express the amount of gas. One mole of any substance is the amount of that substance which contains Avogadro number (N_A_) of particles (such as atoms or molecules). The Avogadro’s number NA is defined as the number of carbon atoms contained in exactly 12 g of 12C ._
+_Mole is the practical unit to express the amount of gas. One mole of any substance is the amount of that substance which contains Avogadro number (N<sub>A</sub>) of particles (such as atoms or molecules). The Avogadro’s number N<sub>A</sub> is defined as the number of carbon atoms contained in exactly 12 g of <sup>12</sup>C ._
 
 Suppose if a gas contains μ mole of particles then the total number of particles can be written as
 
-**Figure 8.2** Ideal gas law
+<!-- **Figure 8.2** Ideal gas law -->
 
-**P,V,T,N P,V,T,N**
+<!-- **P,V,T,N P,V,T,N**
 
 **Two Separate systems**  
 
-_N_ \= μ _N_A (8.2)
+_N_ \= μ _N_A (8.2) -->
+N = μ N<sub>A</sub>
 
-where _N_A is Avogadro number (6.023 ×1023mol–1)
+where N<sub>A</sub> is Avogadro number (6.023 × 10<sup>23</sup> mol<sup>-1</sup>)
 
-Substituting for N from equation (8.2), the equation (8.1) becomes
+Substituting for N from equation (8.2), the equation (8.1) becomes 
+_PV = μ N<sub>A</sub> kT_. Here   _N<sub>A</sub>k =R_ called universal gas constant and its value is 8.314 J /mol. K. So the ideal gas law can be written for μ mole of gas as\[ PV = \mu RT \]
 
-_PV_ = μ _N_A_kT_. Here _N_A_k=R_ called universal gas constant and its value is 8.314 J /mol. K. So the ideal gas law can be written for μ mole of gas as
-
-_PV_ = μ_RT_ (8.3)
 
 This is called the equation of state for an ideal gas. It relates the pressure, volume and temperature of thermodynamic system at equilibrium.
 
-**EXAMPLE 8.2**
+**E X A M P L E  8.2**
 
 A student comes to school by a bicycle whose tire is filled with air at a pressure 240 kPa at 27°C. She travels 8 km to reach the school and the temperature of the bicycle tire increases to 39°C. What is the change in pressure in the tire when the student reaches school?
 
-**P,2V,T,2N**
+<!-- **P,2V,T,2N**
 
-**Single system**
+**Single system** -->
 
 
 
 
   
 
-_N PV kT_
+<!-- _N PV kT_
 
 \= = × × × × ×
 
@@ -211,65 +221,42 @@ _N PV kT_
 
 Pa
 
-JK K
+JK K -->
 
+![Ramanujan](image_10.png)
 **_Solution_**
 
-We can take air molecules in the tire as an ideal gas. The number of molecules and the volume of tire remain constant. So the air molecules at 27°C satisfies the ideal gas equation _P_1_V_1 = _NkT_1 and at 39°C it satisfies P2V2 = NkT2
+We can take air molecules in the tire as an ideal gas. The number of molecules and the volume of tire remain constant. So the air molecules at 27°C satisfies the ideal gas equation \( nP_1V_1 = NkT_1 \) and at 39°C it satisfies \( nP_2V_2 = NkT_2 \) 
 
 But we know
 
-_V_1 = _V_2 = _V_
 
-_PV P V_
 
-_NkT NkT_
 
-1
+V₁ = V₂ = V
 
-2
-
-1
-
-2
-
-\=
-
-_P P_
-
-_T T_
-
-1
-
-2
-
-1
-
-2
-
-\=
-
-_P T T_
-
-_P_2 2
-
-1 1=
-
-_P K_
-
-_K Pa kPa_2
-
-3312 300
-
-240 10 249 6= × × = .
+PV = NkT
+\[
+\frac{P_1V}{P_2V} = \frac{NkT}{NkT}  \] 
+\[\frac{P_1}{P_2} =\frac{T_1}{T_2} \]
+\[
+  P_2 = \frac{T_1}{T_2}P_1
+\]
+\[
+  P_2 = \frac{312K}{300K}*240*10  Pa={249.6} kPa
+\]
+10<sub>3</sub>
 
 **EXAMPLE 8.3**
 
 When a person breaths, his lungs can hold up to 5.5 Litre of air at body temperature 37°C and atmospheric pressure (1 atm =101 kPa). This Air contains 21% oxygen. Calculate the number of oxygen molecules in the lungs.  
 
-**_V_ \= 5.5 L**
 
-**_P_ = 101 kPa _T_ = 310 K**
+
+<!-- **_V_ \= 5.5 L**
+
+**_P_ = 101 kPa _T_ = 310 K** -->
+![Alt text](image_69.png)
 
 **_Solution_**
 
@@ -279,9 +266,9 @@ _PV_ = _NkT_
 
 Here volume is given in the Litre. 1 Litre is volume occupied by a cube of side 10 cm. 1Litre \= 10cm × 10cm × 10cm \= 10–3 m3
 
-_N PV kT_
+<!-- _N PV kT_ -->
 
-\= = × × × × ×
+<!-- \= = × × × × ×
 
 \= × −
 
@@ -309,11 +296,16 @@ JK K
 
 23 .
 
-m Molecules
+m Molecules -->
+
+\[
+N =\frac{PV}{kT} = \frac{1.01 \times 10^5 Pa\times 5.5\times 10^{-23}\times m^{3}}{1.38 \times 10^{-23} JK^{-23}\times 310K}
+\]
 
 Only 21% of N are oxygen. The total number of oxygen molecules
+\(1.29 \times 10^{23} \times \frac{21}{100}\)
 
-\= 1.29 × 1023 × 21 100
+<!-- \= 1.29 × 1023 × 21 100 -->
 
 Number of oxygen molecules = 2.7 × 1022 molecules
 
@@ -370,6 +362,8 @@ the volume of one mole of gas at room temperature. It is 24.6 L.
 
 Estimate the mass of air in your class room at NTP. Here NTP implies normal temperature (room temperature) and 1 atmospheric pressure.
 
+![Ramanujan](image_11.png)
+
 **_Solution_**
 
 The average size of a class is 6m length, 5 m breadth and 4 m height. The volume of the room V = 6 × 5 × 4 = 120m3. We can  
@@ -388,7 +382,8 @@ m m. × −
 
 Air is the mixture of about 20% oxygen, 79% nitrogen and remaining one percent are argon, hydrogen, helium, and xenon. The molar mass of air is 29 gmol–1. So the total mass of air in the room _m_ = 4878 × 29 × 10−3 = 141.4kg.
 
-## Heat capacity and specific heat capacity
+<!-- ## Heat capacity and specific heat capacity -->
+**8.2.2 Heat capacity and specific heat capacity**
 
 
 Take equal amount of water and oil at temperature 27°C and heat both of them till they reach the temperature 50°C. Note down the time taken by the water and oil to reach the temperature 50°C. Obviously these times are not same. We can see that water takes more time to reach 50°C than oil. It implies that water requires more heat energy to raise its temperature than oil. Now take twice the amount of water at 27°C and heat it up to 50°C , note the time taken for this rise in temperature. The time taken by the water is now twice compared to the previous case.
@@ -491,12 +486,16 @@ The SI unit for molar specific heat capacity is J mol–1 K–1 . It is also a p
 
   
 
-## Thermal expansion of solids, liquids and gases
+<!-- ## Thermal expansion of solids, liquids and gases -->
+**8.2.3 Thermal expansion of solids, liquids and gases**
 
 
 _Thermal expansion is the tendency of matter to change in shape, area, and volume due to a change in temperature._
 
 All three states of matter (solid, liquid and gas) expand when heated. When a solid is heated, its atoms vibrate with higher amplitude about their fixed points. The relative change in the size of solids is small. Railway tracks are given small gaps so that in the summer, the tracks expand and do not buckle. Railroad tracks and bridges have expansion joints to allow them to expand and contract freely with temperature changes. It is shown in Figure 8.3
+
+![Ramanujan](image_14.png)
+![Ramanujan](image_15.png)
 
 _L_ _T_
 
@@ -665,7 +664,9 @@ in cold water, the egg shell can be removed easily. It is because of the differe
 
 **EXAMPLE 8.6**
 
-Eiffel tower is made up of iron and its height is roughly 300 m. During winter season (January) in France the temperature is 2°C and in hot summer its average temperature 25°C. Calculate the change in height of Eiffel tower between summer and winter. The linear thermal expansion coefficient for iron α = 10 ×10−6 per °C  
+Eiffel tower is made up of iron and its height is roughly 300 m. During winter season (January) in France the temperature is 2°C and in hot summer its average temperature 25°C. Calculate the change in height of Eiffel tower between summer and winter. The linear thermal expansion coefficient for iron α = 10 ×10−6 per °C 
+
+![Ramanujan](image_16.png)
 
 **_Solution_**
 
@@ -758,12 +759,16 @@ For a given specimen,
 
 **Note**
 
-## Anomalous expansion of water
+<!-- ## Anomalous expansion of water -->
+**8.2.4 Anomalous expansion of water**
+
 
 
 Liquids expand on heating and contract on cooling at moderate temperatures. But water exhibits an anomalous behavior. It contracts on heating between 0˚C and 4˚C. The volume of the given amount of water decreases as it is cooled from room temperature, until it reach 4˚C . Below 4˚C the volume increases and so the density decreases. This means that the water has a maximum density at 4˚C . This behavior of water is called anomalous expansion of water. It is shown in the Figure 8.5
 
 In cold countries during the winter season, the surface of the lakes will be at lower temperature than the bottom as shown in the Figure 8.6. Since the solid water (ice) has lower density than its liquid form, below 4°C, the frozen water will be
+
+![Alt text](image-70.png)
 
 Temperatureº C 0 1 2 3 4 5 6 7 8
 
@@ -803,6 +808,7 @@ peratureº C
 
 on the top surface above the liquid water (ice floats). This is due to the anomalous expansion of water. As the water in lakes and ponds freeze only at the top the species living in the lakes will be safe at the bottom.
 
+![Alt text](image_71.png)
 **Figure 8.6** Anomalous expansion of water in lakes
 
 0°C 1 2 3 4
@@ -2008,6 +2014,8 @@ object at high temperature to that in low temperature. According to caloric flui
 
 A student had a breakfast of 200 food calories. He thinks of burning this energy by drawing water from the well and watering the trees in his school. Depth of the well is about 25 m. The pot can hold 25L of water and each tree requires one pot of water. How many trees can he water? (Neglect the mass of the pot and the energy spent by walking. Take g =10 m s-2)
 
+![Ramanujan](image_20.png)
+
 **_Solution_**
 
 To draw 25 L of water from the well, the student has to do work against gravity by burning his energy.
@@ -2112,6 +2120,8 @@ Work done on the system (by the person while stirring), W = -30 kJ = −30,000J 
 Jogging every day is good for health. Assume that when you jog a work of 500 kJ is done and 230 kJ of heat is given off. What is the change in internal energy of your body?  
 
 **_Solution_**
+
+![Ramanujan](image_21.png)
 
 Work done by the system (body), W = +500 kJ
 
@@ -2852,6 +2862,8 @@ This implies that the work is done by the gas at the expense of internal energy 
 
 **Examples:**
 
+![Ramanujan](image_24.png)
+
 **Figure 8.29** (a) When the tyre bursts the air expands so quickly that there is no time to exchange heat with the surroundings.
 
 **Figure 8.29** (b): When the gas is compressed or expanded so fast, the gas cannot exchange heat with surrounding even though there is no thermal insulation.
@@ -2867,7 +2879,7 @@ nsion
 
 
 
-  
+  ![Ramanujan](image_25.png)
 
 **Figure 8.29** (c): When the warm air rises from the surface of the Earth, it adiabatically expands. As a result the water vapor cools and condenses into water droplets forming a cloud.
 
@@ -2967,6 +2979,7 @@ Adiabatic Compression
 (The proof of equation (8.39) left as an exercise).
 
 **EXAMPLE 8.18**
+![Ramanujan](image_27.png)
 
 We often have the experience of pumping air into bicycle tyre using hand pump. Consider the air inside the pump as a thermodynamic system having volume V at atmospheric pressure and room temperature, 27°C. Assume that the nozzle of the tyre is blocked and you push the pump to a volume 1/4 of V. Calculate the final temperature of air in the pump? (For air , since the nozzle is blocked air will not flow into tyre and it can be treated as an adiabatic compression). Take γ for air = 1.4
 
@@ -3011,6 +3024,8 @@ T2 ≈ 522 _K_ or 2490C This temperature is higher than the boiling point of wat
 When the piston is compressed so quickly that there is no time to exchange heat to the surrounding, the
 
 temperature of the gas increases rapidly. This is shown in the figure. This principle is used in the diesel engine. The air-gasoline mixer is compressed so quickly (adiabatic compression) that the temperature increases enormously, which is enough to produce a spark.
+
+![Ramanujan](image_26.png)
 
 **Work done in an adiabatic process:** Consider μ moles of an ideal gas enclosed in a cylinder having perfectly non conducting walls and base. A frictionless and insulating piston of cross sectional area A is fitted in the cylinder as shown in Figure 8.31.
 
@@ -3375,6 +3390,8 @@ _Vf_
 
 (ii) Most of the cooking processes in our kitchen are isobaric processes. When the food is cooked in an open vessel, the pressure above the food is always at atmospheric pressure. This is shown in Figure 8.34
 
+![Ramanujan](image_28.png)
+
 **Figure 8.34** Isobaric process
 
 The PV diagram for an isobaric process is a horizontal line parallel to volume axis as shown in Figure 8.35. Figure 8.35 (a) represents isobaric process where volume decreases Figure 8.35 (b) represents isobaric process where volume increases
@@ -3730,6 +3747,8 @@ Suppose a system loses heat to the surroundings through conducting walls by keep
 **Examples:** 1\. When food is cooked by closing with a
 
 lid as shown in figure.
+
+![Ramanujan](image_29.png)
 
 
 
@@ -5493,6 +5512,7 @@ entropy
 **S U M M A R Y**
 
 In hot summer, we use earther The pot reduces the temperatu the earthern pot act as a refrig is the basic necessity for heat
+![Ramanujan](image_56.png)
 
 earthern pot, the cooling process is not due cooling occurs due to evaporation of water m through pores of the pot. Once the water m never come back to the pot. Even though the to open atmosphere, it is not a violation of inside the pot is an open thermodynamic sys always increases.  
 
@@ -5982,6 +6002,7 @@ refrigerator.
 **IV. Exercises**
 
 **1\.** Calculate the number of moles of air is in the inflated balloon at room temperature as shown in the figure.
+![Ramanujan](image_58.png)
 
 The radius of the balloon is 10 cm, and pressure inside the balloon is 180 kPa.
 
@@ -6205,7 +6226,9 @@ s in school physics, Mir Publishers
 
   
 
-**Heat and Ther**
+**Heat and Thermodynamics**
+
+![Ramanujan](image_61.png)
 
 Through this activity you will be able to learn the PV diagrams for various
 
@@ -6220,6 +6243,11 @@ Diagram ”.
 • Now select a different temperature, change th pressure both in the left image and graph.
 
 • Repeat the same with different values and t helps to understand isothermal process.
+
+![Ramanujan](image_62.png)
+![Ramanujan](image_63.png)
+![Ramanujan](image_64.png)
+![Ramanujan](image_65.png)
 
 **URL:** http://physics.bu.edu/~duffy/HTML5/PV\_diagram.htm
 

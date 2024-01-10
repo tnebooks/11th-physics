@@ -4,6 +4,8 @@ weight: 1
 ---
 
 ---
+![qr_code](qr_code.png)
+
 **Learning Objectives**
 
 **In this unit, the student is exposed to** 
@@ -68,7 +70,7 @@ An attempt to explain a macroscopic system in terms of its microscopic constitue
 
 Physics as a fundamental science helps to uncover the laws of nature. The language of its expression is mathematics. In ancient times, humans lived with nature – their lifestyles were integrated with nature. They could understand the signals from the movement of the stars and other celestial bodies. They could determine the time to sow and reap by watching the sky. Thus, astronomy and mathematics were the first disciplines to be developed. The chronological development of various branches of physics is presented in Appendix A1.1. The various branches of physics are schematically shown in figure 1.1. The essential focus of different areas is given in Table 1.1.
 
-![Alt text](<fig 1.1.png>)
+![Branches Of Physics](<fig 1.1.png>)
 
 **Figure 1.1** Branches of Physics
 

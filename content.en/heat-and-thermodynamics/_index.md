@@ -322,29 +322,15 @@ Calculate the volume of one mole of any gas at STP and at room temperature (300K
 
 Here STP means standard temperature (T=273K or 0°C) and Pressure (P=1 atm or 101.3 kPa)
 
-We can use ideal gas equation _V RT P_
-
-\= µ .
+We can use ideal gas equation \[
+\frac{muRT}{P} = V
+\]
 
 Here µ = 1 mol and R =8.314 J/mol.K.
 
 By substituting the values
 
-_V_ \= × −
 
-( )( . )( )
-
-.
-
-1 8 314 273
-
-1 013 10 5 2
-
-mol J
-
-mol K K
-
-Nm
 
 \=22.4 × 10–3 m3
 

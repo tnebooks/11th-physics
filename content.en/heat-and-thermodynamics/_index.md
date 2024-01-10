@@ -2,7 +2,7 @@
 title: 'HEAT AND THERMODYNAMICS'
 weight: 8
 ---
-![Ramanujan](image_72.JPG)
+![Ramanujan](image_72.jpg)
   
 
 <!-- **8.1** -->
@@ -77,7 +77,7 @@ When you rub your hands against each other the temperature of the hands increase
 
 By doing work on the system, the temperature in the system will increase and sometimes may not. Like heat, work is also
 
-![Ramanujan](image_66.JPG)
+![Ramanujan](image_66.jpg)
 
 Figure 8.1 Difference between work and heat
 
@@ -106,7 +106,7 @@ In our day to day applications, **_Celsius_** (˚C) and **_Fahrenheit_** (°F) s
 
 Temperature is measured with a thermometer. The conversion of temperature from one scale to other scale is given in Table 8.1
 <!-- ![Alt text](image-1.png) -->
-![Ramanujan](image_73.JPG)
+![Ramanujan](image_73.jpg)
 
 **Table 8.1** Temperature conversion Scale To Kelvin From Kelvin
 

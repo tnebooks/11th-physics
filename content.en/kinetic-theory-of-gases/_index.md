@@ -9,11 +9,22 @@ weight: 9
 
 **Learning Objectives**
 
-**In this unit, the student is exposed to** • necessity of kinetic theory of gases • the microscopic origin of pressure and temper • correlate the internal energy of the gas and tran • meaning of degrees of freedom • calculate the total degrees of freedom for mono • law of equipartition of energy • calculation of the ratio of CP and CV • mean free path and its dependence with pressu • Brownian motion and its microscopic origin
+![image](qr.png)
+
+**In this unit, the student is exposed to** 
+• necessity of kinetic theory of gases 
+• the microscopic origin of pressure and temper 
+• correlate the internal energy of the gas and tran 
+• meaning of degrees of freedom 
+• calculate the total degrees of freedom for mono 
+• law of equipartition of energy 
+• calculation of the ratio of CP and CV 
+• mean free path and its dependence with pressu 
+• Brownian motion and its microscopic origin
 
 **KINETIC THEORY**
 
-## Introduction
+### Introduction
 
 
 Thermodynamics is basically a macroscopic science. We discussed macroscopic parameters like pressure, temperature and volume of thermodynamical systems in unit 8. In this unit we discuss the microscopic origin of pressure and temperature by considering a thermodynamic system as collection of particles or molecules. Kinetic theory relates pressure and temperature to molecular motion of sample of a gas and it is a bridge between Newtonian mechanics and thermodynamics. The present chapter introduces the kinetic nature of gas molecules.
@@ -34,7 +45,7 @@ C THEORY OF GASES
 
 _ost everything crudely; with kinetic theory, one can wer things, but more accurately.”_ \- Eugene Wigner
 
-## Postulates of kinetic theory of gases
+### Postulates of kinetic theory of gases
 
 
 Kinetic theory is based on certain assumptions which makes the mathematical treatment simple. None of these assumptions are strictly true yet the model based on these assumptions can be applied to all gases.
@@ -73,10 +84,13 @@ Kinetic theory is based on certain assumptions which makes the mathematical trea
 
 Consider a monoatomic gas of N molecules each having a mass m inside a cubical container of side _l_ as shown in the Figure 9.1 (a).
 
-![Image Alt Text](../kinetic-theory-of-gases/Figure1.png)
+![image](q2.png)
 
+**Gas molecule Container**
 
 **Figure 9.1** (a) Container of gas molecules  
+
+![image](qr1.png)
 
 The molecules of the gas are in random motion. They collide with each other and also with the walls of the container. As the collisions are elastic in nature, there is no loss of kinetic energy, but a change in momentum occurs.
 
@@ -92,21 +106,11 @@ The x-component of momentum of the molecule before collision = \(m \cdot v_x\)
 ![Image Alt Text](../kinetic-theory-of-gases/figure2.png)
 **Figure 9.1** (b) Collision of a molecule with the wall
 
+The x-component of momentum of the molecule after collision = −mvx
 
+The change in momentum of the molecule in x direction =Final momentum – initial momentum = −_mvx_ −_mvx_ = −2_mvx_
 
-
-
-  
-
-The x-component of momentum of the molecule after collision = \(-mv_x\)
-
-
-The change in momentum of the molecule in x direction =Final momentum – initial momentum = \(-mv_x\)
-\(-mv_x = -2mv_x\)
-
-
-According to law of conservation of linear momentum, the change in momentum of the wall = \(2mv_x\)
-
+According to law of conservation of linear momentum, the change in momentum of the wall = 2_mvx_
 
 In x direction, the total momentum of the system before collision is equal to momentum of the molecule
 
@@ -124,16 +128,24 @@ The molecules within the distance of \(v_x \Delta t\)
 
  .
 
-We have assumed that the number density is the same throughout the cube.  
+We have assumed that the number density is the same throughout the cube. 
 
-Not all the n molecules will move to the right, therefore on an average only half of the n molecules move to the right and the other half moves towards left side.
+![image](image_8.png)
 
-The number of molecules that hit the right side wall in a time interval 
 
-\= \(\frac{n}{2Av_x \Delta t}\) <br> <br> (9.1)
+![image](image_8.png)
 
-In the same interval of time \(\Delta t\), the total momentum transferred by the molecules
-\(\Delta p = \frac{n}{2} A v_x \Delta t \times 2m v_x = \frac{A v_x^2}{mn \Delta t}\)<br> <br> (9.2)
+The number of molecules that hit the right side wall in a time interval ∆_t_
+
+\= _n_ 2
+
+_Avx_ ∆_t_ (9.1)
+
+In the same interval of time ∆_t_, the total momentum transferred by the molecules
+
+∆_p_ = _n_ 2
+
+_Avx_ ∆_t_ × 2_mvx_ = _Av_2 _x_ _mn_∆_t_ (9.2)
 
 From Newton’s second law, the change in momentum in a small interval of time gives rise to force.
 
@@ -149,13 +161,10 @@ Pressure, P = force divided by the area of the wall
 
 Since all the molecules are moving completely in random manner, they do not have same speed. So we can replace the term \(v_x^2\)by the average\(\overline{v_x^2}\) in equation (9.4)
 
-![Image Alt Text](../kinetic-theory-of-gases/image_8.png)
-**Figure 9.2** Number of molecules hitting the wall
+Since all the molecules are moving completely in random manner, they do not have same speed. So we can replace the term _vx_
 
+2 by the average _vx_ 2 in equation (9.4)
 
-
-
-  
 
 \[ p = nm\overline{v^2x} \]
 (9.5)
@@ -188,13 +197,13 @@ as [\(n = \frac{N}{V}\)]
 
 The following inference can be made from the above equation. The pressure exerted by the molecules depends on
 
-(i) **Number density** \(n = \frac{N}{V}\)
+1. **Number density** _n N V_
 
 \= . It implies that if the number density increases then pressure will increase. For example when we pump air inside the cycle tyre or car tyre essentially the number density increases and as a result the pressure increases.
 
-(ii) **Mass of the molecule** Since the pressure arises due to momentum transfer to the wall, larger mass will have larger momentum for a fixed speed. As a result the pressure will increase.
+2. **Mass of the molecule** Since the pressure arises due to momentum transfer to the wall, larger mass will have larger momentum for a fixed speed. As a result the pressure will increase.
 
-(iii) Mean square speed For a fixed mass if we increase the speed, the average speed will also increase. As a result the pressure will increase.
+3. Mean square speed For a fixed mass if we increase the speed, the average speed will also increase. As a result the pressure will increase.
 
 For simplicity the cubical container is taken into consideration. The above result is true for any shape of the container as the area A does not appear in the final expression (9.6). Hence the pressure exerted by gas  
 
@@ -264,9 +273,9 @@ Equation 9.10 is a very important result from kinetic theory of gas. We can infe
 | mv3N = V  |
   
 
-(i) The average kinetic energy of the molecule is directly proportional to absolute temperature of the gas. The equation (9.9) gives the connection between the macroscopic world (temperature) to microscopic world (motion of molecules).
+1. The average kinetic energy of the molecule is directly proportional to absolute temperature of the gas. The equation (9.9) gives the connection between the macroscopic world (temperature) to microscopic world (motion of molecules).
 
-(ii) The average kinetic energy of each molecule depends only on temperature of the gas not on mass of the molecule. In other words, if the temperature of an ideal gas is measured using thermometer, the average kinetic energy of each molecule can be calculated without seeing the molecule through naked eye.
+2. The average kinetic energy of each molecule depends only on temperature of the gas not on mass of the molecule. In other words, if the temperature of an ideal gas is measured using thermometer, the average kinetic energy of each molecule can be calculated without seeing the molecule through naked eye.
 
 By multiplying the total number of gas molecules with average kinetic energy of each molecule, the internal energy of the gas is obtained.
 
@@ -1049,9 +1058,9 @@ _v dv mv kT_
 
 The exact integration is beyond the scope of the book. But we can infer the behavior of gas molecules from the graph.
 
-(i) The area under the graph will give the total number of gas molecules in the system
+1. The area under the graph will give the total number of gas molecules in the system
 
-(ii) Figure 9.4 shows the speed distribution graph for two different temperatures. As temperature increases, the peak of the curve is shifted to the right. It implies that the average speed of each molecule will increase. But the area under each graph is same since it represents the total number of gas molecules.
+2. Figure 9.4 shows the speed distribution graph for two different temperatures. As temperature increases, the peak of the curve is shifted to the right. It implies that the average speed of each molecule will increase. But the area under each graph is same since it represents the total number of gas molecules.
 
 **Figure 9.4** Maxwell distribution graph for tw  
 
@@ -1315,7 +1324,7 @@ _V_
 
 adiabatic exponent.
 
-**i) Monatomic molecule**
+**1. Monatomic molecule**
 
 Average kinetic energy of a molecule
 
@@ -1383,7 +1392,7 @@ _V_
 
 1 67.
 
-**ii) Diatomic molecule**
+**2. Diatomic molecule**
 
 Average kinetic energy of a diatomic molecule at low temperature = 5
 
@@ -1498,7 +1507,7 @@ _V_
 
 9 7 1 28.
 
-**iii) Triatomic molecule**
+**3. Triatomic molecule**
 
 **a) Linear molecule**
 

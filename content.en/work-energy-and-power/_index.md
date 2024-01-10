@@ -31,9 +31,10 @@ Let us consider a force ( F), acting on a body which moves it by a displaceme
 
 The expression for work done (W) by the force on the body is mathematically written as,
 
-W F dr= ⋅ 
+$$ W F = \cdot dr $$
 
- (4.1)
+
+ (4.1)
 
 ![Alt text](image.png)
 
@@ -45,21 +46,15 @@ Here, the product 
 
 The equation (4.1) is,
 
-W F dr cos (4.2)
+$$ W = F dr \cos(\theta) $$
 
-which can be realised using Figure 4.2 (as  a b ab  cos) where, θ is the angle between applied force and the displacement of the body.
+
+which can be realised using Figure 4.2 (as $$ \vec{a} \cdot \vec{b} = ab \cos(\theta) $$
+) where, θ is the angle between applied force and the displacement of the body.
 
 ![Alt text](image-1.png)
 
-**Figure 4.3 Different cases of zero w**
-
-(a)
-
-θ F cosθ
-
-dr
-
-F  
+**Figure 4.3 Different cases of zero work done** 
 
 The work done by the force depends on the force (F), displacement (dr) and the angle (θ) between them.
 
@@ -92,54 +87,35 @@ A box is pulled with a force of 25 N to produce a displacement of 15 m. If the a
 
 **_Solution_**
 
-Force, F = 25 N 
-Displacement, dr = 15 m 
-Angle between F and dr, θ = 30<sup>o</sup>
+Force, $F = 25 \, \text{N}$ 
 
-Work done**,** W Fdr cos‚= **θ**
+Displacement, $dr = 15 \, \text{m}$ 
 
-W cos= × × ° = × ×25 15 30 25 15 3 2
+Angle between $F$ and $dr$, $\theta = 30^\circ$ 
 
-W J= 324 76.
+Work done, $W = F \cdot dr \cdot \cos(\theta)$ 
+
+$W = 25 \cdot 15 \cdot \cos(30^\circ)$ 
+
+$W = \frac{25 \cdot 15 \cdot \sqrt{3}}{2} \, \text{J}$
+
 
 ### Work done by a constant force
 
 
 When a constant force F acts on a body, the small work done (dW) by the force in producing a small displacement dr is given by the relation,
 
-dW F cos dr= ( )θ (4.3)
+$$ dW = F \cos(\theta) \, dr $$
+(4.3)
 
 The total work done in producing a displacement from initial position ri to final position **rf** is,
 
-W dW r
+$$ W = \int_{r_i}^{r_f} dW $$         
+(4.4)
+$$ W = \int_{r_i}^{r_f} F \cos(\theta) \, dr $$
+$$ W = (F \cos(\theta) r) \bigg|_{r_i}^{r_f} $$
 
-r
 
-i
-
-f
-
-  (4.4)
-
-W F cos dr F cos dr= ( ) = ( )∫ ∫ _r_
-
-_r_
-
-_r_
-
-_r_
-
-_i_
-
-_f_
-
-_i_
-
-_f_
-
-θ θ =
-
-(F cos r rf iθ) -( ) (4.5)
 
 The graphical representation of the work done by a constant force is shown in Figure 4.5. The area under the graph shows the work done by the constant force.
 
@@ -159,33 +135,18 @@ In this case the force acting on the object is downward gravitational force mg�
 
 Work done by gravitational force is
 
-W = r
+$$ W = \int_{r_i}^{r_f} F \, dr $$
+$$ W = \int_{r_i}^{r_f} F \cos(\theta) \, dr $$ 
+$$ = (mg \cos(\theta)) (r_f - r_i) $$
 
-r
 
-i
 
-f
+The object also moves downward which is in the direction of gravitational force ($\vec{F} = mg\vec{g}$) as shown in figure. Hence, the angle between them is $\theta = 0^\circ$; $\cos(0) = 1$ and the displacement, $r_f - r_i = 5m$.
 
-F dr  
 
-
+$$ W = mg (r_f - r_i) $$
+$$ W = 2 \times 10 \times 5 = 100 \, \text{J} $$
 
-W F cos dr r
-
-r
-
-i
-
-f
-
-\= ( )∫θ = (mg cosθ) (r rf i- ).
-
-The object also moves downward which is in the direction of gravitational force ( 
-
-_F_ \= mg) as shown in figure. Hence, the angle between them is θ = °0 ; cos0 1  and the displacement, r r mf i   5
-
-W = _mg_ r rf i  W = 2 × 10 × 5 = 100 J
 
 The work done by the gravitational force on the object is positive.
 
@@ -204,23 +165,11 @@ According to Newton’s second law, the force acting on the mass along the incli
 
 The work done by the parallel component of gravitational force mg e (mg sin θ) is given by
 
-W = 
+$$ W = \vec{F} \cdot \vec{r} \, dr \, \cos(\phi) $$
 
-_F dr Fdr_. cos ϕ
 
-where ϕ  is  the  angle  between  the  force  (mg sin **θ)** and the direction of motion (dr). In this case, force (mg sin **θ)** and the displacement (
-
-r
-
-r
-
-i
-
-f
-
-F dr 
-
-) are in the same direction. Hence ϕ = 0 and cos ϕ = 1  
+where $\phi$ is the angle between the force ($mg \sin(\theta)$) and the direction of motion ($dr$). In this case, force ($mg \sin(\theta)$) and the displacement ($r_f - r_i$) are in the same direction. Hence $\phi = 0$ and $\cos(\phi) = 1$.
+  
 
 W = F dr = (mg sin length of inclined plane)θ × () (dr) (dr = length of the inclined place)
 
@@ -248,16 +197,23 @@ When the object goes up, the displacement points in the upward direction whereas
 
 Given that dr = 5m and F =mg
 
-W up = = °_Fdr cos mgdr_θ cos180
+$$ W_{up} = F \, dr \, \cos(\theta) = mg \, dr \, \cos(180^\circ) $$
 
-Wup 2 10 5 1 100 joule. \[cos 180° = -1\]
+
+$$ W_{up} = 2 \times 10 \times 5 \times (-1) = -100 \, \text{J} $$
+
 
 (b) When the object falls back, both the gravitational force and displacement of the object are in the same direction. This implies that the angle between gravitational force and displacement of the object is 0°.
 
-| W = F dr           (W = 1   10 |= ( mg  lsin ) (dr)( ength of inclined plane)dr = length of the incline sin (30°)   10 = 100  |d place)150 J2 |
+$$ W_{down} = F \, dr \, \cos(0^\circ) $$
+$$2 \times 10^5 \times (1) = 100 \, \text{joule} \quad [\cos 0° = 1]$$
+
 
 
 (c) The total work done by gravity in the entire trip (upward and downward motion)
+
+ $$W_{\text{total}} = W_{\text{up}} + W_{\text{down}} = -100 \, \text{joule} + 100 \, \text{joule} = 0$$
+
 
 It implies that the gravity does not transfer any energy to the object. When the object is thrown upwards, the energy is transferred to the object by the external agency, which means that the object gains some energy. As soon as it comes back and hits the Earth, the energy gained by the object is transferred to the surface of the Earth (i.e., dissipated to the Earth).
 
@@ -271,35 +227,34 @@ A weight lifter lifts a mass of 250 kg with a force 5000 N to the height of 5 m.
 
 **Solution** 
 
-(a) When the weight lifter lifts the mass,force and displacement are in the same direction, which means that the angle between them   00. Therefore, the work done by the weight lifter,
+(a) When the weight lifter lifts the mass,force and displacement are in the same direction, which means that the angle between them $$\theta = 0^\circ$$. Therefore, the work done by the weight lifter,
 
-W weight lifter    _F h F hw w_cos cos 00
+$$W_{\text{weight lifter}} = F_w h \cos \theta = F_w h (\cos 0^\circ) = 5000 \times 5 \times (1) = 25,000 \, \text{joule} = 25 \, \text{kJ}$$
 
-    5000 5 1 25 000, joule = 25 kJ  
 
 (b) When the weight lifter lifts the mass, the gravity acts downwards which means that the force and displacement are in opposite direction. Therefore, the angle between them  1800
 
-W gravity    _F h mghg_ cos cos 1800
+$$W_{\text{gravity}} = F_g h \cos \theta = mgh(\cos 180^\circ) = 250 \times 10 \times 5 \times (-1) = -12,500 \, \text{joule} = -12.5 \, \text{kJ}$$
 
-     250 10 5 1
-
- 12 500, joule = -12.5 k J
 
 (c) The net workdone (or total work done) on the object
 
-W W Wnet weight lifter gravity  
+ $$W_{\text{net}} = W_{\text{weight lifter}} + W_{\text{gravity}} = 25 \, \text{kJ} - 12.5 \, \text{kJ} = +12.5 \, \text{kJ}$$
 
-\= 25 k J – 12.5 k J = + 12.5 k J
 
 ### Work done by a variable force
 
 When the component of a variable force F acts on a body, the small work done (dW) by the force in producing a small displacement dr is given by the relation
 
-dW F cos dr   \[F cos θ is the component of the variable force F\]
+$$
+dW = F \cos \theta \, dr
+$$[F cos θ is the component of the variable force F\]
 
 where, F and θ are variables. The total work done for a displacement from initial position ri to final position rf is given by the relation,
 
-
+$$
+W = \int_{ri}^{rf} dW = \int_{ri}^{rf} F \cos \theta \, dr
+$$
 
 A graphical representation of the work done by a variable force is shown in Figure 4.6. The area under the graph is the work done by the variable force.
 
@@ -314,19 +269,9 @@ A variable force F = k x<sup>2<sup> acts on a particle which is initially at res
 
 Work done,
 
-W F d k d = ( ) = =∫ ∫ _x_
-
-_x_
-
-_i_
-
-_f_
-
-_x x x x_ 0
-
-4 2 64
-
-3 N m
+$$
+W = \int_{xi}^{xf} F(x) \, dx = k \int_{0}^{4} x^2 \, dx = \frac{64}{3} \, \text{N m}
+$$
 
 ## ENERGY
 
@@ -371,93 +316,57 @@ F ma= (4.8)
 
 The third equation of motion (refer section 2.10.3) can be written as,
 
-v u as
+$$
+v^2 = u^2 + 2as
+$$
 
-a v u
-
-2 2
-
-2 2
-
-2
-
-2
-
- 
-
-  _s_
+$$
+a = \frac{v^2 - u^2}{2s}
+$$
 
 Substituting for a in equation (4.8),
 
-F m v u 
-
-
-
- 
-
-
-
- 
-
-2 2
-
-2_s_ (4.9)
+$$
+F = m \left( \frac{v^2 - u^2}{2s} \right)
+$$ (4.9)
 
 Substituting equation (4.9) in (4.7),
 
-W m v s m u s
+$$
+W = m \left( \frac{v^2}{2s} \cdot s \right) - m \left( \frac{u^2}{2s} \cdot s \right)
+$$
+$$
+W = \frac{1}{2} m v^2 - \frac{1}{2} m u^2
+$$
 
-s
-
-W mv mu
-
-\=  
-
- 
-
-\-  
-
- 
-
-\= -
-
-2 2
-
-2 2
-
-2 2 1 2
-
-1 2
-
-_s_
 
 (4.10)
 
 **The expression for kinetic energy:**
 
-The term 1 2
+The expression for kinetic energy:
 
-2mv  
+The term ($$\frac{1}{2} m v^2 $$) in the above equation is the kinetic energy of the body of mass \( m \) moving with velocity \( v \). 
 
-   in the above equation is
+So, the kinetic energy (KE) can be expressed as:
 
-the kinetic energy of the body of mass (m) moving with velocity (v).
+$$
+KE = \frac{1}{2} m v^2
+$$
 
-KE mv= 1 2
 
-2 (4.11)
+(4.11)
 
 Kinetic energy of the body is always positive. From equations (4.10) and (4.11)
 
-  KE mv mu1 2
+$$
+\Delta KE = \frac{1}{2} m v^2 - \frac{1}{2} m u^2 \tag{4.12}
+$$
 
-1 2
-
-2 2 (4.12)
-
-Thus, W = DKE
-
-ergy
+Thus, 
+$$
+W = \Delta KE
+$$
 
 
 The expression on the right hand side (RHS) of equation (4.12) is the change in kinetic energy (∆KE) of the body.
@@ -474,55 +383,31 @@ This implies that the work done by the _force on the body changes the kinetic en
 
 ### Relation between Momentum and Kinetic Energy
 
-Consider an object of mass m moving with a velocity v . Then its linear momentum is p = mv and its kinetic energy, KE mv=
+Consider an object of mass \( m \) moving with a velocity vector $( \mathbf{v} $). Then its linear momentum is $( \mathbf{p} = m \mathbf{v} $) and its kinetic energy, $( KE = \frac{1}{2} m v^2 $).
 
-1 2
+So, the kinetic energy (KE) can be expressed as:
 
-2 .
+$$
+KE = \frac{1}{2} m v^2 = \frac{1}{2} m ( \mathbf{v} \cdot \mathbf{v} ) \tag{4.13}
+$$'
 
-KE mv m= = ( )1 2
-
-1 2
-
-2  v v. (4.13)
 
 Multiplying both the numerator and denominator of equation (4.13) by mass, m
 
-KE m
+$$
+KE = \frac{1}{2} m^2 \left( \mathbf{v} \cdot \mathbf{v} \right) / m
+ = 
+ \\ \frac{1}{2} (m \mathbf{v}) \cdot (m \mathbf{v}) / m
+ \\ = \frac{1}{2} \mathbf{p} \cdot \mathbf{p} / m \\ = \frac{p^2}{2m}
 
-\= ( )1 2
-
-2  v v m
-
-.  
-
-\= 1 2
-
-m 
-
- 
-
-v mv m
-
-p mv( ) ( ) = .
-
-\[ \]
-
-\= 1 2
-
- p p m .
-
-\= p2
-
-2m
-
-KE = p2
-
-2m (4.14)
+$$ (4.14)
 
 where p is the magnitude of the momentum. The magnitude of the linear momentum can be obtained by
 
-p = p m= 2 KE)( (4.15)
+$$
+p = \sqrt{2m (\text{KE})} \ 
+$$      
+(4.15)
 
 Note that if kinetic energy and mass are given, only the magnitude of the momentum can be calculated but not the direction of momentum. It is because the kinetic energy and mass are scalars.
 
@@ -536,42 +421,28 @@ Two objects of masses 2 kg and 4 kg are moving with the same momentum of 20 kg m
 
 **Solution**
 
-(a) The kinetic energy of the mass is given by KE p m
+(a) The kinetic energy of the mass is given by:
 
-\= 2
+$$
+KE = \frac{p^2}{2m}
+$$
 
-2
+For an object of mass 2 kg, the kinetic energy (`KE1`) is calculated as follows:
 
-For the object of mass 2 kg, kinetic
+$$
+KE1 = \frac{20^2}{2 \times 2} = \frac{400}{4} = 100 \, \text{J}
+$$
+For an object of mass 4 kg, the kinetic energy (`KE2`) is calculated as follows:
 
-energy is KE J1
+$$
+KE2 = \frac{20^2}{2 \times 4} = \frac{400}{8} = 50 \, \text{J}
+$$
 
-220 2 2
-
-400 4
-
-100= ( ) ×
-
-\= =
-
-
-
-
-  
-
-For the object of mass 4 kg, kinetic
-
-energy is _KE J_2
-
-220 2 4
-
-400 8
-
-50  
-
-  
-
-Note that _KE KE_1 2≠ i.e., even though both are having the same momentum, the kinetic energy of both masses is not the same. The kinetic energy of the heavier object has lesser kinetic energy than smaller mass. It is because the kinetic energy is inversely proportional to the mass (_KE_ _m_ ∝ 1 ) for a given momentum.
+Note that 
+$$
+KE1 \neq KE2
+$$
+ i.e., even though both are having the same momentum, the kinetic energy of both masses is not the same. The kinetic energy of the heavier object has lesser kinetic energy than smaller mass. It is because the kinetic energy is inversely proportional to the mass (_KE_ _m_ ∝ 1 ) for a given momentum.
 
 (b) As the momentum, _p_ = _mv_, the two objects will not have same speed.
 
@@ -581,11 +452,10 @@ The potential energy of a body is associated with its position and configuration
 
 “Potential energy of an object at a point P is defined as the amount of work done by an external force in moving the object at constant velocity from the point O (initial location) to the point P (final location). At initial point O potential energy can be taken as zero.
 
-Mathematically, _potential energy_ is defined as U _F dra_ 
-
-
-
-. (4.16)
+Mathematically, _potential energy_ is defined as
+$$
+U = \int \mathbf{F} \cdot d\mathbf{r} \tag{4.16}
+$$
 
 where the limit of integration ranges from initial location point O to final location point P.
 

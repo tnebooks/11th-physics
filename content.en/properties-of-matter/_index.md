@@ -3,205 +3,193 @@ title: 'PROPERTIES OF MATTER'
 weight: 7
 ---
 
-  
 
-**7.1**
+# UNIT 7
+<!-- ![ Kallana](image2.png) -->
+
+<!-- 
+![ Kallanai (கல்லணை)](image1.jpg) -->
+
+PROPERTIES OF MATTER 
+<!-- 
+<div style="background-color:pink; padding:10px; border-radius: 5px;">
+    <span style="color:black;">"Many of the greatest advances that have been made from the beginning of the world to the present time have been made in the earnest desire to turn the knowledge of the properties of matter to some purpose useful to mankind."</span>  
+    <span style="color:black;">- Lord Kelvin</span>
+</div>  -->
+
+
+Many of the greatest advances that have be present time have been made in the earne of matter to en made from the beginning of the world to the st desire to turn the knowledge of the properties some purpose useful to mankind – Lord Kelvin  
+
+
 
 **Learning Objectives**
 
-**In this unit, the student is exposed to** • inter atomic or intermolecular forces in matter • stress, strain and elastic modulus • surface tension • viscosity • properties of fluids and their applications
-
-**INTRODUCTION**
-
-One of the oldest dams in the world is Kallanai (கல்லணை) located at Trichy. Kallanai was built across river Kaveri for the purpose of irrigation. During heavy floods, the velocity of water is generally very high in river Kaveri. The stability and utility of
-
-
-
+**In this unit, the student is exposed to** 
+- inter atomic or intermolecular forces in matter 
+- stress, strain and elastic modulus 
+- surface tension 
+- viscosity 
+- properties of fluids and their applications
 
 
-_Many of the greatest advances that have be present time have been made in the earne_
+## INTRODUCTION
 
-_of matter to_  
-
-TIES OF MATTER
-
-_en made from the beginning of the world to the st desire to turn the knowledge of the properties some purpose useful to mankind_– Lord Kelvin
-
-Kallanai dam reveal the intuitive scientific understanding of Tamils who designed this dam as early as 2nd century AD. The other example known for insightful constructions of the past is the pyramids in Egypt. The flyovers and overbridges are common worldwide today. Heavy vehicles ply over and hence, the bridges are always under stress. Without effective design using suitable materials, the bridges and flyovers will not
-
-Kallanai (கல்லணை)
+<!-- ![ Kallanai (கல்லணை)](img1.png) -->
 
 
+One of the oldest dams in the world is Kallanai (கல்லணை) located at Trichy. Kallanai was built across river Kaveri for the purpose of irrigation. During heavy floods, the velocity of water is generally very high in river Kaveri. The stability and utility of 
+Kallanai dam reveal the intuitive scientific understanding of Tamils who designed this dam as early as 2nd century AD. The other example known for insightful constructions of the past is the pyramids in Egypt. The flyovers and overbridges are common worldwide today. Heavy vehicles ply over and hence, the bridges are always under stress. Without effective design using suitable materials, the bridges and flyovers will not 
 
-
-  
-
-**7.2**
+![alt text](image_1.png)
 
 be stable. The growth of human civilization is due to the understanding of various forms of matter (solid, liquid, and gas).
 
+
+
+
 The study of properties of matter is very essential in selecting a material for a specific application. For example, in technology, the materials used for space applications should be of lightweight but should be strong. Materials used for artificial human organ replacements should be biocompatible. Artificial body fluids are used as tissue substitute for radiotherapy analysis in medicine. Fluids used as lubricants or fuel should possess certain properties. Such salient macroscopic properties are decided by the microscopic phenomena within matter. This unit deals with the properties of solids and fluids and the laws governing the behaviour of matter.
 
-**MICROSCOPIC UNDERSTANDING OF VARIOUS STATES OF MATTER**
 
-Even though various forms of matter such as solid food, liquids like water, and the air that we breathe are familiar in the day – to – day lifestyle for the past several thousand years, the microscopic understanding of solids, liquids, and gases was established only in 20th century. In the universe, everything is made up of atoms. If so, why the same materials exist in three states? For example, water exists in three forms as solid ice, liquid water, and gaseous steam. Interestingly ice, water, and steam are made up of same water molecules; two hydrogen atoms and one oxygen atom form a water molecule. Physics helps us to explore this beauty of nature at the microscopic level. The distance between  
-
-the atoms or molecules determines whether it exists in solid, liquid or gaseous state.
-
-**Solids** In solids, atoms or molecules are tightly fixed. In the solid formation, atoms get bound together through various types of bonding. Due to the interaction between the atoms, they position themselves at a particular interatomic distance. This position of atoms in this bound condition is called their mean positions.
-
-**Liquids** When the solid is not given any external energy such as heat, it will remain as a solid due to the bonding between atoms. When heated, atoms of the solid receive thermal energy and vibrate about their mean positions. When the solid is heated above its melting point, the heat energy will break the bonding between atoms and eventually the atoms receive enough energy and wander around. Here also the intermolecular (or interatomic) forces are important, but the molecules will have enough energy to move around, which makes the structure mobile.
-
-**Gases** When a liquid is heated at constant pressure to its boiling point or when the pressure is reduced at a constant temperature it will convert to a gas. This process of a liquid changing to a gas is called evaporation. The gas molecules have either very weak bonds or no bonds at all. This enables them to move freely and quickly. Hence, the gas will conform to the shape of its container and also will expand to fill the container. The transition from solid to liquid to gaseous states with the variation in external energy is schematically shown in Figure 7.1.
+##  MICROSCOPIC UNDERSTANDING OF VARIOUS STATES OF MATTER
 
 
+<!-- ![Alt text](img2.png) -->
 
 
-  
+Even though various forms of matter such as solid food, liquids like water, and the air that we breathe are familiar in the day – to – day lifestyle for the past several thousand years, the microscopic understanding of solids, liquids, and gases was established only in 20th century. In the universe, everything is made up of atoms. If so, why the same materials exist in three states? For example, water exists in three forms as solid ice, liquid water, and gaseous steam. Interestingly ice, water, and steam are made up of same water molecules; two hydrogen atoms and one oxygen atom form a water molecule. Physics helps us to explore this beauty of nature at the microscopic level. The distance between  the atoms or molecules determines whether it exists in solid, liquid or gaseous state.
 
-**Figure 7.1** Schematic representations of the transition from solid to liquid to gaseous states with a change in external energy
+**Solids** 
+In solids, atoms or molecules are tightly fixed. In the solid formation, atoms get bound together through various types of bonding. Due to the interaction between the atoms, they position themselves at a particular interatomic distance. This position of atoms in this bound condition is called their mean positions.
 
+**Liquids**
+ When the solid is not given any external energy such as heat, it will remain as a solid due to the bonding between atoms. When heated, atoms of the solid receive thermal energy and vibrate about their mean positions. When the solid is heated above its melting point, the heat energy will break the bonding between atoms and eventually the atoms receive enough energy and wander around. Here also the intermolecular (or interatomic) forces are important, but the molecules will have enough energy to move around, which makes the structure mobile.
+
+**Gases** 
+When a liquid is heated at constant pressure to its boiling point or when the pressure is reduced at a constant temperature it will convert to a gas. This process of a liquid changing to a gas is called evaporation. The gas molecules have either very weak bonds or no bonds at all. This enables them to move freely and quickly. Hence, the gas will conform to the shape of its container and also will expand to fill the container. The transition from solid to liquid to gaseous states with the variation in external energy is schematically shown in Figure 7.1.
+<!-- 
 **Energy**
 
 **Gas**
 
 **Liquid**
 
-**Solid**
+**Solid** -->
+![Alt text](img3.png)
 
-In addition to the three physical states of matter (solid, liquid, and gas), in extreme environments,
 
-matter can exist in other states such as plasma, Bose-Einstein condensates. Additional states, such as quark-gluon plasmas are also believed to be possible. A major part of the atomic matter of the universe is hot plasma in the form of rarefied interstellar medium and dense stars.
+**Figure 7.1** Schematic representations of the transition from solid to liquid to gaseous states with a change in external energy
+
+
+
+<!-- In addition to the three physical states of matter (solid, liquid, and gas), in extreme environments,matter can exist in other states such as plasma, Bose-Einstein condensates. Additional states, such as quark-gluon plasmas are also believed to be possible. A major part of the atomic matter of the universe is hot plasma in the form of rarefied interstellar medium and dense stars. -->
+
+<div style="border: 4px solid pink; background-color: white; padding: 10px; display: flex; align-items: flex-start;">
+
+![YouTube](youtubeimg.jpg)In addition to the three physical states of matter (solid, liquid, and gas), in extreme environments, matter can exist in other states such as plasma, Bose-Einstein condensates. Additional states, such as quark-gluon plasmas are also believed to be possible. A major part of the atomic matter of the universe is hot plasma in the form of rarefied interstellar medium and dense stars.
+
+</div>
+
+
+
+
+
+
+
 
 In the study of Newtonian mechanics (Volume 1), we assumed the objects to be either as point masses or perfect rigid bodies (collection of point masses). Both these are idealized models. In rigid bodies, changes in the shape of the bodies are so small that they are neglected. In real materials, when a force is applied on the objects, there could be some deformations due to the applied force. It is very important to know how materials behave when a deforming force is applied.  
 
-## Elastic behaviour of materials
-
+###  Elastic behaviour of materials
+<!-- **7.2.1**
+## Elastic behaviour of materials -->
+<!-- ![Alt text](imagggg.png) -->
 
 In a solid, interatomic forces bind two or more atoms together and the atoms occupy the positions of stable equilibrium. When a deforming force is applied on a body, its atoms are pulled apart or pushed closer. When the deforming force is removed, interatomic forces of attraction or repulsion restore the atoms to their equilibrium positions. **If a body regains its original shape and size after the removal of deforming force, it is said to be elastic and the property is called elasticity. The force which changes the size** or shape of a body is called a deforming force.
-
 **Examples:** Rubber, metals, steel ropes.
 
+![Alt text](img4.png)
+ 
 **Figure 7.2** Elasticity
 
-**Plasticity: If a body does not regain its original shape and size after removal of the deforming force, it is said to be a plastic body and the property is called plasticity. Example**: Glass
-
-## Stress and strain
-
-
-**(a) Stress:** When a force is applied, the size or shape or both may change due to the change in relative positions of atoms or molecules. This deformation may not be noticeable to
+**Plasticity: 
+If a body does not regain its original shape and size after removal of the deforming force, it is said to be a plastic body and the property is called plasticity. 
+Example**: Glass
 
 
 
+### Stress and strain
 
-  
+<!-- ![Alt text](IMGG.png) -->
 
-our naked eyes but it exists in the material itself. When a body is subjected to such a deforming force, internal force is developed in it, called as restoring force. The force per unit area is called as stress.
+**(a) Stress:** When a force is applied, the size or shape or both may change due to the change in relative positions of atoms or molecules. 
+This deformation may not be noticeable to our naked eyes but it exists in the material itself. When a body is subjected to such a deforming force, internal force is developed in it, called as restoring force. The force per unit area is called as stress.
 
-Stress, σ = Force Area
 
-\= _F A_
 
-(7.1)
 
-The SI unit of stress is N m–2 or pascal (Pa) and its dimension is \[ML–1T–2\]. Stress is a tensor. **(i) Longitudinal stress and shearing**
+ 
+Stress,\( \sigma = \frac{Force}{Area} = \frac{F}{A} \)            (7.1)
 
-**stress:** Let us consider a body as shown in Figure 7.3. When many forces act on the system (body), the center of mass (defined in unit 5) remains at rest. However, the body gets deformed due to these forces and so the internal forces appear. Let ∆A be the cross sectional area of the body. The parts of the body on two sides of ∆A exert internal forces
+The SI unit of stress is N m<sup>–2</sup> or pascal (Pa) and its dimension is [ML<sup>–1</sup>T<sup>–2</sup>\]. Stress is a tensor. 
 
-
+**(i) Longitudinal stress and shearing stress:**
 
-_F_ and − 
+Let us consider a body as shown in Figure 7.3. When many forces act on the system (body), the center of mass (defined in unit 5) remains at rest. However, the body gets deformed due to these forces and so the internal forces appear. Let ∆A be the cross sectional area of the body. The parts of the body on two sides of ∆A exert internal forces \( \vec{F} \) and  \( -\vec{F} \) on each other which is due to deformation. The force can be resolved in two components; \(F_n \) normal to the surface ∆A (perpendicular to the surface) and \(F_t \) tangential to the surface ∆A (tangent to the surface). The normal stress or longitudinal stress \( \sigma_n \) over the area is defined as
 
-_F_ on each other which is due to deformation. The force can be resolved in two components; _F_n normal to the surface ∆A (perpendicular to the surface) and _F_t tangential to the surface ∆A (tangent to the surface). The normal stress or longitudinal stress (σ_n_) over the area is defined as
 
-σ_n nF A_
+ \[\sigma_n = \frac{F_n}{\Delta A} \]
 
-\= ∆
+![Alt text](img6.png)
 
 **Figure 7.3** Longitudinal stress
 
-Longitudinal stress
-
-F
-
-F
-
-Ft
-
-F
-
-Fn
-
-∆A  
 
 Similarly, the tangential stress or shearing stress σt over the area is defined as
 
-σ_t tF A_
+ \[ \sigma_t = \frac{F_t}{\Delta A} \]
 
-\= ∆
 
 Longitudinal stress can be classified into two types, tensile stress and compressive stress.
 
-**Tensile stress** Internal forces on the two sides of ∆A may pull each other, i.e., it is stretched by equal and opposite forces. Then, the longitudinal stress is called tensile stress.
+**Tensile stress** 
+Internal forces on the two sides of ∆A may pull each other, i.e., it is stretched by equal and opposite forces. Then, the longitudinal stress is called tensile stress.
 
+![Alt text](img5.png)
 **Figure 7.4** Tensile stress
 
-Tensile stress
 
-F
 
-F
 
-F
-
-F
 
 **Compressive stress** When forces acting on the two sides of ∆A push each other, ∆A is pushed by equal and opposite forces at the two ends. In this case, ∆A is said to be under compression. Then, the longitudinal stress is called compressive stress.
 
+
+![Alt text](img7.png)
 **Figure 7.5** Compressive stress
 
-Compressive stress
+**(ii) Volume stress** 
+This happens when a body is acted by forces everywhere on the surface such that the force at any point is normal to the surface and the magnitude of the force on a small surface area is proportional to the area. For instance, when a solid is immersed in a fluid, the pressure at the location of the solid is P, the force on any area ∆A is
 
-F
-
-F
-
-F
-
-F
+\[ F = P \Delta A \]
+Where, F is perpendicular to the area. Thus, force per unit area is called volume stress.
 
 
-
-
-  
-
-**(ii) Volume stress** This happens when a body is acted by forces everywhere on the surface such that the force at any point is normal to the surface and the magnitude of the force on a small surface area is proportional to the area. For instance, when a solid is immersed in a fluid, the pressure at the location of the solid is P, the force on any area ∆A is
-
-_F_ = _P_ ∆A Where, F is perpendicular to the area. Thus, force per unit area is called volume stress.
-
-σ_v F A_
-
-\=
+\[ \sigma_v = \frac{F}{A} \]
 
 which is the same as the pressure.
 
-**(b) Strain:** Strain measures how much an object is stretched or deformed when a force is applied. Strain deals with the fractional change in the size of the object, in other words, strain measures the degree of deformation. As an example, in one dimension, consider a rod of length _L_ when it stretches to a new length ∆_L_ then
+**(b) Strain:** 
+Strain measures how much an object is stretched or deformed when a force is applied. Strain deals with the fractional change in the size of the object, in other words, strain measures the degree of deformation. As an example, in one dimension, consider a rod of length _L_ when it stretches to a new length ∆L then
 
-Strain, ε = Changeinsize Original size
-
-\= ∆_L L_
-
-(7.2)
+Strain, \(\varepsilon = \frac{Change \ in \ size}{Original \ size} = \frac{\Delta L}{L} \) (7.2)
 
 ε is a dimensionless quantity and has no unit. Strain is classified into three types.
 
-**(1) Longitudinal strain** When a rod of length _L_ is pulled by equal and opposite forces, the longitudinal strain is defined as
+**(1) Longitudinal strain** 
+When a rod of length _L_ is pulled by equal and opposite forces, the longitudinal strain is defined as
 
-εl = Increasein lengthof therod
+\( \varepsilon_1 =  \frac{Increase \ in \ length \ of \ therod}{Original \ or \ natural \ length \ of \ therod} = \frac{\Delta L}{L} \) (7.3)
 
-Original or natural lengthof therod = ∆_L L_
 
-(7.3)
 
 Longitudinal strain can be classified into two types  
 
@@ -209,73 +197,36 @@ Longitudinal strain can be classified into two types
 
 **(ii) Compressive strain:** If the length is decreased from its natural length then it is known as compressive strain.
 
-**(2) Shearing strain** Consider a cuboid as shown in Figure 7.6. Let us assume that the body remains in translational and rotational equilibrium. Let us apply the tangential force F along AD such that the cuboid deforms as shown in Figure 7.6. Hence, shearing strain or shear is (εs)
+**(2) Shearing strain** Consider a cuboid as shown in Figure 7.6. Let us assume that the body remains in translational and rotational equilibrium. Let us apply the tangential force F along AD such that the cuboid deforms as shown in Figure 7.6. Hence, shearing strain or shear is \( \varepsilon_s \)
+
+
+![Alt text](img8.png)
 
 **Figure 7.6** Shearing strain
 
-a'a
-
-A
-
-B C
-
-_x_ d'd _x_
-
-_h_
-
-A' D D'
-
-_h_
-
-b
-
-θ θ
-
-c
-
-F
-
-εs = _AA BA_
-
-_x h_
-
-′ = = tanθ (7.4)
+\(\varepsilon_s = \frac{AA'}{BZ} = \frac{x}{h} = \tan \theta \)        (7.4)
 
 For small angle, tanθ ≈ θ Therefore, shearing strain or shear,
 
-εs = _x h_ \= =θ Angle of shear
 
-**(3) Volume strain** If the body is subjected to a volume stress, the volume will change. Let _V_ be the original volume of the body before stress and _V +_ ∆_V_ be the change in volume due to stress. The volume strain which measures the fractional change in volume is
+\( \varepsilon_s = \frac{x}{h} = \theta =Angle \ of \ shear \)
 
-Volume strain, εv = D_V V_
 
+**(3) Volume strain** 
+If the body is subjected to a volume stress, the volume will change. Let _V_ be the original volume of the body before stress and _V +_ ∆V be the change in volume due to stress. The volume strain which measures the fractional change in volume is
+
+Volume strain,\( \varepsilon_v = \frac{\Delta V}{V} \)
 (7.5)
 
-**Elastic Limit** The maximum stress within which the body regains its original size and shape after the
-
-
-
-
-
-
-| A' DDhb |
-|------|------|
-
-
-
-
-| se in length of ther od |∆L=d (7.3)LL |
-|------|------|------|
-| =IncreaOriginall |
-| or naturall engtho ft he ro |
-
-  
-
+**Elastic Limit** 
+The maximum stress within which the body regains its original size and shape after the
 removal of deforming force is called the elastic limit.
 
 If the deforming force exceeds the elastic limit, the body acquires a permanent deformation. For example, rubber band loses its elasticity if pulled apart too much. It changes its size and becomes misfit to be used again.
 
-## Hooke’s law and its experimental verification
+
+<!-- ![Alt text](IMGGG.png) -->
+###  Hooke’s law and its experimental verification
 
 
 Hooke’s law states that for a small deformation within the elastic limit, the strain produced in a body is directly proportional to the stress that produces it.
@@ -284,9 +235,12 @@ It can be verified in a simple way by stretching a thin straight wire (stretches
 
 The extension produced on the wire is measured using a vernier scale arrangement. The experiment shows that for a given load, the corresponding stretching force is F and the elongation produced on the wire is ΔL. It is directly proportional to the original length L and inversely proportional to the area of cross section A. A graph is plotted using F on the X- axis and ΔL on the Y- axis. This graph is a straight line passing through the origin as shown in Figure 7.7 (b).
 
+![Alt text](img10.png)
+
+
 **Figure 7.7 (a) Experimental verification** of Hooke’s law
 
-**0**
+<!-- **0**
 
 **5**
 
@@ -308,11 +262,13 @@ The extension produced on the wire is measured using a vernier scale arrangement
 
 **Scale**
 
-**Support**  
+**Support**   -->
+
+![Alt text](img9.png)
 
 **Figure 7.7** (b) Variation of ∆L with F
 
-Stretching force (F)
+<!-- Stretching force (F)
 
 Slope m =
 
@@ -326,43 +282,28 @@ n( L
 
 )
 
-L F
+L F -->
 
 Therefore, ∆L = (slope)F
 
-Multiplying and dividing by volume, V = A L,
+Multiplying and dividing by volume, 
+V = A L,
 
-F (slope) = _AL AL_
 
-_L_D
+\(F(\text{slope}) = \frac{AL}{AL}{\Delta L} \)
 
 Rearranging, we get
 
-_F A_
 
-_L A slope_
+\( \frac{F}{A} \) = \( (\frac{L}{A(\text{slope})}) \frac{\Delta L}{L} \)
 
-_L L_
 
-\= 
 
- 
 
-
+Therefore, 
+\( \frac{F}{A} \) ∝ \( (\frac{\Delta L}{L}) \)
 
-  ∆
 
-( )
-
-Therefore, F _A_
-
-_L L_
-
-∝ ∆
-
-  
-
- 
 
 Comparing with equation (7.1) and equation (7.2), we get equation (7.5) as
 
@@ -370,10 +311,13 @@ Comparing with equation (7.1) and equation (7.2), we get equation (7.5) as
 
 i.e., the stress is proportional to the strain in the elastic limit.
 
-**Stress – Strain profile curve:** The stress versus strain profile is a plot in which stress and strain are noted for each load and a graph is drawn taking strain along the X-axis and stress along the Y-axis. The elastic characteristics of the materials can be analyzed from the stress-strain profile.
+**Stress – Strain profile curve:** 
+The stress versus strain profile is a plot in which stress and strain are noted for each load and a graph is drawn taking strain along the X-axis and stress along the Y-axis. The elastic characteristics of the materials can be analyzed from the stress-strain profile.
+
+![Alt text](img11.png)
 
 **Figure 7.8 Stress-Strain profile**
-
+<!-- 
 **A**
 
 **B C**
@@ -400,52 +344,59 @@ i.e., the stress is proportional to the strain in the elastic limit.
 | LF |
 |------|------|
 | Slope m = |
-| Stretching force (F) |
+| Stretching force (F) | -->
 
 
 
   
 
-**(a) Portion OA:** In this region, stress is very small such that stress is proportional to strain, which means Hooke’s law is valid. The point A is called limit _of proportionality_ because above this point Hooke’s law is not valid. The slope of the line OA gives the Young’s modulus of the wire.
+**(a) Portion OA:** 
+In this region, stress is very small such that stress is proportional to strain, which means Hooke’s law is valid. The point A is called limit _of proportionality_ because above this point Hooke’s law is not valid. The slope of the line OA gives the Young’s modulus of the wire.
 
-**(b) Portion AB:** This region is reached if the stress is increased by a very small amount. In this region, stress is not proportional to the strain. But once the stretching force is removed, the wire will regain its original length. This behaviour ends at point B and hence, the point B is known as yield point (elastic limit). The elastic behaviour of the material (here wire) in stress-strain curve is OAB.
+**(b) Portion AB:** 
+This region is reached if the stress is increased by a very small amount. In this region, stress is not proportional to the strain. But once the stretching force is removed, the wire will regain its original length. This behaviour ends at point B and hence, the point B is known as yield point (elastic limit). The elastic behaviour of the material (here wire) in stress-strain curve is OAB.
 
-**(c) Portion BC:** If the wire is stretched beyond the point B (elastic limit), stress increases and the wire will not regain its original length after the removal of stretching force.
+**(c) Portion BC:** 
+If the wire is stretched beyond the point B (elastic limit), stress increases and the wire will not regain its original length after the removal of stretching force.
 
-**(d) Portion CD:** With further increase in stress (beyond the point C), the strain increases rapidly and reaches the point D. Beyond D, the strain increases even when the load is removed and breaks (ruptures) at the point E. Therefore, the maximum stress (here D) beyond which the wire breaks is called _breaking stress_ or _tensile strength. The corresponding point D is known_ as fracture point. The region BCDE represents the plastic behaviour of the material of the wire.
+**(d) Portion CD:**
+ With further increase in stress (beyond the point C), the strain increases rapidly and reaches the point D. Beyond D, the strain increases even when the load is removed and breaks (ruptures) at the point E. Therefore, the maximum stress (here D) beyond which the wire breaks is called _breaking stress_ or _tensile strength. The corresponding point D is known_ as fracture point. The region BCDE represents the plastic behaviour of the material of the wire.
 
-## Moduli of elasticity
+<!-- ![Alt text](IMGGE.png) -->
+
+###  Moduli of elasticity
+<!-- #### Moduli of elasticity -->
 
 
-From Hooke’s law, stress ∝ strain
+From Hooke’s law, 
+            
+<div style="text-align:center;">
 
-stress strain
+stress ∝ strain
 
-\= a constant, known as modulus of
+</div>
 
-elasticity. Its SI unit is Nm–2 or pascal and its dimensional formula is ML–1T–2.  
+\( \frac{\text{stress}}{\text{strain}} \)= a constant, known as modulus of
+
+
+elasticity. Its SI unit is N m<sup>–2</sup>or pascal and its dimensional formula is ML<sup>–1</sup>T<sup>–2</sup> .  
 
 In this section, we shall define the elastic modulus of a given material. There are three types of elastic modulus.
 
-(a) Young’s modulus (b) Rigidity modulus (or Shear modulus) (c) Bulk modulus
+(a) Young’s modulus 
+(b) Rigidity modulus (or Shear modulus) 
+(c) Bulk modulus
 
-**Young’s modulus:** When a wire is stretched or compressed, then the ratio between tensile stress (or compressive stress) and tensile strain (or compressive strain) is defined as Young’s modulus.
+**Young’s modulus:** 
+When a wire is stretched or compressed, then the ratio between tensile stress (or compressive stress) and tensile strain (or compressive strain) is defined as Young’s modulus.
 
 Young modulus of a material
 
-\= Tensilestressor compressivestress Tensilestrainor compressivestrain
+=  \( \frac{\text{Tensilestress or compressivestress}}{\text{Tensilestrain or compressivestrain}} \)
+    
 
-Y= σ ε
 
-_t_
-
-_t_
-
-or Y= σ ε
-
-_c_
-
-_c_
+Y = \( \frac{\sigma_t}{\epsilon_t} \)   Or  Y = \( \frac{\sigma_c}{\epsilon_c} \)
 
 (7.6)
 
@@ -453,13 +404,14 @@ _c_
 
 Within the elastic limit, the stretching strain produced in wires A, B, and C due to stress is shown in the figure. Assume the load applied are the same and discuss the elastic property of the material.
 
-**Stress**
+![Alt text](img12.png)
+<!-- **Stress**
 
 **StrainO**
 
 **A B**
 
-**C**
+**C** -->
 
 Write down the elastic modulus in ascending order.
 
@@ -471,7 +423,7 @@ Here, the elastic modulus is Young modulus and due to stretching, stress is tens
 
 
 
-
+<!-- 
 | odulus of a material tresso rc ompressive stress |(7.6) |
 |------|------|------|
 | Young m= TensilesTensilesY= σεtt |
@@ -480,7 +432,7 @@ Here, the elastic modulus is Young modulus and due to stretching, stress is tens
 
 
 | ABC |
-|------|------|------|------|
+|------|------|------|------| -->
 
 
 
@@ -497,96 +449,55 @@ Young modulus of C < Young modulus of B < Young modulus of A
 Notice that larger the slope, lesser the strain (fractional change in length). So, the material is much stiffer. Hence, the elasticity of wire A is greater than wire B which is greater than C. From this example, we have understood that Young’s modulus measures the resistance of solid to a change in its length.
 
 **EXAMPLE 7.2**
+ 
 
-A wire 10 m long has a cross-sectional area 1.25 × 10–4 m2. It is subjected to a load of 5 kg. If Young’s modulus of the material is 4 × 1010 N m–2, calculate the elongation produced in the wire. Take g = 10 ms–2.
+A wire 10 m long has a cross-sectional area 1.25 × 10<sup>–4</sup> m<sup>2</sup>. It is subjected to a load of 5 kg. If Young’s modulus of the material is 4 × 10<sup>10</sup> N m<sup>–2</sup>, calculate the elongation produced in the wire. Take g = 10 ms<sup>–2</sup>.
 
 **_Solution_**
 
-We know that _F A_
+We know that    
+ 
+\( \frac{F}{A} = Y \cdot \frac{\Delta L}{L} \)
 
-_Y L L_
+\( \Delta L = (\frac{F}{A})(\frac{L}{Y}) \)
 
-\= × ∆
+= \( (\frac{50}{1.25 \times 10^{-4}})(\frac{10}{4 \times 10^10}) = 10^{-4} m \)
 
-∆ = 
 
-  
 
-  
 
-  
 
- _L F_
+**Bulk modulus:** 
+The bulk modulus is defined as the ratio of the volume stress to the volume strain.
+ **Bulk modulus, K =**
 
-_A L Y_
-
-\= ×
-
-
-
- 
-
-
-
-  ×
-
-
-
- 
-
-
-
-  =−
-
-−50 1 25 10
-
-10 4 10
-
-104 10 4
-
-. m
-
-**Bulk modulus:** The bulk modulus is defined as the ratio of the volume stress to the volume strain. **Bulk modulus, K =**
-
-Normal(Perpendicular)stressor Pressure Volumestrain  
+\(\frac{\text{Normal (Perpendicular) stress or Pressure}}{\text{Volume strain}}\)
 
 The normal stress or pressure is
 
-σn= _F A_
-
-_pn_
-
-∆ =∆
+σₙ = \(\frac{Fₙ}{ΔA}\) = Δp
 
 The volume strain is
 
-εv = D_V V_
+εᵥ = \(\frac{\Delta V}{V}\)
 
 Therefore, Bulk modulus is
 
-K= − σ ε
-
-_n_
-
-_v_
-
-_P V_
-
-_V_
-
-\=− ∆ ∆
-
+K = \(\frac{-σₙ}{εᵥ}\) = \(\frac{-ΔP}{\frac{ΔV}{V}}\)
 (7.7)
 
 The negative sign in the equation (7.7) means that when pressure is applied on the body, its volume decreases. Further, the equation (7.7) implies that a material can be easily compressed if it has a small value of bulk modulus. In other words, bulk modulus measures the resistance of solids to change in their volume.
 
 For an example, we know that gases can be easily compressed than solids. This means that gases have small value of bulk modulus compared to solids.
 
-**Compressibility** The reciprocal of the bulk modulus is called compressibility. It is defined as the fractional change in volume per unit increase in pressure.
+**Compressibility** 
+The reciprocal of the bulk modulus is called compressibility. It is defined as the fractional change in volume per unit increase in pressure.
 
 From equation (7.7), we can say that the compressibility
 
-C= 1 _K_
+C = \(\frac{1}{K}\) = \(\frac{-εᵥ}{σₙ}\) = \(\frac{-\frac{\Delta V}{V}}{\Delta P}\)
+
+<!-- C= 1 _K_
 
 _V V_
 
@@ -598,26 +509,36 @@ _n_
 
 ∆
 
-∆ ε σ
+∆ ε σ -->
 
 (7.8)
 
 Since gases have small value of bulk modulus than solids, their values of compressibility is very high.
 
-After pumping the air in the cycle tyre, usually we press the cycle tyre to check whether it has
+<div style="border: 4px solid pink; background-color: white; padding: 10px;">
 
+![YouTube](youtubeimg.jpg) After pumping the air in the cycle tyre, usually we press the cycle tyre to check whether it has enough air. What is checked here is essentially the compressibility of air.
+The tyre should be less compressible for its easy rolling
 
+![Alt text](image_8.png){: style="width: 100%;" }
 
+In fact the rear tyre is less compressible than front tyre for a smooth ride.
+</div>
 
-  
 
 **EXAMPLE 7.3**
 
-A metallic cube of side 100 cm is subjected to a uniform force acting normal to the whole surface of the cube. The pressure is 106 pascal. If the volume changes by 1.5 × 10–5 m3, calculate the bulk modulus of the material.
+A metallic cube of side 100 cm is subjected to a uniform force acting normal to the whole surface of the cube. The pressure is 10<sup>6</sup> pascal. If the volume changes by 1.5 × 10<sup>–5</sup> m<sup>3</sup>, calculate the bulk modulus of the material.
 
 **_Solution_**
 
-By definition, K = _F A V V_
+By definition,
+
+K = \(\frac{\frac{F}{A}}{\frac{\Delta V}{V}}\) = \(\frac{P \cdot V}{\Delta V}\)
+
+K = \( \frac{{10^6 \times 1}}{{1.5 \times 10^{-5}}} \) = \( 6.67 \times 10^{10} \, \text{N m}^{-2} \)
+
+ <!-- K = _F A V V_
 
 _P V V_∆ =
 
@@ -635,11 +556,14 @@ K= 10 1
 
 \= ×− −
 
-. . N m
+. . N m -->
 
-**Rigidity modulus or shear modulus:** The rigidity modulus is defined as the ratio of the shearing stress to the shearing strain.
+**Rigidity modulus or shear modulus:** 
+The rigidity modulus is defined as the ratio of the shearing stress to the shearing strain.
 
-**Table 7.1 Elastic coefficient of some mater Material Young’s modulus (Y)**
+![Alt text](table1.png)
+
+<!-- **Table 7.1 Elastic coefficient of some mater Material Young’s modulus (Y)**
 
 **(1010N m–2) B (**
 
@@ -651,12 +575,10 @@ Copper 12.0 1
 
 Iron 19.0 1
 
-Glass 7.0 3
+Glass 7.0 3 -->
 
-enough air. What is checked here is essentially the compressibility of air. The tyre should be less compressible for its easy rolling
-
-In fact the rear tyre is less compressible than front tyre for a smooth ride.  
-
+  
+<!-- 
 ηR = Shearingstress
 
 Angleof shear or shearingstrain
@@ -693,7 +615,27 @@ _x h_
 
 _F A_
 
-\= ∆ = ∆
+\= ∆ = ∆ -->
+
+
+
+(\( \eta_R \)) = \(\frac{\text{Shearing stress}}{\text{Angle of shear or shearing strain}}\)
+
+
+
+The shearing stress is
+ 
+ σₛ = \(\frac{\text{Tangential force}}{\text{Area over which it is applied}}\) = \(\frac{F_t}{\Delta A}\)
+
+
+The angle of shear or shearing strain
+
+εₛ = \(\frac{x}{h}\) = θ
+
+
+Therefore, Rigidity modulus is 
+
+ηR = \(\frac{\sigma_s}{\varepsilon_s}\) = \(\frac{F_t}{\frac{\Delta A}{\frac{x}{h}}}\) = \(\frac{F_t}{\Delta A \theta}\)
 
 (7.9)
 
@@ -705,7 +647,7 @@ This means that for a larger torque, wire will twist by a larger amount (angle o
 
 For the best understanding, the elastic coefficients of some of the important materials are listed in Table 7.1.
 
-ials **ulk modulus (K)**
+<!-- ials **ulk modulus (K)**
 
 **1010 N m–2) Shear modulus (ηR) (1010 N m–2)**
 
@@ -731,7 +673,7 @@ ials **ulk modulus (K)**
 
 | A |
 |------|
-| ∆V |
+| ∆V | -->
   
 
 **EXAMPLE 7.4**
@@ -740,11 +682,16 @@ A metal cube of side 0.20 m is subjected to a shearing force of 4000 N. The top 
 
 **_Solution_**
 
-Here, L = 0.20 m, F = 4000 N, _x_ = 0.50 cm = 0.005 m and Area A = L2 = 0.04 m2
+Here, L = 0.20 m, F = 4000 N, _x_ = 0.50 cm = 0.005 m and Area A = L<sup>2</sup> = 0.04 m<sup>2</sup>
 
 Therefore,
 
-ηR= _F A_
+ηR = \(\frac{F}{A} \times \frac{L}{X}\) = \(\frac{4000}{0.04} \times \frac{0.20}{0.005}\) = \(4 \times 10^6 \, \text{N m}^{-2}\)
+
+ 
+
+
+<!-- ηR= _F A_
 
 _L x_
 
@@ -762,18 +709,25 @@ _L x_
 
 .
 
-. N m
-
-## Poisson’s ratio
+. N m -->
 
 
-Longitudinal Strain
+###  Poisson’s ratio
+<!-- #### Poisson’s ratio -->
+
+
+<!-- Longitudinal Strain
 
 Longitudinal Strain
 
 Lateral Strain
 
-Lateral Strain
+Lateral Strain -->
+
+
+<!-- ![Alt text](IMGE.png) -->
+
+![Alt text](img13.png)
 
 **Figure 7.9** Lateral strain versus longitudinal strain
 
@@ -781,25 +735,37 @@ Suppose we stretch a wire, its length increases (elongation) but its diameter de
 
 **It is defined as the ratio of relative contraction (lateral strain) to relative expansion (longitudinal strain). It is denoted by the symbol µ.**  
 
-Poisson’sratio, Lateral strain
 
-Longitudinal strain µ= (7.10)
+Poisson's ratio, \( \mu = \frac{\text{Lateral strain}}{\text{Longitudinal strain}} \)
+(7.10)
+<!-- Poisson’sratio, Lateral strain
+
+Longitudinal strain µ= (7.10) -->
 
 Consider a wire of length _L_ with diameter _D_. Due to applied force, wire stretches and let the increase in length be _l_ and decrease in diameter be d. Then
 
-µ=− =− ×
+
+\( \mu = -\frac{d}{D} \div \frac{l}{L} = -\frac{L}{l} \times \frac{d}{D} \)
+
+
+
+
+
+<!-- µ=− =− ×
 
 _d D l L_
 
 _L l_
 
-_d D_
+_d D_ -->
 
 Negative sign indicates the elongation is along longitudinal and the contraction along lateral dimension. Further, notice that it is the ratio between quantities of the same dimension. So, Poisson’s ratio has no unit and no dimension (dimensionless number). The Poisson’s ratio values of some of the materials are listed in Table 7.2.
 
-**Table 7.2** Poisson’s ratio of some of the materials
+![Alt text](table2.png)
+<!-- 
+**Table 7.2** Poisson’s ratio of some of the materials -->
 
-**Material Poisson’s ratio**
+<!-- **Material Poisson’s ratio**
 
 Rubber 0.4999
 
@@ -834,10 +800,10 @@ Cork 0.0
 
 Energy stress strain volum= × × 1 2
 
-( )
+( ) -->
 
-## Elastic energy
-
+###  Elastic energy
+<!-- ![Alt text](IMAGE.png) -->
 
 When a body is stretched, work is done against the restoring force (internal force). This work done is stored in the body in the form of elastic energy.
 

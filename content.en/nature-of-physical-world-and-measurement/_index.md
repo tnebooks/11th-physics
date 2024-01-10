@@ -4,6 +4,10 @@ weight: 1
 ---
 
 ---
+# UNIT 1
+
+![qr_code](qr_code.png)
+
 **Learning Objectives**
 
 **In this unit, the student is exposed to** 
@@ -68,7 +72,7 @@ An attempt to explain a macroscopic system in terms of its microscopic constitue
 
 Physics as a fundamental science helps to uncover the laws of nature. The language of its expression is mathematics. In ancient times, humans lived with nature – their lifestyles were integrated with nature. They could understand the signals from the movement of the stars and other celestial bodies. They could determine the time to sow and reap by watching the sky. Thus, astronomy and mathematics were the first disciplines to be developed. The chronological development of various branches of physics is presented in Appendix A1.1. The various branches of physics are schematically shown in figure 1.1. The essential focus of different areas is given in Table 1.1.
 
-![Alt text](<fig 1.1.png>)
+![Branches Of Physics](<fig 1.1.png>)
 
 **Figure 1.1** Branches of Physics
 
@@ -264,11 +268,23 @@ Table 1.3 lists some of the derived quantities and their units.
 ---
 Note: π radian = 180°
 
-1 radian 180 180 7 22 57 27 
+1 radian= 180/ π = 180 * 7 / 22 = 57.27 
 
 Also, 1° (degree of arc) = 60′ (minute of arc) and 1′ (minute of arc) = 60″ (seconds of arc)
+---
 
 ---
+Relations between radian, degree and 
+minutes:
+
+1 = π / 180 rad =  1.744 × $10^{-2}$ rad 
+
+$\therefore$ 1<sup>' = $\frac{1}{60}^\circ$ = $(1.744\times 10^{-2} )\div 60$ =2.906 × $10^{-2}$ rad
+
+$\therefore$ 1<sup>" = $\frac{1}{3600}^\circ$ = $(1.744\times 10^{-2} )\div 60$ =4.844 × $10^{-6}$ rad
+---
+
+
 ## MEASUREMENT OF BASIC QUANTITIES
 
 ### Measurement of length

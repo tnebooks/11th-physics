@@ -74,46 +74,25 @@ Kinetic theory is based on certain assumptions which makes the mathematical trea
 Consider a monoatomic gas of N molecules each having a mass m inside a cubical container of side _l_ as shown in the Figure 9.1 (a).
 
 **Gas molecule Container**
+<!-- ![Image Alt Text](../kinetic-theory-of-gases/Screenshot%20(94).png) -->
 
-**Figure 9.1** (a) Container of gas molecules  
+
+
+**Figure 9.1** (b) Container of gas molecules  
 
 The molecules of the gas are in random motion. They collide with each other and also with the walls of the container. As the collisions are elastic in nature, there is no loss of kinetic energy, but a change in momentum occurs.
 
 The molecules of the gas exert pressure on the walls of the container due to collision on it. During each collision, the molecules impart certain momentum to the wall. Due to transfer of momentum, the walls experience a continuous force. The force experienced per unit area of the walls of the container determines the pressure exerted by the gas. It is essential to determine the total momentum transferred by the molecules in a short interval of time.
 
-A molecule of mass m moving with a velocity _v_ having components (_v_x, _v_y, _v_z) hits the right side wall. Since we have assumed that the collision is elastic, the particle rebounds with same speed and its x-component is reversed. This is shown in the Figure 9.1 (b). The components of velocity of the molecule after collision are (—_vx_, _vy_, _vz_).
+A molecule of mass m moving with a velocity \(\vec{v}\)
+ having components (\(v_x, v_y, v_z\))
+ hits the right side wall. Since we have assumed that the collision is elastic, the particle rebounds with same speed and its x-component is reversed. This is shown in the Figure 9.1 (b). The components of velocity of the molecule after collision are (\(-v_x, v_y, v_z\))
+.
 
-The x-component of momentum of the molecule before collision = _mv_x
+The x-component of momentum of the molecule before collision = \(m \cdot v_x\)
 
-**Figure 9.1** (b) Collision of a molecule with the wall
-
-_vx_
-
-_vx_
-
-_vx_
-
-_vy_
-
-_vy_
-
-**\-**
-
-_v_
-
-_v_ _v_
-
-d
-
-d
-
-d x
-
-y
-
-z
-
-m
+![Image Alt Text](image_8.png)
+**Figure 9.1** (a) Collision of a molecule with the wall
 
 A molecule is moving with velocity
 

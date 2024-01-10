@@ -4,6 +4,8 @@ weight: 1
 ---
 
 ---
+# UNIT 1
+
 ![qr_code](qr_code.png)
 
 **Learning Objectives**
@@ -266,11 +268,23 @@ Table 1.3 lists some of the derived quantities and their units.
 ---
 Note: π radian = 180°
 
-1 radian 180 180 7 22 57 27 
+1 radian= 180/ π = 180 * 7 / 22 = 57.27 
 
 Also, 1° (degree of arc) = 60′ (minute of arc) and 1′ (minute of arc) = 60″ (seconds of arc)
+---
 
 ---
+Relations between radian, degree and 
+minutes:
+
+1 = π / 180 rad =  1.744 × $10^{-2}$ rad 
+
+$\therefore$ 1<sup>' = $\frac{1}{60}^\circ$ = $(1.744\times 10^{-2} )\div 60$ =2.906 × $10^{-2}$ rad
+
+$\therefore$ 1<sup>" = $\frac{1}{3600}^\circ$ = $(1.744\times 10^{-2} )\div 60$ =4.844 × $10^{-6}$ rad
+---
+
+
 ## MEASUREMENT OF BASIC QUANTITIES
 
 ### Measurement of length

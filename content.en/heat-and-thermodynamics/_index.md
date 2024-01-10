@@ -2,9 +2,9 @@
 title: 'HEAT AND THERMODYNAMICS'
 weight: 8
 ---
-![Ramanujan](image_72.JPG)
+<!-- ![Ramanujan](image_72.JPG) -->
   
-
+<img src="image_72.JPG" alt="Ramanujan" width="1200" height="400">
 <!-- **8.1** -->
 
 <!-- **Learning Objectives**
@@ -16,7 +16,7 @@ weight: 8
 **HEAT AND TEMPERATURE**
 
 **8.1.1 Introduction**  
-<!-- ## Introduction -->
+<!-- ## 8.1.1 Introduction -->
 
 
 
@@ -42,20 +42,16 @@ _heory of universal content which I am convinced… will never be overthrown. �
 <!-- ## Meaning of heat -->
 
 
-When an object at higher temperature is placed in contact with another object at lower temperature, there will be a spontaneous flow of energy from the object
-
-
-
-
-  
-
-at higher temperature to the one at lower temperature. This energy is called heat. This process of energy transfer from higher temperature object to lower temperature object is called heating. Due to flow of heat sometimes the temperature of the body will increase or sometimes it may not increase.
+When an object at higher temperature is placed in contact with another object at lower temperature, there will be a spontaneous flow of energy from the object at higher temperature to the one at lower temperature. This energy is called heat. This process of energy transfer from higher temperature object to lower temperature object is called heating. Due to flow of heat sometimes the temperature of the body will increase or sometimes it may not increase.
 
 There is a misconception that heat is a quantity of energy. People often talk ‘this
 
 water has more heat or less heat’. These words are meaningless. Heat is not a quantity. Heat is an energy in transit which flows from higher temperature object to lower temperature object. Once the heating process is stopped we cannot use the word heat. When we use the word ‘heat’, it is the energy in transit but not energy stored in the body.
-
+<blockquote style="background-color: pink; padding:10px; border-radius:5px;">
+<!-- ![Ramanujan](image_5.png) -->
+<img src="image_5.png" alt="Ramanujan" width="30" >
 **Note**
+There is a misconception that heat is a quanity of energy. People oftens talk 'this water has more heat or less heat'. These words are meaningless. Heat is not a quanity. Heat is an energy in transit which flows from higher temperature object to lower temperature object.Once the heating process is stopped we cannot use the word heat. when we use the word 'heat', it is the energy in transit but not energy stored in the body.</blockquote>
 
 **E X A M P L E  8.1** 
 a. ‘A lake has more rain’. b. ‘A hot cup of coffee has more heat’.
@@ -77,7 +73,8 @@ When you rub your hands against each other the temperature of the hands increase
 
 By doing work on the system, the temperature in the system will increase and sometimes may not. Like heat, work is also
 
-![Ramanujan](image_66.JPG)
+<!-- ![Ramanujan](image_66.JPG) -->
+<img src="image_66.JPG" alt="Ramanujan" width="900" >
 
 Figure 8.1 Difference between work and heat
 
@@ -106,7 +103,8 @@ In our day to day applications, **_Celsius_** (˚C) and **_Fahrenheit_** (°F) s
 
 Temperature is measured with a thermometer. The conversion of temperature from one scale to other scale is given in Table 8.1
 <!-- ![Alt text](image-1.png) -->
-![Ramanujan](image_73.JPG)
+<!-- ![Ramanujan](image_73.JPG) -->
+<img src="image_73.JPG" alt="Ramanujan" width="500" >
 
 **Table 8.1** Temperature conversion Scale To Kelvin From Kelvin
 
@@ -149,7 +147,8 @@ pressure, the volume of the gas is directly proportional to absolute temperature
 
 _PV_ = _CT._ Here C is a positive constant. We can infer that C is proportional to the number of particles in the gas container by considering the following argument. If we take two containers of same type of gas with same volume V, same pressure P and same temperature T, then the gas in each container obeys the above equation. _PV_ = _CT._ If the two containers of gas is considered as a single system, then the pressure and temperature of this combined system will be same but volume will be twice and number of particles will also be double as shown in Figure 8.2
 
-![Alt text](image_67.png)
+<!-- ![Alt text](image_67.png) -->
+<img src="image_67.png" alt="Ramanujan" width="500" >
 
 
 
@@ -223,7 +222,9 @@ Pa
 
 JK K -->
 
-![Ramanujan](image_10.png)
+<!-- ![Ramanujan](image_10.png) -->
+<img src="image_10.png" alt="Ramanujan" width="500" >
+
 **_Solution_**
 
 We can take air molecules in the tire as an ideal gas. The number of molecules and the volume of tire remain constant. So the air molecules at 27°C satisfies the ideal gas equation \( nP_1V_1 = NkT_1 \) and at 39°C it satisfies \( nP_2V_2 = NkT_2 \) 
@@ -235,9 +236,8 @@ But we know
 
 V₁ = V₂ = V
 
-PV = NkT
-\[
-\frac{P_1V}{P_2V} = \frac{NkT}{NkT}  \] 
+PV = NkT _\[
+\frac{P_1V}{P_2V} = \frac{NkT}{NkT}  \]_
 \[\frac{P_1}{P_2} =\frac{T_1}{T_2} \]
 \[
   P_2 = \frac{T_1}{T_2}P_1
@@ -245,7 +245,7 @@ PV = NkT
 \[
   P_2 = \frac{312K}{300K}*240*10  Pa={249.6} kPa
 \]
-10<sub>3</sub>
+<!-- 10<sub>3</sub> -->
 
 **EXAMPLE 8.3**
 
@@ -256,8 +256,9 @@ When a person breaths, his lungs can hold up to 5.5 Litre of air at body tempera
 <!-- **_V_ \= 5.5 L**
 
 **_P_ = 101 kPa _T_ = 310 K** -->
-![Alt text](image_69.png)
+<!-- ![Alt text](image_69.png) -->
 
+<img src="image_69.png" alt="Ramanujan" width="500" >
 **_Solution_**
 
 We can treat the air inside the lungs as an ideal gas. To find the number of molecules, we can use the ideal gas law.
@@ -323,7 +324,7 @@ Calculate the volume of one mole of any gas at STP and at room temperature (300K
 Here STP means standard temperature (T=273K or 0°C) and Pressure (P=1 atm or 101.3 kPa)
 
 We can use ideal gas equation \[
-\frac{muRT}{P} = V
+\frac{\mu{RT}}{P} = V
 \]
 
 Here µ = 1 mol and R =8.314 J/mol.K.
@@ -336,9 +337,10 @@ By substituting the values
 
 We know that 1 Litre (L) = =10–3m3. So we can conclude that 1 mole of any ideal gas has volume 22.4 L.
 
-By multiplying 22.4L by 300 273
+By multiplying 22.4L by \[
+\frac{300K}{273K}
+\]
 
-_K K_
 
 we get
 
@@ -348,25 +350,20 @@ the volume of one mole of gas at room temperature. It is 24.6 L.
 
 Estimate the mass of air in your class room at NTP. Here NTP implies normal temperature (room temperature) and 1 atmospheric pressure.
 
-![Ramanujan](image_11.png)
+<!-- ![Ramanujan](image_11.png) -->
+<img src="image_11.png" alt="Ramanujan" width="500" >
 
 **_Solution_**
 
-The average size of a class is 6m length, 5 m breadth and 4 m height. The volume of the room V = 6 × 5 × 4 = 120m3. We can  
+The average size of a class is 6m length, 5 m breadth and 4 m height. The volume of the room \[V = 6 × 5 × 4 = 120\text{m}^{-3}\]. We can  
 
 determine the number of mole. At room temperature 300K, the volume of a gas occupied by any gas is equal to 24.6L.
 
-The number of mole μ= 120 24 6 10
+The number of mole \[
+\mu = \frac{120}{24} \times 10^{-3} \, \text{m}^{-3}=4878 mol
+\]
 
-3
-
-3 3
-
-m m. × −
-
-≈4878 mol.
-
-Air is the mixture of about 20% oxygen, 79% nitrogen and remaining one percent are argon, hydrogen, helium, and xenon. The molar mass of air is 29 gmol–1. So the total mass of air in the room _m_ = 4878 × 29 × 10−3 = 141.4kg.
+Air is the mixture of about 20% oxygen, 79% nitrogen and remaining one percent are argon, hydrogen, helium, and xenon. The molar mass of air is \[29 gmol^{-1}\]. So the total mass of air in the room \[ m = 4878 \times 29 \times 10^{-3} = 141.4 \, \text{kg} \]
 
 <!-- ## Heat capacity and specific heat capacity -->
 **8.2.2 Heat capacity and specific heat capacity**
@@ -376,9 +373,11 @@ Take equal amount of water and oil at temperature 27°C and heat both of them ti
 
 We can define ‘heat capacity’ as the amount of heat energy required to raise the temperature of the given body from T to T + ∆T .
 
-Heat capacity S = D D
+Heat capacity \[ S =
+\frac{\Delta Q}{\Delta T}
+\]
 
-_Q T_
+
 
 _Specific heat capacity of a substance is defined as the amount of heat energy required to raise the temperature of 1kg of a substance by 1 Kelvin or 1°C_
 
@@ -391,19 +390,8 @@ _Specific heat capacity of a substance is defined as the amount of heat energy r
 
 Therefore,
 
-s= ∆ ∆
-
-
-
- 
-
-
-
- 
-
-1 _m_
-
-_Q T_
+\[ S =\frac{1}{m}[\frac{\Delta Q}{\Delta T}]
+\]
 
 Where s is known as specific heat capacity of a substance and its value depends only on the nature of the substance not amount of substance
 
@@ -413,11 +401,13 @@ Where s is known as specific heat capacity of a substance and its value depends 
 
 m = Mass of the substance
 
-The SI unit for specific heat capacity is J kg –1 K–1. Heat capacity and specific heat capacity are always positive quantities.
+The SI unit for specific heat capacity is \(J \, \text{kg}^{-1} \, \text{K}^{-1}\). Heat capacity and specific heat capacity are always positive quantities.
+<!-- ![Ramanujan](image_74.JPG) -->
+<img src="image_74.JPG" alt="Ramanujan" width="500" >
 
-**Table 8.2 Specific heat capacity of** some common substances at 1 atm (20°C)
+<!-- **Table 8.2 Specific heat capacity of** some common substances at 1 atm (20°C) -->
 
-Material Specific heat
+<!-- Material Specific heat
 
 capacity (Jkg−lK−1)
 
@@ -435,23 +425,24 @@ Aluminium 900
 
 Human body 3470
 
-Water 4186
+Water 4186 -->
 
 From the table 8.2 it is clear that water has the highest value of specific heat capacity. For this reason it is used as a coolant in power stations and reactors.  
 
 The term heat capacity or specific heat capacity does not mean that object
 
 contains a certain amount of heat. Heat is energy transfer from the object at higher temperature to the object at lower temperature. The correct usage is ‘internal energy capacity’. But for historical reason the term ‘heat capacity’ or ‘specific heat capacity’ are retained.
-
+<blockquote style="background-color:pink; padding:10px; border-radius:5px;">
 **Note**
-
+the term heat capacity or specific heat capacity does not mean that object contains a certain amount of heat.Heat is energy transfer from the object oat highe temperature to the object at lower temperature. The correct usage is 'internal enegy capacity'.But for historical reason the term heat capacity or specific heat capacity is retained.
+</blockquote>
 When two objects of same mass are _heated_ at equal rates, the object with smaller specific heat
 
 _capacity_ will have a _faster temperature increase._ When two objects of same mass are left to cool down, the temperature of the object with smaller specific heat _capacity_ will _drop faster._
 
 When we study properties of gases, it is more practical to use molar specific heat capacity. Molar specific heat capacity is defined as heat energy required to increase the temperature of one mole of substance by 1K or 1°C. It can be written as follows
 
-C = 1 µ ∆ ∆
+<!-- C = 1 µ ∆ ∆
 
 
 
@@ -461,7 +452,9 @@ C = 1 µ ∆ ∆
 
  
 
-_Q T_
+_Q T_ -->
+\[ C =\frac{1}{\mu}[\frac{\Delta Q}{\Delta T}]
+\]
 
 Here C is known as molar specific heat _capacity_ of a substance and μ is number of moles in the substance.
 
@@ -480,40 +473,13 @@ _Thermal expansion is the tendency of matter to change in shape, area, and volum
 
 All three states of matter (solid, liquid and gas) expand when heated. When a solid is heated, its atoms vibrate with higher amplitude about their fixed points. The relative change in the size of solids is small. Railway tracks are given small gaps so that in the summer, the tracks expand and do not buckle. Railroad tracks and bridges have expansion joints to allow them to expand and contract freely with temperature changes. It is shown in Figure 8.3
 
-![Ramanujan](image_14.png)
-![Ramanujan](image_15.png)
-
-_L_ _T_
-
-_Lo_
-
-_Lo_
-
-_L_
-
-**(a) Linear ex**
-
-_L_ _T_
-
-_Lo_
-
-_T = To +_ _T_
-
-_To_
-
-_Lo_
-
-_L_
-
-_L_
-
-**(a) Linear expansion**
-
-_A Ao_
-
-**(b) Ar**
-
+<!-- ![Ramanujan](image_14.png)
+![Ramanujan](image_15.png) -->
+<img src="image_14.png" alt="Ramanujan" width="500" >
+<img src="image_15.png" alt="Ramanujan" width="500" >
 **Figure 8.3** Expansion joints for safety  
+
+ 
 
 **Liquids**, have less intermolecular forces than solids and hence they expand more than solids. This is the principle behind the mercury thermometers.
 
@@ -522,92 +488,11 @@ In the case of **gas** molecules, the intermolecular forces are almost negligibl
 The increase in dimension of a body due to the increase in its temperature is called thermal expansion.
 
 The expansion in length is called linear **expansion**. Similarly the expansion in area is termed as **area expansion** and the
-
+<!-- ![Ramanujan](image_75.JPG) -->
+<img src="image_75.JPG" alt="Ramanujan" width="200" >
 **Figure 8.4 Thermal expansions**
 
-_L_ _T_
 
-_Lo_
-
-_T = To +_ _T_
-
-_To_
-
-_Lo_
-
-_L_
-
-_L_
-
-**(a) Linear expansion (c)**
-
-_A_
-
-_A_
-
-_T_ _Ao_
-
-_Ao_
-
-**(b) Area expansion**
-
-
-
-_T = To +_ _T_
-
-_To_
-
-_L_
-
-**pansion**
-
-_V__T_ _Vo_
-
-_V_
-
-_Vo_
-
-**(c) Volume expansion**
-
-_A_
-
-_A_
-
-_T_ _Ao_
-
-_Ao_
-
-**(b) Area expansion**
-
-_V__T_ _Vo_
-
-_V_
-
-_Vo_
-
-**(c) Volume expansion**
-
-_A_
-
-_T_
-
-_Ao_
-
-**ea expansion**
-
-
-
-
-
-
-
-|------|------|------|
-
-
-
-
-|------|------|------|
-| Vo |
   
 
 expansion in volume is termed as **volume expansion**. It is shown in Figure 8.4
@@ -652,7 +537,9 @@ in cold water, the egg shell can be removed easily. It is because of the differe
 
 Eiffel tower is made up of iron and its height is roughly 300 m. During winter season (January) in France the temperature is 2°C and in hot summer its average temperature 25°C. Calculate the change in height of Eiffel tower between summer and winter. The linear thermal expansion coefficient for iron α = 10 ×10−6 per °C 
 
-![Ramanujan](image_16.png)
+<!-- ![Ramanujan](image_16.png) -->
+<img src="image_16.png" alt="Ramanujan" width="400" >
+
 
 **_Solution_**
 
@@ -754,11 +641,12 @@ Liquids expand on heating and contract on cooling at moderate temperatures. But 
 
 In cold countries during the winter season, the surface of the lakes will be at lower temperature than the bottom as shown in the Figure 8.6. Since the solid water (ice) has lower density than its liquid form, below 4°C, the frozen water will be
 
-![Alt text](image-70.png)
+<!-- ![Alt text](image-70.png) -->
+<img src="image-70.png" alt="Ramanujan" width="400" >
+**Figure 8.5** Anomalous Expansion of water
+<!-- Temperatureº C 0 1 2 3 4 5 6 7 8
 
-Temperatureº C 0 1 2 3 4 5 6 7 8
-
-1000.35
+<!-- 1000.35
 
 1000.30
 
@@ -790,11 +678,12 @@ er (c
 
 m 3 )
 
-peratureº C  
+peratureº C   --> 
 
 on the top surface above the liquid water (ice floats). This is due to the anomalous expansion of water. As the water in lakes and ponds freeze only at the top the species living in the lakes will be safe at the bottom.
 
-![Alt text](image_71.png)
+<!-- ![Alt text](image_71.png) -->
+<img src="image_71.png" alt="Ramanujan" width="500" >
 **Figure 8.6** Anomalous expansion of water in lakes
 
 0°C 1 2 3 4

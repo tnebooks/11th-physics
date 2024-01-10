@@ -73,92 +73,83 @@ Kinetic theory is based on certain assumptions which makes the mathematical trea
 
 Consider a monoatomic gas of N molecules each having a mass m inside a cubical container of side _l_ as shown in the Figure 9.1 (a).
 
-**Gas molecule Container**
-<!-- ![Image Alt Text](../kinetic-theory-of-gases/Screenshot%20(94).png) -->
+![Image Alt Text](../kinetic-theory-of-gases/Figure1.png)
 
 
-
-**Figure 9.1** (b) Container of gas molecules  
+**Figure 9.1** (a) Container of gas molecules  
 
 The molecules of the gas are in random motion. They collide with each other and also with the walls of the container. As the collisions are elastic in nature, there is no loss of kinetic energy, but a change in momentum occurs.
 
 The molecules of the gas exert pressure on the walls of the container due to collision on it. During each collision, the molecules impart certain momentum to the wall. Due to transfer of momentum, the walls experience a continuous force. The force experienced per unit area of the walls of the container determines the pressure exerted by the gas. It is essential to determine the total momentum transferred by the molecules in a short interval of time.
 
 A molecule of mass m moving with a velocity \(\vec{v}\)
- having components (\(v_x, v_y, v_z\))
+having components(\(v_x, v_y, v_z\))
  hits the right side wall. Since we have assumed that the collision is elastic, the particle rebounds with same speed and its x-component is reversed. This is shown in the Figure 9.1 (b). The components of velocity of the molecule after collision are (\(-v_x, v_y, v_z\))
 .
 
 The x-component of momentum of the molecule before collision = \(m \cdot v_x\)
 
-![Image Alt Text](image_8.png)
-**Figure 9.1** (a) Collision of a molecule with the wall
+![Image Alt Text](../kinetic-theory-of-gases/figure2.png)
+**Figure 9.1** (b) Collision of a molecule with the wall
 
-A molecule is moving with velocity
-
-towards the wall. _v_
-
-e molecule’s x component of velocity is reversed, whereas its y component remains unchanged.
 
 
 
 
   
 
-The x-component of momentum of the molecule after collision = −mvx
+The x-component of momentum of the molecule after collision = \(-mv_x\)
 
-The change in momentum of the molecule in x direction =Final momentum – initial momentum = −_mvx_ −_mvx_ = −2_mvx_
 
-According to law of conservation of linear momentum, the change in momentum of the wall = 2_mvx_
+The change in momentum of the molecule in x direction =Final momentum – initial momentum = \(-mv_x\)
+\(-mv_x = -2mv_x\)
+
+
+According to law of conservation of linear momentum, the change in momentum of the wall = \(2mv_x\)
+
 
 In x direction, the total momentum of the system before collision is equal to momentum of the molecule
 
-(_mvx_) since the momentum of the wall is zero. According to the law of conservation of momentum the total momentum of system after the collision must be equal to total momentum of system before collision. The momentum of the molecule (in x direction) after the collision is −_mvx_ and the momentum of the wall after the collision is 2mvx. So total momentum of the system after the collision is (2_mvx_−_mvx_) = _mvx_ which is same as the total momentum of the system before collision.
+\((mv_x\))since the momentum of the wall is zero. According to the law of conservation of momentum the total momentum of system after the collision must be equal to total momentum of system before collision. The momentum of the molecule (in x direction) after the collision is \(-mv_x\)
+ and the momentum of the wall after the collision is \(2mv_x\). So total momentum of the system after the collision is \((2mv_x - mv_x) = mv_x\)
+ which is same as the total momentum of the system before collision.
 
 **Note**
 
-The number of molecules hitting the right side wall in a small interval of time ∆_t_ is calculated as follows.
+The number of molecules hitting the right side wall in a small interval of time \(\Delta t\)is calculated as follows.
 
-The molecules within the distance of vx∆t from the right side wall and moving towards the right will hit the wall in the time interval ∆_t._ This is shown in the Figure 9.2. The number of molecules that will hit the right side wall in a time interval ∆_t_ is equal to the product of volume (_Avx_∆_t_) and number density of the molecules (_n_). Here _A_ is area of the wall and _n_ is number of molecules per unit volume _N_
+The molecules within the distance of \(v_x \Delta t\)
+ from the right side wall and moving towards the right will hit the wall in the time interval \(\Delta t\). This is shown in the Figure 9.2. The number of molecules that will hit the right side wall in a time interval \(\Delta t\) is equal to the product of volume \((A v_x \Delta t\))and number density of the molecules (_n_). Here _A_ is area of the wall and _n_ is number of molecules per unit volume \([\frac{N}{V}]\)
 
-_V_  
 
-  .
+ .
 
 We have assumed that the number density is the same throughout the cube.  
 
 Not all the n molecules will move to the right, therefore on an average only half of the n molecules move to the right and the other half moves towards left side.
 
-The number of molecules that hit the right side wall in a time interval ∆_t_
+The number of molecules that hit the right side wall in a time interval 
 
-\= _n_ 2
+\= \(\frac{n}{2Av_x \Delta t}\) <br> <br> (9.1)
 
-_Avx_ ∆_t_ (9.1)
-
-In the same interval of time ∆_t_, the total momentum transferred by the molecules
-
-∆_p_ = _n_ 2
-
-_Avx_ ∆_t_ × 2_mvx_ = _Av_2 _x_ _mn_∆_t_ (9.2)
+In the same interval of time \(\Delta t\), the total momentum transferred by the molecules
+\(\Delta p = \frac{n}{2} A v_x \Delta t \times 2m v_x = \frac{A v_x^2}{mn \Delta t}\)<br> <br> (9.2)
 
 From Newton’s second law, the change in momentum in a small interval of time gives rise to force.
 
 The force exerted by the molecules on the wall (in magnitude)
 
-F = ∆ ∆ _p t_
+\[ F = \frac{\Delta p}{\Delta t} = \frac{nmAv_x^2}{\Delta t} \] <br>(9.3)
 
-\= _nmAv_2 _x_ (9.3)
 
 Pressure, P = force divided by the area of the wall
 
-P = _F A_
+\[ P = \frac{F}{A} = \frac{nmv_x^2}{x} \]
+ (9.4)
 
-\= _nmv_2 _x_ (9.4)
+Since all the molecules are moving completely in random manner, they do not have same speed. So we can replace the term \(v_x^2\)by the average\(\overline{v_x^2}\) in equation (9.4)
 
-Since all the molecules are moving completely in random manner, they do not have same speed. So we can replace the term _vx_
-
-2 by the average _vx_ 2 in equation (9.4)
-
+![Image Alt Text](../kinetic-theory-of-gases/image_8.png)
 **Figure 9.2** Number of molecules hitting the wall
 
 
@@ -166,43 +157,38 @@ Since all the molecules are moving completely in random manner, they do not have
 
   
 
-_P_ \= _nm vx_ 2 (9.5)
+\[ p = nm\overline{v^2x} \]
+(9.5)
 
 Since the gas is assumed to move in random direction, it has no preferred direction of motion (the effect of gravity on the molecules is neglected). It implies that the molecule has same average speed in all the
 
-three direction. So, _vx_ 2 = _v vy z_
+three direction. So, \[ \overline{v_x^2} = \overline{v_y^2} = \overline{v_z^2} \]
+. The mean square speed is written as
 
-2 2= . The mean square speed is written as
+\[ \overline{v^2} = \overline{v_x^2} +\overline{v_y^2} +\overline{v_z^2} =\overline{3v_x^2} \]
 
-_v v v v vx y z x_ 2 2 2 2 2
+\[\overline{v_x^2}=\frac{1}{3} \overline{v^2}  \]
 
-3= + + =
-
-_v vx_ 2 21
-
-3 =
 
 Using this in equation (9.5), we get
 
-_P nmv_\= 1
+\[ P = \frac{1}{3}nm \overline{v^2} \]
 
-3
 
-2 or _P N V mv_\= 1
+or 
 
-3
+\[ P = \frac{1}{3} \frac{Nm\overline{v^2}}{V} \] (9.6)
 
-2 (9.6)
+as [\(n = \frac{N}{V}\)]
 
-as _n N V_
 
-\= 
 
- 
+
+
 
 The following inference can be made from the above equation. The pressure exerted by the molecules depends on
 
-(i) **Number density** _n N V_
+(i) **Number density** \(n = \frac{N}{V}\)
 
 \= . It implies that if the number density increases then pressure will increase. For example when we pump air inside the cycle tyre or car tyre essentially the number density increases and as a result the pressure increases.
 
@@ -220,30 +206,23 @@ molecules on the wall is independent of area of the wall (A).
 To understand the microscopic origin of temperature in the same way,
 
 Rewrite the equation (9.6)
+\[ P = \frac{1}{3}nm \overline{v^2} \]
 
-_P N V mv_\= 1
 
-3
+\[ P = \frac{1}{3} {Nm\overline{v^2} }\]
 
-2
 
-_PV Nmv_\= 1
-
-3
-
-2
 
 (9.7)
 
 Comparing the equation (9.7) with ideal gas equation _PV=NkT_,
 
-_NkT=_ 1
+\[ NkT=\frac{1}{3} {Nm\overline{v^2}} \]
 
-3 _Nmv_2
+\[ kT=\frac{1}{3} {m\overline{v^2}} \]
 
-_kT=_ 1
 
-3 _mv_2 (9.8)
+ (9.8)
 
 Multiply the above equation by 3/2 on both sides,
 

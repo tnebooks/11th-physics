@@ -19,7 +19,7 @@ weight: 2
 -  radians and degrees 
 -  uniform circular motion, centripetal acceleration and centripetal force.
 
-# INTRODUCTION
+## 2.1 INTRODUCTION
 
 Physics is basically an experimental science and rests on two pillars–Experiments and mathematics. Two thousand three hundred years ago the Greek librarian Eratosthenes measured the radius of the Earth. The size of the atom was measured much later, only in the beginning of the 20th century. The central aspect in physics is motion. Motion is found at all levels–from microscopic level (within the atom) to macroscopic and galactic level (planetary system and beyond). In short the entire Universe is governed by various types of motion. The study of various types of motion is expressed using the language of mathematics.
 
@@ -27,7 +27,7 @@ How do objects move? How fast or slow do they move? For example, when ten athlet
 
 Kinematics is the branch of mechanics which deals with the motion of objects without taking force into account. The Greek word “kinema” means “motion”. 
 
-## CONCEPT OF REST AND MOTION
+## 2.2 CONCEPT OF REST AND MOTION
 
 The concept of rest and motion can be well understood by the following elucidation (Figure 2.1). A person sitting in a moving bus is at rest with respect to a fellow passenger but is in motion with respect to a person outside the bus. The concepts of rest and motion have meaning only with respect to some reference frame. To understand rest or motion we need a convenient fixed reference frame.
 ![Alt text](image_5.png)
@@ -145,7 +145,7 @@ In this motion, all the three coordinates specifying the position of an object c
 - Random motion of a gas molecule. 
 - Flying of a kite on a windy day.
 
-## ELEMENTARY CONCEPTS OF VECTOR ALGEBRA
+## 2.3 ELEMENTARY CONCEPTS OF VECTOR ALGEBRA
 
 In physics, some quantities possess only magnitude and some quantities possess both magnitude and direction. To understand these physical quantities, it is very important to know the properties of vectors and scalars.
 

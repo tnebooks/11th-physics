@@ -129,7 +129,7 @@ Fahrenheit °C=(°F − 32)÷1.8 °F = (1.8 × °C) + 32   -->
 
 For a given gas at low pressure (density) kept in a container of volume V, experiments revealed the following information.
 
-
+For a given gas at low pressure (density) kept in a container of volume V, experiments revealed the following information.
 
 � When the gas is kept at constant temperature, the pressure of the gas is inversely proportional to the volume.
 

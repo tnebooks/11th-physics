@@ -12,10 +12,9 @@ weight: 1
 **In this unit, a student is exposed to** 
 • meaning of heat, work and temperature • ideal gas laws • concept of specific heat capacity • thermal expansion of solids, liquids and gases • various states of matter • Newton’s law of cooling • Stefan’s law and Wien’s law • meaning of thermodynamic equilibrium • meaning of internal energy • zeroth and first laws of thermodynamics • various thermodynamic processes • work done in various thermodynamic processe • second law of thermodynamics • working of carnot engine and refrigerator -->
 
-**8.1**
-**HEAT AND TEMPERATURE**
 
-**8.1.1 Introduction**  
+
+# Introduction  
 <!-- ## 8.1.1 Introduction -->
 
 
@@ -38,7 +37,7 @@ _heory of universal content which I am convinced… will never be overthrown. �
 
 <!-- is a branch of physics which explains the phenomena of temperature, heat etc. The concepts presented in this chapter will help us to understand the terms ‘hot’ and ‘cold’ and also differentiate heat from temperature. In thermodynamics, heat and temperature are two different but closely related parameters. -->
 
-**8.1.2 Meaning of heat** 
+## Meaning of heat
 <!-- ## Meaning of heat -->
 
 
@@ -54,8 +53,8 @@ water has more heat or less heat’. These words are meaningless. Heat is not a 
 There is a misconception that heat is a quanity of energy. People oftens talk 'this water has more heat or less heat'. These words are meaningless. Heat is not a quanity. Heat is an energy in transit which flows from higher temperature object to lower temperature object.Once the heating process is stopped we cannot use the word heat. when we use the word 'heat', it is the energy in transit but not energy stored in the body.</blockquote>
 
 **E X A M P L E  8.1** 
-a. ‘A lake has more rain’. b. ‘A hot cup of coffee has more heat’.
-
+a. ‘A lake has more rain’. 
+b. ‘A hot cup of coffee has more heat’.
 What is wrong in these two statements?
 
 **_Solution_**
@@ -65,7 +64,7 @@ from the cloud. Once the rain stops, the lake will have more water than before r
 
 b. When heated, a cup of coffee receives heat from the stove. Once the coffee is taken from the stove, the cup of coffee has more internal energy than before. ‘Heat’ is the energy in transit and which flows from an object at higher temperature to an object at lower temperature. Heat is not a quantity. So the statement ‘A hot cup of coffee has more heat’ is wrong, instead ‘coffee is hot’ will be appropriate.
 
-**8.1.2 Meaning of work**
+## Meaning of work
 
 
 
@@ -74,7 +73,8 @@ When you rub your hands against each other the temperature of the hands increase
 By doing work on the system, the temperature in the system will increase and sometimes may not. Like heat, work is also
 
 <!-- ![Ramanujan](image_66.jpg) -->
-<img src="image_66.jpg" alt="Ramanujan" width="1200" height="400">
+<img src="image_66.jpg" alt="Ramanujan" width="500" >
+
 Figure 8.1 Difference between work and heat
 
 <!-- **A person rubbing his hands**
@@ -90,7 +90,7 @@ not a quantity and through the work energy is transferred to the system . So we 
 
 Either the system can transfer energy to the surrounding by doing work on surrounding or the surrounding may transfer energy to the system by doing work on the system. For the transfer of energy from one body to another body through the process of work, they need not be at different temperatures.
 
-**8.1.4 Meaning of temperature**
+## Meaning of temperature
 <!-- ## Meaning of temperature -->
 
 
@@ -101,19 +101,8 @@ The SI unit of temperature is kelvin (K).
 In our day to day applications, **_Celsius_** (˚C) and **_Fahrenheit_** (°F) scales are used.
 
 Temperature is measured with a thermometer. The conversion of temperature from one scale to other scale is given in Table 8.1
-<!-- ![Alt text](image-1.png) -->
+
 <!-- ![Ramanujan](image_73.jpg) -->
-<img src="image_73.jpg" alt="Ramanujan" width="1200" height="400">
+<img src="image_73.jpg" alt="Ramanujan" width="500" >
+
 **Table 8.1** Temperature conversion Scale To Kelvin From Kelvin
-
-<!-- Celsius K=°C + 273.15 °C = K − 273.15
-
-Fahrenheit K=(°F + 459.67)÷1.8 °F=(K × 1.8)-459.67
-
-Scale To Fahrenheit From Fahrenheit
-
-Celsius °F=(1.8 × °C) + 32 °C = (°F − 32)÷1.8
-
-Scale To Celsius From Celsius
-
-Fahrenheit °C=(°F − 32)÷1.8 °F = (1.8 × °C) + 32   -->

@@ -1,7 +1,8 @@
 ---
-title: 'LAWS OF TRANSFER'
+title: 'LAWS OF HEAT TRANSFER'
 weight: 3
 ---
+
 # LAWS OF HEAT TRANSFER
 
 ## Prevost theory of heat exchange
@@ -11,13 +12,6 @@ Every object emits heat radiations at all finite temperatures (except 0 K) as we
 
 A body at high temperature radiates more heat to the surroundings than it receives from it. Similarly, a body at a lower temperature receives more heat from the surroundings than it loses to it.
 
-
-
-
-
-
-| dQdtdQdt |
-|------|
 
 
   
@@ -39,7 +33,10 @@ E = e σ T4 (8.11)
 
 Where ‘e’ is emissivity of surface. _Emissivity is defined as the ratio of the energy radiated from a material’s surface to that radiated from a perfectly black body at the same temperature and wavelength._
 
-**Note**
+<blockquote style="background-color:pink; padding:10px; border-radius:5px;">
+<img src="image_5.png" alt="Ramanujan" width="30" >**Note**If a body is not a perfect black body, thenE = e σ T4 (8.11)
+Where ‘e’ is emissivity of surface. Emissivity is defined as the ratio of the energy radiated from a material’s surface to that radiated from a perfectly black body at the same temperature and wavelength.
+</blockquote>
 
 ## Wien’s displacement law
 
@@ -57,46 +54,12 @@ _T_ ∝ =
 1 ( ) (8.12)
 
 Where, b is known as Wien’s constant. Its value is 2.898× 10-3 m K It implies that if temperature of the body increases, maximal intensity wavelength ( λ_m_ ) shifts towards lower wavelength (higher frequency) of electromagnetic spectrum. It is shown in Figure 8.13 **Graphical representation**
+<img src="image_84.jpg" alt="Ramanujan" width="500" >
+
 
 **Figure 8.13** Wien’s displacement law
 
-**0 500 1000 1500 2000**
 
-**5500 K**
-
-**5000 K**
-
-**4500 K**
-
-**4000 K**
-
-**3500 K**
-
-**Wavelength (nm)**
-
-2 x 107
-
-4 x 107
-
-6 x 107
-
-8 x 107
-
-**R ad**
-
-**ia tio**
-
-**n in**
-
-**te ns**
-
-**ity (J**
-
-**m –3**
-
-**H z–1**
-
-**)**
 
 From the graph it is clear that the peak of the wavelengths is inversely proportional to temperature. The curve is known as ‘black body radiation curve’.
 
@@ -118,80 +81,8 @@ The Sun is approximately taken as a black body. Since any object above 0 K will 
 508 3. _nm_
 
 It is the wavelength at which maximum intensity is 508_nm_. Since the Sun’s temperature is around 5700K, the spectrum of radiations emitted by Sun lie between 400 nm to 700 nm which is the visible part of the spectrum. It is shown in Figure 8.14
+<img src="image_85.jpg" alt="Ramanujan" width="500" >
 
-**Figure 8.14** Wien’s law and Human’s vision
-
-e sun 5700 K
-
-**Wavelength (nm)** 400 500 600 7000
-
-2 x 107
-
-4 x 107
-
-6 x 107
-
-8 x 107
-
-λ max
-
-**R ad**
-
-**ia tio**
-
-**n in**
-
-**te ns**
-
-**ity (J**
-
-**m –3**
-
-**H z–1**
-
-**)**
-
-e sun 5700 K
-
-**(nm)** 700
-
-**400 nm 500 nm**
-
-**600 nm 700 nm**
-
-V ISIBLE SPEC
-
-TRU M
-
-**Visible light**
-
-**0.0001 nm 0.01 nm**
-
-**10 nm**
-
-**X -rays**
-
-**G am**
-
-**m a rays**
-
-**U ltra-**
-
-**violet Infra red**
-
-**1000 nm 0.01 cm**
-
-**1 cm 1 m**
-
-**100 m**
-
-**Radio waves Radar**
-
-**TV FM**
-
-**A M**  
-
-**8.4**
 
 The humans evolved under the Sun by receiving its radiations. The human eye is sensitive only in the visible not in infrared or X-ray ranges in the spectrum. Suppose if humans had evolved in a planet near the star Sirius (9940K), then they would have had the ability to see the Ultraviolet rays!
 
@@ -203,58 +94,5 @@ The power radiated by a black body A is EA and the maximum energy radiated was a
 
 According to Wien’s displacement law λmax T = constant for both object A and B
 
-λA TA = λB TB. Here λB = 1 2
-
-λA
-
-_T T_
-
-_B_
-
-_A_
-
-_A_
-
-_B_
-
-_A_
-
-_A_
-
-\= =      
-
-\= λ λ
-
-λ
-
-λ1 2
-
-2
-
-TB = 2TA
-
-From Stefan-Boltzmann law
-
-_E E_
-
-_T T_
-
-_NB_
-
-_A_
-
-_B_
-
-_A_
-
-\= 
-
- 
-
-
-
-  =( ) = =
-
-4 42 16
 
 Object B has emitted at lower wavelength compared to A. So the object B would have emitted more energetic radiation than A.

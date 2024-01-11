@@ -18,7 +18,7 @@ _“In nature, we have to deal not with material points but with material bodies
 • rolling motion, slipping and sliding motions.
 
 ---
-# INTRODUCTION
+<!-- # INTRODUCTION
 
 
 Most of the objects that we come across in our day to day life consist of large number of particles. In the previous Units, we studied the motion of bodies without considering their size and shape. So far we have treated even the bulk bodies as only point objects. In this section, we will give importance to the size and shape of the bodies. These bodies are actually made up of a large number of particles. When such a body moves, we consider it as the motion of collection of particles as a whole. We define the concept of centre of mass to deal with such a system of particles.
@@ -28,9 +28,9 @@ The forces acting on these bulk bodies are classified into internal and external
 
 ## CENTRE OF MASS
 
-When a rigid body moves, all particles that constitute the body need not take the same path. Depending on the type of motion, different particles of the body may take different paths. For example, when a wheel rolls on a surface, the path of the centre point of the wheel and the paths of other points of the wheel are different. In this Unit, we study about the translation, rotation and the combination of these motions of rigid bodies in detail.
+When a rigid body moves, all particles that constitute the body need not take the same path. Depending on the type of motion, different particles of the body may take different paths. For example, when a wheel rolls on a surface, the path of the centre point of the wheel and the paths of other points of the wheel are different. In this Unit, we study about the translation, rotation and the combination of these motions of rigid bodies in detail. -->
 
-## Centre of Mass of a Rigid Body
+<!-- ## Centre of Mass of a Rigid Body
 
 When a bulk object (say a bat) is thrown at an angle in air as shown in Figure 5.1; do all the points of the body take a parabolic path? Actually, only one point takes the parabolic path and all the other points take different paths.
 ![Alt text](image.png)
@@ -38,9 +38,9 @@ When a bulk object (say a bat) is thrown at an angle in air as shown in Figure 5
 
 The one point that takes the parabolic path is a very special point called _centre of mass_ (CM) of the body. Its motion is like the motion of a single point that is thrown. The _centre of mass of a body is defined as a point where the entire mass of the body appears to be concentrated. Therefore, this point can_ represent the entire body.  
 
-For bodies of regular shape and uniform mass distribution, the centre of mass is at the geometric centre of the body. As examples, for a circle and sphere, the centre of mass is at their centres; for square and rectangle, at the point their diagonals meet; for cube and cuboid, it is at the point where their body diagonals meet. For other bodies, the centre of mass has to be determined using some methods. The centre of mass could be well within the body and in some cases outside the body as well.
+For bodies of regular shape and uniform mass distribution, the centre of mass is at the geometric centre of the body. As examples, for a circle and sphere, the centre of mass is at their centres; for square and rectangle, at the point their diagonals meet; for cube and cuboid, it is at the point where their body diagonals meet. For other bodies, the centre of mass has to be determined using some methods. The centre of mass could be well within the body and in some cases outside the body as well. -->
 
-## Centre of Mass for Distributed Point Masses
+<!-- ## Centre of Mass for Distributed Point Masses
 
 _A point mass is a hypothetical point particle which has nonzero mass and no size or shape_. To find the centre of mass for a collection of n point masses, say, m1, m2, m3 . . . mn we have to first choose an origin and an appropriate coordinate system as shown in Figure 5.2. Let, x1, x2, x3 . . . xn be the X-coordinates of the positions of these point masses in the X direction from the origin.
 ![Alt text](image-1.png)
@@ -67,10 +67,10 @@ Hence, the position of centre of mass of these point masses in a Cartesian coord
 \[ \vec{r}_{\text{CM}} = \sum_{i} \frac{m_i \vec{r}_i}{M} \quad (5.4) \]
 
 
-where, \( \vec{r}_{\text{CM}} = \sum_{i} \frac{m_i \vec{r}_i}{M} \) is the position vector of the center of mass and \( \vec{r}_i = x_i \hat{i} + y_i \hat{j} + z_i \hat{k} \) is the position vector of the distributed point mass. Here, \(\hat{i}, \hat{j},\) and \(\hat{k}\) are the unit vectors along X, Y, and Z-axes respectively.
+where, \( \vec{r}_{\text{CM}} = \sum_{i} \frac{m_i \vec{r}_i}{M} \) is the position vector of the center of mass and \( \vec{r}_i = x_i \hat{i} + y_i \hat{j} + z_i \hat{k} \) is the position vector of the distributed point mass. Here, \(\hat{i}, \hat{j},\) and \(\hat{k}\) are the unit vectors along X, Y, and Z-axes respectively. -->
   
 
-## Centre of Mass of Two Point Masses
+<!-- ## Centre of Mass of Two Point Masses
 
 With the equations for centre of mass, let us find the centre of mass of two point masses m1 and m2, which are at positions x1 and x2 respectively on the X-axis. For this case, we can express the position of centre of mass in the following three ways based on the choice of the coordinate system.
 
@@ -194,9 +194,9 @@ m_{2} & =5 k g \\
 \end{aligned}
 $$
 
-The centre of mass is located at position $\vec{r}$.
+The centre of mass is located at position $\vec{r}$. -->
 
-## Centre of mass for uniform distribution of mass
+<!-- ## Centre of mass for uniform distribution of mass
 
 If the mass is uniformly distributed in a bulk object, then a small mass $(\Delta \mathrm{m})$ of the body can be treated as a point mass and the summations can be done to obtain the expressions for the coordinates of centre of mass.
 
@@ -361,9 +361,9 @@ The other fragment falls at a distance of 1.375R from the point of launching. (H
 | where, v  is the relative velocity of the boat with respect to 
 the walking m an.v  03. 32 21vm  23. 3 se negative sign in the answer implies that 21the b oat a ppears t o m ove in t he o pposite 1direction t o t21 he m an wa lking in t he boat.e m agnitude o f t he r elativevelocity o f t he b oat w ith r espect t othe wa lking m an i s g reater t han t hemagnitude of t he r elative v elocity o fthe boat with respect to the stationar yobserver.e n egative sig ns in t he t wo answers in dicate t he  opposite direction o f t he b oat w ith r espect to  the s tationar y o bser ver a nd  the walking man on the boat. |
 |------|
-rFsin   
+rFsin    -->
 
-## TORQUE AND ANGULAR MOMENTUM
+<!-- ## TORQUE AND ANGULAR MOMENTUM
 
 When a net force acts on a body, it produces linear motion in the direction of the applied force. If the body is fixed to a point or an axis, such a force rotates the body depending on the point of application of the force on the body. This ability of the force to produce rotational motion in a body is called torque or moment of force. Examples for such motion are plenty in day to day life. To mention a few; the opening and closing of a door about the hinges and turning of a nut using a wrench.
 
@@ -579,9 +579,9 @@ Two mutually perpendicular beams AB, CD, are joined at O to form a structure whi
 
 (ii) about the axes DE, CD, AB and BG.
 
-![Alt text](image-16.png)
+![Alt text](image-16.png) -->
 
-**_Solution_**
+<!-- **_Solution_**
 
 (i) Torque about point E is zero. (as      r F passes through E). Torque about point D is zero. (as      r F passes through D). Torque about point O is OE F×   ( ) which is perpendicular to axes AB and CD. Torque about point B is BE F×   ( ) which is perpendicular to axes AB and CD.
 (ii) Torque about axis DE is zero (as      r F is parallel to DE). Torque about axis CD is zero (as      r F intersects CD). Torque about axis AB is zero (as      r F is parallel to AB). Torque about axis BG is zero (as      r F intersects BG).
@@ -747,9 +747,9 @@ If   0 then, dL dt
 
 constant= =0; L
 
-The above expression is known as law of conservation of angular momentum. We will learn about this law further in section 5.5.
+The above expression is known as law of conservation of angular momentum. We will learn about this law further in section 5.5. -->
 
-##EQUILIBRIUM OF RIGID BODIES
+<!-- ##EQUILIBRIUM OF RIGID BODIES
 
 
 When a body is at rest without any motion on a table, we say that there is no force acting on the body. Actually it is wrong because, there is gravitational force acting on the body downward and also the normal force exerted by table on the body upward. These two forces cancel each other and thus  
@@ -987,8 +987,8 @@ points like P, Q, R as shown in Figure 5.18, the vertical lines PP', QQ', RR' al
 
 Let us consider a cyclist negotiating a circular level road (not banked) of radius r with a speed v. The cycle and the cyclist are considered as one system with mass m. The centre gravity of the system is C and it goes in a circle of radius r with centre at O. Let us choose the line OC as X-axis and the vertical line through O as Z-axis as shown in Figure 5.19.
 ![Alt text](image-30.png)
-**Figure 5.19** Bending of cyclist
-The system as a frame is rotating about Z-axis. The system is at rest in this rotating frame. To solve problems in rotating frame of reference, we have to apply a centrifugal force (pseudo force) on the system which will be mv r
+**Figure 5.19** Bending of cyclist -->
+<!-- The system as a frame is rotating about Z-axis. The system is at rest in this rotating frame. To solve problems in rotating frame of reference, we have to apply a centrifugal force (pseudo force) on the system which will be mv r
 This force will act through the centre of gravity. The forces acting on the system are, (i) gravitational force (mg), (ii) normal force (N), (iii) frictional force (f ) and (iv) centrifugal force mv system is in equilibrium in the rotational frame of reference, the net external force and net external torque must be zero. Let us consider all torques about the point A in Figure 5.20.
 ![Alt text](image-31.png)
 **Figure 5.20** Force diagrams for the cyclist in turns
@@ -1011,9 +1011,9 @@ Speed of the cyclist, v = 20 m s-1
 Angle of bending with vertical, θ = 30o
 
 Equation for angle of bending, tan  v rg
-2 Rewriting the above equation for radius r v g  2 tan Substituting, r                 20 30 10 20 20 30 10 400 1 3 10 2 tan tan  r     3 40 1 732 40. r m= 69 28.
+2 Rewriting the above equation for radius r v g  2 tan Substituting, r                 20 30 10 20 20 30 10 400 1 3 10 2 tan tan  r     3 40 1 732 40. r m= 69 28. -->
 
-## MOMENT OF INERTIA
+<!-- ## MOMENT OF INERTIA
 
 In the expressions for torque and angular momentum for rigid bodies (which are considered as bulk objects), we have come across a term Σm ri i 2\. This quantity is called moment of inertia (I) of the bulk object. For point mass mi at a distance ri from the fixed axis, the moment of inertia is given as, m ri i2.
 
@@ -1393,9 +1393,9 @@ I kg m= 2 7 2.
 | 2IM 52I 5sphI =×(.20Iksph = 12.sphsph |
 |------|
 | Solutione s tructure i s m ade u p o f t hree o bjects; one thin rod and two solid spheres.e m ass o f t he r od, M  = 3 kg a nd t he total length of the rod, ℓ = 80 cm = 0.8 me m oment o f in ertia o f t he r od about i ts cen tre o f m ass i s, 1 IM = 12 1 1I  30 ..8  06 412 4 2Ik = 01. 6 gm rod2rode m ass o f t he s phere, M  = 5 kg a nd t he radius of the sphere, R = 10 cm 2 = 0.1 mrode m oment o f in ertia o f t he s phere about its centre of mass is, 2IM= Re m oment o f in ertia o f t5 he s phere about g eometric cen tre o f t he s tructure i s, 2CII  MdWhere, d = 40 cm + 10 cm = 50 cm = 0.5 m2sphC2IM  RM d5  2I  50 ..15  055 22sphI =×(.20 01)(+× 2250 .)25 =+00.. 21 25Iksph = 12. 7 gmAs t here a re o ne r od  and  two simi lar s olid sphsperh es w e c an w rite t he t otal m oment o f 2inersph tia (I) o f t he g iven geometric structure as, II=+ ()2 × II =+(.01 62)( ×=12.) 70 ..16 + 25 4rods phIk= 27. gm2 |
-|------|
+|------| -->
 
-## ROTATIONAL DYNAMICS
+<!-- ## ROTATIONAL DYNAMICS
 The relations among torque, angular acceleration, angular momentum, angular velocity and moment of inertia were seen in Section 5.2. In continuation to that, in this section, we will learn the relations among the other dynamical quantities like work, kinetic energy in rotational motion of rigid bodies. Finally a comparison between the translational and rotational quantities is made with a tabulation.
 
 ### Effect of Torque on Rigid Bodies
@@ -1779,7 +1779,7 @@ Power, P = τω
 | Impulse, F Dt = Dp |
 | Work done, w = F s |
 | Kinetic energ y,  1KE = mv22 |
-| Power, P = F v |
+| Power, P = F v | -->
   
 
 ## ROLLING MOTION

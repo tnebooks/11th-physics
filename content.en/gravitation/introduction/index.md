@@ -273,13 +273,7 @@ In the law of gravitation, the value of gravitational constant G plays a very im
 
 The force experienced by a mass ‘m’ which is on the surface of the Earth (Figure 6.7) is given by
 
-F GM m R_
-
-_E_
-
-_E_
-
-  2 (6.11)
+![](01.png)
 
 _ME_\-mass of the Earth, m - mass of the object, _RE_\- radius of the Earth.
 
@@ -300,3 +294,15 @@ _E_
 \= 2 (6.12)  
 
 ![](s1.png)
+
+**Figure 6.7** Force experienced by a mass on the (i) surface of the Earth (ii) at a distance from the centre of the Earth Now the force experienced by some other object of mass M at a distance r from the center of the Earth is given by
+
+![](p1.png)
+
+Using the value of g in equation (6.12), the force F will be,
+
+![](p2.png)
+
+From this it is clear that the force can be calculated simply by knowing the value of g. It is to be noted that in the above calculation G is not required.
+
+In the year 1798, Henry Cavendish experimentally determined the value of gravitational constant ‘G’ by using a torsion balance. He calculated the value of ‘G’ to be equal to 6.75 × − −10 11 2N m kg2 . Using modern techniques a more accurate value of G could be measured. The currently accepted value of G is 6.67259 × − −10 11 2N m kg2 .

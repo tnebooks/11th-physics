@@ -68,7 +68,7 @@ elliptical orbit with the Sun at one of the foci.
 **b**
 
 **a AMajor axis**
-
+![](6.1.png).\
 **Figure 6.1** An ellipse traced out by a planet around the Sun.
 
 The closest point of approach of the planet to the Sun ‘P’ is called perihelion and the farthest point ‘A’ is called aphelion (Figure 6.1). The semi-major axis is ‘a’ and semi-minor axis is ‘b’. In fact, both Copernicus and Ptolemy considered planetary orbits to be circular, but Kepler discovered that the actual orbits of the planets are elliptical.

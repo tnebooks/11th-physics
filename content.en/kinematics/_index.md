@@ -18,8 +18,8 @@ weight: 2
 -  analysis of various types of motion of objects under gravitational force
 -  radians and degrees 
 -  uniform circular motion, centripetal acceleration and centripetal force.
-
-# INTRODUCTION
+<!-- 
+# 2.1 INTRODUCTION
 
 Physics is basically an experimental science and rests on two pillars–Experiments and mathematics. Two thousand three hundred years ago the Greek librarian Eratosthenes measured the radius of the Earth. The size of the atom was measured much later, only in the beginning of the 20th century. The central aspect in physics is motion. Motion is found at all levels–from microscopic level (within the atom) to macroscopic and galactic level (planetary system and beyond). In short the entire Universe is governed by various types of motion. The study of various types of motion is expressed using the language of mathematics.
 
@@ -1562,4 +1562,4 @@ Formulas
 - In projectile motion for which acceleration is uniform, the path traced by the particle is a parabola.
 - The maximum height and range of the particle in projectile motion depend inversely on acceleration due to gravity g.
 - The relation between the linear velocity and angular velocity is given by v = ω × r v 2 2
-- The centripetal acceleration is given by a c = - or - ω r and is always r directed towards the centre of the circle.
+- The centripetal acceleration is given by a c = - or - ω r and is always r directed towards the centre of the circle. -->

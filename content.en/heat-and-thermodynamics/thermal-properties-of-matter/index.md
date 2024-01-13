@@ -792,38 +792,23 @@ We can use the equation
 {{< katex display >}} T_f = \frac{m_1s_1T_1 + m_2s_2T_2}{m_1s_1 + m_2s_2}{{< /katex >}}
 
 
-m1 = 5L\= 5kg and m2= 4_L_ \= 4kg, s1 = s2 and T1=50°C =323K and T2 _=_ 30°C_\=_303 K.
+m1 = 5L\= 5kg and m2= 4_L_ \= 4kg, s1 = s2 and T1=50°C =323K and T2 =30°C=303 K.
 
 
 So
 
-\[
+<!-- {{< katex display >}}
 \frac{m_2}T_f - \frac{m_2}T_2 = -\frac{m_1}T_f + \frac{m_1}T_1
-\]
+{{< /katex >}} -->
 
-Tf \= _m T m T_
 
-_m m_ 1 1 2 2
 
-1 2
-
-5 323 4 303 5 4
-
-\+ +
-
-\= × + ×
-
-\+ =314.11 K
+{{< katex display >}}T_f = \frac{m_1T_1 + m_2T_2}{m_1 + m_2} = \frac{(5 \times 323) + (4 \times 303)}{5 + 4} = 314.11 \, \text{K}{{< /katex >}}
 
 Tf = 314.11 K-273K ≈ 41°C. Suppose if we mix equal amount of water (m1 = m2) with 50°C and 30°C, then the final temperature is average of two temperatures.
 
-Tf = _T T_1 2
+{{< katex display >}} T_f = \frac{T_1 + T_2}{2} = \frac{323 + 303}{2} = 313 \, \text{K} = 40 \, \text{°C} {{< /katex  >}}
 
-2 323 303
-
-2 + =
-
-\+ = 313K = 40°C
 
 Suppose if both the water are at 30°C then the final temperature will also 30°C. It implies that they are at equilibrium and no heat exchange takes place between each other.
 
@@ -832,7 +817,9 @@ It is important to note that the final equilibrium temperature of mixing of
 gas or liquid depends on mass of the substances, their specific heat capacities and their temperatures. Only if we mix the same substances at equal amount, the final temperature will be an average of the individual temperatures.
 
 <blockquote style="background-color:pink; padding:10px; border-radius:5px;">
-<img src="image_5.png" alt="Ramanujan" width="30" >**Note**It is important to note that final equilibrium temperature of mixing of gas and liquids depends upon the mass of substances, their specific heat capacities and their temperatures.Only if we mix the same substances at equal amoutn the fimal temperature will be the average of equivalent temperature</blockquote>
+<img src="image_5.png" alt="Ramanujan" width="30" >
+
+**Note** It is important to note that final equilibrium temperature of mixing of gas and liquids depends upon the mass of substances, their specific heat capacities and their temperatures.Only if we mix the same substances at equal amoutn the fimal temperature will be the average of equivalent temperature</blockquote>
 
 ## Heat transfer
 
@@ -843,31 +830,24 @@ As we have seen already heat is a energy in transit which is transferred from on
 
 **Thermal conductivity** Thermal conductivity is the ability to conduct heat. _The quantity of heat transferred through a unit length of a material in a direction normal to unit surface area due to a unit temperature difference under steady state conditions is known as thermal conductivity of a material._
 
-**Figure 8.11 Steady state heat flow by** conduction.
+<!-- **Figure 8.11 Steady state heat flow by** conduction. -->
 
-Material having thermal conductivity _K_
 
-Area _A_
-
-_T2 > T1_
-
-**_T2 T1_** _d_
-
-**Q**
 <img src="image_79.jpg" alt="Ramanujan" width="500" >
+
+**Figure 8.11**  Steady state heat flow byconduction.
+
 In steady state, the rate of flow of heat Q is proportional to the temperature difference ΔT and the area of cross section A and is inversely proportional to the length L. So the rate of flow of heat is written as
 
-_Q t_
+{{< katex display >}} Q_t = \frac{{KA\Delta T}}{L}{{< /katex >}} 
 
-_KA T L_
-
-\= ∆
 
 Where, K is known as the coefficient of **thermal conductivity.** (Not to be confused with Kelvin represented by upper case K)
 
 The SI unit of thermal conductivity is
+J s<sup>-1</sup> m<sup>-1</sup> K<sup>-1</sup> or W m<sup>-1</sup> K<sup>-1</sup>
 
-J s-1 m-1 K-1 or W m-1 K-1.
+
 
 
 <img src="image_80.jpg" alt="Ramanujan" width="500" >
@@ -875,141 +855,99 @@ J s-1 m-1 K-1 or W m-1 K-1.
 
   
 
-Steady state: The state at which temperature attains constant value everywhere and there is no further transfer of heat anywhere is called steady state.
 
 <blockquote style="background-color:pink; padding:10px; border-radius:5px;">
-<img src="image_5.png" alt="Ramanujan" width="30" >**Note**It is important to note that the final equilibrium temperature of mixing of gas or liquid depends on mass of the substances, their specific heat capacities and their temperatures. Only if we mix the same substances at equal amount, the final temperature will be an average of the individual temperatures</blockquote>
+<img src="image_5.png" alt="Ramanujan" width="30" >
+
+**Note** Steady state: The state at which temperature attains constant value everywhere and there is no further transfer of heat anywhere is called steady state.</blockquote> 
+<!-- It is important to note that the final equilibrium temperature of mixing of gas or liquid depends on mass of the substances, their specific heat capacities and their temperatures. Only if we mix the same substances at equal amount, the final temperature will be an average of the individual temperatures</blockquote> -->
 
 Thermal conductivity depends on the nature of the material. For example silver and aluminium have high thermal conductivities. So they are used as cooking vessels
 
-<!-- **Sea breeze**
-
-**Land warmer than water**
-
-**Day**
-
-**Sea breeze**
-
-**Land warmer than water**
-
-**Day**
-
-**Land co than wa** -->
+**Convection** 
+Convection is the process in which heat transfer is by actual movement of molecules in fluids such as liquids and gases. In convection, molecules move freely from one place to another. It happens naturally or forcefully
 
 <img src="image_82.jpg" alt="Ramanujan" width="30" >During the day, sun rays warm up the land more quickly than sea water. It is because land has less specific heat capacity than water. As a result the air above the land becomes less dense and rises. At the same time the cooler air above the sea flows to land and it is called ‘sea breeze’. During the night time the land gets cooled faster than sea due to the same reason (specific heat). The air molecules above sea are warmer than air molecules above the land. So air molecules above the sea are replaced by cooler air molecules from the land. It is called ‘land breeze’.
 <img src="image_81.jpg" alt="Ramanujan" width="500" >
 
-**Table 8.3: Thermal conductivities 
 
 
-
-
-  
 
 Boiling water in a cooking pot is an example of convection. Water at the bottom of the pot receives more heat. Due to heating, the water expands and the density of water decreases at the bottom. Due to this decrease in density, molecules rise to the top. At the same time the molecules at the top receive less heat and become denser and come to the bottom of the pot. This process goes on continuously. The back and forth movement of molecules is called convection current.
 
 To keep the room warm, we use room heater. The air molecules near the heater will heat up and expand. As they expand, the density of air molecules will decrease and rise up while the higher density cold air will come down. This circulation of air molecules is called convection current.
 
-**Radiation:** When we keep our hands near the hot stove we feel the heat even though our hands are not touching the hot stove. Here heat transferred from the hot stove to our hands is in the form of radiation. We receive energy from the sun in the form of radiations. These radiations travel through vacuum and reach the Earth. It is the peculiar character of radiation which requires no medium to transfer energy from one object to another. The conduction or convection requires medium to transfer the heat.
+**Radiation:** 
+When we keep our hands near the hot stove we feel the heat even though our hands are not touching the hot stove. Here heat transferred from the hot stove to our hands is in the form of radiation. We receive energy from the sun in the form of radiations. These radiations travel through vacuum and reach the Earth. It is the peculiar character of radiation which requires no medium to transfer energy from one object to another. The conduction or convection requires medium to transfer the heat.
 
 Radiation is a form of energy transfer from one body to another by electromagnetic waves.
 
-Example: 1. Solar energy from the Sun. 
+Example: 
+1. Solar energy from the Sun. 
 2. Radiation from room heater.  
 
-The parameter temperature is generally thought to be associated with matter (solid, liquid and gas).
-
-But radiation is also considered as a thermodynamic system which has well defined temperature and pressure. The visible radiation coming from the Sun is at the temperature of 5700 K and the Earth re emits the radiation in the infrared range into space which is at a temperature of around 300K.
-
 <blockquote style="background-color:pink; padding:10px; border-radius:5px;">
-<img src="image_5.png" alt="Ramanujan" width="30" >**Note**
-The parameter temperature is generally thought to be associated with matter (solid, liquid and gas). But radiation is also considered as a 
-thermodynamic system which has well defined temperature and pressure. The visible radiation coming from the Sun is at the temperature of 5700 K and the Earth re emits the radiation in 
-the infrared range into space which is at a temperature of around 300K</blockquote>
+<img src="image_5.png" alt="Ramanujan" width="30" >
+
+**Note**The parameter temperature is generally thought to be associated with matter (solid, liquid and gas). But radiation is also considered as a thermodynamic system which has well defined temperature and pressure. The visible radiation coming from the Sun is at the temperature of 5700 K and the Earth re emits the radiation in the infrared range into space which is at a temperature of around 300K</blockquote>
 
 ## Newton’s law of cooling
 
 
-_Newton’s law of cooling states that the rate of loss of heat of a object is directly proportional to the difference in the temperature between that object and its surroundings ._
+_Newton’s law of cooling states that the rate of loss of heat of a object is directly proportional to the difference in the temperature between that object and its surroundings .
 
-_dQ dt_ ∝− −(T T )s (8.4)
+{{< katex display >}} 
+\frac{dQ}{dt} \propto -(T - T_0)
+{{< /katex  >}} 
+The negative sign indicates that the quantity of heat lost by object goes on decreasing with time. Where, 
+T = Temperature of the object
+Ts = Temperature of the surrounding
 
-The negative sign indicates that the quantity of heat lost by object goes on decreasing with time. Where, T = Temperature of the object Ts = Temperature of the surrounding
 <img src="image_83.jpg" alt="Ramanujan" width="500" >
+
 **Figure 8.12** Cooling of hot water with time
 
 
 From the graph in Figure 8.12 it is clear that the rate of cooling is high initially and decreases with falling temperature.
 
-
-
-
-
-
-
-|------|------|------|------|------|------|------|
-
-
-
-
-
-
-| TS |
-
-
-  
-
 Let us consider an object of mass m and specific heat capacity s at temperature T. Let _T_s be the temperature of the surroundings. If the temperature falls by a small amount dT in time dt, then the amount of heat lost is,
-
-dQ = msdT (8.5)
-
+{{< katex display >}}dQ = m \ s \ dT{{< /katex  >}}
 Dividing both sides of equation (8.5) by dt
 
-_dQ dt_
 
-_msdT dt_
+{{< katex display >}}\frac{dQ}{dt} = \frac{m s dT}{dt}{{< /katex  >}}
 
-\= (8.6)
 
 From Newton’s law of cooling
 
-_dQ dt_
+{{< katex display >}}
+\frac{dQ}{dt} \propto -\frac{T - T_s}{s}
+{{< /katex >}}
 
-_T Ts_∝− −( )
-
-_dQ dt_
-
-_\=_ \- a (T -Ts) (8.7)
+{{< katex display >}}
+\frac{dQ}{dt} = -a(T - T_s)
+{{< /katex >}}
 
 Where a is some positive constant. From equation (8.6) and (8.7)
 
-\- a (T -Ts) = ms _dT dt_
-
-_dT_
-
-_T T a_
-
-_mss_− =− _dt_ (8.8)
-
+{{< katex display >}}
+-a(T - T_s) = ms\frac{dT}{dt}
+{{< /katex >}}
+{{< katex display >}}
+\frac{dT}{T} = -\frac{a}{ms } \, dt
+{{< /katex  >}}
 Integrating equation (8.8) on both sides, _dT_
 
-_T T a_
 
-_ms dt_
+{{< katex display >}}\int \frac{dT}{T} = \int \frac{a}{ms} \, dt{{< /katex  >}}
 
-_s_− =−∫ ∫
+{{< katex display >}}\ln(T - T_s) = -\frac{a}{ms}t + b_1 {{< /katex  >}}
 
-ln (T -Ts) = − _a ms_
+Where {{< katex display >}}b_2 {{< /katex  >}}  is the constant of integration. taking exponential both sides, we get
 
-_t_ + _b_1
+{{< katex display >}} T = T_s + b_2e^{-\frac{a}{ms}t} {{< /katex  >}}
 
-Where _b_1 is the constant of integration. taking exponential both sides, we get
-
-_T_ = _T_s + _b_2 _e a_
-
-_ms t_\- (8.9)
-
-here _b_2 = _e_b1 = constant
+here  {{< katex display >}}b_2 = e^{b_1}{{< /katex  >}}  constant
 
 **EXAMPLE 8.8**
 
@@ -1019,86 +957,13 @@ A hot water cools from 92°C to 84°C in 3 minutes when the room temperature is 
 
 above room temperature. Using equation (8.8)
 
-_dT T T_
+ {{< katex display >}}\frac{dT}{T} = -\frac{a}{ms} \, dt - s{{< /katex >}}
 
-_a ms_
+or
 
-_dt s_− =− or _dT_
+ {{< katex display >}}\frac{dT}{dt} = -\frac{a}{ms} \left(T - \frac{s}{2}\right) {{< /katex  >}}
 
-_dt a_
-
-_ms T Ts_\=− −( )
-
-8 3
-
-61 _o_
-
-_oC a ms_
-
-_C_ min
-
-( )=−
 
 Similarly the average temperature of 65°C and 60°C is 62.5°C. The average temperature is 35.5°C above the room temperature. Then we can write
 
-5 35 5 _o_
-
-_oC dt_
-
-_a ms_
-
-_C_\=− ( . )
-
-By diving both the equation, we get
-
-8 3
-
-5
-
-_o_
-
-_o_
-
-_C_
-
-_C dt_
-
-min = -
-
-\-
-
-_a ms_
-
-_C a_
-
-_ms C_
-
-_o_
-
-_o_
-
-( )
-
-( . )
-
-61
-
-35 5
-
-8 3 5
-
-61 35 5
-
-× × =
-
-_dt_ .
-
-_dt_ \= × × = =
-
-61 15 35 5 8
-
-915 284
-
-3 22 .
-
-. min
+<img src="image_17.jpg" alt="Ramanujan" width="500" >

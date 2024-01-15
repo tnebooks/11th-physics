@@ -1,6 +1,8 @@
 ---
 title: 'FLUIDS'
 weight: 3
+extensions:
+    - katex # Add This Extension On Top
 ---
 
 # FLUIDS

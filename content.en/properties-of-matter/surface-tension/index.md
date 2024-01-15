@@ -1,6 +1,8 @@
 ---
 title: 'SURFACE TENSION'
 weight: 5
+extensions:
+    - katex # Add This Extension On Top
 ---
 # SURFACE TENSION
 
@@ -50,39 +52,25 @@ Take a plastic sheet and cut out a piece in the shape of a boat (Figure 7.24). A
 Surface tension for a given liquid varies in following situations 
 
 1. **_The prsence of any contamination or impurities_** considerably affects the force of surface tension depending upon the degree of contamination.
-2. **_The presence of dissolved substances_** can also affect the value of surface tension. For example, a highly soluble substance like sodium chloride (_NaCl_) when dissolved in water (H20) increases the surface tension of water. But the sparingly soluble substance like phenol or soap solution when mixed in water decreases the surface tension of water.
+2. **_The presence of dissolved substances_** can also affect the value of surface tension. For example, a highly soluble substance like sodium chloride (_NaCl_) when dissolved in water {{< katex >}}(H_2o) {{< /katex >}}increases the surface tension of water. But the sparingly soluble substance like phenol or soap solution when mixed in water decreases the surface tension of water.
 3. **_Electrification_** affects the surface tension. When a liquid is electrified, surface tension decreases. Since external force acts on the liquid surface due to electrification, area of the liquid surface increases which acts against the contraction phenomenon of the surface tension. Hence, it decreases.
-4. **_Temperature_** plays a very crucial role in altering the surface tension of a liquid. Obviously, the surface tension decreases linearly with the rise of temperature. For a small range of temperature, the surface tension at _Tt_ at _t_ ºC is _Tt_ = _T0_ (1− _α_ _t_) Where, T0 is the surface tension at temperature 0ºC and _α_ is the temperature coefficient of surface tension. It is to be noted that at the critical temperature, the surface tension is zero as the interface between liquid and vapour disappear. For example, the critical temperature of water is 374ºC. Therefore, the surface tension of water is zero at that temperature. van der Wall suggested the important relation between the surface tension and the critical temperature as
+4. **_Temperature_** plays a very crucial role in altering the surface tension of a liquid. Obviously, the surface tension decreases linearly with the rise of temperature. For a small range of temperature, the surface tension at {{< katex >}}T_t \ at \ t ºC \ is \ T_t = T_0 (1− α t) {{< /katex >}} Where, {{< katex >}}T_0{{< /katex >}}is the surface tension at temperature 0ºC and _α_ is the temperature coefficient of surface tension. It is to be noted that at the critical temperature, the surface tension is zero as the interface between liquid and vapour disappear. For example, the critical temperature of water is 374ºC. Therefore, the surface tension of water is zero at that temperature. van der Wall suggested the important relation between the surface tension and the critical temperature as
 
-T_t_ = T0 1
 
-3 2
+{{< katex display >}}
+T_t = T_0 ({1}-\frac{t}{t_c})^\frac{3}{2}
+{{< /katex >}}
 
-− 
-
- 
-
-
-
- 
-
-_t tc_
 
 Generalizing the above relation, we get
 
-T_t_ = T0 1− 
+{{< katex display >}}
+T_t = T_0 ({1}-\frac{t}{t_c})^{n}
+{{< /katex >}}
 
- 
 
-
+which gives more accurate value. Here, _n_ varies for different liquids and t and {{< katex >}}t_c {{< /katex >}}denote  the temperature and critical temperature in absolute scale (Kelvin scale) respectively.
 
- 
-
-_t tc_
-
-_n_
-
-which gives more accurate value. Here, _n_ varies for different liquids and t and tc denote  the temperature and critical temperature in absolute scale (Kelvin scale) respectively.
 
 ## Surface energy (S.E.) and surface tension (S.T.)
 
@@ -90,13 +78,15 @@ which gives more accurate value. Here, _n_ varies for different liquids and t an
 
  Consider a sample of liquid in a container. A molecule inside the liquid is being pulled in all direction by other molecules that surround it. However, near the surface, a molecule is pulled down only by the molecules below it and there is a net downward force. As a result, the entire surface of the liquid is being pulled inward. The liquid surface thus tends to have the least surface area. To increase the surface area, some molecules are brought from the interior to the surface. For this reason, work has to be done against the forces of attraction. The amount of work done is stored as potential energy. Thus, the molecules lying on the surface possess greater potential energy than other molecules. This excess energy per unit area of the free surface of the liquid is called ‘_surface energy_’. In other words, the work done in increasing the surface area per unit area of the liquid against the surface tension force is called the surface energy of the liquid.
 
-Surfaceenergy = work doneinincreasing thesurfacearea
 
-increaseinsurfacearea
+{{< katex display >}}
 
-\= _W_
+Surface\ energy  = \frac{work\ done\ in\ increasing\  the\ surface\ area}{increase\ in\ surface\ area}
+{{< /katex >}}
 
-_A_D (7.26)
+{{< katex display >}}
+= \frac{W}{∆A}     (7.26)
+{{< /katex >}}
 
 It is expressed in J m<sup>–2</sup> or N m<sup>–1</sup>.
 
@@ -104,21 +94,10 @@ It is expressed in J m<sup>–2</sup> or N m<sup>–1</sup>.
 
 The surface tension of a liquid is defined as the force per unit length of the liquid or the energy per unit area of the surface of a liquid
 
-T = _F l_
 
-(7.27)
-
-
-
-
-
-
-| urface area |
-|------|
-| a(7.26) |
-  
-
-_W T_\= ×∆
+{{< katex display >}}
+T = \frac{F}{l}     (7.27)
+{{< /katex >}}
 
 The SI unit and dimensions of T are N m<sup>−1</sup> and M T<sup>-2</sup>, respectively.
 
@@ -128,138 +107,91 @@ Consider a rectangular frame of wire ABCD in a soap solution (Figure 7.25). Let 
 F = (2T)l
 
 here, 2 is introduced because it has two free surfaces. Suppose AB is moved by a small distance Δx to new a position _A_'_B_'. Since the area increases, some work has to be done against the inward force due to surface tension.
-Work done = Force × distance = (2T _l_) (Δx)
+
+{{< katex >}}
+Work\  done = Force × distance = (2T\ l) (Δx)
+{{< /katex >}}
 
 Increase in area of the film 
+{{< katex display >}}
 ΔA = (2l) (Δx)=2l Δx 
+{{< /katex >}}
+
 
 Therefore,
 
-surfaceenergy work done
+{{< katex display >}}
+surface\ energy  = \frac{work\ done}{
+increase\ in\ surface\ area}    
+{{< /katex >}}
 
-increaseinsurfacearea = =
-
-∆
-
-∆ =
-
-2 2 _Tl x l x_
-
-_T_
-
-work done increaseinsurfacearea
-
-\= = ∆
-
-∆ =
-
-2 2 _Tl x l x_
-
-_T_ (7.28)
+{{< katex display >}}
+= \frac{2TlΔx}{2l Δx} =T   (7.28)   
+{{< /katex >}}
 
 Hence, the surface energy per unit area of a surface is numerically equal to the surface tension.
-
-
 ![alt text](../img32.png)
 
 **Figure 7.25** A horizontal soap film on arectangular frame of wire ABCD
 
 
-**Note**
-
-It should be remembered that a liquid drop has only one free surface. Therefore, the surface area of a spherical drop of radius r is equal to 4πr2, whereas, a bubble has two free surfaces and hence the surface area of a spherical bubble is equal to 2 × 4πr2.
+**Note:** It should be remembered that a liquid drop has only one free surface. Therefore, the surface area of a spherical drop of radius r is equal to 4πr<sup>2</sup>, whereas, a bubble has two free surfaces and hence the surface area of a spherical bubble is equal to 2 × 4πr<sup>2</sup>.
 
 **EXAMPLE 7.10**
 Let 2.4 × 10<sup>-4</sup>J of work is done to increase the area of a film of soap bubble from 50 cm<sup>2</sup> to 100 cm<sup>2</sup>. Calculate the value of surface tension of soap solution.
 
 **_Solution_**
 
-A soap bubble has two free surfaces, therefore increase in surface area ΔA = A2−A1 = 2(100–50) × 10<sup>–4</sup>m<sup>2</sup> = 100 × 10<sup>–4</sup>m<sup>2</sup>.
+A soap bubble has two free surfaces therefore increase in surface area ΔA = {{< katex >}} A_2{{< /katex >}} {{< katex  >}} -A_1 {{< /katex >}} = 2(100–50) × 10<sup>–4</sup>m<sup>2</sup> = 100 × 10<sup>–4</sup>m<sup>2</sup>.
 
-Since, work done W = T × ∆A ⇒ T = W/∆A 
+Since, work done {{< katex  >}}
+W = T × ∆A ⇒ T = \frac{W}{∆A} {{< /katex >}}
 
-\= ×∆ ⇒ = ∆ =
-
-× ×
-
-\= −
-
-−
-
-2 4 10 100 10
-
-2 4
-
-4 2
-
-. J m
-
-_A T W A_
-
-⇒ = ∆ =
-
-× ×
-
-\= × −
-
-− − −2 4 10
-
-100 10 2 4 10
-
-4
-
-4 2 2 1. .J
-
-m Nm
+{{< katex display >}}
+= \frac{2.4\times{10}^{-4}J}{100 \times {10}^{-4}m^{2}} = {2.4}\times {10}^{-2}N m^{-1}
+{{< /katex >}}
 
 ## Angle of contact
 
 When the free surface of a liquid comes in contact with a solid, then the surface of the liquid becomes curved at the point of contact. Whenever the liquid surface becomes a curve, then the angle between the two medium (solid-liquid interface) comes in the picture. For an example, when a glass plate is dipped in water with sides vertical as shown in figure, we can observe that the water is drawn up to the plate. In the same manner, instead of water the glass plate is dipped in mercury, the surface is curved but now the curve is depressed as shown in Figure 7.29
 **The angle between the tangent to the liquid surface at the point of contact and the solid surface inside the liquid is known as the _angle of contact between the solid and the liquid_.** It is denoted by θ. Its value is different at interfaces of different pairs of solids and liquids. In fact, it is the factor which decides whether a liquid will spread on the surface of a chosen solid or it will form droplets on it.
-Let us consider three interfaces such as liquid-air, solid-air and solid-liquid with reference to the point of contact ‘O’ and the interfacial surface tension forces Tsa, Tsl and Tla on the respective interfaces as shown in Figure 7.26.
+Let us consider three interfaces such as liquid-air, solid-air and solid-liquid with reference to the point of contact ‘O’ and the interfacial surface tension forces {{< katex >}}T_{sa}{{< /katex >}}, {{< katex >}}
+T_{sl}{{< /katex >}}and {{< katex >}}T_{la}
+{{< /katex >}}on the respective interfaces as shown in Figure 7.26.
  
 ![alt text](../img33.png)
 
 **Figure 7.26** Angle of contact of a liquid
 
-Since the liquid is stable under equilibrium, the surface tension forces between the three interfaces must also be in equilibrium. Therefore,
-Tsa
+Since the liquid is stable under equilibrium, the surface tension forces between the three interfaces must also be in equilibrium. 
+Therefore,
 
-Tsa Tla
+{{< katex display>}}
+T_{sa} = T_{la}\ cosθ + T_{sl} ⇒ cosθ = \frac{{T_{sa}}-{T_{sl}}}{T_{la}}  (7.29)
+{{< /katex >}},
+{{< katex >}}
 
-Tla
-
-\- Solid-air interface
-
-Tsl
-
-Tsl
-
-\- Liquid-air interface
-
-\- Solid-liquid interface
-
-SOLID
-
-AIR LIQUID 
-
-O
-
-
-
-_T T T T T Tsa la sl_
-
-_sa sl_
-
-_la_
-
-\= + ⇒ = −cos cosθ θ (7.29)
+{{< /katex >}} 
 
 From the above equation, there are three different possibilities which can be discussed as follows.
 
-1. If Tsa > Tsl and Tsa − Tsl > 0 (water-plasticinterface), then the angle of contact θ is acute angle (θ less than 90°) as cosθ is positive.
-2. If Tsa < Tsl and Tsa − Tsl < 0 (water-leaf interface), then the angle of contact is  obtuse angle (θ less than 180°) as cosθ is negative.
-3. If Tsa > Tla + Tsl, then there will be no equilibrium and liquid will spread over the solid.
+1. If {{< katex >}}T_{sa}
+{{< /katex >}}{{< katex >}} > T_{sl}
+{{< /katex >}} and {{< katex >}}T_{sa}
+{{< /katex >}} {{< katex >}}- T_{sl}
+{{< /katex >}} {{< katex >}}> 0
+{{< /katex >}} (water-plasticinterface), then the angle of contact θ is acute angle (θ less than 90°) as cosθ is positive.
+2.  If {{< katex >}}T_{sa}
+{{< /katex >}}{{< katex >}} > T_{sl}
+{{< /katex >}} and {{< katex >}}T_{sa}
+{{< /katex >}} {{< katex >}}- T_{sl}
+{{< /katex >}} {{< katex >}} < 0
+{{< /katex >}}(water-leaf interface), then the angle of contact is  obtuse angle (θ less than 180°) as cosθ is negative.
+3. If {{< katex >}}T_{sa}
+{{< /katex >}}{{< katex >}} > T_{la}
+{{< /katex >}}{{< katex >}}+ T_{sl}
+{{< /katex >}} {{< katex >}}
+{{< /katex >}}then there will be no equilibrium and liquid will spread over the solid.
 
 Therefore, the concept of angle of contact between the solid-liquid interface leads to some practical applications in real life. For example, soaps and detergents are wetting agents. When they are added to an aqueous solution, they will try to minimize the angle of contact and in turn penetrate well in the cloths and remove the dirt. On the other hand, water proofing paints are coated on the outer side of the building so that it will enhance the angle of contact between the water and the painted surface during the rainfall.
 
@@ -267,11 +199,14 @@ Therefore, the concept of angle of contact between the solid-liquid interface le
 As it is discussed earlier, the free surface of a liquid becomes curved when it has contact with a solid. Depending upon the nature of liquid-air or liquid-gas interface, the magnitude of interfacial surface tension varies. In other words, as a consequence of surface tension, the above such interfaces have energy and for a given volume, the surface will have a minimum energy with least area. Due to this reason, the liquid drop becomes spherical (for a smaller radius). When the free surface of the liquid is curved, there is a difference in pressure between the inner and outer the side of the surface (Figure 7.27).
 
 1. When the liquid surface is plane, the forces due to surface tension (_T, T_) act tangentially to the liquid surface in opposite directions. Hence, the resultant force on the molecule is zero. Therefore, in the case of a plane liquid surface, the pressure on the liquid side is equal to the pressure on the vapour side.
+
 ![alt text](../img_new.jpeg)
 
 **Figure7.27** Excess of pressure across a liquid
 
-2. When the liquid surface is curved, every molecule on the liquid surface experiences forces (_FT_, _FT_) due to surface tension along the tangent to the surface. Resolving these forces into rectangular components, we find that horizontal components cancel out each other while vertical components get added up. Therefore, the resultant force normal to the surface acts on the curved surface of the liquid. Similarly, for a convex surface, the resultant force is directed inwards towards the centre of curvature, whereas the resultant force is directed outwards from the centre of curvature for a concave surface. Thus, for a curved liquid surface in equilibrium, the pressure on its concave side is greater than the pressure on its convex side.
+2. When the liquid surface is curved, every molecule on the liquid surface experiences forces ( {{< katex >}}F_T
+{{< /katex >}},{{< katex >}}F_T
+{{< /katex >}}) due to surface tension along the tangent to the surface. Resolving these forces into rectangular components, we find that horizontal components cancel out each other while vertical components get added up. Therefore, the resultant force normal to the surface acts on the curved surface of the liquid. Similarly, for a convex surface, the resultant force is directed inwards towards the centre of curvature, whereas the resultant force is directed outwards from the centre of curvature for a concave surface. Thus, for a curved liquid surface in equilibrium, the pressure on its concave side is greater than the pressure on its convex side.
 
 **Excess of pressure inside a bubble and a liquid drop:** 
 
@@ -280,41 +215,69 @@ The small bubbles and liquid drops are spherical because of the forces of surfac
 
 **1) Excess of pressure inside air bubble in a liquid.**
 
-Consider an air bubble of radius R inside a liquid having surface tension T as shown in Figure 7.28 (a). Let P1 and P2 be the pressures outside and inside the air bubble, respectively. Now, the excess pressure inside the air bubble is ΔP = P2 − P1.
+Consider an air bubble of radius R inside a liquid having surface tension T as shown in Figure 7.28 (a). Let {{< katex >}}P_1
+{{< /katex >}}and {{< katex >}}P_2
+{{< /katex >}} be the pressures outside and inside the air bubble, respectively. Now, the excess pressure inside the air bubble is {{< katex >}}ΔP = P_2 − P_1
+{{< /katex >}}.
+
 ![alt text](../img35.png)
 
 **Figure 7.28.** (a) Air bubble
 
 In order to find the excess pressure inside the air bubble, let us consider the forces acting on the air bubble. For the hemispherical portion of the bubble, considering the forces acting on it, we get,
 
-1. The force due to surface tension acting towards right around the rim of length 2πR is F T = 2πRT
-2. The force due to outside pressure P1 is to the right acting across a cross sectional area of πR2 is F P1 \= P1π R2
-3. The force due to pressure P2 inside the bubble, acting to the left is F P2
-\= P2π R2\. As the air bubble is in equilibrium under the action of these forces, 
+1. The force due to surface tension acting towards right around the rim of length 2πR is {{< katex >}} F_T = 2πRT
+{{< /katex >}}
+2. The force due to outside pressure P1 is to the right acting across a cross sectional area of {{< katex >}}πR^{2}
+{{< /katex >}} is {{< katex >}}F_{P_1}
+{{< /katex >}} = {{< katex >}} P_1π R^{2}
+{{< /katex >}}
+3. The force due to pressure {{< katex >}} P_2{{< /katex >}}inside the bubble, acting to the left is {{< katex >}} F_{P_2}
+{{< /katex >}} = {{< katex >}} P_2π R^{2}
+{{< /katex >}}. 
 
-F P2 \= _FT_ \+ F P1
+As the air bubble is in equilibrium under the action of these forces, 
 
-P2π R2 = 2πRT \+ P1π R2 ⇒ (P2 − P1)πR2 = 2πRT
+{{< katex display >}}F_{P_2} = F_T + F_{P_1}
+{{< /katex >}}
 
-Excess pressure is ∆ = − =P P P T R_2 1
+{{< katex display >}}P_2π R^{2} = 2πRT + P_1π R^{2} 
+{{< /katex >}}
 
-2 (7.30)
+
+{{< katex display >}}⇒ (P_2 − P_1)πR^{2} = 2πRT 
+{{< /katex >}}
+ 
+
+{{< katex display >}}
+Excess\  pressure\  is\ ∆P = P_2 - P_1 = \frac{2T}{R}  (7.30)
+{{< /katex >}} 
+
+
+
 
 **2) Excess pressure inside a soap bubble** 
 
 Consider a soap bubble of radius _R_ and the surface tension of the soap bubble be _T_ as shown in Figure 7.28 (b). A soap bubble has two liquid surfaces in contact with air, one inside the bubble and other outside the bubble. Therefore, the force on the soap bubble due to surface tension is 2×2πRT. The various forces acting on the soap bubble are,
-1. Force due to surface tension FT\=4πRT towards right
-2. Force due to outside pressure, FP1 = P1πR2 towards right
-3. Force due to inside pressure, FP2 = P2πR2 towards left As the bubble is in equilibrium, 
+1. Force due to surface tension {{< katex >}}F_T = 4πRT {{< /katex >}}  towards right
+2. Force due to outside pressure, {{< katex >}}F_{P_1} = P_1πR^{2} {{< /katex >}}towards right
+3. Force due to inside pressure, {{< katex >}}F_{P_2} = F_T + F_{P_1} {{< /katex >}} towards left 
 
-{{< katex >}}
-FP2\= _FT_ \+ FP1
+As the bubble is in equilibrium, 
+
+{{< katex display >}}
+P_2πR^{2} = 4πRT + P_1πR^{2}
 {{< /katex >}}
-P2πR2 = 4πRT \+ P1πR2
 
-⇒ (P2 − P1)πR2 = 4πRT
+{{< katex display >}}
+⇒ (P_2 − P_1)πR^{2} = 4πRT
+{{< /katex >}}
 
-Excess pressure is ∆ = − =P P P T R2 1 (7.31)  
+
+{{< katex display >}}
+Excess\  pressure\  is\  ∆P = P_2 - P_1 = \frac{4T}{R} (7.31)  
+{{< /katex >}}
+
 
 ![alt text](../img36.png)
 
@@ -328,12 +291,25 @@ Excess pressure is ∆ = − =P P P T R2 1 (7.31)
 **Figure7.28** (c) Liquid drop
 
 The various forces acting on the liquid drop are,
-1. Force due to surface tension _FT_\=2πRT towards right
-2. Force due to outside pressure, FP1 = P1πR2 towards right 
-3. Force due to inside pressure, FP2 \= P2πR2 towards left
-As the drop is in equilibrium, 
+1. Force due to surface tension {{< katex >}} F_T = 2πRT {{< /katex >}} towards right
+2. Force due to outside pressure, {{< katex  >}} F_{P_1} = P_1πR^{2} {{< /katex >}} towards right 
+3. Force due to inside pressure,{{< katex >}} F_{P_2} = P_2πR^{2} {{< /katex >}}  towards left
 
-FP2 \= _FT_ \+ FP1 P2πR2 = 2πRT \+ P1πR2 ⇒ (P2 − P1)πR2 = 2πRT Excess pressure is ∆ = − =_P P P T R_2 1 2 (7.32)
+As the drop is in equilibrium, {{< katex >}} F_{P_2} = F_T + F_{P_1} {{< /katex >}}
+
+
+{{< katex display >}}
+P_2πR^{2} = 2πRT + P_1πR^{2} 
+{{< /katex >}}
+
+
+{{< katex display >}}
+⇒ (P_2 − P_1)πR^{2} = 2πRT
+{{< /katex >}}
+
+{{< katex display >}}
+Excess\  pressure\ is\ ∆P = P_2 - P_1 = \frac{2T}{R} (7.32)
+{{< /katex >}}
 
 
 <div style="border: 4px solid pink; padding: 10px; display: flex; align-items: flex-start;">
@@ -347,39 +323,26 @@ If excess pressure is balanced by a column of oil (with specific gravity 0.8) 4 
 
 **_Solution_**
 
+The excess of pressure inside the soap bubble is {{< katex >}}
+∆P = P_2 - P_1 = \frac{4T}{R} 
+{{< /katex >}}
 
-The excess of pressure inside the soap
-
-bubble is ∆ = − =_P P P T R_2 1
-
-4
-
-But ∆ = − = ⇒ =_P P P gh gh T R_2 1
-
-4ρ ρ
+But
+{{< katex >}}
+ ∆P = P_2 - P_1\  ρgh ⇒ ρgh = \frac{4T}{R}
+{{< /katex >}}
 
 ⇒ Surface tension,
 
-_T ghR_ \= =
+{{< katex >}}
+ T = \frac{ρghR}{4} =\frac{({800}) \times ({9.8})({4 \times {10}^{-3}}) \times ({2 \times {10}^{-2}})}{4} 
+{{< /katex >}},
 
-× × = ×
+{{< katex >}}
+ T = 15.68 \times {10}^{-2} N m^{-1}
+{{< /katex >}}
 
-− −ρ 4
-
-800 9 8 4 10 2 10 4
-
-15 68 3 2( )( . )( )( ) .
-
-_T_ = _N m_× × ×
-
-− − − −4 10 2 10
-
-4 15 68 10
-
-3 2 2 1( )( ) .
-
- 
- ## Capillarity
+## Capillarity
 
 The word ‘capilla’ means hair in Latin. If the tubes were hair thin, then the rise would be very large. It means that the tube having a very small diameter is called a ‘capillary tube’. When a glass capillary tube open at both ends is dipped vertically in water, the water in the tube will rise above the level of water in the vessel. In case of mercury, the liquid is depressed in the tube below the level of mercury in the vessel (shown in Figure 7.29). In a liquid whose angle of contact with solid is less than 90°, suffers capillary rise. On the other hand, in a liquid whose angle of contact is greater than 90°, suffers capillary fall (Table 7.4). The rise or fall of a liquid in a narrow tube is called capillarity or capillary action. Depending on the diameter of the capillary tube, liquid rises or falls to different heights.
 ![alt text](../img38.png)
@@ -409,201 +372,71 @@ The pressure difference across a curved liquid-air interface is the basic factor
 
 consider a capillary tube which is held vertically in a beaker containing water; the water rises in the capillary tube to a height _h_ due to surface tension (Figure 7.31). 
 
-The surface tension force FT, acts along the tangent at the point of contact downwards and its reaction force upwards. Surface tension _T_, is resolved into two components i) Horizontal component _T_ sinθ and ii) Vertical component _T_ cosθ acting upwards, all along the whole circumference of the meniscus.
+The surface tension force {{< katex >}}
+ F_T{{< /katex >}}, acts along the tangent at the point of contact downwards and its reaction force upwards. Surface tension _T_, is resolved into two components 1. Horizontal component _T_ sinθ and 2. Vertical component _T_ cosθ acting upwards, all along the whole circumference of the meniscus.
 
 Total upward force 
 = (_T_ cosθ) (2πr) = 2πrT cosθ
 
 where θ is the angle of contact, _r_ is the radius of the tube. Let ρ be the density of water and _h_ be the height to which the liquid rises inside the tube. Then,
 
-the volume of liquid column in the tube,V
 
-
+{{< katex display>}}
+the\  volume\  of
+{{< /katex >}}
+{{< katex display>}}
+liquid\  column\  in
+{{< /katex >}}
+{{< katex display>}}
+liquid\  column\  in
+{{< /katex >}}
 
-
+{{< katex display>}}
+volume\  of\ the
+{{< /katex >}}
+{{< katex display>}}
+liquid\  column\  of\ radius\ r
+{{< /katex >}}
+{{< katex display>}}
+height\  h
+{{< /katex >}}
 
-
+{{< katex display>}}
+and\ height\ r - Volume\ of\ the
+{{< /katex >}}
+{{< katex display>}}
+hemisphere\ of\ radius\ r
+{{< /katex >}}
 
-
-
-
-
- =
-
-
-
-
-
-
-
-volume of the liquid column of radius r height h
-
-
-
-
-
- +
-
-volume of liquid o and height r - Vol hemisphere of rad
-
-
-
-
-
-
-
-us r
-
-
-
-
-
- +
-
-volume of liquid of radius r and height r - Volume of the hemisphere of radius r
-
-
-
-
-
-
-
-
-
-
-
-
 
 ![alt text](../img40.png)
 
 **Figure 7.31** Capillary rise by surface tension
 
-θ θ
-
-θ θ
-
-T cos θ
-
-Liquid
-
-T sin θ T sin θ
-
-T cos θ
-
-N = T
-
-BA
-
-T T
-
-N = T
-
-Walls of Capillary
-
-C
-
-_h_
-
-r
-
-θ
-
-θ
-
-
-
-
-
-
-| θ |
-|------|
-
-
-
-| θ |
-|------|------|------|
-
-
-
-
-| θA |
-|------|------|
-
-| θθ |
-
-
-
-
-| θ |
-|------|------|------|
-
-| B |
-
-| h |
-
-  
-
-_V r h r r r V r h r_\= + × − 
-
- 
-
-
-
- ⇒ = +π π π π π2 2 3 2 32
-
-3 1 3
+{{< katex >}}
+V = πr^{2}h + (πr^{2} \times {r} - \frac{2}{3}πr^{3}) ⇒ V = πr^{2}h + \frac{1}{3}πr^{3}
+{{< /katex >}}
 
 The upward force supports the weight of the liquid column above the free surface, therefore,
 
-2πr_T_ cosθ= πr2 _h r g T r h r g_
+{{< katex >}}
+2πrT cosθ= πr^{2}({h}+\frac{1}{3}r)ρg ⇒ T =
+\frac {r({h}+\frac{1}{3}r)ρg} {2cosθ} 
+{{< /katex >}}
 
-\+ 
+If the capillary is a very fine tube of radius(i.e., radius is very small) then {{<katex >}}\frac{r}{3} {{< /katex >}}
+can be neglected when it is compared to the height h. Therefore,
 
- 
 
-
+{{< katex display >}}
+T =\frac {rρgh}{2cosθ}  (7.33)
+{{< /katex >}}
 
-  ⇒ =
 
-\+   
+{{< katex display >}}
+h =\frac {2Tcosθ}{rρg}  ⇒ h ∝  \frac{1}{r} (7.34)
+{{< /katex >}}
 
-  1
-
-3
-
-1 3
-
-2 ρ
-
-ρ
-
-θcos
-
-If the capillary is a very fine tube of radius
-
-(i.e., radius is very small) then _r_ 3
-
-can be
-
-neglected when it is compared to the height
-
-_h. Therefore,_
-
-_T r gh_
-
-\= ρ
-
-θ2cos (7.33)
-
-Liquid rises through a height _h_
-
-_h T r g_
-
-_h r_
-
-\= ⇒ ∝ 2 1cosθ
-
-ρ (7.34)
 This implies that the capillary rise (h) is inversely proportional to the radius (_r_) of the tube. i.e, the smaller the radius of the tube greater will be the capillarity.
 
 **EXAMPLE 7.12**
@@ -611,32 +444,19 @@ Water rises in a capillary tube to a height of 2.0cm. How much will the water ri
 
 **_Solution_**
 From equation (7.34), we have
+{{< katex display >}}
+h ∝  \frac{1}{r} ⇒ hr = constant 
+{{< /katex >}}
 
-_h r_
+Consider two capillary tubes with radius {{< katex  >}} r_1 {{< /katex >}} and {{< katex  >}} r_2 {{< /katex >}} which on placing in a liquid, capillary rises to height {{< katex  >}} h_1 {{< /katex >}} and {{< katex  >}} h_2 {{< /katex >}}, respectively. Then,
 
-_hr_∝ ⇒ = 1 constant
+{{< katex display >}}
+h_1 r1 = h_2 r_2 = constant
+{{< /katex >}}
 
-Consider two capillary tubes with radius _r_1 and _r_2 which on placing in a liquid, capillary rises to height h1 and h2, respectively. Then,
-
-_h_1_r_1 = _h_2_r_2 = constant
-
-⇒ = = ×( )×
-
-⇒ −
-
-_h h r r_
-
-_m r r_2
-
-1 1
-
-2
-
-22 10
-
-3
-
-_h_2=6×10–2m  
+{{< katex display >}}
+⇒ h_2  = \frac{{h_1}{r_1}}{r_2} = \frac{({2} \times {10}^{-2}m) \times r}{\frac{2}{3}} ⇒ h_2 = {6} \times {10}^{-2}m
+{{< /katex >}}
 
 **EXAMPLE 7.13** Mercury has an angle of contact equal to 140° with soda lime glass. A narrow tube of radius 2 mm, made of this glass is dipped in a trough containing mercury. By what amount does the mercury dip down in the tube relative to the liquid surface outside? Surface tension of mercury _T_\=0.456 N m<sup>–1</sup>; Density of mercury ρ = 13.6 × 103 kg m<sup>–3</sup>
 
@@ -644,47 +464,18 @@ _h_2=6×10–2m
 
 Capillary descent, cos140 = cos(90+50) –sin50 = –0.7660
 
-_h=_ 2 2 0 456 140 2 10 13 6 10 9 8
+{{< katex display >}}
+h =\frac {2Tcosθ}{rρg}= \frac{{2 \times ({0.456 Nm^{-1}})}({cos 140°})}    {({2 \times{10}^{-3}m})\ ({13.6 \times {10}^{3}}) ({9.8 ms^{-2}})}
+{{< /katex >}}
 
-1 0
+{{< katex display>}}
+= \frac{2 \times {0.456} \times ({-0.7660})} {2 \times{13.6} \times {9.8}}
+{{< /katex >}}
 
-3 3
 
-_T r g_
-
-_N m m ms_
-
-cos ( . )(cos ) ( )( . )( .
-
-θ ρ =
-
-×
-
-× ×
-
-−
-
-− −2
-
-3
-
-2 0 456 0 7660 2 13 6 9 8
-
-0 6986 266 56
-
-2 62 10
-
-) . ( . )
-
-. . .
-
-. .
-
-\= × × − × ×
-
-\= −
-
-\=− × − _m_
+{{< katex display>}}
+= \frac{-0.6986} {266.56} = {-2.62}\times{10}^{-3}m
+{{< /katex >}}
 
 where, negative sign indicates that there is fall of mercury (mercury is depressed) in glass tube.
 

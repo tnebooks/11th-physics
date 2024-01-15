@@ -6,23 +6,23 @@ weight: 6
 # BERNOULLI’S THEOREM
 
 ## Equation of continuity
-In order to discuss the mass flow rate through a pipe, it is necessary to assume that the flow of fluid is steady, the flow of the fluid is said to be steady if at any given point, the velocity of each passing fluid particle remains constant with respect to time. Under this condition, the path taken by the fluid particle is a streamline. 
-Consider a pipe AB of varying cross sectional area a1 and a2 such that a1 > a2\. A non-viscous and incompressible liquid flows steadily through the pipe, with velocities v1 and v2 in area a1 and a2, respectively as shown in Figure 7.32.
+In order to discuss the mass flow rate through a pipe, it is necessary to assume that the flow of fluid is steady, the flow of the fluid is said to be steady if at any given point, the velocity of each passing fluid particle remains constant with respect to time. Under this condition, the path taken by the fluid particle is a streamline. Consider a pipe AB of varying cross sectional area a1 and a2 such that {{< katex >}} a_1 {{< /katex >}}{{< katex >}} > a_2 {{< /katex >}}. A non-viscous and incompressible liquid flows steadily through the pipe, with velocities {{< katex >}} v_1 {{< /katex >}} and {{< katex >}} v_2 {{< /katex >}} in area {{< katex >}} a_1 {{< /katex >}}and {{< katex >}} a_2 {{< /katex >}}, respectively as shown in Figure 7.32.
 
 ![alt text](../img41.png)
 
 **Fig 7.32** A streamlined flow of fluid through a 
 
-Let m1 be the mass of fluid flowing through section 
-A in time Δt, m1 = (a1 v1 _Δt_) ρ
-Let m2 be the mass of fluid flowing through section 
-B in time Δt, m2 = (a2 v2 _Δt_) ρ
-For an incompressible liquid, mass is conserved 
-m1 = m2
+Let m1 be the mass of fluid flowing through section A in time Δt, {{< katex >}} m_1 =(a_1 v_1\ Δt)ρ {{< /katex >}} Let m2 be the mass of fluid flowing through section B in time Δt, {{< katex >}} m_2 = (a_2 v_2\ Δt) ρ {{< /katex >}} For an incompressible liquid, mass is conserved {{< katex >}} m_1 = m_2 {{< /katex >}}
 
-a1 v1 Δt ρ = a2 v 2Δ t ρ
+ {{< katex display >}}
+a_1 v_1\ Δt\ ρ = a_2 v_2\ Δt\ ρ
+{{< /katex >}}
 
-a1 v1 = a2 v2 ⇒ a v = constant (7.35)
+
+ {{< katex display >}}
+a_1 v_1 = a_2 v_2 ⇒ a v = constant (7.35)
+{{< /katex >}}
+
 which is called the equation of continuity and it is a statement of conservation of mass in the flow of fluids.  
 
 In general, _a v =_ constant, which means that the volume flux or flow rate remains constant throughout the pipe. In other words, the smaller the cross section, greater will be the velocity of the fluid.
@@ -31,89 +31,20 @@ In general, _a v =_ constant, which means that the volume flux or flow rate rema
 In a normal adult, the average speed of the blood through the aorta (radius _r_ = 0.8 cm) is 0.33 ms<sup>–1</sup>. From the aorta, the blood goes into major arteries, which are 30 in number, each of radius 0.4 cm. Calculate the speed of the blood through the arteries.
 
 **_Solution_**
-a1 v1 = 30 a2 v2 ⇒ π r v1 2
 
-1 = 30 π _r v_2 2
+{{< katex display >}}
+a_1 v_1 = 30\ a_2 v_2 ⇒ π r_1^{2} v_1 = 30 π r_2^{2} v_2 {{< /katex >}}
 
-2
+{{< katex display >}}
+v_2 = \frac{1}{30} (\frac{r_1}{r_2})^{2} v_1{{< /katex >}}
 
-_v r r_
+{{< katex display >}}
+⇒ v_2 = \frac{1}{30} \times (\frac{0.8 \times {10}^{-2}m}{0.4 \times {10}^{-2}m})^{2} \times ({0.33 ms^{-1}}){{< /katex >}}
 
-_v v_2 1
 
-2
-
-2
-
-1 2
-
-2
-
-2
-
-1 30
-
-1 30
-
-0 8 10 0 4 10
-
-\= 
-
- 
-
-
-
-  ⇒ = ×
-
-× ×
-
-
-
- 
-
-−
-
-−
-
-.
-
-. m m  × −
-
-2
-
-10 33( . )ms
-
-_v v_ 2
-
-1 2
-
-2
-
-2
-
-1 30
-
-0 8 10 0 4 10
-
-⇒ = × × ×
-
-
-
- 
-
-−
-
-−
-
-.
-
-. m m  × −
-
-2
-
-10 33( . )ms
-
-_v_2 = 0.044 m s–1
+{{< katex display >}}
+v_2 =0.044 ms^{-1}
+{{< /katex >}}
 
 ## Pressure, kinetic and potential energy of liquids
 
@@ -121,117 +52,78 @@ A liquid in a steady flow can possess three kinds of energy. They are (1) Kineti
 
 1. **Kinetic energy:** The kinetic energy of a liquid of mass _m_ moving with a velocity _v_ is given by
 
-_KE_ = 1 2
 
-_mv_2
+{{< katex display >}}
+KE = \frac{1}{2} mv^{2}
+{{< /katex >}}
 
 The kinetic energy per unit mass =
-
-_KE m_
-
-_mv_
-
-_m v_\= =
-
-1 2 1
-
-2
-
-2
-
-2
-
-
-
-
-  
+{{< katex display >}}
+\frac{KE}{m} = \frac{\frac{1}{2} mv^{2}}{m} = \frac{1}{2}v^{2}
+{{< /katex >}}
 
 Similarly, the kinetic energy per unit volume
+{{< katex display >}}
+\frac{KE}{volume} = \frac{\frac{1}{2} mv^{2}}{V} = \frac{1}{2} \ (\frac{m}{V})v^{2} = \frac{1}{2}ρv^{2}
+{{< /katex >}}
 
-\= _KE mv_
-
-_V m V_
-
-_v v_ volume
-
-\= = 
-
-  
-
-  =
-
-1 2 1
-
-2 1 2
-
-2
-
-2 2ρ
 
 2. **Potential energy:** The potential energy of a liquid of mass _m_ at a height _h_ above the ground level is given by
 
-_PE_ \= _mgh_
+{{< katex display >}}
+{PE} ={mgh} 
+{{< /katex >}}
 
 The potential energy per unit mass
-
-\= _PE m_
-
-_mgh m_
-
-_gh_\= =
+{{< katex display >}}
+\frac{PE}{m} = \frac{mgh}{m} = {gh} 
+{{< /katex >}}
 
 Similarly, the potential energy per unit
-
-volume = _PE mgh V_
-
-_m V_
-
-_gh gh_ volume
-
-\= = 
-
-  
-
-  =ρ
+{{< katex display >}}
+volume = \frac{PE}{volume} = \frac{mgh}{V} = \frac{m}{V}{gh} = ρgh 
+{{< /katex >}}
 
 3. **Pressure energy:** The energy acquired by a fluid by applying pressure on the fluid. We know that
 
-Pressure = Force Area
+{{< katex display >}}
+Pressure = \frac{Force}{Area} ⇒ Force = Pressure × Area
+{{< /katex >}}
 
-⇒ Force = Pressure × Area
 
-_F_ × _d_ = (_P A_) × _d_ = _P_ (_A_ × _d_)
+{{< katex display >}}
+F × d = (P\ A) × d = P (A × d)
+{{< /katex >}}
 
-⇒ _F_ × _d_ \= W = P V = pressure energy Therefore, pressure energy, EP = PV
+
+{{< katex display >}}
+⇒ F × d = W = P\ V = pressure\ energy
+{{< /katex >}}
+
+Therefore, pressure energy, {{< katex >}}
+E_P = PV
+{{< /katex >}}
 
 The pressure energy per unit mass =
-
-_E m m_
-
-_P_ \= = = PV P
-
-m V
-
-P ρ
-
+{{< katex display >}}
+\frac{E_P}{m} = \frac{PV}{m} = \frac{P}
+{\frac{m}{V}}= \frac{P}{ρ}{{< /katex >}}
 Similarly, the pressure energy per unit
 
-volume = _E PV V_
+{{< katex display >}}
+volume = \frac{E_P}{Volume} = \frac{Pv}{V} =P
+{{< /katex >}}
 
-_PP_
-
-volume = =
 
 ## Bernoulli’s theorem and its applications
 
 In 1738, the Swiss scientist Daniel Bernoulli developed a relationship for the flow of fluid through a pipe of varying cross section. He proposed a theorem for the streamline flow of a liquid based on the law of conservation of energy. 
 
 **Bernoulli’s theorem** According to Bernoulli’s theorem, the sum of pressure energy, kinetic energy, and potential energy per unit mass of an incompressible, non-viscous fluid in a streamlined flow remains a constant. Mathematically,
-_P v_ ρ + +
 
-1 2
-
-2 gh = constant (7.36)
+{{< katex display >}}
+\frac{P}{ρ} + \frac{1}{2}v^{2} +gh = constant (7.36)
+{{< /katex >}}
 
 This is known as Bernoulli’s equation. 
 
@@ -241,138 +133,89 @@ This is known as Bernoulli’s equation.
 
 **Figure 7.33** Flow of liquid through a pipe AB
 
-A
+Let us consider a flow of liquid through a pipe AB as shown in Figure 7.33. Let _V_ be the volume of the liquid when it enters _A_ in a time _t_ which is equal to the volume of the liquid leaving _B_ in the same time. Let {{< katex >}} a_A, v_A {{< /katex >}} and {{< katex >}}P_A {{< /katex >}}be the area of cross section of the tube, velocity of the liquid and pressure exerted by the liquid at _A_ respectively.
 
-B aB
+Let the force exerted by the liquid at A is
+{{< katex display >}}F_A = P_A a_A{{< /katex >}}
 
-aA
+Distance travelled by the liquid in time _t_ is 
+{{< katex display >}}d = v_A\ t{{< /katex >}}
 
-hA
+Therefore, the work done is 
+{{< katex display >}}W= F_A d  = P_A a_A V_A t{{< /katex >}}
 
-hB
+But {{< katex >}}a_A v_A t = a_A d = V{{< /katex >}}, volume of the liquid entering at _A_. 
+Thus, the work done is the pressure energy (at _A_), {{< katex display >}}W= F_A d  = P_A V {{< /katex >}}
 
-Let us consider a flow of liquid through a pipe AB as shown in Figure 7.33. Let _V_ be the volume of the liquid when it enters _A_ in a time _t_ which is equal to the volume of the liquid leaving _B_ in the same time. Let _aA_, _vA_ and P_A_ be the area of cross section of the tube, velocity of the liquid and pressure exerted by the liquid at _A_ respectively.
-
-Let the force exerted by the liquid at _A_ is _FA_ = _PAaA_
-
-Distance travelled by the liquid in time _t_ is _d_ = _vA_ _t_
-
-Therefore, the work done is _W_ = _FAd_ = _PAaAvA_ _t_
-
-But _aAvAt_ = _aAd_ =_V_, volume of the liquid entering at _A_. Thus, the work done is the pressure energy (at _A_), _W_ = _FAd_ = _PAV_
-
-
-
-
-  
 
 Pressure energy per unit volume at A
 
-Pressure energy volume
-
-P V
-
-PA A= =
-
-_V_
-
+{{< katex display >}}
+\frac{Pressure\ energy} {volume} = \frac{P_A \ {V}}{V} = P_A
+ {{< /katex >}}
+  
 Pressure energy per unit mass at A
-
-Pressure energy mass
-
-P m
-
-P m V
-
-PA A A= = = _V_
-
-ρ
+{{< katex display >}}
+\frac{Pressure\ energy} { mass} = \frac{P_A \ {V}}{m} = \frac{P_A}{\frac{m}{V}}= \frac{P_A}{ρ}
+ {{< /katex >}}
 
 Since m is the mass of the liquid entering at A in a given time, therefore, pressure energy of the liquid at A is
 
-_E_PA = P_AV_ = P_AV_ × _m m_
+{{< katex display >}}
+E_{P_A} = {P_A \ {V}} = {P_A}{V} \times (\frac{m}{m})= {m}\frac{P_A}{ρ}
+ {{< /katex >}}
 
-_m_ 
-
-  
-
- =
-
-PA
-
-ρ
-
-Potential energy of the liquid at A, PE_A_ = mg hA,
+Potential energy of the liquid at A,
+{{< katex display >}}
+ PE_A = mg\ h_A,
+ {{< /katex >}}
 
 Due to the flow of liquid, the kinetic energy of the liquid at A,
 
-KEA = 1 2
+{{< katex display >}}
+KE_A = \frac{1}{2} m\ v^{2}_A
+ {{< /katex >}} 
 
-m v A 2
+Therefore, the total energy due to the flow of liquid at A, {{< katex >}}
+E_A = E_{P_A} + KE_A + PE_A
+ {{< /katex >}} 
 
-Therefore, the total energy due to the flow of liquid at A, EA = EPA + KEA + PEA
 
-E P mv mg hA A
+{{< katex display >}}
+E_A =m\frac{P_A}{ρ}+ \frac{1}{2} mv^{2}_A + mg\ h_A
+ {{< /katex >}} 
 
-A A= + +_m_ ρ
+Similarly, let {{< katex >}}
+a_B, a_B {{< /katex >}},and {{< katex >}} P_B {{< /katex >}} be the area of cross section of the tube, velocity of the liquid, and pressure exerted by the liquid at _B_. Calculating the total energy at {{< katex >}}E_B {{< /katex >}}, we get
 
-1 2
 
-2
+{{< katex display >}}
+E_B =m\frac{P_B}{ρ}+ \frac{1}{2} mv^{2}_B + mg\ h_B
+ {{< /katex >}} 
 
-Similarly, let _a_B, _v_B, and PB be the area of cross section of the tube, velocity of the liquid, and pressure exerted by the liquid at _B_. Calculating the total energy at EB, we get
+From the law of conservation of energy,
+{{< katex display >}}
+ E_A = E_B
+{{< /katex >}}
 
-E P mv mg hB B
+{{< katex display >}}
+m\frac{P_A}{ρ}+ \frac{1}{2} mv^{2}_A + mg\ h_A = m\frac{P_B}{ρ}+ \frac{1}{2} mv^{2}_B + mg\ h_B
+ {{< /katex >}} 
 
-B= + +_m_ ρ
-
-1 2
-
-2 **B**
-
-From the law of conservation of energy, EA = EB
-
-_m m_P mv mg h P m v mg hA A A
-
-B B Bρ ρ
-
-\+ + = + + 1 2
-
-1 2
-
-2 2
-
-P v g h P v g hA A A
-
-B B Bρ ρ
-
-\+ + = + + 1 2
-
-1 2
-
-2 2 = constant
+{{< katex display >}}
+\frac{P_A}{ρ}+ \frac{1}{2} mv^{2}_A + g\ h_A = \frac{P_B}{ρ}+ \frac{1}{2} mv^{2}_B + g\ h_B = constant
+ {{< /katex >}}
 
 Thus, the above equation can be written as
 
-P g
+{{< katex display >}}
+\frac{P}{ρg}+ \frac{1}{2} \frac{{v}^{2}}{g} + h =constant
+ {{< /katex >}}
 
-v gρ
-
-\+ 1 2
-
-2
-
-\+ h = constant  
-
-The above equation is the consequence of the conservation of energy which is true until there is no loss of energy due to friction. But in practice, some energy is lost due to friction. This arises due to the fact that in a fluid flow, the layers flowing with different velocities exert frictional forces on each other. This loss of energy is generally converted into heat energy. Therefore, Bernoulli’s relation is strictly valid for fluids with zero viscosity or non-viscous liquids. Notice that when the liquid flows through a horizontal pipe, then h = 0 ⇒ P g
-
-v gρ
-
-\+ 1 2
-
-2
-
-\= constant.
+The above equation is the consequence of the conservation of energy which is true until there is no loss of energy due to friction. But in practice, some energy is lost due to friction. This arises due to the fact that in a fluid flow, the layers flowing with different velocities exert frictional forces on each other. This loss of energy is generally converted into heat energy. Therefore, Bernoulli’s relation is strictly valid for fluids with zero viscosity or non-viscous liquids. Notice that when the liquid flows through a horizontal pipe, then {{< katex >}}
+h = 0 ⇒ \frac{P}{ρg} + \frac{1}{2} \frac{{v}^{2}}{g}
+=constant
+ {{< /katex >}}
 
 **Applications of Bernoulli’s Theorem**
 
@@ -381,7 +224,7 @@ v gρ
 
 **Figure 7.34** Roofs of the huts or houses
 
-During cyclonic condition, the roof is blown off without damaging the other parts of the house. In accordance with the Bernoulli’s principle, the high wind blowing over the roof creates a low-pressure P1. The pressure under the roof P2 is greater. Therefore, this pressure difference (P2–P1) creates an up thrust and the roof is blown off.
+During cyclonic condition, the roof is blown off without damaging the other parts of the house. In accordance with the Bernoulli’s principle, the high wind blowing over the roof creates a low-pressure {{< katex >}} P_1 {{< /katex >}}. The pressure under the roof{{< katex >}} P_2 {{< /katex >}} is greater. Therefore, this pressure difference {{< katex >}} (P_2-P_1) {{< /katex >}}creates an up thrust and the roof is blown off.
 
 **(b) Aerofoil lift** 
 The wings of an airplane (aerofoil) are so designed that its upper surface is more curved than the lower surface and the front edge is broader than the real edge. As the aircraft moves, the air moves faster above the aerofoil than at the bottom as shown in Figure 7.35. According to Bernoulli’s Principle, the pressure of air below is greater than above, which creates an upthrust called the dynamic lift to the aircraft.
@@ -402,122 +245,42 @@ This device is used to measure the rate of flow (or say flow speed) of the incom
 ![Alt text](../img45.png)
 
 **Figure 7.37** A schematic diagram of venturimeter
+Let {{< katex >}} P_1 {{< /katex >}}be the pressure of the fluid at the wider region of the tube A. Let us assume that the fluid of density ‘ρ’ flows from the pipe with speed {{< katex >}} ‘v_1’ {{< /katex >}} and into the narrow region, its speed increases to {{< katex >}} ‘v_2’ {{< /katex >}}. According to the Bernoulli’s equation, this increase in speed is accompanied by a decrease in the fluid pressure {{< katex >}} P_2 {{< /katex >}}at the narrow region of the tube B. Therefore, the pressure difference between the tubes A and B is noted by measuring the height difference {{< katex >}} (ΔP = P_1−P_2) {{< /katex >}} between the surfaces of the manometer liquid. From the equation of continuity, we can say that {{< katex >}} A v_1 = a\ v_2 {{< /katex >}} which means that
 
-A A'
-
-a B
-
-A
-
-1 2
-
-h
-
-M ρm
-
-Let P1 be the pressure of the fluid at the wider region of the tube A. Let us assume that the fluid of density ‘ρ’ flows from the pipe with speed ‘v1’ and into the narrow region, its speed increases to ‘v2’. According to the Bernoulli’s equation, this increase in speed is accompanied by a decrease in the fluid pressure P2 at the narrow region of the tube B. Therefore, the pressure difference between the tubes A and B is noted by measuring the height difference (ΔP \= P1−P2) between the surfaces of the manometer liquid. From the equation of continuity, we can say that A v1 = a v2 which means that
-
-_v_2 = _A a_
-
-_v_1.
+{{< katex display >}} 
+v_2 = \frac{A}{a}\ v_1.
+{{< /katex >}}
 
 Using Bernoulli’s equation,
 
-_P_1 + ρ _v_1 2
-
-2 = _P_2 + ρ _v_2
-
-2
-
-2 = _P_2 + ρ 1
-
-2 1
-
-2_A a_
-
-_v_ 
-
- 
-
-
-
- 
-
-
-
-
-
-
-| h |
-
-
-
-|------|------|
-
-
-
-
-|------|------|------|
-| Figure 7.36 Bunsen burner |
-  
+{{< katex display >}} 
+P_1 + ρ \frac{v_1}{2} = P_2 + ρ \frac{{v_2}^{2}}{2} = P_2 + ρ \frac{1}{2} ({\frac{A}{a}v_1})^{2}
+{{< /katex >}}
 
 From the above equation, the pressure difference
-
-Δ_P_ = _P_1 – _P_2 = ρ _v A a a_
-
-1 2 2 2
-
-22 ( )-
+{{< katex display >}} 
+ΔP = P_1 – P_2 = ρ \frac{v_1^{2}}{2} (\frac{{A}^{2} -{a}^{2}}{a^{2}})
+{{< /katex >}}
 
 Thus, the speed of flow of fluid at the wide end of the tube A
 
-_v P a_
-
-_A a v_
-
-_P a A a_1
-
-2 2
-
-2 2 1
-
-2
-
-2 2
-
-2 2 =
-
-∆ −
-
-⇒ = ∆ −
-
-( ) ( )
-
-( ) ( )ρ ρ
+{{< katex display >}} 
+{v_1}^{2}= \frac{{2}({∆P}){a^{2}}} 
+{ρ\ (A^{2}-{a^{2}})}  
+⇒ {v_1}^{2}= \sqrt \frac{{2}({∆P}){a^{2}}} 
+{ρ\ (A^{2}-{a^{2}})}  
+{{< /katex >}}
 
 The volume of the liquid flowing out per second is
 
-_V Av A P a_
+{{< katex display >}} 
+{V}= Av_1= A\sqrt \frac{{2}({∆P}){a^{2}}} 
+{ρ\ (A^{2}-{a^{2}})}  
+= aA \sqrt \frac{{2}({∆P})} 
+{ρ\ (A^{2}-{a^{2}})}  
+{{< /katex >}}
 
-_A a aA_
 
-_P A a_
-
-\= = ∆
-
-− =
-
-∆
-
-−1
-
-2
-
-2 2 2 2
-
-2 2( ) ( )
-
-( ) ( )ρ ρ
 
 **(e) Other applications** 
 This Bernoulli’s concept is mainly used in the design of carburetor of automobiles, filter pumps, atomizers, and sprayers. For example, the carburetor has a very fine channel called nozzle through which the air is allowed to flow in larger speed. In this case, the pressure is lowered at the narrow neck and in turn, the required fuel or petrol is sucked into the chamber so as to provide the correct mixture of air and fuel necessary for ignition process.
@@ -533,36 +296,31 @@ A spider web is much strong spider that what we think. A single strand of spider
 
 **S U M M A R Y**  
 
-- The force between the atoms of an eleme force between the molecules of a compou
-- _Hooke’s law:_ within the elastic limit, the „ The force per unit area is known as stress of cross section of the body then the m or compressional stress can be expresse _stress_.
-- The ratio of change in length to the orig known as _longitudinal strain_
-- Within the elastic limit, the ratio of long called the Young’ s modulus of the mater
-- Within the elastic limit, the ratio of volu _bulk modulus_.
--  Within the elastic limit, the ratio of she _rigidity modulus_.
-- Poisson’s ratio = lateral strain/longitudin „ The elastic potential energy stored in the
+- The force between the atoms of an element is called inter-atomic force whereas the force between the molecules of a compound is called inter-molecular force.
+- Hooke’s law:  within the elastic limit, the stress is directly proportional to strain.
+- The force per unit area is known as stress. If F is the force applied and A is the area of cross section of the body then the magnitude of stress is equal to {{< katex >}} \frac{F}{A}{{< /katex >}}. Tensile or compressional stress can be expressed using a single term called longitudinal stress.
+- The ratio of change in length to the original length of a cylinder is {{< katex >}} \frac{∆L}{L}{{< /katex >}}, which is known as longitudinal strain 
+- Within the elastic limit, the ratio of longitudinal stress to the longitudinal strain is called the Young’ s modulus of the material of the wire.
+- Within the elastic limit, the ratio of volume stress to the volume strain is called the bulk modulus.
+- Within the elastic limit, the ratio of shear stress to the shear strain is called the rigidity modulus.
+- Poisson’s ratio =  lateral strain/longitudinal strain 
+- The elastic potential energy stored in the wire per unit volume is {{< katex >}} U= \frac{1}{2} \times stress \times strain = \frac{1}{2} \times Y \times ({strain})^{2} {{< /katex >}}, where Y denotes Young’s modulus of the material. 
+- If F is the magnitude of the normal force acting on the surface area A, then the pressure is defined as the ‘force acting per unit area’.
+- The total pressure at a depth h below the liquid surface is {{< katex >}} P = P_a + ρgh {{< /katex >}}, where {{< katex >}} P_a {{< /katex >}}is  the atmospheric pressure which is equal to {{< katex >}} 1.013 × 10^{5} P_a {{< /katex >}}.
+- Pascal’s law states that the pressure in a fluid at rest is the same at all points if they are at the same height.
+- The law of floatation states that a body will float in a liquid if the weight of the liquid displaced by the immersed part of the body is equal to or greater than the weight of the body.
+- The coefficient of viscosity of a liquid is the viscous force acting tangentially per unit area of a liquid layer having a unit velocity gradient in a direction perpendicular to the direction of flow of the liquid. 
+- When a liquid flows such that each particle of the liquid passing a point moves along the same path and has the same velocity as its predecessor then the flow of liquid is said to be streamlined flow.
+- During the flow of fluid, when the critical velocity is exceeded by the moving fluid, the motion becomes turbulent.
+- Reynold’s number has a significance as it decides which decides whether the flow of fluid through a cylindrical pipe is streamlined or turbulent.
 
-U = 1 2
+**S U M M A R Y  (cont.)**  
 
-× stress × strain= 1 2
-
-× Y × (strain the material.
-
-- If F is the magnitude of the normal for pressure is defined as the ‘force acting per
-- The total pressure at a depth h below the the atmospheric pressure which is equal
-- Pascal’s law states that the pressure in a flu the same height.
-- The law of floatation states that a body wi displaced by the immersed part of the body body.
-- The coefficient of viscosity of a liquid is th area of a liquid layer having a unit veloci the direction of flow of the liquid.
-- When a liquid flows such that each partic the same path and has the same velocity said to be streamlined flow.
-- During the flow of fluid, when the critica the motion becomes _turbulent_.
-- Reynold’s number has a significance as it fluid through a cylindrical pipe is stream
-
-**S U M M A R Y**  
-
-- Stokes formula F= 6πηav, where F is the and v is the terminal velocity of the sphe
-- The surface tension of a liquid is define length of an imaginary line drawn on the the force being perpendicular to the line
-- The angle between tangents drawn at the solid surface inside the liquid is called t liquid.
-The flow of a fluid is said to be steady i passing fluid particle remains constant w
-- The equation a1 v1 = a2 v2 is called the through a tube and it is due to the conser that the sum of pressure energy, kinetic e of an incompressible, non-viscous fluid i.e., P/ρ + v2/2 + gh = constant.
+- Stokes formula F= 6πηav, where F is the and v is the terminal velocity of the sphere.
+- The surface tension of a liquid is defined as the force of tension acting on a unit length of an imaginary line drawn on the free surface of the liquid, the direction of the force being perpendicular to the line so drawn and acting parallel to the surface.
+- The angle between tangents drawn at the point of contact to the liquid surface and solid surface inside the liquid is called the angle of contact for a pair of solid and liquid.
+- The flow of a fluid is said to be steady if, at any given point, the velocity of each passing fluid particle remains constant with respect to time.
+- The equation {{< katex >}} a_1 v_1 = a_2 v_2 {{< /katex >}}is called the equation of continuity for a flow of fluid through a tube and it is due to the conservation of mass in the flow of fluids. It states that the sum of pressure energy, kinetic energy, and potential energy per unit mass of an incompressible, non-viscous fluid in a streamlined flow remains constant. i.e.,{{< katex >}} \frac{P}{ρ}  + {v_2}^{2} + gh{{< /katex >}}  = constant.
 
 ![alt text](../img48.png)
 
@@ -593,7 +351,7 @@ The flow of a fluid is said to be steady i passing fluid particle remains consta
 (c) wire 3 
 (d) all of them have same thickness
 
-**4\.** For a given material, the rigidity modulus is \((\frac{1}{3})^{rd} \)of Young’s modulus.
+**4\.** For a given material, the rigidity modulus is {{< katex >}}(\frac{1}{3})^{rd}{{< /katex >}}of Young’s modulus.
 Its Poisson’s ratio is 
 (a) 0 
 (b) 0.25
@@ -655,11 +413,11 @@ Its Poisson’s ratio is
 
 **12\.** A certain number of spherical drops of a liquid of radius R coalesce to form a single drop of radius R and volume V. If T is the surface tension of the liquid, then
 
-(a) energy = 4 V T \( (\frac{1}{r} - \frac{1}{R})\) is released
+(a) energy = 4 V T {{< katex >}}(\frac{1}{r} - \frac{1}{R}){{< /katex >}} is released
 
-(b) energy = 3 V T \( (\frac{1}{r} + \frac{1}{R})\) is absorbed
+(b) energy = 3 V T {{< katex >}}(\frac{1}{r} + \frac{1}{R}){{< /katex >}} is absorbed
 
-(c) energy = 3 V T \( (\frac{1}{r} - \frac{1}{R})\) is released
+(c) energy = 3 V T {{< katex >}}(\frac{1}{r} - \frac{1}{R}){{< /katex >}} is released
 
 (d) energy is neither released nor absorbed  
 
@@ -691,55 +449,98 @@ Its Poisson’s ratio is
 
 **II. Short Answer Questions**
 
-**1\.** Define stress and strain. 
+**1\.** Define stress and strain.
+
 **2\.** State Hooke’s law of elasticity. 
+
 **3\.** Define Poisson’s ratio. 
+
 **4\.** Explain elasticity using intermolecular forces. 
+
 **5\.** Which one of these is more elastic, steel or rubber? Why?
+
 **6\.** A spring balance shows wrong readings after using for a long time. Why?
+
 **7\.** What is the effect of temperature on elasticity?
+
 **8\.** Write down the expression for the elastic potential energy of a stretched wire.
+
 **9\.** State Pascal’s law in fluids. 
-**10\.** State Archimedes principle. 
-**11\.** What do you mean by upthrust or buoyancy? **12\.** State the law of floatation. 
-**13\.** Define coefficient of viscosity of a liquid. **14\.** Distinguish between streamlined flow and turbulent flow. 
+
+**10\.** State Archimedes principle.
+
+**11\.** What do you mean by upthrust or buoyancy? 
+
+**12\.** State the law of floatation. 
+
+**13\.** Define coefficient of viscosity of a liquid.
+
+**14\.** Distinguish between streamlined flow and turbulent flow. 
+
 **15\.** What is Reynold’s number? Give its significance. 
-**16\.** Define terminal velocity. 
+
+**16\.** Define terminal velocity.
+
 **17\.** Write down the expression for the Stoke’s force and explain the symbols involved in it.
-**18\.** State Bernoulli’s theorem. 
+
+**18\.** State Bernoulli’s theorem.
+
 **19\.** What are the energies possessed by a liquid? Write down their equations. 
-**20\.** Two streamlines cannot cross each other. Why? **21\.** Define surface tension of a liquid. Mention its S.I unit and dimension. 
+
+**20\.** Two streamlines cannot cross each other. Why?
+
+ **21\.** Define surface tension of a liquid. Mention its S.I unit and dimension. 
+
 **22\.** How is surface tension related to surface energy? 
-**23\.** Define angle of contact for a given pair of solid and liquid. 
+
+**23\.** Define angle of contact for a given pair of solid and liquid.
+
 **24\.** Distinguish between cohesive and adhesive forces. 
-**25\.** What are the factors affecting the surface tension of a liquid?  
+
+**25\.** What are the factors affecting the surface tension of a liquid? 
+
 **26\.** What happens to the pressure inside a soap bubble when air is blown into it?
+
 **27\.** What do you mean by capillarity or capillary action?
+
 **28\.** A drop of oil placed on the surface of water spreads out. But a drop of water place on oil contracts to a spherical shape. Why?
+
 **29\.** State the principle and usage of Venturimeter.
 
 **III. Long Answer Questions**
 
 **1\.** State Hooke’s law and verify it with the help of an experiment.
+
 **2\.** Explain the different types of modulus of elasticity.
+
 **3\.** Derive an expression for the elastic energy stored per unit volume of a wire.
+
 **4\.** Derive an equation for the total pressure at a depth ‘h’ below the liquid surface.
-**5\.** State and prove Pascal’s law in fluids. 
+
+**5\.** State and prove Pascal’s law in fluids.
+
 **6\.** State and prove Archimedes principle.
+
 **7\.** Derive the expression for the terminal velocity of a sphere moving in a high viscous fluid using stokes force.
+
 **8\.** Derive Poiseuille’s formula for the volume of a liquid flowing per second through a pipe under streamlined flow.
+
 **9\.** Obtain an expression for the excess of pressure inside a 
-i) liquid drop 
-ii) liquid bubble 
-iii) air bubble.
+1. liquid drop 
+2. liquid bubble 
+3. air bubble.
+
 **10\.** What is capillarity? Obtain an expression for the surface tension of a liquid by capillary rise method.
+
 **11\.** Obtain an equation of continuity for a flow of fluid on the basis of conservation of mass.
+
 **12\.** State and prove Bernoulli’s theorem for a flow of incompressible, non-viscous, and streamlined flow of fluid.
+
 **13\.** Describe the construction and working of venturimeter and obtain an equation for the volume of liquid flowing per second through a wider entry of the tube.
 
 **IV. Exercises**
 
-**1\.** A capillary of diameter dmm is dipped in water such that the water rises to a height of 30mm. If the radius of the capillary is made \(\frac{2}{3} \) of its previous value, then compute the height up to which water will rise in the new capillary?
+**1\.** A capillary of diameter dmm is dipped in water such that the water rises to a height of 30mm. If the radius of the capillary is made {{< katex >}}\frac{2}{3}{{< /katex >}} of its previous value, then compute the height up to which water will rise in the new capillary?
 (Answer: 45 mm)
 
 **2\.** A cylinder of length 1.5 m and diameter 4 cm is fixed at one end. A tangential force of 4 × 10<sup>5</sup> N is applied at the other end. If the rigidity modulus of the cylinder is 6 × 10<sup>10</sup> N m<sup>-2</sup> then, calculate the twist produced in the cylinder. 

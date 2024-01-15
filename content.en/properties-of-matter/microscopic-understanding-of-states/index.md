@@ -1,6 +1,8 @@
 ---
 title: 'MICROSCOPIC UNDERSTANDING OF VARIOUS STATES OF MATTER'
 weight: 2
+extensions:
+    - katex # Add This Extension On Top
 ---
 
 # MICROSCOPIC UNDERSTANDING OF VARIOUS STATES OF MATTER
@@ -381,7 +383,7 @@ Therefore,
 Suppose we stretch a wire, its length increases (elongation) but its diameter decreases (contraction). Similarly, when we stretch a rubber band (elongation), it becomes noticeably thinner (contraction). That is, deformation of the material in one direction produces deformation in another direction. To quantify this, French Physicist S.D. Poisson proposed a ratio, known as Poisson’s ratio. **It is defined as the ratio of relative contraction (lateral strain) to relative expansion (longitudinal strain). It is denoted by the symbol µ.**  
 
  {{< katex display >}}
-Poisson's ratio,  \mu = \frac{\text{Lateral strain}}{\text{Longitudinal strain}} 
+Poisson's\  ratio,  \mu = \frac{\text{Lateral strain}}{\text{Longitudinal strain}} 
 (7.10)
 {{< /katex >}}
 

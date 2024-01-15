@@ -182,7 +182,7 @@ We can also determine the centre of gravity of a uniform lamina of even an irreg
 Figure 5.17. Determination of centre of gravity of plane lamina by pivoting
 
 There is also another way to determine the centre of gravity of an irregular lamina. If we suspend the lamina from different
-![Alt text](circle1.png)
+![Alt text](Circle1.png)
 
 
 Figure 5.18 Determination of centre of gravity of plane lamina by suspending points like P, Q, R as shown in Figure 5.18,

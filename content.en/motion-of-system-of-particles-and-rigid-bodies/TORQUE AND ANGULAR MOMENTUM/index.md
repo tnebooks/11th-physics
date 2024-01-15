@@ -111,7 +111,7 @@ Force, $\mathrm{F}=2.5 \mathrm{~N}$
 
 Angle between $\mathrm{r}$ and $\mathrm{F}, \theta=90^{\circ}$
 
-![Alt text](capture2.png)
+![Alt text](Capture2.png)
 
 (i) Torque, $\tau=\mathrm{rF} \sin \theta$
 
@@ -162,7 +162,7 @@ A crane has an arm length of $20 \mathrm{~m}$ inclined at $30^{\circ}$ with the 
 
 **Solution**
 
-![Alt text](capture3.png)
+![Alt text](Capture3.png)
 
 The force $\mathrm{F}$ at the point of suspension is due to the weight of the hanging mass.
 
@@ -223,7 +223,7 @@ In the earlier sections, we have dealt with the torque about a point. In this se
 
 Figure 5.8 Torque about an axis answer.
 
-![Alt text](content1.png)
+![Alt text](Content1.png)
 
 The torque of the force $\overrightarrow{\mathrm{F}}$ about $\mathrm{O}$ is, $\vec{\tau}=\vec{r} \times \vec{F}$. The component of the torque $\vec{\tau}$ along the axis is the torque about the axis. To find it, we should first find the vector $\vec{\tau}=\overrightarrow{\mathrm{r}} \times \overrightarrow{\mathrm{F}}$ and then find the angle $\phi$ between $\vec{\tau}$ and the axis AB. (Remember here, the force $\vec{F}$ is not on the plane $A B P$ ). The torque about the axis $A B$ is the parallel component of the torque along the axis $A B$, which is $|\vec{r} \times \vec{F}| \cos \phi$. The torque perpendicular to the axis $\mathrm{AB}$ is $|\overrightarrow{\mathrm{r}} \times \overrightarrow{\mathrm{F}}| \sin \phi$.
 
@@ -239,7 +239,7 @@ For the rest of the lesson, we consider rotation about only fixed axis. For this
 1. Consider forces that lie only on planes perpendicular to the axis (without intersecting in the axis).
 2. Consider position vectors that are only perpendicular to the axis.
 
-![Alt text](content2.png)
+![Alt text](Content2.png)
 
 **EXAMPLE 5.10**
 

@@ -5,13 +5,14 @@ weight: 9
 
 **HEAT ENGINE**
 
-In the modern technological world, the role of automobile engines plays a vital role in for transportation. In motor bikes and cars there are engines which take in petrol or diesel as input, and do work by rotating wheels. Most of these automobile engines have efficiency not greater than 40%. The second law of thermodynamics  
+In the modern technological world, the role of automobile engines plays a vital role in for transportation. In motor bikes and cars there are engines which take in petrol or diesel as input, and do work by rotating wheels. Most of these automobile engines have efficiency not greater than 40%. The second law of thermodynamics puts a fundamental restriction on efficiency of engines. Therefore understanding heat engines is very important.
 
-puts a fundamental restriction on efficiency of engines. Therefore understanding heat engines is very important.
-
-**Reservoir:** It is defined as a thermodynamic system which has very large heat capacity. By taking in heat from reservoir or giving heat to reservoir, the reservoir’s temperature does not change. 
+**Reservoir:** 
+It is defined as a thermodynamic system which has very large heat capacity. By taking in heat from reservoir or giving heat to reservoir, the reservoir’s temperature does not change. 
 **Example:** 
-Pouring a tumbler of hot water in to lake will not increase the temperature of the lake. Here the lake can be treated as a reservoir. When a hot cup of coffee attains equilibrium with the open atmosphere, the temperature of the atmosphere will not appreciably change. The atmosphere can be taken as a reservoir. We can define heat engine as follows.
+Pouring a tumbler of hot water in to lake will not increase the temperature of the lake. Here the lake can be treated as a reservoir. 
+When a hot cup of coffee attains equilibrium with the open atmosphere, the temperature of the atmosphere will not appreciably change. The atmosphere can be taken as a reservoir. 
+We can define heat engine as follows.
 
 _Heat engine is a device which takes heat as input and converts this heat in to work by undergoing a cyclic process._ A heat engine has three parts:
 
@@ -25,13 +26,13 @@ A Schematic diagram for heat engine is given below in the figure 8.42.
 
 **Figure 8.42** Heat Engine
 
-1.  Hot reservoir (or) Source: It supplies heat to the engine. It is always maintained at a high temperature _T_H
+1.  Hot reservoir (or) Source: It supplies heat to the engine. It is always maintained at a high temperature _TH_
 
 2.  Working substance: It is a substance like gas or water, which converts the heat supplied into work.
 
 A simple example of a heat engine is a steam engine. In olden days steam engines were used to drive trains. The working substance in these is water which absorbs heat from the burning of coal. The heat converts the water into steam. This steam is does work by rotating the wheels of the train, thus making the train move.
 
-3.  Cold reservoir (or) Sink: The heat engine ejects some amount of heat (_Q_L) in to cold reservoir after it doing work. It is always maintained at a low temperature _T_L.
+3.  Cold reservoir (or) Sink: The heat engine ejects some amount of heat (_Q_L) in to cold reservoir after it doing work. It is always maintained at a low temperature _TL_.
 
 For example, in the automobile engine, the cold reservoir is the surroundings at room temperature. The automobile ejects heat to these surroundings through a silencer.
 
@@ -39,58 +40,40 @@ The heat engine works in a cyclic process. After a cyclic process it returns to 
 
 The efficiency of the heat engine is defined as the ratio of the work done (out put) to the heat absorbed (input) in one cylic process.
 
-Let the working substance absorb heat _Q_H units from the source and reject _Q_L units to the sink after doing work W units, as shown in the Figure 8.43.  
+Let the working substance absorb heat _Q_H units from the source and reject _Q_L units to the sink after doing work W units, as shown in the Figure 8.43. 
+
 <img src="image_2.jpg" alt="Ramanujan" width="500" >
+
 **Figure 8.43** Heat engine
 
 
 We can write Input heat = Work done + ejected heat
 
-_Q_H = _W_ + _Q_L
+{{< katex display >}} Q_H = W + Q_L{{< /katex >}}
 
-_W_ = _Q_H - _Q_L
+ {{< katex display >}} W = Q_H - Q_L{{< /katex >}}
+
 
 Then the efficiency of heat engine
 
-η = _output input_
+{{< katex display >}}  \eta = \frac{\text{output}}{\text{input}} = \frac{W}{Q_H} = \frac{Q_H - Q_L}{Q_H} {{< /katex >}}
+{{< katex display >}}  \eta = \frac{\text{output}}{\text{input}} = \frac{W}{Q_H} = 1 - \frac{Q_L}{Q_H} {{< /katex >}}
 
-\= _W Q_
 
-_Q Q QH_
 
-_H L_
+Note here that _QH_, _QL_ and _W_ all are taken as positive, a sign convention followed in this expression. 
 
-_H_
-
-\= −
-
-η = _output input_
-
-\= _W QH_
-
-\= 1 − _Q Q_
-
-_L_
-
-_H_
-
-(8.55)
-
-Note here that _Q_H, _Q_L and _W_ all are taken as positive, a sign convention followed in this expression. Since QL < QH, the efficiency (η) always less than 1. This implies that heat absorbed is not completely converted into work. The second law of thermodynamics placed fundamental restrictions on converting heat completely into work.
+Since QL < QH, the efficiency (η) always less than 1. This implies that heat absorbed is not completely converted into work. The second law of thermodynamics placed fundamental restrictions on converting heat completely into work.
 
 We can state the heat engine statement of second law of thermodynamics. This is also called Kelvin-Planck’s statement.
 
-
-
-
-  
-
 **Kelvin-Planck statement:**
  _It is impossible to construct a heat engine that operates in a cycle, whose sole effect is to convert the heat completely into work. This implies that no heat engine in the universe can have 100% efficiency._
+
 <blockquote style="background-color:pink; padding:10px; border-radius:5px;">
 <img src="image_5.png" alt="Ramanujan" width="30" >
 
-**Note** According to first law of thermodynamics, in an isothermal process the given heat is completely converted into work (_Q = W_). Is it a violation of the second law of thermodynamics? No. For non-cyclic process like an isothermal expansion, the heat can be completely converted into work. But Second law of thermodynamics implies that ‘In a cyclic process only a portion of the heat absorbed is converted into work’. All heat engines operate in a cyclic process.
+**Note**  According to first law of thermodynamics, in an isothermal process the given heat is completely converted into work (_Q = W_). Is it a violation of the second law of thermodynamics? No. For non-cyclic process like an isothermal expansion, the heat can be completely converted into work. But Second law of thermodynamics implies that ‘In a cyclic process only a portion of the heat absorbed is converted into work’. All heat engines operate in a cyclic process.
 </blockquote>
 
 
@@ -102,22 +85,13 @@ During a cyclic process, a heat engine absorbs 500 J of heat from a hot reservoi
 
 The efficiency of heat engine is given by
 
-η = 1 − _Q Q_
-
-_L_
-
-_H_
-
-η = 1 − 300 500
-
-\= 1 − 3 5
-
-η = 1 – 0.6 = 0.4
+{{< katex display >}} \eta = 1 - \frac{Q_L}{Q_H} {{</ katex >}}
+{{< katex display >}} \eta = 1 - \frac{300}{500} = 1 - \frac{3}{5} {{< /katex >}}
+{{< katex display >}}  \eta = 1 - 0.6 = 0.4 {{< /katex  >}} 
 
 The heat engine has 40% efficiency, implying that this heat engine converts only 40% of the input heat into work.  
 
 ## Carnot’s ideal heat engine
-
 
 In the previous section we have seen that the heat engine cannot have 100% efficiency. What is the maximum possible efficiency can a heat engine have?. In the year 1824 a young French engineer Sadi Carnot proved that a certain reversible engine operated in cycle between hot and cold reservoir can have maximum efficiency. This engine is called Carnot engine.
 
@@ -136,23 +110,22 @@ The four parts are shown in the following Figure 8.44
 
 
 
-  
-
-
 <img src="image_4.jpg" alt="Ramanujan" width="500" >
 
 **Figure 8.44** Carnot engine
 
 
-**Carnot’s cycle:** The working substance is subjected to four successive reversible processes forming what is called Carnot’s cycle.
+**Carnot’s cycle:** 
+The working substance is subjected to four successive reversible processes forming what is called Carnot’s cycle.
 
-Let the initial pressure, volume of the working substance be _P_1,_V_1.
+Let the initial pressure, volume of the working substance be _P1_,_V1_.
 
-Step A to B: Quasi-static isothermal expansion from (_P_1,_V_1,_T_H) to (_P_2,_V_2,_T_H):
+Step A to B: Quasi-static isothermal expansion from (_P1_,_V1_,_TH_) to (_P2_,_V2_,_TH_):
 
 The cylinder is placed on the source. The heat (QH) flows from source to the working substance (ideal gas) through the bottom of the cylinder. Since the process is isothermal, the internal energy of the working substance will not change. The input heat increases the volume of the gas. The piston is allowed to move out very slowly(quasi-statically). It is shown in the figure 8.47(a).
 
-W1 is the work done by the gas in expanding from volume _V_1 to volume _V_2 with a decrease of pressure from _P_1 to _P_2\. This is represented by the P-V diagram along the path AB as shown in the Figure 8.45.  
+W1 is the work done by the gas in expanding from volume _V1_ to volume _V2_ with a decrease of pressure from _P1_ to _P2_\. This is represented by the P-V diagram along the path AB as shown in the Figure 8.45.  
+
 <img src="image_6.jpg" alt="Ramanujan" width="500" >
 
 **Figure 8.45** PV diagram for Carnot cycle
@@ -160,129 +133,59 @@ W1 is the work done by the gas in expanding from volume _V_1 to volume _V_2 with
 
 Then the work done by the gas (working substance) is given by
 
-∴_Q_H = _W_A→B = _V_
+{{< katex display >}} Q_H = W_{A \to B} = \int_{V_1}^{V_2} P \, dV {{< /katex >}}
 
-_V_
 
-1
-
-2
-
-ò _PdV_
 
 Since the process occurs quasi-statically, the gas is in equilibrium with the source till it reaches the final state. The work done in the isothermal expansion is given by the equation (8.34)
-
-_W_A→B = μ_RT_HIn _V V_
-
-2
-
-1
-
-
-
- 
-
-
-
- 
-
-\= Area under the curve AB
-
-(8.56)
-
+{{< katex display >}} W_{A \to B} = \mu R T_H \ln\left(\frac{V_2}{V_1}\right)= \text {Area under the curve AB} {{< /katex >}}
 
 
 This is shown in Figure 8.46 (a)
+
 <img src="image_7.jpg" alt="Ramanujan" width="500" >
+
 **Figure 8.46** Work done in Carnot cycle
 
-<img src="image_8.jpg" alt="Ramanujan" width="500" >
+<img src="image_8.jpg" alt="Ramanujan" width="1100" >
 
 **Figure 8.47** Carnot cycle  
 
-Step B to C: Quasi-static adiabatic expansion from (_P_2,_V_2,_T_H) to (_P_3,_V_3,_T_L)
+Step B to C: Quasi-static adiabatic expansion from (_P2_,_V2_,_TH_) to (_P3_,_V3_,_TL_)
 
-The cylinder is placed on the insulating stand and the piston is allowed to move out. As the gas expands adiabatically from volume _V_2 to volume _V_3 the pressure falls from P2 to P3. The temperature falls to TL. This adiabatic expansion is represented by curve BC in the P-V diagram. This adiabatic process also occurs quasi-statically and implying that this process is reversible and the ideal gas is in equilibrium throughout the process. It is shown in the figure 8.47(b). From the equation (8.42) The work done by the gas in an adiabatic expansion is given by,
+The cylinder is placed on the insulating stand and the piston is allowed to move out. As the gas expands adiabatically from volume _V2_ to volume _V3_ the pressure falls from P2 to P3. The temperature falls to TL. This adiabatic expansion is represented by curve BC in the PV diagram. This adiabatic process also occurs quasi-statically and implying that this process is reversible and the ideal gas is in equilibrium throughout the process. It is shown in the figure 8.47(b). From the equation (8.42) The work done by the gas in an adiabatic expansion is given by,
+{{< katex display >}} W_{A \to B} = \mu R T_H \ln\left(\frac{V_2}{V_1}\right) =\text {Area under the curve AB}{{< /katex >}}
 
-_W_B→C = _V_
 
-_V_
+This is shown in Figure 8.46
+(b) Step C → D: Quasi-static isothermal compression from (_P3_,_V3_,_TL_) to (_P4_,_V4_,_TL_): It is shown in the figure 8.47(c)
 
-2
+The cylinder is placed on the sink and the gas is isothermally compressed until the pressure and volume become _P4_ and _V4_ respectively. This is represented by the curve _CD_ in the PV diagram as shown in Figure 8.45. Let {{< katex display >}} W_{C \to D} {{< /katex >}}
+be the work done on the gas. According to first law of thermodynamics
 
-3
+<img src="image_11.jpg" alt="Ramanujan" width="500" >
 
-ò _PdV_ = µ γ
 
-_R T TH L_− −\[ \]
-
-1 =
-
-Area under the curve BC (8.57)
-
-This is shown in Figure 8.46 (b) Step C → D: Quasi-static isothermal compression from (_P_3,_V_3,_T_L) to (_P_4,_V_4,_T_L): It is shown in the figure 8.47(c)
-
-The cylinder is placed on the sink and the gas is isothermally compressed until the pressure and volume become _P_4 and _V_4 respectively. This is represented by the curve _CD_ in the PV diagram as shown in Figure 8.45. Let _W_C→D be the work done on the gas. According to first law of thermodynamics
-
-_Q W PdV RT V V RT_
-
-_V VL C D L L_
-
-_V_
-
-\= = =   
-
-  =−
-
-
-
- 
-
-
-
- → µ µln ln4
-
-3
-
-3
-
-43
-
-_V_4
-
-∫
-
-\= −Area under the curve CD (8.58)
-
-This is shown in Figure 8.46 (c) Here V3 is greater than V4. So the work done is negative, implying work is done on the gas. Step D→A: Quasi-static adiabatic compression from (_P_4,_V_4,_T_L) to (_P_1,_V_1,_T_H): It is shown in the figure 8.47(d)  
+This is shown in Figure 8.46 (c) Here V3 is greater than V4. So the work done is negative, implying work is done on the gas. Step D→A: Quasi-static adiabatic compression from (_P4_,_V4_,_TL_) to (_P1_,_V1_,_TH)_: It is shown in the figure 8.47(d)  
 
 The cylinder is placed on the insulating stand again and the gas is compressed adiabatically till it attains the initial pressure P1, volume V1 and temperature TH. This is shown by the curve _DA_ in the P-V diagram.
 
-∴ = =− −
+{{< katex display >}} \therefore \frac{d}{dT} = -\frac{W}{P} \rightarrow \int \frac{dV}{V} =\text {- Area under the curve DA }{{< /katex >}}
 
-−\[ \]→ ∫_W PdV R T TD A H L V_
 
-_V_ µ
+In the adiabatic compression also work is done on the gas so it is negative, as is shown in Figure 8.46 (d) 
+Let ‘W’ be the net work done by the working substance in one cycle
 
-γ 1 4
+{{< katex display >}} W_{A \to B} + W_{B \to C} + W_{C \to D} + W_{D \to A} {{< /katex >}}
+{{< katex display >}}\text{since } W_{D\rightarrow A} = -W_{B\rightarrow C}{{< /katex >}}
+{{< katex display >}}= W_{A \to B} + W_{C \to D}{{< /katex >}}
 
-1
+{{< katex display >}}
+\text{The net work done by the Carnot engine in one cycle}   W = |W|_{A \to B} - |W|_{C \to D} {{< /katex >}}
 
-\=
-
-−Area under the curve DA (8.59)
-
-In the adiabatic compression also work is done on the gas so it is negative, as is shown in Figure 8.46 (d) Let ‘W’ be the net work done by the working substance in one cycle
-
-\= _W_A→B + _W_B→C + _W_C→D + _W_D→A
-
-since _W_D→A = − _W_B→C
-
-\= _W_A→B + _W_C→D
-
-The net work done by the Carnot engine in one cycle W=|_W_|A→B − |_W_|C→D (8.60)
 
 Equation (8.60) shows that the net work done by the working substance in one cycle is equal to the area (enclosed by ABCD) of the P-V diagram (Figure 8.48)
+
 <img src="image_9.jpg" alt="Ramanujan" width="500" >
 
 **Figure 8.48** Net work done in Carnot cycle
@@ -290,193 +193,45 @@ Equation (8.60) shows that the net work done by the working substance in one cyc
 It is very important to note that after one cycle the working substance returns to the initial temperature TH. This implies that the change in internal energy of the working substance after one cycle is zero.
 
 ## Efficiency of a Carnot engine
-
-
 Efficiency is defined as the ratio of work done by the working substance in one cycle to the amount of heat extracted from the source.
+{{< katex display >}} \eta =\frac{\text{work done}}{\text{Heat extracted}} =  \frac{W}{Q_H} {{< /katex >}}
 
-η= = _workdone_
 
-_Heat extracted W QH_
 
-(8.61)
 
-From the first law of thermodynamics, _W_ = _Q_H − _Q_L
+From the first law of thermodynamics, W = _QH_ - _QL_
 
-∴ = −
-
-\= −η _Q Q Q_
-
-_Q Q_
-
-_H L_
-
-_H_
-
-_L_
-
-_H_
-
-1 (8.62)
+{{< katex display >}} \eta = \frac{Q_n - Q_t}{Q_n}1-\frac{Q_L}{Q_H} {{< /katex >}}
 
 Applying isothermal conditions, we get,
 
-_Q RT V_
-
-_V_
-
-_Q RT V V_
-
-_H H_
-
-_L L_
-
-\=   
-
-  
-
-\=   
-
-  
-
-µ
-
-µ
-
-ln
-
-ln
-
-2
-
-1
-
-3
-
-4
-
-(8.63)
+<img src="image_12.jpg" alt="Ramanujan" width="500" >
 
 Here we omit the negative sign. Since we are interested in only the amount of heat (QL) ejected into the sink, we have
 
-∴ =
-
-  
-
-  
-
-  
-
-  
-
-_Q Q_
-
-_T V V_
-
-_T V V_
-
-_L_
-
-_H_
-
-_L_
-
-_H_
-
-ln
-
-ln
-
-3
-
-4
-
-2
-
-1
-
-(8.64)
+<img src="image_13.jpg" alt="Ramanujan" width="500" >
 
 By applying adiabatic conditions, we get,
-
-_T V T VH L_2 1
-
-3 1γ γ− −=
-
-_T V T VH L_1 1
-
-4 1γ γ− −=
-
+{{< katex display >}} T_H V_2 \gamma^{-1}=T_H V_3 \gamma^{-1} {{< /katex >}}
+{{< katex display >}} T_H V_1 \gamma^{-1}=T_H V_4 \gamma^{-1} {{< /katex >}}
 By dividing the above two equations, we get
 
-_V V_
+ 
+{{< katex display >}} [\frac{V_2}{V_1}]γ-1 = [\frac{V_3}{V_4}]γ-1 {{< /katex >}}
 
-_V V_
-
-2
-
-1
-
-1
-
-3
-
-4
-
-1
-
- 
-
-
-
-  = 
-
- 
-
-
-
- 
-
-− −γ γ  
-
-Which implies that _V V_
-
-_V V_
-
-2
-
-1
-
-3
-
-4
-
-\= (8.65)
+Which implies that
+ {{< katex display >}} \frac{V_2}{V_1} = \frac{V_3}{V_4} {{< /katex >}}
 
 Substituting equation (8.65) in (8.64), we get
+ {{< katex display >}} \frac{Q_t}{Q_n} = \frac{T_L}{T_H} {{< /katex >}}
 
-_Q Q_
+∴The efficiency 
+{{< katex display >}} ∴ \text{The efficiency }\eta = 1- \frac{T_L}{T_H} {{< /katex >}}
 
-_T T_
 
-_L_
+Note : TL and TH should be expressed in Kelvin scale.
 
-_H_
-
-_L_
-
-_H_
-
-\= (8.66)
-
-∴The efficiency η= −1 _T T_
-
-_L_
-
-_H_
-
-(8.67)
-
-Note : TL and TH should be expressed in Kelvin scale. **Important results:**
+**Important results:**
  
  1\. η is always less than 1 because TL is
 
@@ -495,16 +250,8 @@ less than TH. This implies the efficiency cannot be 100%. It can be 1 or 100% on
 **_Solution_**
 
 The steam engine is not a Carnot engine, because all the process involved in the steam engine are not perfectly reversible. But we can calculate the maximum possible efficiency of the steam engine by considering it as a Carnot engine.
+{{< katex display >}} \eta = 1 - \frac{T_L}{T_H} = 1 - \frac{300}{523} \, \text{K} = 0.43 {{< /katex >}}
 
-η= −1 _T T_
-
-_L_
-
-_H_
-
-\= 1 − 300 523
-
-_K K_ \= 0.43
 
 The steam engine can have maximum possible 43% of efficiency, implying this steam engine can convert 43% of input heat into useful work and remaining 57% is ejected as heat. In practice the efficiency is even less than 43%.
 
@@ -514,15 +261,12 @@ There are two Carnot engines A and B operating in two different temperature regi
 
 **_Solution_**
 
-The efficiency for engine A = 1 − 373 423
+The efficiency for engine
+{{< katex display >}} A = 1 - \frac{373}{423} = 0.11 {{< /katex >}}
 
-\= 0.11. Engine A has 11% efficiency
-
-The efficiency for engine B = 1 - 573 623
-
-\= 0.08
 
 Engine B has only 8% efficiency.  
+{{< katex display >}}B = 1 - \frac{573}{623} = 0.08 {{< /katex >}}
 
 Even though the differences between the temperature of hot and cold reservoirs in both engines is same, the efficiency is not same. The efficiency depends on the ratio of the two temperature and not on the difference in the temperature. The engine which operates in lower temperature has highest efficiency.
 
@@ -532,45 +276,16 @@ The efficiency of diesel engines has maximum up to 44% and the efficiency of pet
 ## Entropy and second law of thermodynamics
 
 
-We have seen in the equation (8.66) that the quantity _Q_
+We have seen in the equation (8.66) that the quantity {{< katex display >}} \frac{Q_u}{Q_u} \text{ is equal to }   \frac{Q_t}{T_2}{{< /katex >}}
 
-_T H_
 
-_H_
 
-is equal to _Q T_
+The quantity _Q/T_ is called entropy. It is a very important thermodynamic property of a system. It is also a state variable.
+{{< katex display >}} \frac{Q_n}{T_u} {{< /katex >}}
+is the entropy received by the Carnot engine from hot reservoir and {{< katex display >}} \frac{Q_L}{T_L} {{< /katex >}}
+is entropy given out by the Carnot engine to the cold reservoir. For reversible engines (Carnot Engine) both entropies should be same, so that the change in entropy of the Carnot engine in one cycle is zero. This is proved in equation (8.66). But for all practical engines like diesel and petrol engines which are not reversible engines, they satisfy the relation {{< katex display >}} \frac{Q_t}{Q_L} >  \frac{Q_H}{T_H}{{< /katex >}}
 
-_L_
-
-_L_
-
-. The quantity _Q T_
-
-is called entropy. It is a very important thermodynamic property of a system. It is also a state variable. _Q_
-
-_T H_
-
-_H_
-
-is the entropy received by the Carnot engine from hot reservoir and _Q_
-
-_T L_
-
-_L_
-
-is entropy given out by the Carnot engine to the cold reservoir. For reversible engines (Carnot Engine) both entropies should be same, so that the change in entropy of the Carnot engine in one cycle is zero. This is proved in equation (8.66). But for all practical engines like diesel and petrol engines which are not reversible engines, they satisfy the relation _Q_
-
-_T L_
-
-_L_
-
-\> _Q T_
-
-_H_
-
-_H_
-
-. In fact we can reformulate the second law of thermodynamics as follows
+In fact we can reformulate the second law of thermodynamics as follows
 
 “For all the processes that occur in nature (irreversible process), the entropy always increases. For reversible process entropy will not change”. Entropy determines the direction in which natural process should occur.
 

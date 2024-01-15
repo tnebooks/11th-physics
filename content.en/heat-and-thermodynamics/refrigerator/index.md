@@ -5,73 +5,35 @@ weight: 10
 A refrigerator is a Carnot’s engine working in the reverse order. It is shown in the figure 8.49.
 
 **Working Principle:**
+
 <img src="image_1.jpg" alt="Ramanujan" width="500" >
 
-**Fig 8.49**
+**Fig 8.49** (a) Schematic diagram of a refrigerator (b) Actual refrigerator
 
 The working substance (gas) absorbs a quantity of heat _Q_L from the cold body (sink) at a lower temperature _T_L. A certain amount of work W is done on the working substance by the compressor and a quantity of heat QH is rejected to the hot body (source) ie, the atmosphere at TH. When you stand beneath of refrigerator, you can feel warmth air. From the first law of thermodynamics , we have
 
-QL +W = QH (8.68)
+{{< katex display >}} Q_L + W = Q_H {{< /katex >}}
+
 
 As a result the cold reservoir (refrigerator) further cools down and the surroundings (kitchen or atmosphere) gets hotter.
 
-**Coefficient of performance (COP) (β):** COP is a measure of the efficiency of a refrigerator. It is defined as the ratio of heat extracted from the cold body (sink) to the external work done by the compressor W.
+**Coefficient of performance (COP) (β):** 
+COP is a measure of the efficiency of a refrigerator. It is defined as the ratio of heat extracted from the cold body (sink) to the external work done by the compressor W.
 
-COP=β= _Q W_
+ {{< katex display >}}\text{COP} = \beta = \frac{Q}{W_L} {{< /katex >}}
 
-_L_ (8.69)
 
 From the equation (8.68)
 
-β= −
+{{< katex display >}} \beta = \frac{Q_t}{Q_n- Q_t} {{< /katex >}}
+{{< katex display >}} \beta = \frac{1}{\frac{Q_n}{ Q_t}-1} {{< /katex >}}
 
-_Q Q Q_
-
-_L_
-
-_H L_
-
-β= −
-
-1
-
-1_Q Q_
-
-_H_
-
-_L_
-
-(8.70)
-
-But we know that _Q Q_
-
-_T T_
-
-_H_
-
-_L_
-
-_H_
-
-_L_
-
-\=  
+But we know that 
+{{< katex display >}} \beta = \frac{Q_t}{ Q_t}=\frac{T_n}{ T_t} {{< /katex >}}
 <img src="image_2.jpg" alt="Ramanujan" width="100" >
+
 Substituting this equation into equation (8.70) we get
-
-β= − =
-
-− 1
-
-1_T T_
-
-_T T TH_
-
-_L_
-
-_L_
-
-_H L_
+{{< katex display >}} \beta = \frac{1}{\frac{T_n}{ T_l}-1} =\frac{T_t}{T_n- T_t} {{< /katex >}}
 
 **Inferences:** 
 1\. The greater the COP, the better is the
@@ -86,17 +48,10 @@ condition of the refrigerator. A typical refrigerator has COP around 5 to 6.
 
 A refrigerator has COP of 3. How much work must be supplied to the refrigerator in order to remove 200 J of heat from its interion?
 
-COP =β= _Q W_
+{{< katex display >}}\text{COP} = \beta = \frac{Q}{W_L} {{< /katex >}}
 
-_L_
+{{< katex display >}}\frac{W}{Q} = \text{COP} = \frac{L}{J} = \frac{200}{366} {{< /katex >}}
 
-_W Q_
-
-_COP JL_\= = =
-
-200 3
-
-66 67.
 
 <blockquote style="background-color:pink; padding:10px; border-radius:5px;">
 width="500" >
@@ -117,6 +72,7 @@ Lot of efforts are taken internationally to various countries. Nowadays a lot of
 <img src="image_4.jpg" alt="Ramanujan" width="30" >In hot summer, we use earther The pot reduces the temperatu the earthern pot act as a refrig is the basic necessity for heat
 <!-- ![Ramanujan](image_56.png) -->
 <img src="image_56.png" alt="Ramanujan" width="300" >
+
 earthern pot, the cooling process is not due cooling occurs due to evaporation of water m through pores of the pot. Once the water m never come back to the pot. Even though the to open atmosphere, it is not a violation of inside the pot is an open thermodynamic sys always increases. 
 
 

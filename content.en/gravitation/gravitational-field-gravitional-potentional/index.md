@@ -3,9 +3,9 @@ title: 'GRAVITATIONAL FIELD AND GRAVITATIONAL POTENTIAL'
 weight: 2
 ---
 
-# 6.2 GRAVITATIONAL FIELD AND GRAVITATIONAL POTENTIAL
+**6.2 GRAVITATIONAL FIELD AND GRAVITATIONAL POTENTIAL**
 
-## 6.2.1 Gravitational field
+**6.2.1 Gravitational field**
 
 Force is basically due to the interaction between two particles. Depending upon the type of interaction we can have two kinds of forces: Contact forces and Non-contact forces (Figure 6.8).
 
@@ -88,9 +88,9 @@ space. The concept of field is inevitable in understanding the behavior of charg
 iii) The unit of gravitational field is Newton per kilogram $(\mathrm{N} / \mathrm{kg})$ or $\mathrm{m} \mathrm{s}^{-2}$.
 
 
-## 6.2.2 Superposition principle for Gravitational field
+**6.2.2 Superposition principle for Gravitational field**
 
-### 6.2.2 Superposition principle for Gravitational field
+**6.2.2 Superposition principle for Gravitational field**
 
 Consider ' $n$ ' particles of masses $m_{1}, m_{2}, \ldots . m_{n}$, distributed in space at positions $\vec{r}_{1}, \vec{r}_{2}, \vec{r}_{3} \ldots$ etc, with respect to point $\mathrm{P}$. The total gravitational field at a point $\mathrm{P}$ due to all the masses is given by the vector sum of the gravitational field due to the individual masses (Figure 6.11). This principle is known as superposition of gravitational fields.
 
@@ -108,14 +108,14 @@ $$
 
 Instead of discrete masses, if we have continuous distribution of a total mass $M$, then the gravitational field at a point $\mathrm{P}$ is calculated using the method of integration. 
 
-## EXAMPLE 6.3
+**EXAMPLE 6.3**
 
 (a) Two particles of masses $m_{1}$ and $m_{2}$ are placed along the $\mathrm{x}$ and $\mathrm{y}$ axes respectively at a distance 'a' from the origin. Calculate the gravitational field at a point $\mathrm{P}$ shown in figure below.
 
 
 ![](b1.png)
 
-## Solution
+**Solution**
 
 Gravitational field due to $m_{1}$ at a point $\mathrm{P}$ is given by,
 
@@ -157,7 +157,7 @@ Since the gravitational field decreases as distance increases, Jupiter experienc
 
 Solar System
 
-### 6.2.3 Gravitational Potential Energy
+**6.2.3 Gravitational Potential Energy**
 
 The concept of potential energy and its physical meaning were dealt in unit 4 . The gravitational force is a conservative force and hence we can define a gravitational potential energy associated with this conservative force field.
 
@@ -212,7 +212,7 @@ where $U(r)=\frac{-G m_{1} m_{2}}{r}$
 
 This work done $\mathrm{W}$ gives the gravitational potential energy difference of the system of masses $m_{1}$ and $m_{2}$ when the separation between them are $r$ and $r^{\prime}$ respectively.
 
-## Case 1: If $\boldsymbol{r}<\boldsymbol{r}^{\prime}$
+**Case 1: If $\boldsymbol{r}<\boldsymbol{r}^{\prime}$**
 
 Since gravitational force is attractive, $\mathrm{m}_{2}$ is attracted by $\mathrm{m}_{1}$. Then $\mathrm{m}_{2}$ can move from $r^{\prime}$ to $r$ without any external work (Figure 6.13(a)). Here work is done by the system spending its internal energy and hence the work done is said to be negative.
 
@@ -237,7 +237,7 @@ separated by an infinite distance and by distance r. $U(r)=U(r)-U(\infty)$. Here
 
 The unit of gravitational potential energy $U(r)$ is Joule and it is a scalar quantity. The gravitational potential energy depends upon the two masses and the distance between them.
 
-### 6.2.4 Gravitational potential energy near the surface of the Earth
+**6.2.4 Gravitational potential energy near the surface of the Earth**
 
 It is already discussed in chapter 4 that when an object of mass $m$ is raised to a height $h$, the potential energy stored in the object is mgh (Figure 6.14). This can be derived using the general expression for gravitational potential energy.
 
@@ -307,7 +307,7 @@ The term $m g R_{e}$ in equations (6.36) and (6.37) plays no role in the result.
 
 It is to be noted that mgh is the work done on the particle when we take the mass $\mathrm{m}$ from the surface of the Earth to a height $\mathrm{h}$. This work done is stored as a gravitational potential energy in the mass $\mathrm{m}$. Even though $\mathrm{mgh}$ is gravitational potential energy of the system (Earth and mass $\mathrm{m}$ ), we can take $\mathrm{mgh}$ as the gravitational potential energy of the mass $m$ since Earth is stationary when the mass moves to height $h$.
 
-### 6.2.5 Gravitational potential V(r)
+**6.2.5 Gravitational potential V(r)**
 
 It is explained in the previous sections that the gravitational field $\vec{E}$ depends only on the source mass which creates the field. It is a vector quantity. We can also define a scalar quantity called "gravitational potential" which depends only on the source mass.  
 
@@ -369,7 +369,7 @@ Consider four masses $\mathrm{m}_{1}, \mathrm{~m}_{2}, \mathrm{~m}_{3}$, and $\m
 
 ![](d8.png)
 
-## Calculate
+**Calculate**
 
 (a) The gravitational potential energy of the system of 4 masses shown in figure.
 

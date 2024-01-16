@@ -25,40 +25,12 @@ Examples: A thermodynamic system can be liquid, solid, gas and radiation.
 
 
 
-<!-- **Surrounding**
-
-Bucket of water Open atmosphere
-
-Air molecules in the room
-
-Outside air
-
-Human body Open atmosphere
-
-Fish in the sea Sea of water -->
 
 We can classify thermodynamics system into three types: It is given in Figure 8.16
 <img src="image_92.jpg" alt="Ramanujan" width="500" >
 
 **Figure 8.16 ** Different types of thermodynamic systems
 
-<!-- **Open**
-
-**Open system can exchange both matter and energy with the environment.**
-
-**Closed system exchange energy but not matter with the environment.**
-
-**Isolated system can exchange neither energy nor matter with the enviroment. Closed**
-
-**Isolated**
-
-**(a) Open (a) Closed (a) Isolated**
-
-**Matter Matter Matter**
-
-**Energy Energy Energy**
-
-**Thermodynamic system** -->
 
 ## Thermal equilibrium
 
@@ -67,7 +39,8 @@ When a hot cup of coffee is kept in the room, heat flows from coffee to the surr
 
 Two systems are said to be in thermal equilibrium with each other if they are at the same temperature, which will not change with time.
 
-**Mechanical equilibrium:** Consider a gas container with piston as shown in Figure 8.17. When some mass is placed on the piston, it will move downward due to downward gravitational force and after certain humps and jumps the piston will come to rest at a new position. When the downward gravitational force given by the piston is balanced by the upward force exerted by the gas, the system is said to be in mechanical equilibrium. A system is said to be in mechanical equilibrium if no unbalanced force acts on the thermo dynamic system or on the surrounding by thermodynamic system.
+**Mechanical equilibrium:** 
+Consider a gas container with piston as shown in Figure 8.17. When some mass is placed on the piston, it will move downward due to downward gravitational force and after certain humps and jumps the piston will come to rest at a new position. When the downward gravitational force given by the piston is balanced by the upward force exerted by the gas, the system is said to be in mechanical equilibrium. A system is said to be in mechanical equilibrium if no unbalanced force acts on the thermo dynamic system or on the surrounding by thermodynamic system.
 
 <img src="image_93.jpg" alt="Ramanujan" width="500" >
 
@@ -85,19 +58,14 @@ each other. In a state of thermodynamic equilibrium the macroscopic variables su
 
 
 In mechanics velocity, momentum and acceleration are used to explain the state of any moving object (which you would have realized in Volume 1). In thermodynamics, the state of a thermodynamic system is represented by a set of variables called thermodynamic variables. Examples: Pressure, temperature, volume and internal energy etc. The values of these variables completely describe the equilibrium state of a thermodynamic system. Heat and work are not state variables rather they are process variables. There are two types of thermodynamic variables: Extensive and Intensive Extensive variable depends on the size or mass of the system. 
+
 **Example:** 
 Volume, total mass, entropy, internal energy, heat capacity etc. Intensive variables do not depend on the size or mass of the system. 
 **Example:** Temperature, pressure, specific heat capacity, density etc.
 
-**Equation of state:** The equation which connects the state variables in a specific manner is called equation of state. A thermodynamic equilibrium is completely specified by these state variables by the equation of state. If the system is not in thermodynamic equilibrium then these equations cannot specify the state of the system.
+**Equation of state:** 
+The equation which connects the state variables in a specific manner is called equation of state. A thermodynamic equilibrium is completely specified by these state variables by the equation of state. If the system is not in thermodynamic equilibrium then these equations cannot specify the state of the system.
 
 
 
 
-  
-
-<!-- **8.5**
-
-An ideal gas obeys the equation PV = NkT at thermodynamic equilibrium. Since all four macroscopic variables (P,V,T and N) are connected by this equation, we cannot change one variable alone. For example, if we push the piston of a gas container, the volume of the gas will decrease but pressure will increase or if heat is supplied to the gas, its temperature will increase, pressure and volume of the gas may also increase.
-
-There is another example of equation of state called van der Waals equation. Real gases obey this equation at thermodynamic equilibrium. The air molecules in the room truly obey van der Waals equation of state. But at room temperature with low density we can approximate it into an ideal gas. -->

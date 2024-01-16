@@ -3,9 +3,13 @@ title: 'Work'
 weight: 1
 ---
 
+[comment]: <> (katex Header)
+{{< katex display >}}{{< /katex >}}
+
+
 ###  WORK
 
-Let us consider a force ( F), acting on a body which moves it by a displacement in some direction (d r ) as shown in Figure 4.1
+Let us consider a force F, acting on a body which moves it by a displacement in some direction dr as shown in Figure 4.1
 
 The expression for work done (W) by the force on the body is mathematically written as,
 
@@ -65,17 +69,17 @@ A box is pulled with a force of 25 N to produce a displacement of 15 m. If the a
 
 **_Solution_**
 
-Force, $F = 25 \, \text{N}$ 
+Force, $$F = 25 \, \text{N}$$
 
-Displacement, $dr = 15 \, \text{m}$ 
+Displacement, $$dr = 15 \, \text{m}$$
 
-Angle between $F$ and $dr$, $\theta = 30^\circ$ 
+Angle between $$F$$ and $$dr$$, $$\theta = 30^\circ$$
 
-Work done, $W = F \cdot dr \cdot \cos(\theta)$ 
+Work done, $$W = F \cdot dr \cdot \cos(\theta)$$ 
 
-$W = 25 \cdot 15 \cdot \cos(30^\circ)$ 
+$$W = 25 \cdot 15 \cdot \cos(30^\circ)$$
 
-$W = \frac{25 \cdot 15 \cdot \sqrt{3}}{2} \, \text{J}$
+$$W = \frac{25 \cdot 15 \cdot \sqrt{3}}{2} \, \text{J}$$
 
 
 ### Work done by a constant force
@@ -119,7 +123,7 @@ $$ = (mg \cos(\theta)) (r_f - r_i) $$
 
 
 
-The object also moves downward which is in the direction of gravitational force ($\vec{F} = mg\vec{g}$) as shown in figure. Hence, the angle between them is $\theta = 0^\circ$; $\cos(0) = 1$ and the displacement, $r_f - r_i = 5m$.
+The object also moves downward which is in the direction of gravitational force ($$\vec{F} = mg\vec{g}$$) as shown in figure. Hence, the angle between them is $$\theta = 0^\circ$$; $$\cos(0) = 1$$ and the displacement, $$r_f - r_i = 5m$$.
 
 
 $$ W = mg (r_f - r_i) $$
@@ -146,7 +150,7 @@ The work done by the parallel component of gravitational force mg e (mg sin θ) 
 $$ W = \vec{F} \cdot \vec{r} \, dr \, \cos(\phi) $$
 
 
-where $\phi$ is the angle between the force ($mg \sin(\theta)$) and the direction of motion ($dr$). In this case, force ($mg \sin(\theta)$) and the displacement ($r_f - r_i$) are in the same direction. Hence $\phi = 0$ and $\cos(\phi) = 1$.
+where $\phi$ is the angle between the force ($$mg \sin(\theta)$$) and the direction of motion ($$dr$$). In this case, force ($$mg \sin(\theta)$$) and the displacement ($$r_f - r_i$$) are in the same direction. Hence $$\phi = 0$$ and $$\cos(\phi) = 1$$.
   
 
 W = F dr = (mg sin length of inclined plane)θ × () (dr) (dr = length of the inclined place)

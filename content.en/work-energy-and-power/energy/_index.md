@@ -3,6 +3,10 @@ title: 'Energy'
 weight: 2
 ---
 
+[comment]: <> (katex Header)
+{{< katex display >}}{{< /katex >}}
+
+
 ## ENERGY
 
 
@@ -399,854 +403,355 @@ $$ U = \frac{1}{2}k x^2 = \frac{1}{2} \times 0.1 \times (0.25)^2 = 0.0031 \, \te
 
 
 
-(b) The work done Ws by the spring force 
+(b) The work done \(W_s\) by the spring force \(\vec{F}_s\) is given by,
 
-_F_ s is given by,
+$$
+W_s = -\int_{0}^{x} \vec{F}_s \cdot d\vec{r} = -\int_{0}^{x} k\hat{i} \cdot dx\hat{i} = -\int_{0}^{x} kdx
+$$
 
-( )s s 0 0
+Where:
+- \(W_s\) is the work done by the spring force.
+- \(\vec{F}_s\) is the spring force.
+- \(k\) is the spring constant.
 
-W F dr ˆk i (d i)= ⋅ = − ⋅∫ ∫ 
+The spring force \(\vec{F}_s\) acts in the negative \(x\) direction while elongation acts in the positive \(x\) direction.
 
-
+$$
+W_k = -\int_{0}^{x} kdx = -\frac{1}{2}kx^2
+$$
 
-
+(c) During compression, the potential energy stored in the object is the same.
 
-_x x_
+The potential energy \(U\) is given by:
 
-_x x_
+$$
+U = \frac{1}{2}kx^2
+$$
 
-The spring force 
+Work done by the restoring spring force during compression is given by:
 
-_Fs_ acts in the negative _x_ direction while elongation acts in the positive _x_ direction.
+$$
+W_s = -\int_{0}^{x} \vec{F}_s \cdot d\vec{r} = -\int_{0}^{x} k\hat{i} \cdot dx\hat{i} = -\int_{0}^{x} kdx
+$$
 
-W k d ks = -( ) = -∫ 0
+In the case of compression, the restoring spring force acts towards the positive \(x\)-axis, and displacement is along the negative \(x\) direction.
 
-21 2
+$$
+W_k = -\int_{0}^{x} kdx = -\frac{1}{2}kx^2
+$$
 
-_x_
+## Conservative and non-conservative forces
 
-_x x x_
+**Conservative force:** A force is said to be a conservative force if the work done by or against the force in moving the body depends only on the initial and final positions of the body and not on the nature of the path followed between the initial and final positions.
 
-W Js = - × × ( ) = -1 2
-
-0 1 0 25 0 00312. . .
-
-Note that the potential energy is defined through the work done by the external agency. The positive sign in the potential energy implies that the energy is transferred from the agency to the object. But the work done by the restoring force in this case is negative since restoring force is in the opposite direction to the displacement direction. (c) During compression also the potential
-
-energy stored in the object is the same.
-
-U = 1 2
-
-0 00312_kx J_\= . .
-
-Work done by the restoring spring force during compression is given by
-
-Ws = ( ) ( )s 0 0
-
-F .d k îr ˆ. d i= −∫ ∫ 
-
-
-
-_x x_
-
-_x x_
-
-In the case of compression, the restoring spring force acts towards positive _x_\-axis and displacement is along negative _x_ direction.
-
-W k d k Js        0
-
-21 2
-
-0 0031 _x_
-
-_x x x_ .  
-
-## Conservative and non- conservative forces
-
-
-**Conservative force** A force is said to be a conservative force if the work done by or against the force in moving the body depends only on the initial and final positions of the body and not on the nature of the path followed between the initial and final positions.
-
-Let us consider an object at point A on the Earth. It can be taken to another point B at a height _h_ above the surface of the Earth by three paths as shown in Figure 4.12.
-
-Whatever may be the path, the work done against the gravitational force is the same as long as the initial and final positions are the same. This is the reason why gravitational force is a conservative force. Conservative force is equal to the negative gradient of the potential energy. In one dimensional case,
-
-
-![Alt text](image-14.png)
-**Figure 4.12** Conservative force
-
-A
-
-B
-
-_F dU dxx_  (4.27)
+**Non-conservative force:** A force is said to be non-conservative if the work done by or against the force in moving a body depends upon the path between the initial and final positions. This means that the value of work done is different in different paths.
 
 Examples for conservative forces are elastic spring force, electrostatic force, magnetic force, gravitational force, etc.
 
-![Alt text](image-15.png)
+Examples for non-conservative forces are frictional forces, forces due to air resistance, viscous forces, etc.
 
-**Non-conservative force** A force is said to be non-conservative if the work done by or against the force in moving a body depends upon the path between the initial and final positions. This means that the value of work done is different in different paths.
-
-1\. Frictional forces are non-conservative forces as the work done against friction depends on the length of the path moved by the body.
-
-2\. The force due to air resistance, viscous force are also non-conservative forces as the work done by or against these forces depends upon the velocity of motion.
-
-The properties of conservative and non- conservative forces are summarized in the Table 4.3.
+The properties of conservative and non-conservative forces are summarized in the Table 4.3.
 
 **EXAMPLE 4.11**
 
-Compute the work done by the gravitational force for the following cases
-![Alt text](image-17.png)
-![Alt text](image-16.png)
+Compute the work done by the gravitational force for the following cases:
 
+Force \(\vec{F}_g = -mg\hat{j}\)
 
-**_Solution_**
+(a) Work done along path 1 (vertical motion):
 
-Force   _F mg mg_\= -( ) = -j j
+$$
+W = \int_{A}^{B} \vec{F}_g \cdot d\vec{r} = \int_{0}^{h} -mg\hat{j} \cdot dy\hat{j} = -\int_{0}^{h} mgdy = -mgh
+$$
 
-Displacement vector _dr dx dy_  = +i j
+(b) Work done along path 2 (horizontal then vertical motion):
 
-(As the displacement is in two dimension; unit vectors î and ĵ are used)
+For horizontal motion, the force component in the vertical direction is zero, so there is no work done during the horizontal motion. Therefore, the total work done along path 2 is:
 
-(a) Since the motion is only vertical, horizontal displacement component d_x_ is zero. Hence, work done by the force along path 1 (of distance h).
-
-W F dr mg dy
-
-mg dy mgh
-
-A
-
-B
-
-A
-
-B
-
-h
-
-path j j1
-
-0
-
-\= = -( ) ( ) = - = -
-
-∫ ∫
-
-∫
-
-   . .
-
-W F dr F dr F dr F dr A
-
-B
-
-A
-
-C
-
-C
-
-D
-
-D
-
-B
-
-path 2 = = + +∫ ∫ ∫ ∫ 
-
-
-
-
-
-
-
-
-
-
-
-
-
-. . . .
-
-non-conservative forces Non-conservative forces Work done depends upon the path Work done in a round trip is not zero Energy is dissipated as heat energy Work done is not completely recoverable. No such relation exists.
-
-Total work done for path 2 is
-
-
-
-
-  
-
-But
-
-_A_
-
-_C_
-
-_A_
-
-_C_
-
-_F dr mg dx_∫ ∫= -( ) ( ) =    . .j i 0
-
-_C_
-
-_D_
-
-_C_
-
-_D_
-
-_h_
-
-_F dr mg dy_
-
-_mg dy mgh_
-
-∫ ∫
-
-∫
-
-\= -( ) ( ) = - = -
-
-   . .j j
-
-0
-
-_D_
-
-_B_
-
-_D_
-
-_B_
-
-_F dr mg dx_∫ ∫= -( ) -( ) =    . .j i 0
-
-Therefore, the total work done by the force along the path 2 is
-
-_W F dr mgh A_
-
-_B_
-
-path 2    
-
-.
+$$
+W = \int_{A}^{C} \vec{F}_g \cdot d\vec{r} + \int_{C}^{D} \vec{F}_g \cdot d\vec{r} + \int_{D}^{B} \vec{F}_g \cdot d\vec{r} = -\int_{C}^{D} mgdx = -mg(x_D - x_C) = -mg(x_1 - x_0)
+$$
 
 Note that the work done by the conservative force is independent of the path.
 
-**EXAMPLE 4.12**
 
-Consider an object of mass 2 kg moved by an external force 20 N in a surface having coefficient of kinetic friction 0.9 to a distance 10 m. What is the work done by the external force and kinetic friction ? Comment on the result. (Assume g = 10 ms-2)
+$$\textbf{EXAMPLE 4.12}$$
 
-**_Solution_**
+Consider an object of mass $$2 \, \text{kg}$$ moved by an external force $$20 \, \text{N}$$ on a surface having a coefficient of kinetic friction $$0.9$$ over a distance $$10 \, \text{m}$$. What is the work done by the external force and kinetic friction? (Assume $$g = 10 \, \text{m/s}^2$$)
 
-m = 2 kg, d = 10 m, Fext = 20 N, m k = 0.9. When an object is in motion on the horizontal surface, it experiences two forces.
+$$\textbf{Solution}$$
 
-(a) External force, _Fext_ \= 20 N (b) Kinetic friction,
+Given: $$m = 2 \, \text{kg}$$, $$d = 10 \, \text{m}$$, $$F_{\text{ext}} = 20 \, \text{N}$$, $$\mu_k = 0.9$$
 
-_fk_ = _k mg_    0 9 2 10 18. N_k_ . .  
+When an object is in motion on the horizontal surface, it experiences two forces:
 
-The work done by the external force _W F dext_    20 10 200J
+(a) External force, $$F_{\text{ext}} = 20 \, \text{N}$$
 
-The work done by the force of kinetic friction _W f dk k_\= = = -( ) × = -18 10 180 J. Here the negative sign implies that the force of kinetic friction is opposite to the direction of displacement.
+(b) Kinetic friction,
+$$f_k = \mu_k \cdot mg = 0.9 \cdot 2 \, \text{kg} \cdot 10 \, \text{m/s}^2 = 18 \, \text{N}$$
 
-The total work done on the object _W W Wtotal ext k_\= + = - =200 180 20J J J .
+The work done by the external force:
+$$W_{\text{ext}} = F_{\text{ext}} \cdot d = 20 \, \text{N} \cdot 10 \, \text{m} = 200 \, \text{J}$$
 
-Since the friction is a non-conservative force, out of 200 J given by the external force, the 180 J is lost and it can not be recovered.
+The work done by the force of kinetic friction:
+$$W_k = -f_k \cdot d = -18 \, \text{N} \cdot 10 \, \text{m} = -180 \, \text{J}$$
 
-### Law of conservation of energy
+Here the negative sign implies that the force of kinetic friction is opposite to the direction of displacement.
 
-When an object is thrown upwards its kinetic energy goes on decreasing and consequently its potential energy keeps increasing (neglecting air resistance). When it reaches the highest point its energy is completely potential. Similarly, when the object falls back from a height its kinetic energy increases whereas its potential energy decreases. When it touches the ground its energy is completely kinetic. At the intermediate points the energy is both kinetic and potential as shown in Figure 4.13. When the body reaches the ground the kinetic energy is completely dissipated into some other form of energy like sound, heat, light and deformation of the body etc.
+The total work done on the object:
+$$W_{\text{total}} = W_{\text{ext}} + W_k = 200 \, \text{J} - 180 \, \text{J} = 20 \, \text{J}$$
 
-In this example the energy transformation takes place at every point. The sum of kinetic energy and potential energy i.e., the total mechanical energy always remains constant, implying that the total energy is conserved. This is stated as the law of conservation of energy.
+Since friction is a non-conservative force, out of the $$200 \, \text{J}$$ given by the external force, $$180 \, \text{J}$$ is lost and cannot be recovered.
 
-![Alt text](image-18.png)
+$$\textbf{EXAMPLE 4.13}$$
 
-**Figure 4.13** Conservation of energy
+An object of mass $$1 \, \text{kg}$$ is falling from a height $$h = 10 \, \text{m}$$. Calculate:
 
-The law of conservation of energy states that _energy can neither be created nor destroyed. It may be transformed from one form to another but the total energy of an isolated system remains constant._
+(a) The total energy of an object at $$h = 10 \, \text{m}$$
 
-Figure 4.13 illustrates that, if an object starts from rest at height _h_, the total energy is purely potential energy (U=mgh) and the kinetic energy (KE) is zero at _h_. When the object falls at some distance _y_, the potential energy and the kinetic energy are not zero whereas, the total energy remains same as measured at height _h_. When the object is about to touch the ground, the potential energy is zero and total energy is purely kinetic.
+(b) Potential energy of the object when it is at $$h = 4 \, \text{m}$$
 
-**EXAMPLE 4.13**
+(c) Kinetic energy of the object when it is at $$h = 4 \, \text{m}$$
 
-An object of mass 1 kg is falling from the height _h_ = 10 m. Calculate
+(d) What will be the speed of the object when it hits the ground? (Assume $$g = 10 \, \text{m/s}^2$$)
 
-(a) The total energy of an object at h =10 m 
+$$\textbf{Solution}$$
 
-(b) Potential energy of the object when it is at _h_ \= 4 m 
+(a) The gravitational force is a conservative force. So the total energy remains constant throughout the motion. At $$h = 10 \, \text{m}$$, the total energy $$E$$ is entirely potential energy:
+$$E = U = mgh = 1 \, \text{kg} \cdot 10 \, \text{m/s}^2 \cdot 10 \, \text{m} = 100 \, \text{J}$$
 
-(c) Kinetic energy of the object when it is at _h_ \= 4 m  
+(b) The potential energy of the object at $$h = 4 \, \text{m}$$ is:
+$$U = mgh = 1 \, \text{kg} \cdot 10 \, \text{m/s}^2 \cdot 4 \, \text{m} = 40 \, \text{J}$$
 
-(d) What will be the speed of the object when it hits the ground?
+(c) Since the total energy is constant throughout the motion, the kinetic energy at $$h = 4 \, \text{m}$$ must be:
+$$KE = E - U = 100 \, \text{J} - 40 \, \text{J} = 60 \, \text{J}$$
 
-(Assume _g_ \=10 m s-2)
+Alternatively, the kinetic energy could also be found from the velocity of the object at $$4 \, \text{m}$$. At a height of $$4 \, \text{m}$$, the object has fallen through a height of $$6 \, \text{m}$$.
 
-**_Solution_**
+The velocity after falling $$6 \, \text{m}$$ is calculated from the equation of motion:
+$$v = \sqrt{2gh} = \sqrt{2 \cdot 10 \, \text{m/s}^2 \cdot 6 \, \text{m}} = 12 \, \text{m/s}$$
 
-(a) The gravitational force is a conservative force. So the total energy remains constant throughout the motion. At _h_ \=10 m, the total energy _E_ is entirely potential energy.
+Then, the kinetic energy is:
+$$KE = \frac{1}{2}mv^2 = \frac{1}{2} \cdot 1 \, \text{kg} \cdot (12 \, \text{m/s})^2 = 60 \, \text{J}$$
 
-_E U mgh_\= = = × × =1 10 10 100 J
+(d) When the object is just about to hit the ground, the total energy is completely kinetic and the potential energy $$U = 0$$. So,
+$$KE = \frac{1}{2}mv^2 = 100 \, \text{J}$$
 
-(b) The potential energy of the object at _h_ \= 4 m is
+Solving for $$v$$:
+$$v = \sqrt{\frac{2 \cdot 100 \, \text{J}}{1 \, \text{kg}}} = 10 \, \text{m/s}$$
 
-_U mgh_    1 10 4 40J
+So, the speed of the object when it hits the ground is approximately $$10 \, \text{m/s}$$.
 
-(c) Since the total energy is constant throughout the motion, the kinetic energy at _h_ \= 4 m must be _KE E U_\= = =- -100 40 60J
 
-Alternatively, the kinetic energy could also be found from velocity of the object at 4 m. At the height 4 m, the object has fallen through a height of 6 m.
+$$\textbf{EXAMPLE 4.14}$$
 
-The velocity after falling 6 m is calculated from the equation of motion,
-
-v gh    2 2 10 6 120 m s-1;
-
-v2 120=
-
-The kinetic energy is KE mv J= = × × =1 2
-
-1 2
-
-1 120 602
-
-J× × =1 120 60
-
-(d) When the object is just about to hit the ground, the total energy is completely kinetic and the potential energy, _U_ \= 0.
-
-E KE mv J= = =1 2
-
-1002
-
-v m KE
-
-1 100 m s= = × = ≈ -2 2 200 14 12 1.
-
-**EXAMPLE 4.14**
-
-A body of mass 100 kg is lifted to a height 10 m from the ground in two different ways as shown in the figure. What is the work done by the gravity in both the cases? Why is it easier to take the object through a ramp?
+A body of mass $$100 \, \text{kg}$$ is lifted to a height $$10 \, \text{m}$$ from the ground in two different ways as shown in the figure. What is the work done by gravity in both cases? Why is it easier to take the object through a ramp?
 ![Alt text](image-19.png)
 Path (1) straight up
 ![Alt text](image-20.png)
 Path (2) along the ramp
 
-**_Solution_**
+$$\textbf{Solution}$$
 
-m = 100 kg, h = 10 m 
-Along path (1):_ The minimum force F1 required to move the object to the height of 10 m should
+Given: $$m = 100 \, \text{kg}$$, $$h = 10 \, \text{m}$$
 
-h = 10 m
+Along path (1): The minimum force $$F_1$$ required to move the object to the height of $$10 \, \text{m}$$ should be equal to the gravitational force, $$F_{mg} = 100 \, \text{kg} \cdot 10 \, \text{m/s}^2 = 1000 \, \text{N}$$
 
-30°
+The distance moved along path (1) is, $$h = 10 \, \text{m}$$
 
-30°
+The work done on the object along path (1) is:
+$$W_1 = F_{mg} \cdot h = 1000 \, \text{N} \cdot 10 \, \text{m} = 10,000 \, \text{J}$$
 
-h = 10 m  
+Along path (2): In the case of the ramp, the minimum force $$F_2$$ that we apply on the object to take it up is not equal to $$F_{mg}$$, it is rather equal to $$F_{mg} \cdot \sin \theta$$. Here, angle $$\theta = 30^\circ$$
 
-be equal to the gravitational force, _F mg_1 100 10 1000    N
+Therefore, $$F_2 = F_{mg} \cdot \sin \theta = 100 \, \text{kg} \cdot 10 \, \text{m/s}^2 \cdot \sin 30^\circ = 100 \, \text{kg} \cdot 10 \, \text{m/s}^2 \cdot 0.5 = 500 \, \text{N}$$
 
-The distance moved along path (1) is, _h_ \=10 m
+Hence, the path covered along the ramp is:
+$$l = h \cdot \sin 30^\circ = 10 \, \text{m} \cdot 0.5 = 5 \, \text{m}$$
 
-The work done on the object along path (1) is
-
-_W F h_\= = 1000  10 10 000, J
-
-**Along path (2):**
-
-In the case of the ramp, the minimum force _F_2 that we apply on the object to take it up is not equal to _mg_ , it is rather equal to _mg_ sinθ . mg sin  _mg_ .
-
-Here, angle θ = 30o
-
-Therefore, F2 = mg sinθ = 100 × 10 × sin30o = 100 × 10 × 0.5 = 500 N
-
-Hence, mg sin  _mg_
-
-The path covered along the ramp is,
-
-_l_ = _h m_ sin .30
-
-10 0 5
-
-20 °
-
-\= =
-
-The work done on the object along path 
-
-(2) is, W = F2 _l_ = 500 × 20 = 10,000 J
+The work done on the object along path (2) is:
+$$W_2 = F_2 \cdot l = 500 \, \text{N} \cdot 5 \, \text{m} = 2500 \, \text{J}$$
 
 Since the gravitational force is a conservative force, the work done by gravity on the object is independent of the path taken.
 
-In both the paths the work done by the gravitational force is 10,000 J
+In both paths, the work done by the gravitational force is $$10,000 \, \text{J}$$
 
-Along path (1): more force needs to be applied against gravity to cover lesser distance .
+Along path (1): More force needs to be applied against gravity to cover a lesser distance.
 
-Along path (2): lesser force needs to be applied against the gravity to cover more distance.
+Along path (2): Lesser force needs to be applied against gravity to cover more distance.
 
 As the force needs to be applied along the ramp is less, it is easier to move the object along the ramp.
 
-**EXAMPLE 4.15**
+$$\textbf{EXAMPLE 4.15}$$
 
-An object of mass m is projected from the ground with initial speed v0.
+An object of mass $$m$$ is projected from the ground with initial speed $$v_0$$.
 
-   Find the speed at height h.
+Find the speed at height $$h$$.
 
-**_Solution_**
+$$\textbf{Solution}$$
 
-Since the gravitational force is conservative; the total energy is conserved throughout the motion.
+Since the gravitational force is conservative, the total energy is conserved throughout the motion.
 
 Initial Final Kinetic energy
 
 ![Alt text](image-21.png)
 
-Final values of potential energy, kinetic energy and total energy are measured at the height _h_.
+Final values of potential energy, kinetic energy, and total energy are measured at the height $$h$$.
 
-By law of conservation of energy, the initial and final total energies are the same.
+By the law of conservation of energy, the initial and final total energies are the same:
 
-1 2
+$$\frac{1}{2}mv_0^2 = mgh + \frac{1}{2}mv^2$$
 
-1 20
+Solving for $$v$$:
 
-2 2mv mv mgh 
+$$v^2 = v_0^2 - 2gh$$
 
-v v gh0 2 2 2 
+$$v = \sqrt{v_0^2 - 2gh}$$
 
-v v gh 0 2 2
+$$\textbf{EXAMPLE 4.16}$$
 
-Note that in section (2.11.2) similar result is obtained using kinematic equation based on calculus method. However, calculation through energy conservation method is much easier than calculus method.  
-
-**EXAMPLE 4.16**
-
-An object of mass 2 kg attached to a spring is moved to a distance _x_ \=10 m from its equilibrium position. The spring constant _k_ \=1 N m-1 and assume that the surface is frictionless.
+An object of mass $$2 \, \text{kg}$$ attached to a spring is moved to a distance $$x = 10 \, \text{m}$$ from its equilibrium position. The spring constant $$k = 1 \, \text{N/m}$$ and assume that the surface is frictionless.
 
 (a) When the mass crosses the equilibrium position, what is the speed of the mass?
 
-(b) What is the force that acts on the object when the mass crosses the equilibrium position and extremum position _x_ = ± 10 m.
+(b) What is the force that acts on the object when the mass crosses the equilibrium position and extremum position $$x = \pm 10 \, \text{m}$$?
 
-**_Solution_**
+$$\textbf{Solution}$$
 
-(a) Since the spring force is a conservative force, the total energy is constant. At _x_ \=10 m, the total energy is purely potential.
+(a) Since the spring force is a conservative force, the total energy is constant. At $$x = 10 \, \text{m}$$, the total energy is purely potential:
 
-E = U = 1 2
+$$E = U = \frac{1}{2}kx^2 = \frac{1}{2} \cdot 1 \, \text{N/m} \cdot (10 \, \text{m})^2 = 500 \, \text{J}$$
 
-1 2
+When the mass crosses the equilibrium position $$x = 0$$, the potential energy is zero. The entire energy is purely kinetic energy at this position:
 
-1 10 502 2_k x_ \= × ( ) × ( ) = J
+$$E = KE = \frac{1}{2}mv^2$$
 
-When the mass crosses the equilibrium position _x_  0 , the potential energy
+Solving for $$v$$:
 
-U = 1 2
+$$\frac{1}{2}mv^2 = 500 \, \text{J}$$
 
-1 0 0    J
+$$v^2 = \frac{2 \cdot 500 \, \text{J}}{2 \, \text{kg}} = 500 \, \text{J/kg} = 250 \, \text{m^2/s^2}$$
 
-The entire energy is purely kinetic energy at this position.
+$$v = \sqrt{250 \, \text{m^2/s^2}} = 5\sqrt{10} \, \text{m/s} \approx 15.81 \, \text{m/s}$$
 
-_E KE mv_\= = =1 2
+(b) Since the restoring spring force is $$F = -kx$$, when the object crosses the equilibrium position, it experiences no force. Note that at the equilibrium position, the object moves very fast. When the object is at $$x = +10 \, \text{m}$$ (elongation), the force $$F = -kx = -(1 \, \text{N/m}) \cdot (10 \, \text{m}) = -10 \, \text{N}$$.
 
-502 J
+Here, the negative sign implies that the force is towards the equilibrium (negative $$x$$-axis).
 
-The speed
+When the object is at $$x = -10 \, \text{m}$$ (compression), it experiences a force $$F = -kx = -(1 \, \text{N/m}) \cdot (-10 \, \text{m}) = +10 \, \text{N}$$.
 
-_v KE m_
+Here, the positive sign implies that the force points towards the positive $$x$$-axis.
 
-_ms ms_\= = × = ≈- -2 2 50 2
+The object comes to momentary rest at $$x = \pm 10 \, \text{m}$$ even though it experiences a maximum force at both these points.
 
-50 7 071 1.
-
-
-
-(b) Since the restoring spring force is F = - kx, when the object crosses the equilibrium position, it experiences no force. Note that at equilibrium position, the object moves very fast. When the object is at _x_ = +10 m (elongation), the force F = − k _x_
-
-F = − (1) (10) = − 10 N. Here the negative sign implies that the force is towards equilibrium i.e., towards negative _x_\-axis and when the object is at _x_ = − 10_m_ (compression), it experiences a forces F = − (1) (− 10) = +10 N. Here the positive sign implies that the force points towards positive _x_\-axis.
-
-The object comes to momentary rest at _x_ = ±10_m_ even though it experiences a maximum force at both these points.
 
 ### Motion in a vertical circle
 
+Imagine that a body of mass $$(m)$$ attached to one end of a massless and inextensible string executes circular motion in a vertical plane with the other end of the string fixed. The length of the string becomes the radius $$(r)$$ of the circular path (Figure 4.14).
 
-Imagine that a body of mass (m) attached to one end of a massless and inextensible string executes circular motion in a vertical plane with the other end of the string fixed. The length of the string becomes the radius ( _r_ ) of the circular path (Figure 4.14).
-
-Let us discuss the motion of the body by taking the free body diagram (FBD) at a position where the position vector (_r_ ) makes an angle θ with the vertically downward direction and the instantaneous velocity is as shown in Figure 4.14. There are two forces acting on the mass. 1. Gravitational force which acts downward 2. Tension along the string. Applying Newton’s second law on the mass,
+Let us discuss the motion of the body by taking the free body diagram (FBD) at a position where the position vector $$(\vec{r})$$ makes an angle $$\theta$$ with the vertically downward direction and the instantaneous velocity is as shown in Figure 4.14. There are two forces acting on the mass: 1. Gravitational force which acts downward 2. Tension along the string. Applying Newton’s second law on the mass,
 
 In the tangential direction,
 
-mg ma
+$$mg \cdot \frac{d\vec{v}}{dt} = T \cdot \sin\theta$$
 
-mg m dv dt
-
-tsin
-
-sin
-
-
-
-
-
-
-
-    
-
-   (4.28)  
-
-
-![Alt text](image-22.png)
-
-**Figure 4.14** Motion in vertical circle
-
-C B
-
-D
-
-O
-
-r A
-
-T r
-
-θ
-
-θ
-
-v
-
-mgcos θ
-
-mgsinθ mg
-
-where, a dv dt
-
-is tangential retardationt  
-
+$$\sin\theta = \frac{T}{mg}$$
 
 In the radial direction,
 
-T mg cos m a
-
-T mg cos mv r
-
-r- =
-
-\- =
-
-θ
-
-θ 2 (4.29)
-
-where, a v rr =
-
-2
-
-is the centripetal acceleration.
+$$T \cdot \cos\theta = \frac{mv^2}{r}$$
 
 The circle can be divided into four sections A, B, C, D for better understanding of the motion. The four important facts to be understood from the two equations are as follows:
 
-(i) The mass is having tangential acceleration (g sin θ) for all values of θ (except θ = 0o), it is clear that this vertical cirular motion is not a uniform circular motion.
+(i) The mass is having tangential acceleration $$g \cdot \sin\theta$$ for all values of $$\theta$$ (except $$\theta = 0^\circ$$), it is clear that this vertical circular motion is not a uniform circular motion.
 
 (ii) From the equations (4.28) and (4.29) it is understood that as the magnitude of velocity is not a constant in the course of motion, the tension in the string is also not constant.
 
+$$\begin{array}{|c|c|c|}
+\hline
+\theta & T & A \\
+\hline
+r & & \\
+\hline
+\theta & mg\cos\theta & \\
+\hline
+\end{array}$$
 
-| θ TA |
-|------|------|------|
-| r |
-| θ mgcos |
+(iii) The equation (4.29),
 
-  
+$$T \cdot \cos\theta = mv^2/r + 2mgr$$
 
-(iii) The equation (4.29),T mg cosθ mv r
+Highlights that in sections A and D of the circle, for $$\cos\theta > 0$$, the term $$mg\cos\theta$$ is always greater than zero. Hence the tension cannot vanish even when the velocity vanishes.
 
-\= + 2
+(iv) The equation (4.29),
 
-highlights that in sections A and D
+$$T \cdot \cos^2\theta = mgr + mv^2/r$$
 
-of the circle, for cos is p    
-
-   
-
-2 2 ;
-
-cos is positive     
-
-    2 2
-
-; , the term mg cosθ is always
-
-greater than zero. Hence the tension cannot vanish even when the velocity vanishes.
-
-(iv) The equation (4.29), mv r
-
-T mg cos 2
-
-   ;
-
-further highlights that in sections B
-
-and C of the circle, for cos  2
-
-3 2
-
-     ;
-
-for cos is negative  2
-
-3 2
-
-   
-
-   ; , the second term
-
-is always greater than zero. Hence velocity cannot vanish, even when the tension vanishes.
+Further highlights that in sections B and C of the circle, for $$\cos\theta < 0$$, the second term is always greater than zero. Hence velocity cannot vanish, even when the tension vanishes.
 
 These points are to be kept in mind while solving problems related to motion in vertical circle.
 
-To start with let us consider only two positions, say the lowest point 1 and the highest point 2 as shown in Figure 4.15 for further analysis. Let the velocity of the body at the lowest point 1 be _v_1, at the highest point 2 be _v_2 and _v_ at any other point. The direction of velocity is tangential to the circular path at all points. Let
+To start with let us consider only two positions, say the lowest point 1 and the highest point 2 as shown in Figure 4.15 for further analysis. Let the velocity of the body at the lowest point 1 be $$\vec{v}_1$$, at the highest point 2 be $$\vec{v}_2$$ and $$\vec{v}$$ at any other point. The direction of velocity is tangential to the circular path at all points. Let $$\vec{T}_1$$ be the tension in the string at the lowest point and $$\vec{T}_2$$ be the tension at the highest point and $$\vec{T}$$ be the tension at any other point. Tension at each point acts towards the center. The tensions and velocities at these two points can be found by applying the law of conservation of energy.
 
-
+**For the lowest point (1):** When the body is at the lowest point 1, the gravitational force $$mg\vec{r}$$ which acts on the body (vertically downwards) and another one is the tension $$\vec{T}_1$$ acting vertically upwards, i.e. towards the center. From the equation (4.29), we get
 
-_T_1 be the tension in the string at the lowest point and 
+$$T = mg - \frac{mv_1^2}{r}$$
 
-_T_2 be the tension at the highest point and 
+$$T_1 = mg - \frac{mv_1^2}{r}$$
 
-_T_ be the tension at any other point. Tension at each point acts towards the centre. The tensions and velocities at these two points can be found by applying the law of conservation of energy.
+**For the highest point (2):** At the highest point 2, both the gravitational force $$mg\vec{r}$$ on the body and the tension $$\vec{T}_2$$ act downwards, i.e. towards the center again.
 
-_For the lowest point (1)_ When the body is at the lowest point 1, the gravitational force _m g_ which acts on the  
+$$T = mg + \frac{mv_2^2}{r}$$
 
-body (vertically downwards) and another one is the tension
+$$T_2 = mg + \frac{mv_2^2}{r}$$
 
-
+From equations (4.31) and (4.33), it is understood that $$T > T_1 > T_2$$. The difference in tension $$T - T_1 - T_2$$ is obtained by subtracting equation (4.33) from equation (4.31).
 
-_T_ 1 acting vertically upwards, i.e. towards the centre. From the equation (4.29), we get
-
-T mg mv r1
-
-1 2
-
-  (4.30)
-
-T mv r
-
-mg1 1 2
-
-  (4.31)
-
-V 2
-
-V 1
-
-T 2
-
-T 1
-
-r
-
-2
-
-mg
-
-mg
-
-1
-
-
-![Alt text](image-23.png)
-**Figure 4.15** Motion in vertical circle shown for lowest and highest points
-
-**For the highest point (2)**
-At the highest point 2, both the gravitational force _mg_ on the body and the tension
-
-
-
-_T_2 act downwards, i.e. towards the centre again.
-
-T mg mv
-
-r2 2 2
-
-\+ = (4.32)
-
-T mv
-
-r mg2
-
-2 2
-
-\= - (4.33)
-
-From equations (4.31) and (4.33), it is understood that T T1 2> . The difference in tension T T1 2- is obtained by subtracting equation (4.33) from equation (4.31).
-
-ositive  
-
-is negative  
-
-
-
-
-  
-
-T T mv r
-
-mg mv r
-
-mg1 2 1 2
-
-2 2
-
-     
-
- 
-
-
-
- 
-
-\= mv r
-
-mg mv r
-
-mg1 2
-
-2 2
-
-  
-
-T T m r
-
-v v mg1 2 1 2
-
-2 2 2     (4.34)
-
-The term v v1 2 2 2  can be found easily by applying law of conservation of energy at point 1 and also at point 2.
-
----
-**NOTE**
-
-The tension will not do any work on the mass as the tension and the direction of motion is always perpendicular.
-
-The gravitational force is doing work on the mass, as it is a conservative force the total energy of the mass is conserved throughout the motion.
-
-
-Total Energy at point 1(_E_1) is same as the total energy at a point 2 (_E_2)
-
-_E_1 = _E_2 (4.35)
-
-Potential Energy at point 1, _U_1 0= (by taking reference as point 1)
-
-Kinetic Energy at point 1, _KE_1 1 21
-
-2 = mv
-
-Total Energy at point 1, _E U KE_1 1 1 0= + = +
-
-_E U KE_1 1 1 1 2
-
-1 20 1
-
-2 1 2
-
-\= + = + =mv mv
-
-Similarly, Potential Energy at point 2, _U_2 2= mg r)( (h is 2r from point 1)
-
-Kinetic Energy at point 2, _KE_2 2 21
-
-2 = mv
-
-Total Energy at point 2, _E U KE_2 2 2 2= =+ m
-
-_U KE_ 2 2
-
-2 2 2 1= = ++ mg r mv  
-
-From the law of conservation of energy given in equation (4.35), we get
-
-1 2
-
-2 1 21
-
-2 2 2mv mgr mv 
-
-After rearranging,
-
-1 2
-
-21 2
-
-2 2m v v mgr  
-
-v v gr1 2
-
-2 2 4  (4.36)
-
-Substituting equation (4.36) in equation (4.34) we get,
-
-T T m r
-
-gr mg1 2 4 2- = \[ \] +
+$$T - T_1 - T_2 = \frac{2mv^2}{r} - 2mg = 2m \left(\frac{v^2}{r} - g\right)$$
 
 Therefore, the difference in tension is
 
-T T mg1 2 6  (4.37)
+$$T - T_1 - T_2 = 2m \left(\frac{v^2}{r} - g\right)$$
 
-**Minimum speed at the highest point (2)**
-The body must have a minimum speed at point 2 otherwise, the string will slack before reaching point 2 and the body will not loop the circle. To find this minimum speed let us take the tension T2 = 0 in equation (4.33).
+**Minimum speed at the highest point (2):** The body must have a minimum speed at point 2 otherwise, the string will slack before reaching point 2 and the body will not loop the circle. To find this minimum speed let us take the tension $$T_2 = 0$$ in equation (4.33).
 
-0 2 2
+$$0 = \frac{mv_2^2}{r} + mg$$
 
-  mv
+$$\frac{mv_2^2}{r} = -mg$$
 
-r mg
+$$v_2^2 = -gr$$
 
-mv r
+$$v_2 = \sqrt{-gr}$$
 
-mg2 2
-
-\=
-
-v rg2 2 =
-
-v gr2 = (4.38)
-
-1 2
-
-1 21
-
-2 1 2
-
-\=mv mv
-
-2 21
-
-2 +g r mv
-
-The body must have a speed at point 2, v gr2 ≥ to stay in the circular path.
-
-**Minimum speed at the lowest point 1**
-To have this minimum speed v gr2   at point 2, the body must have minimum speed also at point 1.
+**Minimum speed at the lowest point (1):** To have this minimum speed $$v_2 = \sqrt{-gr}$$ at point 2, the body must have minimum speed also at point 1.
 
 By making use of equation (4.36) we can find the minimum speed at point 1.
 
-v v gr1 2
+$$v^2 = v_2^2 + 2g \cdot r$$
 
-2 2 4 
+$$v^2 = (-gr) + 2g \cdot r$$
 
-Substituting equation (4.38) in (4.36),
+$$v^2 = r(2g - g)$$
 
-v gr gr1 2 4 
+$$v^2 = gr$$
 
-v gr1 2 5=
+$$v = \sqrt{gr}$$
 
-v gr1 5= (4.39)
-
-The body must have a speed at point 1, v gr1 5≥ to stay in the circular path.
-
-From equations (4.38) and (4.39), it is clear that the minimum speed at the lowest point 1 should be 5 times more than the minimum speed at the highest point 2, so that the body loops without leaving the circle.
+From equations (4.38) and (4.39), it is clear that the minimum speed at the lowest point 1 should be $$\sqrt{gr}$$.
 
 **EXAMPLE 4.17**
 
-Water in a bucket tied with rope is whirled around in a vertical circle of radius 0.5 m. Calculate the minimum velocity at the lowest point so that the water does not spill from it in the course of motion. (g = 10 ms-2)  
+Water in a bucket tied with a rope is whirled around in a vertical circle of radius $$0.5 \, \text{m}$$. Calculate the minimum velocity at the lowest point so that the water does not spill from it in the course of motion. ($$g = 10 \, \text{m/s}^2$)
 
-**_Solution_**
+**Solution**
 
-Radius of circle r = 0.5 m The required speed at the highest point
+Radius of circle $$r = 0.5 \, \text{m}$$. The required speed at the highest point is
 
-_v gr_2 10 0 5 5   . ms-1. The speed at lowest point _v gr gr_1 5 5 5    × 5 = 5 m_s_\-1
+$$v_2 = \sqrt{-gr} = \sqrt{-10 \cdot 0.5} = \sqrt{-5} \, \text{m/s}$$
+
+The speed at the lowest point is
+
+$$v = \sqrt{gr} = \sqrt{10 \cdot 0.5} = \sqrt{5} \, \text{m/s}$$
 
 
 

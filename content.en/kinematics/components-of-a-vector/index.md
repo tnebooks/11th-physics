@@ -11,7 +11,7 @@ In the Cartesian coordinate system any vector _A_ can be resolved into three com
 Consider a 3–dimensional coordinate system. With respect to this a vector can be written in component form as
 
 FORMULAS
-![Alt text](<../FIG 2.20.png>)
+![Alt text](<FIG 2.20.png>)
 **Figure 2.20** Components of a vector in 2 dimensions and 3 dimensions
 
 Here _Ax_ is the _x_–component of _A_, _Ay_ is the _y_–component of _A_ and _Az_ is the _z_ component of _A_.
@@ -24,7 +24,7 @@ If _A_ makes an angle θ with x axis, and Ax and Ay are the components of _A_ al
 Ax = A cosθ , Ay_ = Asinθ
 
 where ‘A’ is the magnitude (length) of the vector
-![Alt text](<../fig 2.21.png>)
+![Alt text](<fig 2.21.png>)
 **Figure 2.21 Resolution of a vector**
 
 **EXAMPLE 2.3**
@@ -34,7 +34,7 @@ What are the unit vectors along the negative x–direction, negative y–directi
 **_Solution_**
 
 The unit vectors along the negative directions can be shown as in the following figure.  
-![Alt text](<../fig 2.23.png>)
+![Alt text](<./fig 2.23.png>)
 
 Then we have:The unit vector along the negative x direction = î The unit vector along the negative y direction = ĵ The unit vector along the negative z direction = _k̂_ .
 

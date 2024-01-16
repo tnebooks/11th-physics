@@ -8,7 +8,7 @@ weight: 9
 Integration is an area finding process. For certain geometric shapes we can directly find the area. But for irregular shapes the process of integration is used. Consider for example the areas of a rectangle and an irregularly shaped curve, as shown in Figure 2.29.
 
 The area of the rectangle is simply given by A = length × breadth = (b–a) c
-![Alt text](<../fig 2.29.png>)
+![Alt text](<./fig 2.29.png>)
 **Figure 2.29** Area of rectangular and irregular shape
 
 But to find the area of the irregular shaped curve given by f(x), we divide the area into rectangular strips as shown in the Figure 2.30.
@@ -16,7 +16,7 @@ Formulas
 
 The area under the curve is approximately equal to sum of areas of each rectangular strip.
 
-This is given by ![Alt text](<../fig 2.30.png>)
+This is given by ![Alt text](<./fig 2.30.png>)
 **Figure 2.30** Area under the curve using rectangular strip
 
 Where _f a_( ) is the value of the function _f x_( ) at x = a, _f x_1( ) is the value of _f x_( ) for x = x1 and so on.
@@ -26,7 +26,7 @@ As we increase the number of strips, the area evaluated becomes more accurate. I
 
 The integration will give the total area under the curve f (x). This is shown in Figure 2.31.
 formulas 
-![Alt text](<../fig 2.31.png>)
+![Alt text](<./fig 2.31.png>)
 **Figure 2.31** Relation between su
 
 **Examples** 
@@ -38,7 +38,7 @@ Formulas
 (No scalar products is required here, since motion here is in one dimension)
 
 1) The work done is the area under the force displacement graph as shown in Figure 2.32
-![Alt text](<../fig 2.32.png>)
+![Alt text](<./fig 2.32.png>)
 **Figure 2.32** Work done by the force
 
 2) The impulse given by the force in an interval of time is calculated between  
@@ -49,7 +49,7 @@ the interval from time t = 0 to time t = t1 as
 Formulas
 
 The impulse is the area under the force function F (t) - t graph as shown in Figure 2.33.
-![Alt text](<../fig 2.33.png>)
+![Alt text](<./fig 2.33.png>)
 **Figure 2.33** Impulse of a force
 
 **Average velocity** 
@@ -64,7 +64,7 @@ formulas
 
 It is a vector quantity. The direction of average velocity is in the direction of the displacement vector  This is also shown in t Figure 2.34.
 
-![Alt text](<../fig 2.34.png>)
+![Alt text](<./fig 2.34.png>)
 
 **Average speed**
 
@@ -75,7 +75,7 @@ Average speed = total path length / total time
 EXAMPLE 2.20
 Consider an object travelling in a semi-circular path from point O to point P in 5 second, as shown in the Figure given below. Calculate the average velocity and average speed.
 
-![Alt text](<../eg 2.20.png>)
+![Alt text](<./eg 2.20.png>)
 
 The average velocity is in the positive  direction. The average speed = total path length / time taken (the path is semi-circular)
 
@@ -114,7 +114,7 @@ Two cars are travelling with respective velocities v 1 = 10 m s -1 along east an
 _Solution_
 
 Both cars have the same magnitude of velocity. This implies that both cars travel at the same speed even though they have velocities in different directions. Speed will not give the direction of motion.
-![Alt text](../motion..png)
+![Alt text](./motion..png)
 
 **Momentum**
 The linear momentum or simply momentum of a particle is defined as product of mass with velocity. It is denoted as ‘ p’. Momentum is also a vector quantity.

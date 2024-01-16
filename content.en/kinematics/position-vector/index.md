@@ -10,13 +10,13 @@ It is a vector which denotes the position of a particle at any instant of time, 
 The position vector r of the particle at a point P is given by
 
 where x, y and z are components of _r_, Figure 2.25 shows the position vector _r_
-![Alt text](<../fig 2.25.png>)
+![Alt text](<./fig 2.25.png>)
 **Figure 2.25 Position vector in Cartesian coordinate system**
 
 **EXAMPLE 2.13**
 
 Determine the position vectors for the following particles which are located at points P, Q, R, S.
-![Alt text](<../eg 2.15.png>)
+![Alt text](<./eg 2.15.png>)
 **_Solution_**
 
 The position vector for the point P is
@@ -35,7 +35,7 @@ A person initially at rest starts to walk 2 m towards north, then 1 m towards ea
 
 As shown in the Figure, the positive x axis is taken as east direction, positive y direction is taken as north.
 
-![Alt text](<../eg 2.14.png>)
+![Alt text](<./eg 2.14.png>)
 After the trip, the person reaches the point P whose position vector given by
 
 Foumulas 

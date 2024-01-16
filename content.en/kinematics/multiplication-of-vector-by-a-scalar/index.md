@@ -93,7 +93,7 @@ FORMULAS
 
 **_Solution_**
 
-![Alt text](<../FIG 2.22.png>)
+![Alt text](<./FIG 2.22.png>)
 Hence _A B_ and are not orthogonal to each other. _C D_. = − =10 10 0  Hence, _C D_ and are orthogonal to each other.
 
 It is also possible to geometrically show that the vectors _C and D_ are orthogonal to each other. This is shown in the following Figure.
@@ -136,7 +136,7 @@ The vector product of _A_ and _B_ and is in the sense of advancement of a right 
 According to Right Hand Rule, if the curvature of the fingers of the right hand represents the sense of rotation of the object, then the thumb, held perpendicular to the curvature of the fingers, represents the direction of the resultant _C_
 
 ---
-![Alt text](<../fig 2.22.1.png>)
+![Alt text](<./fig 2.22.1.png>)
 **Properties of vector (cross) product.** 
 
 (i) The vector product of any two vectors is always another vector whose direction is perpendicular to the plane containing these two vectors, i.e., orthogonal to both the vectors A and B, even though the vectors A and B may or may not be mutually orthogonal.
@@ -163,11 +163,11 @@ FORMULAS
 Note that in the ĵ _th_ component the order of multiplication is different than ̂ _thi_ and _kth_ˆ components.
 
 (ix) If two vectors _A and B_ form adjacent sides in a parallelogram, then the magnitude of _A × B_ will give the area of the parallelogram as represented graphically in Figure 2.23.
-![Alt text](<../fig 2.23.1.png>)
+![Alt text](<./fig 2.23.1.png>)
 **Figure 2.23 Area of parallelogram**
 
 (x) Since we can divide a parallelogram into two equal triangles as shown in the Figure 2.24, the area of a triangle with _A and B_ as sides is [1 / 2 ]_A × B_. This is shown in the Figure 2.24. (This fact will be used when we study Kepler’s laws in unit 6)
-![Alt text](<../fig 2.24.png>)
+![Alt text](<./fig 2.24.png>)
 **Figure 2.24 Area of triangle**  
 
 A number of quantities used in Physics are defined through vector products. Particularly physical quantities representing rotational effects like torque, angular momentum, are defined through vector products.

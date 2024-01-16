@@ -28,7 +28,7 @@ To study the motion of a projectile, let us assume that,
 ## Projectile in horizontal projection
 Consider a projectile, say a ball, thrown horizontally with an initial velocity u from the top of a tower of height h (Figure 2.39).
 As the ball moves, it covers a horizontal distance due to its uniform horizontal
-![Alt text](<../Fig 2.39.png>)
+![Alt text](<./Fig 2.39.png>)
 velocity u, and a vertical downward distance because of constant acceleration due to gravity g. Thus, under the combined effect the ball moves along the path OPA. The motion is in a 2-dimensional plane. Let the ball take time t to reach the ground at point A, Then the horizontal distance
 travelled by the ball is x (t) = x, and the vertical distance travelled is y (t) = y
 
@@ -55,13 +55,13 @@ We know that s y = u y t + at 2 for vertical 2 motion. Here s y = h, t = T, u y 
 Formulas 
 
 Thus, the time of flight for projectile motion depends on the height of the tower, but is independent of the horizontal velocity of projection. If one ball falls vertically and another ball is projected horizontally with some velocity, both the balls will reach the bottom at the same time. This is illustrated in the Figure 2.40.
-![Alt text](<../Fig 2.40.png>)
+![Alt text](<./Fig 2.40.png>)
 **Figure 2.40 Vertical distance covered by the two particles is same in equal intervals.**
 (2) Horizontal range: The horizontal distance covered by the projectile from the foot of the tower to the point where the projectile hits the ground is called horizontal range. For horizontal motion, we have Formulas  Here, s x = R (range), u x = u, a = 0 (no horizontal acceleration) T is time of flight. Then horizontal range = uT. 2 h , we 
 Since the time of flight T = g substitute this and we get the horizontal range of the particle as R = u 2 h g 
 The above equation implies that the range R is directly proportional to the initial velocity u and inversely proportional to acceleration due to gravity g.
 **(3) Resultant Velocity (Velocity of projectile at any time):** At any instant t, the projectile has velocity components along both x-axis and y-axis. The resultant of these two components gives the velocity of the projectile at that instant t, as shown in Figure 2.41
-![Alt text](<../Fig 2.41.png>)
+![Alt text](<./Fig 2.41.png>)
 **Figure 2.41. Velocity resolved into two components**
 The velocity component at any t along horizontal (x-axis) is v x = u x + a x t Since, u x = u, a x = 0 , we get
 Formulas  
@@ -73,7 +73,7 @@ The speed of the particle at any instant t is given by
 Formulas 
 **(4) Speed of the projectile when it hits the ground:** When the projectile hits the ground after initially thrown horizontally from the top of tower of height h, the time of flight i
 Formulas 
-![Alt text](<../Fig 2.42.png>)
+![Alt text](<./Fig 2.42.png>)
 ## Projectile under an angular projection
 This projectile motion takes place when the initial velocity is not horizontal, but at some angle with the vertical, as shown in
 Figure 2.42.(Oblique projectile)
@@ -91,7 +91,7 @@ Hence after the time t, the velocity along horizontal motion v x = u x + a x t =
 
 The horizontal distance travelled by 1 projectile in time t is s x = u x t + a x t 2 2 Here, s x = x, u x = u cosθ, a x = 0
 
-![Alt text](<../Fig 2.43.png>)
+![Alt text](<./Fig 2.43.png>)
 
 Formulas 
 Here u y = u sinθ, a y = - g (acceleration due to gravity acts opposite to the motion). Thus
@@ -124,7 +124,7 @@ Formulas
 
 ---
 **Projectile motion !**
-![Alt text](../Projection.png)
+![Alt text](./Projection.png)
 In Tamil Nadu there is an interesting traditional game ‘kitti pull’. When the ‘pull’ is hit by the kitti, the path followed by the pull is ‘parabolic’.
 
 ---
@@ -138,7 +138,7 @@ Formulas
 The range attained on the Moon is approximately six times that on Earth.
 **Example 2.38**
 In the cricket game, a batsman strikes the ball such that it moves with the speed 30 m s -1 at an angle 30 0 with the horizontal as shown in the figure. The boundary line of the cricket ground is located at a distance of 75 m from the batsman? Will the ball go for a six? (Neglect the air resistance and take acceleration due to gravity g = 10 m s -2 ).
-![Alt text](<../Fig 2.38.png>)
+![Alt text](<./Fig 2.38.png>)
 _Solutions_
 The motion of the cricket ball in air is essentially a projectile motion. As we have already seen, the range (horizontal distance) of the projectile motion is given by
 Formulas 
@@ -153,7 +153,7 @@ In measuring angles, there are several possible units used, but the most common 
 
 Radian describes the planar angle subtended by a circular arc at the centre of a circle. It is defined as the length of the arc divided by the radius of the arc. One radian is the angle subtended at the centre of a circle by an arc that is equal in length to the radius of the circle. This is shown in the Figure 2.44.
 
-![Alt text](<../Fig 2.44.png>)
+![Alt text](<./Fig 2.44.png>)
 **Figure 2.44 One radian (shown in yellow color)**
 Degree is the unit of measurement which is used to determine the size of an angle.When an angle goes all the way around in a circle, the total angle covered is equivalent to 360°. Thus, a circle has 360°. In terms of radians, the full circle has π radian.2π radian.
 
@@ -161,14 +161,15 @@ Formulas
 
 **Example 2.39**
 Calculate the angle q subtended by the two adjacent wooden spokes of a bullock cart wheel is shown in the figure. Express the angle in both radian and degree.
-![Alt text](<../Ex 2.39.png>)
+![Alt text](<./Ex 2.39.png>)
 _Solution_
 The full wheel subtends 2π radians at the centre of the wheel. The wheel is divided into 12 parts (arcs). So one part subtends an angle 2 π π θ = = radian at the centre 12 6 π Since, π rad = 180 ° , radian is equal 6 to 30 degree.The angle subtended by two adjacent wooden spokes is 30 degree at the centre.
 **Note**
 The number π plays a very important role in both physics and mathematics. It is an irrational number which cannot be expressed in finite decimal form. However, we can approximate π as ≈ 3.14 or 22/7 But we should not forget that is only an approximation to π and not equal to π.
 ## Angular displacement
 Consider a particle revolving around a point O in a circle of radius r (Figure 2.45). Let the position of the particle at time t = 0 be A and after time t, its position is B.
-![Alt text](<../Fig 2.45.png>)
+![Alt text](<./Fig 2.45.png>)
+**Figure 2.47 Angular displacement**
 Then The angle described by the particle about the axis of rotation (or centre O) in a given time is called angular displacement.
 The unit of angular displacement is radian
 The angular displacement (θ) in radian is related to arc length S (AB) and radius r as
@@ -181,12 +182,13 @@ If θ is the angular displacement in time t, then the angular velocity ω is
 
 Formulas 
 The unit of angular velocity is radian per second (rad s -1 ). The direction of angular velocity is along the axis of rotation following the right hand rule. This is shown in Figure 2.46.
-![Alt text](<../Fig 2.46.png>)
+![Alt text](<./Fig 2.46.png>)
+**Figure 2.47 Direction of angular velocity**
 **i) Angular acceleration (α)**
 The rate of change of angular velocity is called angular acceleration.The angular acceleration is also a vector quantity which need not be in the same direction as angular velocity.
 **Tangential acceleration**
 Consider an object moving along a circle of radius r. In a time ∆t, the object travels an arc distance ∆s as shown in Figure 2.47. The corresponding angle subtended is Δθ
-![Alt text](<../Fig 2.46-1.png>)
+![Alt text](<./Fig 2.46-1.png>)
 **Figure 2.47 Circular motion**
 The Δs can be written in terms of Δθ as,
 Formulas
@@ -210,10 +212,11 @@ Differentiating the equation (2.38) with respect to time, we get (since r is con
 Formulas 
 s the tangential acceleration d and is denoted as a t is the angular dt acceleration α . Then eqn. (2.39) becomes
 FOrmulas 
-![Alt text](<../Fig 2.48.png>)
+![Alt text](<./Fig 2.48.png>)
+**Figure 2.49 Tangential motion**
 ## Circular Motion
 When a point object is moving on a circular path with a constant speed, it covers equal distances on the circumference of the circle in equal intervals of time. Then the object is said to be in uniform circular motion. This is shown in Figure 2.49.
-![Alt text](<../Fig 2.49.png>)
+![Alt text](<./Fig 2.49.png>)
 **Figure 2.49 Uniform circular motion**
 In uniform circular motion, the velocity is always changing but speed remains the same. Physically it implies that magnitude of velocity vector remains constant and only the direction changes continuously.
 
@@ -222,13 +225,13 @@ direction during the circular motion, we get
 non uniform circular motion.
 **Centripetal acceleration**
 As seen already, in uniform circular motion the velocity vector turns continuously without changing its magnitude (speed), as shown in Figure 2.50.
-![Alt text](<../FIg 2.50.png>)
+![Alt text](<./FIg 2.50.png>)
 **Figure 2.50 Velocity in uniform circular motion**
 Note that the length of the velocity vector (blue) is not changed during the motion, implying that the speed remains constant. Even though the velocity is tangential at every point in the circle, the acceleration is acting towards the centre of the circle. This is called centripetal acceleration. It always points towards the centre of the circle. This is shown in the Figure 2.51.
-![Alt text](<../Fig 2.51.png>)
+![Alt text](<./Fig 2.51.png>)
 **Figure 2.51 Centripetal acceleration**
 The centripetal acceleration is derived from a simple geometrical relationship between position and velocity vectors (Figure 2.48 or Figure 2.52)
-![Alt text](<../Fig 2.52.png>)
+![Alt text](<./Fig 2.52.png>)
 **Figure 2.52 Geometrical relationship between the postion and velocity vectors**
 Let the directions of position and velocity vectors shift through the same angle q in a small interval of time Dt, as shown in Figure r r = r 2 2.52. For uniform circular motion, = 1 and = v = v 2 . If the particle moves from 1 position vector r 1 to r 2 , the displacement is given by ∆ r = r 2 − r 1 and the change in velocity from v 1 to v 2 is given by ∆ v = v 2 − v 1 .
 The magnitudes of the displacement Δr and of Δv satisfy the following relation
@@ -246,7 +249,7 @@ The magnitude of centripetal acceleration is constant for uniform circular motio
 ---
 **Non uniform circular motion**
 If the speed of the object in circular motion is not constant, then we have non-uniform circular motion. For example, when the bob attached to a string moves in vertical circle, the speed of the bob is not the same at all time. Whenever the speed is not same in circular motion, the particle will have both centripetal and tangential acceleration as shown in the Figure 2.53.
-![Alt text](<../Fig 2.53.png>)
+![Alt text](<./Fig 2.53.png>)
 **Figure 2.53 Resultant acceleration (a R ) in non uniform circular motion**
 The resultant acceleration is obtained by vector sum of centripetal and tangential acceleration.
 Since centripetal acceleration is , the r magnitude of this resultant acceleration is 2 v 2 given by a R = a +   .r2t This resultant acceleration makes an angle q with the radius vector as shown in Figure 2.53. This angle is given by tan θ = t 2 .( v r )
@@ -268,7 +271,7 @@ Are we moving with the same speed both day and night with respect to Sun?
 Earth orbits the Sun in an elliptical orbit. Let us specify the velocity of the centre of Earth with respect to Sun as v c . This v c is due to the elliptical motion of the Earth around the Sun. We know that at the same time Earth is also spinning on its own axis. Due to this spinning, all objects on the surface of the Earth undergoes circular motion with velocity ( v s ) with respect to the axis of rotation of the Earth. At night both v c and v s are either in the same direction or at an acute angle with each other. So, the velocity of an object on the surface of Earth with respect to Sun at night time is v night = v c + v s . 
 
 During the day v c and v s are either in opposite directions or at an obtuse angle with each other. So, the velocity of the object with respect to Sun at day time v day = v c − v s . From this, we can conclude that any object on the surface of the Earth travels faster with respect to Sun during night than during day time. This happens due to the rotation of the Earth.
-![Alt text](<../Fig 2.42.1.png>)
+![Alt text](<./Fig 2.42.1.png>)
 
 ---
 

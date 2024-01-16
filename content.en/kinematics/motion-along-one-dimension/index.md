@@ -29,7 +29,7 @@ _Solution_
 formulas 
 
 The negative sign implies that at t = 0 the velocity of the particle is along negative x direction.
-![Alt text](<../fig 2.35.png>)
+![Alt text](<./fig 2.35.png>)
 **Figure 2.35 Displacement in the velocity–time graph**
 
 ## Relative Velocity in One and Two Dimensional Motion
@@ -44,7 +44,7 @@ Consider two objects A and B moving with uniform velocities V A and V B, as show
 
 Suppose two cars A and B are moving with uniform velocities with respect to ground along parallel tracks and in the same direction. Let the velocities of A and B be 35 km h -1 due east and 40 km h -1 due east respectively. What is the relative velocity of car B with respect to A?
 
-![Alt text](<../eg 2.26.png>)
+![Alt text](<./eg 2.26.png>)
 
 _Solution_
 Similarly, the relative velocity of A with respect to B i.e., v AB = v A - v B = 5 km h -1 due west. To a passenger in the car A, the car B will appear to be moving east with a velocity 5 km h -1 . To a passenger in car B, the car A will appear to move westwards with a velocity of 5 km h -1
@@ -68,7 +68,7 @@ Consider the velocities v A and v B at an angle θ between their directions. The
 - When θ = 180°, the bodies move along parallel straight lines in opposite directions, We have v AB = (v A + v B ) in the direction of v A .
 - If the two bodies are moving at right angles to each other, then θ = 90°. The magnitude of the relative velocity of A
 - Consider a person moving horizontally with velocity V M . Let rain fall vertically with velocity V R . An umbrella is held to avoid the rain. Then the relative velocity of the rain with respect to the person is, (Figure 2.36)
-![Alt text](<../fig 2.36.png>)
+![Alt text](<./fig 2.36.png>)
 In order to save himself from the rain, he should hold an umbrella at an angle θ with the vertical.
 
 **EXAMPLE 2.27**
@@ -131,7 +131,7 @@ dv = a , we have dv = a dt ; hence For an initial time t 1 and final time t 2
 
 **EXAMPLE 2.31**
 A velocity–time graph is given for a particle moving in x direction, as below
-![Alt text](<../eg 2.31.png>)
+![Alt text](<./eg 2.31.png>)
 a) Describe the motion qualitatively in the interval 0 to 55 s .
 b) Find the distance and displacement travelled from 0 s to 40 s .
 c) Find the acceleration at t = 5 s and at t = 20 s
@@ -171,7 +171,7 @@ The acceleration has only the 60 m s -1 . x-component. Note that acceleration he
 An object is thrown vertically downward. What is the acceleration experienced by the object?
 _Solution_
 We know that when the object falls towards the Earth, it experiences acceleration due to gravity g = 9.8 m s -2 downward. We can choose the coordinate system as shown in the figure.
-![Alt text](<../eg 2.33.png>)
+![Alt text](<./eg 2.33.png>)
 
 ---
 **Note**
@@ -224,7 +224,7 @@ formulas  It is to be noted that all these kinematic equations are valid only if
 Equations of motion under gravity A practical example of a straight line motion with constant acceleration is the motion of an object near the surface of the Earth. We know that near the surface of the Earth, the acceleration due to gravity ‘g’ is constant. All straight line motions under this acceleration can be well understood using the kinematic equations given earlier.
 
 **Case (i): A body falling from a height h**
-![Alt text](<../fig 2.37.png>)
+![Alt text](<./fig 2.37.png>)
 
 Consider an object of mass m falling from a height h. Assume there is no air resistance. For convenience, let us choose the downward direction as positive y-axis as shown in the Figure 2.37. The object experiences acceleration ‘g’ due to gravity which is constant near the surface of the Earth. We can use kinematic equations to explain its motion. We have
 
@@ -262,18 +262,18 @@ Thus, both feather and iron ball reach ground at the same time.By following equa
 
 Formulas 
 
-![Alt text](<../Eg 2.35.png>)
+![Alt text](<./Eg 2.35.png>)
 
 **EXAMPLE 2.35**
 Is it possible to measure the depth of a well using kinematic equations?
-![Alt text](<../Eg 2.35.1.png>)
+![Alt text](<./Eg 2.35.1.png>)
 Consider a well without water, of some depth d. Take a small object (for example lemon) and a stopwatch. When you drop the emon, start the stop watch. As soon as the lemon touches the bottom of the well, stop the watch. Note the time taken by the lemon to reach the bottom and denote the time as t. 
 Since the initial velocity of lemon u = 0 and the acceleration due to gravity g is constant over the well, we can use the equations of motion for constant acceleration.
 Formula
 Since u = 0,s = d , a = g (Since we choose the y axis downwards), Then
 formulas 
 Substituting g = 9 . 8 m s -2 we get the depth of the well.
-![Alt text](<../eg 2.3.png>)
+![Alt text](<./eg 2.3.png>)
 To estimate the error in our calculation we can use another method to measure the depth of the well. Take a long rope and hang the rope inside the well till it touches the bottom. Measure the length of the rope which is the correct depth of the well (d correct ). Then
 
 ---
@@ -283,7 +283,7 @@ If there is water in the well, this method can be used to measure depth of the w
 ---
 **Case (ii): A body thrown vertically upwards**
 Consider an object of mass m thrown vertically upwards with an initial velocity u. Let us neglect the air friction. In this case we choose the vertical direction as positive y axis as shown in the Figure 2.38, then the acceleration a = -g (neglect air friction) and g points towards the negative y axis. The kinematic equations for this motion are,
-![Alt text](<../fig 2.38.png>)
+![Alt text](<./fig 2.38.PNG>)
 **Figure 2.38. An object thrown vertically**
 The velocity and position of the object at any time t are,
 Formulas 

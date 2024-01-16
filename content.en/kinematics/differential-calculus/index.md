@@ -21,7 +21,7 @@ Mathematically the derivative dy/dx is defined as follows
 Formulas 
 
 represents the limit that the quantity D D
-![Alt text](<../fig 2.28.png>)
+![Alt text](<./fig 2.28.png>)
 
 **Figure 2.28 Derivative of a function**
 

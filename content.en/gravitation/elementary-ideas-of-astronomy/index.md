@@ -5,49 +5,16 @@ weight: 5
 
 # 6.5 ELEMENTARY IDEAS OF ASTRONOMY
 
-Astronomy is one of the oldest sciences
-in the history of mankind. In the olden
-days, astronomy was an inseparable part of
-physical science. It contributed a lot to the
-development of physics in the 16th century.
-In fact Kepler’s laws and Newton’s theory
-of gravitation were formulated and verified
-using astronomical observations and data
-accumulated over the centuries by famous
-astronomers like Hippachrus, Aristachrus,
-Ptolemy, Copernicus and Tycho Brahe.
-Without Tycho Brahe’s astronomical
-observations, Kepler’s laws would not have
-emerged. Without Kepler’s laws, Newton’s
-theory of gravitation would not have been
-formulated.
+Astronomy is one of the oldest sciences in the history of mankind. In the olden days, astronomy was an inseparable part of physical science. It contributed a lot to the development of physics in the $16^{\text {th }}$ century. In fact Kepler's laws and Newton's theory of gravitation were formulated and verified using astronomical observations and data accumulated over the centuries by famous astronomers like Hippachrus, Aristachrus, Ptolemy, Copernicus and Tycho Brahe. Without Tycho Brahe's astronomical observations, Kepler's laws would not have emerged. Without Kepler's laws, Newton's theory of gravitation would not have been formulated.
 
-It was mentioned in the beginning of this
-chapter that Ptolemy’s geocentric model was
-replaced by Copernicus’ heliocentric model.
-It is important to analyze and explain the shortcoming of the geocentric model over
-heliocentric model.
+It was mentioned in the beginning of this chapter that Ptolemy's geocentric model was replaced by Copernicus' heliocentric model. It is important to analyze and explain the shortcoming of the geocentric model over heliocentric model.
 
-## 6.5.1 Heliocentric system over geocentric system
 
-When the motion of the planets are observed
-in the night sky by naked eyes over a period
-of a few months, it can be seen that the
-planets move eastwards and reverse their
-motion for a while and return to eastward
-motion again. This is called “retrograde
-motion” of planets.
+### 6.5.1 Heliocentric system over geocentric system
 
-Figure 6.25 shows the retrograde motion
-of the planet Mars. Careful observation
-for a period of a year clearly shows that
-Mars initially moves eastwards (February
-to June), then reverses its path and moves
-backwards (July, August, September). It
-changes its direction of motion once again
-and continues its forward motion (October
-onwards). In olden days, astronomers
-recorded the retrograde motion of all
+When the motion of the planets are observed in the night sky by naked eyes over a period of a few months, it can be seen that the planets move eastwards and reverse their motion for a while and return to eastward motion again. This is called "retrograde motion" of planets.
+
+Figure 6.25 shows the retrograde motion of the planet Mars. Careful observation for a period of a year clearly shows that Mars initially moves eastwards (February to June), then reverses its path and moves backwards (July, August, September). It changes its direction of motion once again and continues its forward motion (October onwards). In olden days, astronomers recorded the retrograde motion of all
 
 ![](k1.png)
 

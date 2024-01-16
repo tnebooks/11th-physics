@@ -1,9 +1,9 @@
-<!-- ---
+---
 title: 'GRAVITATION'
 weight: 6
 ---
 
-
+<!-- ---
 We are amazed looking at the glittering sky; we wonder how the Sun rises in the East and sets in the West, why there are comets or why stars twinkle. The sky has been an object of curiosity for human beings from time immemorial. We have always wondered about the motion of stars, the Moon, and the planets. From Aristotle to Stephen Hawking, great minds have tried to understand the movement of celestial objects in space and what causes their motion.
 
 The ‘Theory of Gravitation’ was developed by Newton in the late 17th century to explain the motion of celestial

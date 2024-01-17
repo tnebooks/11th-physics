@@ -6,6 +6,7 @@ weight: 3
 
 # ELEMENTARY CONCEPTS OF VECTOR ALGEBRA
 
+
 In physics, some quantities possess only magnitude and some quantities possess both magnitude and direction. To understand these physical quantities, it is very important to know the properties of vectors and scalars.
 
 **Scalar** 
@@ -23,7 +24,8 @@ It is a quantity which is described by both magnitude and direction. Geometrical
 **Figure 2.10 Geometrical representation of a vector**
 ![Alt text](<./fig 2.10.png>)
 
-**Examples** Force, velocity, displacement, position vector, acceleration, linear momentum and angular momentum.  
+**Examples** 
+Force, velocity, displacement, position vector, acceleration, linear momentum and angular momentum.  
 
 ## Magnitude of a Vector
 
@@ -35,30 +37,32 @@ The length of a vector is called magnitude of the vector. It is always a positiv
 
 ## Different types of Vectors
 
-1. **Equal vectors:** Two vectors   _A_ and _B_ are said to be equal when they have equal magnitude and same direction and represent the same physical quantity (Figure 2.12.).
+1. **Equal vectors:**  Two vectors {{< katex >}}\vec{A}{{< /katex >}} and {{< katex >}}\vec{B}{{< /katex >}} are said to be equal when they have equal magnitude and same direction and represent the same physical quantity (Figure 2.12.).
+
+
 ![Alt text](<./fig 2.12.png>)
 **Figure 2.12 Geometrical representation of equal vectors**
 
 **(a)Collinear vectors**: Collinear vectors are those which act along the same line. The angle between them can be 0° or 180°.
 
-**(i) Parallel Vectors**: 
-
-If two vectors _A_ and _B_ act in the same direction along the same line or on parallel lines, then the angle between them is 00 (Figure 2.13).
+**(i) Parallel Vectors**: If two vectors {{< katex >}}\vec{A}{{< /katex >}} and {{< katex >}}\vec{B}{{< /katex >}} act in the same direction along the same line or on parallel lines, then the angle between them is {{< katex >}}0^{\circ}{{< /katex>}} (Figure 2.13).
 ![Alt text](<./fig 2.13.png>)
 **Figure 2.13 Geometrical representation of parallel vectors**
 
-**(ii) Anti–parallel vectors:** 
+**(ii) Anti–parallel vectors:** Two vectors {{< katex >}}\vec{A}{{< /katex >}} and {{< katex >}}\vec{B}{{< /katex >}} are said to be anti-parallel when they are in opposite directions along the same line or on parallel lines. Then the angle between them is {{< katex >}}180^{\circ}{{< /katex>}} (Figure 2.14).
 
-Two vectors _A_ and _B_ are said to be anti–parallel when they are in opposite directions along the same line or on parallel lines. Then the angle between them is 1800 (Figure 2.14).
 ![Alt text](<./fig 2.14.png>)
 **Figure 2.14 Geometrical representation of anti– parallel vectors.**
 
-2. **Unit vector**: A vector divided by its magnitude is a unit vector. The unit vector for ˆ_A is denoted by A_ is denoted by ˆ_A is denoted by A_ (read as A cap or A hat). It has a magnitude equal to unity or one.
+2. **Unit vector**: A vector divided by its magnitude is a unit vector. The unit vector for {{< katex >}}\vec{A}{{< /katex >}} is denoted by {{< katex >}}\hat{A}{{< /katex >}} (read as A cap or {{< katex >}}\mathrm{A}{{< /katex >}} hat). It has a magnitude equal to unity or one.
 
-FORMULA
+$$
+\text { Since, } \hat{A}=\frac{\vec{A}}{A} \text { we can write } \vec{A}=A \hat{A}
+$$
+
 Thus, we can say that the unit vector specifies only the direction of the vector quantity.
 
-**3. Orthogonal unit vectors:** Let i, j and k be three unit vectors which specify the directions along positive _x_–axis, positive  _y–_axis and positive _z_–axis respectively. These three unit vectors are directed perpendicular to each other, the angle between any two of them is 90°. ˆ,̂ ˆ_i j and k_ a ˆ_j and k_ are examples of orthogonal vectors.Two vectors which are perpendicular to each other are called orthogonal vectors as is shown in the Figure 2.15
+**3. Orthogonal unit vectors:** Let {{< katex >}}\hat{i}, \hat{j}{{< /katex >}} and {{< katex >}}\hat{k}{{< /katex >}} be three unit vectors which specify the directions along positive {{< katex >}}x{{< /katex >}}-axis, positive {{< katex >}}y{{< /katex >}}-axis and positive {{< katex >}}z{{< /katex >}}-axis respectively. These three unit vectors are directed perpendicular to each other, the angle between any two of them is {{< katex >}}90^{\circ}. \hat{i}, \hat{j}{{< /katex >}} and {{< katex >}}\hat{k}{{< /katex >}} are examples of orthogonal vectors. Two vectors which are perpendicular to each other are called orthogonal vectors as is shown in Figure 2.15
 ![Alt text](<./fig 2.15.png>)
 **Figure 2.15 Orthogonal unit vectors**
 
@@ -68,60 +72,104 @@ Since vectors have both magnitude and direction they cannot be added by the meth
 
 **Triangular Law of addition method** 
 
-Let us consider two vectors _A and B_ as shown in Figure 2.16. 
+Let us consider two vectors {{< katex >}}\vec{A}{{< /katex >}} and {{< katex >}}\vec{B}{{< /katex >}} as shown in Figure 2.16.
+
+{{< katex >}}
+\overrightarrow{O Q} = \overrightarrow{O P} + \overrightarrow{P Q}
+{{< /katex >}}
+
 ![Alt text](<./fig 2.16.png>)
 **figure 2.16 Head And Tail Of The Vectors**
 
 To find the resultant of the two vectors we apply the triangular law of addition as follows:
 
-Represent the vectors _A and B_ and by the two adjacent sides of a triangle taken in the same order. Then the resultant is given by the third side of the triangle taken in the reverse order as shown in Figure 2.17.
+Represent the vectors {{< katex >}}\vec{A}{{< /katex >}} and {{< katex >}}\vec{B}{{< /katex >}} by the two adjacent sides of a triangle taken in the same order. Then the resultant is given by the third side of the triangle taken in the reverse order as shown in Figure 2.17.
+
+{{< katex >}}
+\overrightarrow{O Q} = \overrightarrow{O P} + \overrightarrow{P Q}
+{{< /katex >}}
 
 ![Alt text](<./fig 2.17.png>)
 **Figure 2.17 Triangle law of addition**
 
-To explain further, the head of the first vector _A_ is connected to the tail of the second vector _B_ . Let θ be the angle between _A B_ and . Then _R_ is the resultant vector connecting the tail of the first vector _A_ to the head of the second vector _B_. The magnitude of _R_ (resultant) is given geometrically by the length of _R_ (OQ) and the direction of the resultant vector is the angle between _R_ and _A_ . Thus we write R = A + B .
+To explain further, the head of the first vector {{< katex >}}\vec{A}{{< /katex >}} is connected to the tail of
+the second vector {{< katex >}}\vec{B}{{< /katex >}}. Let {{< katex >}}\theta{{< /katex >}} be the angle between {{< katex >}}\vec{A}{{< /katex >}} and {{< katex >}}\vec{B}{{< /katex >}}. Then {{< katex >}}\vec{R}{{< /katex >}} is the resultant vector connecting the tail of the first vector {{< katex >}}\vec{A}{{< /katex >}} to the head of the second vector {{< katex >}}\vec{B}{{< /katex >}}. The magnitude of {{< katex >}}\vec{R}{{< /katex >}} (resultant) is given geometrically by the length of {{< katex >}}\vec{R}{{< /katex >}} (OQ) and the direction of the resultant vector is the angle between {{< katex >}}\vec{R}{{< /katex >}} and {{< katex >}}\vec{A}{{< /katex >}}. Thus we write {{< katex >}}\vec{R}=\vec{A}+\vec{B}{{< /katex >}}.
+
+{{< katex >}}
+\overrightarrow{O Q}=\overrightarrow{O P}+\overrightarrow{P Q}
+{{< /katex >}}
 
 **(1) Magnitude of resultant vector** The magnitude and angle of the resultant vector are determined as follows.
 
-From Figure 2.18, consider the triangle ABN, which is obtained by extending the side OA to ON. ABN is a right angled triangle.  
+From Figure 2.18, consider the triangle {{< katex >}}\mathrm{ABN}{{< /katex >}}, which is obtained by extending the side {{< katex >}}\mathrm{OA}{{< /katex >}} to {{< katex >}}\mathrm{ON}{{< /katex >}}. {{< katex >}}\mathrm{ABN}{{< /katex >}} is a right angled triangle. 
 ![Alt text](<./fig 2.18.png>)
 **Figure 2.18 Resultant vector and its direction by triangle law of addition.**
 
 From Figure 2.18
 
-FORMULAS
+{{< katex >}}
+\begin{gathered}
+\cos \theta=\frac{A N}{B} \therefore A N=B \cos \theta \text { and } \\
+\sin \theta=\frac{B N}{B} \therefore B N=B \sin \theta
+\end{gathered}
+{{< /katex >}}
 
-which is the magnitude of the resultant of _A and B_ 
+For {{< katex >}}\triangle O B N{{< /katex >}}, we have {{< katex >}}O B^{2}=O N^{2}+B N^{2}{{< /katex >}}
 
-**(2) Direction of resultant vectors:** If θ is the angle between A and  B, then
+{{< katex >}}
+\begin{aligned}
+& \Rightarrow R^{2}=(A+B \cos \theta)^{2}+(B \sin \theta)^{2} \\
+& \Rightarrow R^{2}=A^{2}+B^{2} \cos ^{2} \theta+2 A B \cos \theta+B^{2} \sin ^{2} \theta \\
+& \Rightarrow R^{2}=A^{2}+B^{2}\left(\cos ^{2} \theta+\sin ^{2} \theta\right)+2 A B \cos \theta \\
+& \Rightarrow R=\sqrt{A^{2}+B^{2}+2 A B \cos \theta}
+\end{aligned}
+{{< /katex >}}
 
-|_A+ B| A B AB_\+ = + +2 2 2 cosθ (2.1)
 
-If 
+which is the magnitude of the resultant of {{< katex >}}\vec{A}{{< /katex >}} and {{< katex >}}\vec{B}{{< /katex >}}
 
-_R_ makes an angle α with 
+**(2) Direction of resultant vectors:** If {{< katex >}}\theta{{< /katex >}} is the angle between {{< katex >}}\vec{A}{{< /katex >}} and {{< katex >}}\vec{B}{{< /katex >}}, then
 
-_A_ , then in ∆OBN,
+{{< katex >}}|\vec{A}+\vec{B}|=\sqrt{A^{2}+B^{2}+2 A B \cos \theta}{{< /katex >}}
 
-tanα = _BN / ON_ = _BN / OA + AN_
-tanα = Bsin / A+Bcos
-⇒ α =  tan − 1 (B sin θ/ A + B cos θ )
+If {{< katex >}}\vec{R}{{< /katex >}} makes an angle a with {{< katex >}}\vec{A}{{< /katex >}}, then in {{< katex >}}\triangle \mathrm{OBN}{{< /katex >}},
+
+{{< katex >}}
+\begin{aligned}
+& \tan \alpha=\frac{B N}{O N}=\frac{B N}{O A+A N} \\
+& \tan \alpha=\frac{B \sin \theta}{A+B \cos \theta} \\
+& \Rightarrow \alpha=\tan ^{-1}\left(\frac{B \sin \theta}{A+B \cos \theta}\right)
+\end{aligned}
+{{< /katex >}}
+
 
 **EXAMPLE 2.1**
 
-Two vectors A and B of magnitude 5 units and 7 units respectively make an angle 60° with each other as shown below. Find the magnitude of the resultant vector and its direction with respect to the vector
+Two vectors {{< katex >}}\vec{A}{{< /katex >}} and {{< katex >}}\vec{B}{{< /katex >}} of magnitude 5 units and 7 units respectively make an angle {{< katex >}}60^{\circ}{{< /katex >}} with each other as shown below. Find the magnitude of the resultant vector and its direction with respect to the vector {{< katex >}}\vec{A}{{< /katex >}}.
+
+
 ![Alt text](<./eg 1.1.png>)
 **_Solution_**
 
 By following the law of triangular addition, the resultant vector is given by
 
-_R =  A + B_
+{{< katex >}}\vec{R}=\vec{A}+\vec{B}{{< /katex >}}
 
 as illustrated below
 ![Alt text](<./dia 2.1.png>)
-he magnitude of the resultant vector 
-R is 
-given by
+{{< katex >}}
+\begin{aligned}
+& R=|\vec{R}|=\sqrt{5^{2}+7^{2}+2 \times 5 \times 7 \cos 60^{\circ}} \\
+& R=\sqrt{25+49+\frac{70 \times 1}{2}}=\sqrt{109} \text { units }
+\end{aligned}
+{{< /katex >}}
+
+The angle {{< katex >}}\alpha{{< /katex >}} between {{< katex >}}\vec{R}{{< /katex >}} and {{< katex >}}\vec{A}{{< /katex >}} is given by
+
+{{< katex >}}
+\tan \alpha=\frac{B \sin \theta}{A+B \cos \theta}
+{{< /katex >}}
+![Alt text](image.png)
 
 ---
 **Note**
@@ -132,40 +180,56 @@ Another method to determine the resultant and angle of resultant of two vectors 
 
 Since vectors have both magnitude and direction two vectors cannot be subtracted from each other by the method of ordinary algebra. Thus, this subtraction can be done either geometrically or analytically. We shall now discuss subtraction of two vectors geometrically using the Figure 2.19
 
-For two non-zero vectors _A_ and _B_ which are inclined to each other at an angle θ, the difference _A - B_ is obtained as follows. First obtain _A B_− as in Figure 2.19. The angle between _A and B_ is 180–θ.
+For two non-zero vectors {{< katex >}}\vec{A}{{< /katex >}} and {{< katex >}}\vec{B}{{< /katex >}} which are inclined to each other at an angle {{< katex >}}\theta{{< /katex >}}, the difference {{< katex >}}\vec{A}-\vec{B}{{< /katex >}} is obtained as follows. First obtain {{< katex >}}-\vec{B}{{< /katex >}} as in Figure 2.19. The angle between {{< katex >}}\vec{A}{{< /katex >}} and {{< katex >}}-\vec{B}{{< /katex >}} is {{< katex >}}180-\theta{{< /katex >}}.
 ![Alt text](<./fig 2.19.png>)
 
 **Figure 2.19 Subtraction of vectors**
 
-The difference _A - B_− is the same as the resultant of _A_ and B_. We can write _A - B = A + (- B_) and using the equation (2.1), we have
-FORMULa
+The difference {{< katex >}}\vec{A}-\vec{B}{{< /katex >}} is the same as the resultant of {{< katex >}}\vec{A}{{< /katex >}} and {{< katex >}}-\vec{B}{{< /katex >}}.
 
-Since, cos cos180 −( ) = −θ θ , we get
+We can write {{< katex >}}\vec{A}-\vec{B}=\vec{A}+(-\vec{B}){{< /katex >}} and using the equation (2.1), we have
 
-FORMULA
+{{< katex >}}|\vec{A}-\vec{B}|=\sqrt{A^{2}+B^{2}+2 A B \cos (180-\theta)}{{< /katex >}}
+
+Since, {{< katex >}}\cos (180-\theta)=-\cos \theta{{< /katex >}}, we get
+
+{{< katex >}}
+\Rightarrow|\vec{A}-\vec{B}|=\sqrt{A^{2}+B^{2}-2 A B \cos \theta}
+{{< /katex >}}
 
 Again from the Figure 2.19, and using an equation similar to equation (2.2) we have
 
-FORMULA
+{{< katex >}}
+\tan \alpha_{2}=\frac{B \sin \left(180^{\circ}-\theta\right)}{A+B \cos \left(180^{\circ}-\theta\right)}
+{{< /katex >}}
 
-But sin sin cos180 180° −( ) = ° −( ) =θ θ θ and hence we get
+But {{< katex >}}\sin \left(180^{\circ}-\theta\right)=\sin \theta{{< /katex >}} hence we get
 
-FORMULA 
+{{< katex >}}
+\Rightarrow \tan \alpha_{2}=\frac{B \sin \theta}{A-B \cos \theta}
+{{< /katex >}}
 
-Thus the difference  
-
-_A B_− is a vector with magnitude and direction given by equations 2.4 and 2.6 respectively.
+Thus the difference {{< katex >}}\vec{A}-\vec{B}{{< /katex >}} is a vector with magnitude and direction given by equations 2.4 and 2.6 respectively.
 
 **EXAMPLE 2.2**
 
-Two vectors _A_ and _B_ of magnitude 5 units and 7 units make an angle 60° with each other. Find the magnitude of the difference vector _A - B_ and its direction with respect to the vector _A_.
-
+Two vectors {{< katex >}}\vec{A}{{< /katex >}} and {{< katex >}}\vec{B}{{< /katex >}} of magnitude 5 units and 7 units make an angle {{< katex >}}60^{\circ}{{< /katex >}} with each other. Find the magnitude of the difference vector {{< katex >}}\vec{A}-\vec{B}{{< /katex >}} and its direction with respect to the vector {{< katex >}}\vec{A}{{< /katex >}}.
 **_Solution_**
 
 Using the equation (2.4),
 
-FORMULAS 
+{{< katex >}}
+\begin{aligned}
+& |\vec{A}-\vec{B}|=\sqrt{5^{2}+7^{2}-2 \times 5 \times 7 \cos 60^{\circ}} \\
+& =\sqrt{25+49-35}=\sqrt{39} \text { units }
+\end{aligned}
+{{< /katex >}}
 
-The angle that  
+The angle that {{< katex >}}\vec{A}-\vec{B}{{< /katex >}} makes with the vector {{< katex >}}\vec{A}{{< /katex >}} is given by
 
-_A - B_− makes with the vector _A_ is given by
+{{< katex >}}
+\begin{gathered}
+\tan \alpha_{2}=\frac{7 \sin 60^{\circ}}{5-7 \cos 60^{\circ}}=\frac{7 \sqrt{3}}{10-7}=\frac{7}{\sqrt{3}}=4.041 \\
+\alpha_{2}=\tan ^{-1}(4.041) \cong 76^{\circ}
+\end{gathered}
+{{< /katex >}}

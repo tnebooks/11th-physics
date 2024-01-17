@@ -56,9 +56,10 @@ These two circular motions are shown in Figure 2.5
 
 **c) Rotational motion** If any object moves in a rotational motion about an axis, the motion is called ‘rotation’. During rotation every point in the object transverses a circular path about an axis, (except the points located on the axis).
 
-**Examples** „ Rotation of a disc about an axis through
-
-its centre „ Spinning of the Earth about its own axis.
+**Examples**
+- Rotation of a disc about an axis through
+its centre 
+- Spinning of the Earth about its own axis.
 
 These two rotational motions are shown in Figure 2.6.  
 ![Alt text](./image_6.png)
@@ -66,7 +67,7 @@ These two rotational motions are shown in Figure 2.6.
 
 **d) Vibratory motion** If an object or particle executes a _to–and– fro motion about a fixed point, it is said to_ be in vibratory motion. This is sometimes also called oscillatory motion.
 
-**Examples** „ 
+**Examples** 
 - Vibration of a string on a guitar 
 - Movement of a swing
 

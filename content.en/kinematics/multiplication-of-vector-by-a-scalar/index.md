@@ -5,7 +5,6 @@ weight: 5
 
 # MULTIPLICATION OF VECTOR BY A SCALAR
 
-
 A vector {{< katex >}}\vec{A}{{< /katex >}} multiplied by a scalar {{< katex >}}\lambda{{< /katex >}} results in another vector, {{< katex >}}\lambda \vec{A}{{< /katex >}}. If {{< katex >}}\lambda{{< /katex >}} is a positive number then {{< katex >}}\lambda \vec{A}{{< /katex >}} is also in the direction of {{< katex >}}\vec{A}{{< /katex >}}. If {{< katex >}}\lambda{{< /katex >}} is a negative number, {{< katex >}}\lambda \vec{A}{{< /katex >}} is in the opposite direction to the vector {{< katex >}}\vec{A}{{< /katex >}}.
 
 **EXAMPLE 2.5**
@@ -203,6 +202,7 @@ The vector product of {{< katex >}}\vec{A}{{< /katex >}} and {{< katex >}}\vec{B
 
 
 ![Alt text](<./fig 2.22.1.png>)
+
 **Figure 2.22 Vector product of two**
 
 ![Alt text](image-1.png)
@@ -249,7 +249,9 @@ In physics the null vector {{< katex >}}\overrightarrow{0}{{< /katex >}} is simp
 {{< katex >}}
 \hat{i} \times \hat{j}=\hat{k}, \hat{j} \times \hat{k}=\hat{i} \text { and } \hat{k} \times \hat{i}=\hat{j}
 {{< /katex >}}
+
 ![Alt text](image-2.png)
+
 Also, since the cross product is not commutative,
 
 {{< katex >}}
@@ -281,12 +283,15 @@ B_{x} & B_{y} & B_{z}
 Note that in the {{< katex >}}\hat{j}^{\text {th }}{{< /katex >}} component the order of multiplication is different than {{< katex >}}\hat{i}^{\text {th }}{{< /katex >}} and {{< katex >}}\hat{k}^{\text {th }}{{< /katex >}} components.
 
 (ix) If two vectors {{< katex >}}\vec{A}{{< /katex >}} and {{< katex >}}\vec{B}{{< /katex >}} form adjacent sides in a parallelogram, then the magnitude of {{< katex >}}\vec{A} \times \vec{B}{{< /katex >}} will give the area of the parallelogram as represented graphically in Figure 2.23.
+
 ![Alt text](<./fig 2.23.1.png>)
+
 **Figure 2.23 Area of parallelogram**
 
 (x) Since we can divide a parallelogram into two equal triangles as shown in the Figure 2.24, the area of a triangle with {{< katex >}}\vec{A}{{< /katex >}} and {{< katex >}}\vec{B}{{< /katex >}} as sides is {{< katex >}}\frac{1}{2}|\vec{A} \times \vec{B}|{{< /katex >}}. This is shown in the Figure 2.24. (This fact will be used when we study Kepler's laws in unit 6)
 
 ![Alt text](<./fig 2.24.png>)
+
 **Figure 2.24 Area of triangle**  
 
 A number of quantities used in Physics are defined through vector products. Particularly physical quantities representing rotational effects like torque, angular momentum, are defined through vector products.

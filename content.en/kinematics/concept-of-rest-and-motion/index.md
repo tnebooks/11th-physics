@@ -6,23 +6,30 @@ weight: 2
 # CONCEPT OF REST AND MOTION
 
 The concept of rest and motion can be well understood by the following elucidation (Figure 2.1). A person sitting in a moving bus is at rest with respect to a fellow passenger but is in motion with respect to a person outside the bus. The concepts of rest and motion have meaning only with respect to some reference frame. To understand rest or motion we need a convenient fixed reference frame.
+
 ![Alt text](./image_5.png)
+
 **Figure 2.1** Frame of Reference
 
 **Frame of Reference:** 
 
 If we imagine a coordinate system and the position of an object is described relative to it, then such a coordinate system is called “Cartesian coordinate system” as shown in Figure 2.2
 At any given instant of time, the frame of reference with respect to which the position of the object is described in terms of position coordinates (x, y, z) (i.e., distances of the given position of an object along the x, y, and z–axes.) is called **“Cartesian coordinate system”** as shown in Figure 2.2
+
 ![Alt text](<./fig 2.2.png>)
+
 **Figure 2.2** Cartesian coordinate system
 
 It is to be noted that if the _x, y_ and _z_ axes are drawn in anticlockwise direction then the coordinate system is called as “right– handed Cartesian coordinate system”. Though other coordinate systems do exist, in physics we conventionally follow the right–handed coordinate system as shown in Figure 2.3.
+
 ![Alt text](<./fig 2.3.png>)
 
 **Figure 2.3** Right handed coordinate system
 
 The following Figure 2.4 illustrates the difference between left and right handed coordinate systems.
+
 ![Alt text](<./fig 2.4.png>)
+
 **Figure 2.4 Right and left handed** coordinate systems
 
 **Point mass** 
@@ -51,7 +58,9 @@ Circular motion is defined as a motion described by an object traversing a circu
 - The motion of a satellite around the Earth
 
 These two circular motions are shown in Figure 2.5
+
 ![Alt text](./image_9.png)
+
 **Figure 2.5** Examples of circular motion
 
 **c) Rotational motion** If any object moves in a rotational motion about an axis, the motion is called ‘rotation’. During rotation every point in the object transverses a circular path about an axis, (except the points located on the axis).
@@ -62,7 +71,9 @@ its centre
 - Spinning of the Earth about its own axis.
 
 These two rotational motions are shown in Figure 2.6.  
+
 ![Alt text](./image_6.png)
+
 **Figure 2.6** Examples of Rotational motion
 
 **d) Vibratory motion** If an object or particle executes a _to–and– fro motion about a fixed point, it is said to_ be in vibratory motion. This is sometimes also called oscillatory motion.
@@ -72,8 +83,10 @@ These two rotational motions are shown in Figure 2.6.
 - Movement of a swing
 
 These motions are shown in Figure 2.7
+
 ![Alt text](./image_7.png)
 ![Alt text](./image_8.png)
+
 **Figure 2.7 Examples of Vibratory motion**
 
 Other types of motion like elliptical motion and helical motion are also possible.
@@ -91,7 +104,9 @@ This motion is sometimes known as rectilinear or linear motion.
 In this motion, only one of the three rectangular coordinates specifying the position of the object changes with time.
 
 For example, if a car moves from position A to position B along _x_–direction, as shown in Figure 2.8, then a variation in x–coordinate alone is noticed.
+
 ![Alt text](./image_10.png)
+
 **Figure 2.8 Motion of a particle along one dimension**
 
 **Examples** 
@@ -105,7 +120,9 @@ _If a particle is moving along a curved_ _path in a plane, then it is said to be
 In this motion, two of the three rectangular coordinates specifying the position of object change with time.
 
 For instance, when a particle is moving in the _y – z_ plane, x does not vary, but _y_ and _z_ vary as shown in Figure 2.9
+
 ![Alt text](<./fig 2.6.png>)
+
 **Figure 2.9 Motion of a particle along two dimensions**
 
 **Examples** 

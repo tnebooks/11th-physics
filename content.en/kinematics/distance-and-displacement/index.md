@@ -8,7 +8,9 @@ weight: 7
 **Distance** is the actual path length travelled by an object in the given interval of time during the motion. It is a positive scalar quantity.
 
 **Displacement is the difference between** the final and initial positions of the object in a given interval of time. It can also be defined as the shortest distance between these two positions of the object and its direction is from the initial to final position of the object, during the given interval of time. It is a vector quantity. Figure 2.26 illustrates the difference between displacement and distance.
+
 ![Alt text](<./fig 2.26.png>)
+
 **Figure 2.26 Distance and displacement**
 
 **EXAMPLE 2.15**
@@ -61,12 +63,15 @@ This displacement is also shown in Figure 2.27.
  
 
 This displacement is also shown in Figure 2.27.
+
 ![Alt text](<./eg 2.17.png>)
+
 **Figure 2.27 Displacement vector**
 
 **EXAMPLE 2.17**
 
 Calculate the displacement vector for a particle moving from a point P to Q as shown below. Calculate the magnitude of displacement.
+
 ![Alt text](<./eg 2.17.1.png>)
 
 **_Solution_**
@@ -86,6 +91,7 @@ The magnitude of the displacement vector {{< katex >}}\Delta r=\sqrt{3^{2}+1^{2}
 
 ---
 **Note**
+
 (1) The Distance travelled by an object in motion in a given time is never negative or zero, it is always positive.
 
 (2) The displacement of an object, in a given time can be positive, zero or negative.

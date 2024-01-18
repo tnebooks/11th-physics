@@ -8,7 +8,9 @@ weight: 9
 Integration is an area finding process. For certain geometric shapes we can directly find the area. But for irregular shapes the process of integration is used. Consider for example the areas of a rectangle and an irregularly shaped curve, as shown in Figure 2.29.
 
 The area of the rectangle is simply given by {{< katex >}}\mathrm{A}={{< /katex >}} length {{< katex >}}\times{{< /katex >}} breadth {{< katex >}}=(\mathrm{b}-\mathrm{a}) \mathrm{c}{{< /katex >}}
+
 ![Alt text](<./fig 2.29.png>)
+
 **Figure 2.29** Area of rectangular and irregular shape
 
 But to find the area of the irregular shaped curve given by {{< katex >}}f(x){{< /katex >}}, we divide the area into rectangular strips as shown in the Figure 2.30.
@@ -17,6 +19,7 @@ The area under the curve is approximately equal to sum of areas of each rectangu
 This is given by {{< katex >}}A \approx f(a) \Delta x+f\left(x_{1}\right) \Delta x{{< /katex >}} {{< katex >}}+f\left(x_{2}\right) \Delta x+f\left(x_{3}\right) \Delta x{{< /katex >}}.
 
 ![Alt text](<./fig 2.30.png>)
+
 **Figure 2.30** Area under the curve using rectangular strip
 
 Where {{< katex >}}f(a){{< /katex >}} is the value of the function {{< katex >}}f(x){{< /katex >}} at {{< katex >}}\mathrm{x}=\mathrm{a}, f\left(x_{1}\right){{< /katex >}} is the value of {{< katex >}}f(x){{< /katex >}} for {{< katex >}}\mathrm{x}=\mathrm{x}_{1}{{< /katex >}} and so on.
@@ -32,7 +35,9 @@ As the number of strips goes to infinity, {{< katex >}}N \rightarrow \infty{{< /
 (Note: As {{< katex >}}N \rightarrow \infty, \Delta x \rightarrow 0{{< /katex >}} )
 
 The integration will give the total area under the curve {{< katex >}}f(x){{< /katex >}}. This is shown in Figure 2.31.
+
 ![Alt text](<./fig 2.31.png>)
+
 **Figure 2.31** Relation between su
 
 **Examples** 
@@ -46,7 +51,9 @@ W=\int_{a}^{b} F(x) d x
 (No scalar products is required here, since motion here is in one dimension)
 
 1) The work done is the area under the force displacement graph as shown in Figure 2.32
+
 ![Alt text](<./fig 2.32.png>)
+
 **Figure 2.32** Work done by the force
 
 2) The impulse given by the force in an interval of time is calculated between the interval from time {{< katex >}}t=0{{< /katex >}} to time {{< katex >}}\mathrm{t}=\mathrm{t}_{1}{{< /katex >}} as
@@ -56,7 +63,9 @@ W=\int_{a}^{b} F(x) d x
 {{< /katex >}}
 
 The impulse is the area under the force function {{< katex >}}F(t){{< /katex >}} - {{< katex >}}t{{< /katex >}} graph as shown in Figure 2.33.
+
 ![Alt text](<./fig 2.33.png>)
+
 **Figure 2.33** Impulse of a force
 
 **Average velocity** 
@@ -209,6 +218,7 @@ Two cars are travelling with respective velocities {{< katex >}}\vec{v}_{1}=10 \
 **_Solution_** 
 
 Both cars have the same magnitude of velocity. This implies that both cars travel at the same speed even though they have velocities in different directions. Speed will not give the direction of motion.
+
 ![Alt text](./motion..png)
 
 **Momentum**

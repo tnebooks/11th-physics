@@ -6,7 +6,6 @@ weight: 3
 
 # ELEMENTARY CONCEPTS OF VECTOR ALGEBRA
 
-
 In physics, some quantities possess only magnitude and some quantities possess both magnitude and direction. To understand these physical quantities, it is very important to know the properties of vectors and scalars.
 
 **Scalar** 
@@ -21,8 +20,9 @@ Distance, mass, temperature, speed and energy.
 
 It is a quantity which is described by both magnitude and direction. Geometrically a vector is a directed line segment which is shown in Figure 2.10. In physics certain quantities can be described only by vectors.
 
-**Figure 2.10 Geometrical representation of a vector**
 ![Alt text](<./fig 2.10.png>)
+
+**Figure 2.10 Geometrical representation of a vector**
 
 **Examples** 
 Force, velocity, displacement, position vector, acceleration, linear momentum and angular momentum.  
@@ -31,6 +31,7 @@ Force, velocity, displacement, position vector, acceleration, linear momentum an
 
 The length of a vector is called magnitude of the vector. It is always a positive quantity. Sometimes the magnitude of a vector is also called ‘norm’ of the vector. For a vector _A_, the magnitude or norm is denoted by
 |_A_| or simply ‘_A_’ (Figure 2.11).
+
 ![Alt text](<./fig 2.11.png>)
 
 **Figure 2.11 Magnitude of a vector**
@@ -41,17 +42,21 @@ The length of a vector is called magnitude of the vector. It is always a positiv
 
 
 ![Alt text](<./fig 2.12.png>)
+
 **Figure 2.12 Geometrical representation of equal vectors**
 
 **(a)Collinear vectors**: Collinear vectors are those which act along the same line. The angle between them can be 0° or 180°.
 
 **(i) Parallel Vectors**: If two vectors {{< katex >}}\vec{A}{{< /katex >}} and {{< katex >}}\vec{B}{{< /katex >}} act in the same direction along the same line or on parallel lines, then the angle between them is {{< katex >}}0^{\circ}{{< /katex>}} (Figure 2.13).
+
 ![Alt text](<./fig 2.13.png>)
+
 **Figure 2.13 Geometrical representation of parallel vectors**
 
 **(ii) Anti–parallel vectors:** Two vectors {{< katex >}}\vec{A}{{< /katex >}} and {{< katex >}}\vec{B}{{< /katex >}} are said to be anti-parallel when they are in opposite directions along the same line or on parallel lines. Then the angle between them is {{< katex >}}180^{\circ}{{< /katex>}} (Figure 2.14).
 
 ![Alt text](<./fig 2.14.png>)
+
 **Figure 2.14 Geometrical representation of anti– parallel vectors.**
 
 2. **Unit vector**: A vector divided by its magnitude is a unit vector. The unit vector for {{< katex >}}\vec{A}{{< /katex >}} is denoted by {{< katex >}}\hat{A}{{< /katex >}} (read as A cap or {{< katex >}}\mathrm{A}{{< /katex >}} hat). It has a magnitude equal to unity or one.
@@ -63,7 +68,9 @@ $$
 Thus, we can say that the unit vector specifies only the direction of the vector quantity.
 
 **3. Orthogonal unit vectors:** Let {{< katex >}}\hat{i}, \hat{j}{{< /katex >}} and {{< katex >}}\hat{k}{{< /katex >}} be three unit vectors which specify the directions along positive {{< katex >}}x{{< /katex >}}-axis, positive {{< katex >}}y{{< /katex >}}-axis and positive {{< katex >}}z{{< /katex >}}-axis respectively. These three unit vectors are directed perpendicular to each other, the angle between any two of them is {{< katex >}}90^{\circ}. \hat{i}, \hat{j}{{< /katex >}} and {{< katex >}}\hat{k}{{< /katex >}} are examples of orthogonal vectors. Two vectors which are perpendicular to each other are called orthogonal vectors as is shown in Figure 2.15
+
 ![Alt text](<./fig 2.15.png>)
+
 **Figure 2.15 Orthogonal unit vectors**
 
 ## Addition of Vectors
@@ -79,6 +86,7 @@ Let us consider two vectors {{< katex >}}\vec{A}{{< /katex >}} and {{< katex >}}
 {{< /katex >}}
 
 ![Alt text](<./fig 2.16.png>)
+
 **figure 2.16 Head And Tail Of The Vectors**
 
 To find the resultant of the two vectors we apply the triangular law of addition as follows:
@@ -90,6 +98,7 @@ Represent the vectors {{< katex >}}\vec{A}{{< /katex >}} and {{< katex >}}\vec{B
 {{< /katex >}}
 
 ![Alt text](<./fig 2.17.png>)
+
 **Figure 2.17 Triangle law of addition**
 
 To explain further, the head of the first vector {{< katex >}}\vec{A}{{< /katex >}} is connected to the tail of
@@ -101,8 +110,10 @@ the second vector {{< katex >}}\vec{B}{{< /katex >}}. Let {{< katex >}}\theta{{<
 
 **(1) Magnitude of resultant vector** The magnitude and angle of the resultant vector are determined as follows.
 
-From Figure 2.18, consider the triangle {{< katex >}}\mathrm{ABN}{{< /katex >}}, which is obtained by extending the side {{< katex >}}\mathrm{OA}{{< /katex >}} to {{< katex >}}\mathrm{ON}{{< /katex >}}. {{< katex >}}\mathrm{ABN}{{< /katex >}} is a right angled triangle. 
+From Figure 2.18, consider the triangle {{< katex >}}\mathrm{ABN}{{< /katex >}}, which is obtained by extending the side {{< katex >}}\mathrm{OA}{{< /katex >}} to {{< katex >}}\mathrm{ON}{{< /katex >}}. {{< katex >}}\mathrm{ABN}{{< /katex >}} is a right angled triangle.
+
 ![Alt text](<./fig 2.18.png>)
+
 **Figure 2.18 Resultant vector and its direction by triangle law of addition.**
 
 From Figure 2.18
@@ -149,6 +160,7 @@ Two vectors {{< katex >}}\vec{A}{{< /katex >}} and {{< katex >}}\vec{B}{{< /kate
 
 
 ![Alt text](<./eg 1.1.png>)
+
 **_Solution_**
 
 By following the law of triangular addition, the resultant vector is given by
@@ -156,7 +168,9 @@ By following the law of triangular addition, the resultant vector is given by
 {{< katex >}}\vec{R}=\vec{A}+\vec{B}{{< /katex >}}
 
 as illustrated below
+
 ![Alt text](<./dia 2.1.png>)
+
 {{< katex >}}
 \begin{aligned}
 & R=|\vec{R}|=\sqrt{5^{2}+7^{2}+2 \times 5 \times 7 \cos 60^{\circ}} \\
@@ -169,6 +183,7 @@ The angle {{< katex >}}\alpha{{< /katex >}} between {{< katex >}}\vec{R}{{< /kat
 {{< katex >}}
 \tan \alpha=\frac{B \sin \theta}{A+B \cos \theta}
 {{< /katex >}}
+
 ![Alt text](image.png)
 
 ---
@@ -181,6 +196,7 @@ Another method to determine the resultant and angle of resultant of two vectors 
 Since vectors have both magnitude and direction two vectors cannot be subtracted from each other by the method of ordinary algebra. Thus, this subtraction can be done either geometrically or analytically. We shall now discuss subtraction of two vectors geometrically using the Figure 2.19
 
 For two non-zero vectors {{< katex >}}\vec{A}{{< /katex >}} and {{< katex >}}\vec{B}{{< /katex >}} which are inclined to each other at an angle {{< katex >}}\theta{{< /katex >}}, the difference {{< katex >}}\vec{A}-\vec{B}{{< /katex >}} is obtained as follows. First obtain {{< katex >}}-\vec{B}{{< /katex >}} as in Figure 2.19. The angle between {{< katex >}}\vec{A}{{< /katex >}} and {{< katex >}}-\vec{B}{{< /katex >}} is {{< katex >}}180-\theta{{< /katex >}}.
+
 ![Alt text](<./fig 2.19.png>)
 
 **Figure 2.19 Subtraction of vectors**

@@ -5,8 +5,6 @@ weight: 4
 
 # COMPONENTS OF A VECTOR
 
-
-
 In the Cartesian coordinate system, any vector {{< katex >}}\vec{A}{{< /katex >}} can be resolved into three components along {{< katex >}}x, y{{< /katex >}} and {{< katex >}}z{{< /katex >}} directions. This is shown in Figure 2.20.
 
 Consider a 3-dimensional coordinate system. With respect to this, a vector can be written in component form as
@@ -16,11 +14,13 @@ Consider a 3-dimensional coordinate system. With respect to this, a vector can b
 {{< /katex >}}
 
 ![Alt text](<./fig 2.20.png>)
+
 **Figure 2.20** Components of a vector in 2 dimensions and 3 dimensions
 
 Here {{< katex >}}\vec{A}_{x}{{< /katex >}} is the {{< katex >}}x{{< /katex >}}-component of {{< katex >}}\vec{A}{{< /katex >}}, {{< katex >}}A_{y}{{< /katex >}} is the {{< katex >}}y{{< /katex >}}-component of {{< katex >}}\vec{A}{{< /katex >}}, and {{< katex >}}A_{z}{{< /katex >}} is the {{< katex >}}z{{< /katex >}}-component of {{< katex >}}\vec{A}{{< /katex >}}.
 
-In a 2-dimensional Cartesian coordinate system (which is shown in Figure 2.20) the vector {{< katex display >}}\vec{A}{{< /katex >}} is given by
+In a 2-dimensional Cartesian coordinate system (which is shown in Figure 2.20) the vector 
+{{< katex >}}\vec{A}{{< /katex >}} is given by
 
 {{< katex >}}
 \vec{A}=A_{x} \hat{i}+A_{y} \hat{j}
@@ -35,6 +35,7 @@ A_{x}=A \cos \theta, A_{y}=A \sin \theta
 where ' {{< katex >}}A{{< /katex >}} ' is the magnitude (length) of the vector {{< katex >}}\vec{A}{{< /katex >}}, {{< katex >}}A=\sqrt{A_{x}^{2}+A_{y}^{2}}{{< /katex >}}
 
 ![Alt text](<fig 2.21.png>)
+
 **Figure 2.21 Resolution of a vector**
 
 **EXAMPLE 2.3**
@@ -44,6 +45,7 @@ What are the unit vectors along the negative x–direction, negative y–directi
 **_Solution_**
 
 The unit vectors along the negative directions can be shown as in the following figure.  
+
 ![Alt text](<./fig 2.23.png>)
 
 Then we have:

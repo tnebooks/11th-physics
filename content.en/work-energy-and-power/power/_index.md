@@ -6,9 +6,9 @@ weight: 3
 [comment]: <> (katex Header)
 {{< katex display >}}{{< /katex >}}
 
-## POWER
+# POWER
 
-### Definition of power
+## Definition of power
 
 Power is a measure of how fast or slow work is done. Power is defined as the rate of work done or energy delivered.
 
@@ -28,7 +28,7 @@ $$
 P_{\text{inst}} = \frac{dW}{dt}
 $$
 
-### Unit of power
+## Unit of power
 
 Power is a scalar quantity with dimensions [ML²T⁻³]. The SI unit of power is watt (W), named after the inventor of the steam engine James Watt. One watt is defined as the power when one joule of work is done in one second ($1 \text{ W} = 1 \text{ J s}^{-1}$).
 
@@ -100,7 +100,7 @@ $$
 
 Incandescent lamps glow for 1000 hours. CFL lamps glow for 6000 hours. But LED lamps glow for 50000 hrs (almost 25 years at 5.5 hours per day).
 
-### Relation between power and velocity
+## Relation between power and velocity
 
 The work done by a force $\vec{F}$ for a displacement $\vec{dr}$ is
 

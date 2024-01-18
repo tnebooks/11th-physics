@@ -7,7 +7,7 @@ weight: 2
 {{< katex display >}}{{< /katex >}}
 
 
-## ENERGY
+# ENERGY
 
 
 Energy is defined as the capacity to do work_. In other words, work done is the manifestation of energy. That is why work and energy have the same dimension (ML2T-2)
@@ -29,7 +29,7 @@ The SI unit of energy is the same as that of work done i.e., N m (or) joule (J).
 
 ![Alt text](image-8.png)
 
-### Kinetic energy
+## Kinetic energy
 
 Kinetic energy is the energy possessed by a body by virtue of its motion_. All moving objects have kinetic energy. A body that is in motion has the ability to do work. For example a hammer kept at rest on a nail does not push the nail into the wood. Whereas the same hammer when it strikes the nail, draws the nail into the wood as shown in Figure 4.7. Kinetic energy is measured by the amount of work that the body can perform before it comes to rest. The amount of work done by a moving body depends both on the mass of the body and the magnitude of its velocity. A body which is not in motion does not have kinetic energy.
 
@@ -129,18 +129,18 @@ $$'
 Multiplying both the numerator and denominator of equation (4.13) by mass, m
 
 $$
-KE = \frac{1}{2} m^2 \left( \mathbf{v} \cdot \mathbf{v} \right) / m
- = 
- \\ \frac{1}{2} (m \mathbf{v}) \cdot (m \mathbf{v}) / m
- \\ = \frac{1}{2} \mathbf{p} \cdot \mathbf{p} / m \\ = \frac{p^2}{2m}
+KE = \frac{1}{2} m v^2 \\
+   = \frac{1}{2} m \left( \mathbf{v} \cdot \mathbf{v} \right) \\
+   = \frac{1}{2} \frac{(m \mathbf{v}) \cdot (m \mathbf{v})}{m} \\
+   = \frac{1}{2} \frac{\mathbf{p} \cdot \mathbf{p}}{m} \\
+   = \frac{p^2}{2m}
+$$
 
-$$ (4.14)
+(4.14)
 
 where p is the magnitude of the momentum. The magnitude of the linear momentum can be obtained by
 
-$$
-p = \sqrt{2m (\text{KE})} \ 
-$$      
+$$ p = \sqrt{2m (\text{KE})} \ $$      
 (4.15)
 
 Note that if kinetic energy and mass are given, only the magnitude of the momentum can be calculated but not the direction of momentum. It is because the kinetic energy and mass are scalars.
@@ -180,7 +180,7 @@ $$
 
 (b) As the momentum, _p_ = _mv_, the two objects will not have same speed.
 
-### Potential Energy
+## Potential Energy
 
 The potential energy of a body is associated with its position and configuration with respect to its surroundings. This is because the various forces acting on the body also depends on position and configuration.
 
@@ -645,7 +645,7 @@ Here, the positive sign implies that the force points towards the positive $$x$$
 The object comes to momentary rest at $$x = \pm 10 \, \text{m}$$ even though it experiences a maximum force at both these points.
 
 
-### Motion in a vertical circle
+## Motion in a vertical circle
 
 Imagine that a body of mass $$(m)$$ attached to one end of a massless and inextensible string executes circular motion in a vertical plane with the other end of the string fixed. The length of the string becomes the radius $$(r)$$ of the circular path (Figure 4.14).
 
@@ -752,6 +752,3 @@ $$v_2 = \sqrt{-gr} = \sqrt{-10 \cdot 0.5} = \sqrt{-5} \, \text{m/s}$$
 The speed at the lowest point is
 
 $$v = \sqrt{gr} = \sqrt{10 \cdot 0.5} = \sqrt{5} \, \text{m/s}$$
-
-
-

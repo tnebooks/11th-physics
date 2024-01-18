@@ -7,7 +7,7 @@ weight: 1
 {{< katex display >}}{{< /katex >}}
 
 
-###  WORK
+# WORK
 
 Let us consider a force F, acting on a body which moves it by a displacement in some direction dr as shown in Figure 4.1
 
@@ -82,7 +82,7 @@ $$W = 25 \cdot 15 \cdot \cos(30^\circ)$$
 $$W = \frac{25 \cdot 15 \cdot \sqrt{3}}{2} \, \text{J}$$
 
 
-### Work done by a constant force
+## Work done by a constant force
 
 
 When a constant force F acts on a body, the small work done (dW) by the force in producing a small displacement dr is given by the relation,
@@ -224,7 +224,7 @@ $$W_{\text{gravity}} = F_g h \cos \theta = mgh(\cos 180^\circ) = 250 \times 10 \
  $$W_{\text{net}} = W_{\text{weight lifter}} + W_{\text{gravity}} = 25 \, \text{kJ} - 12.5 \, \text{kJ} = +12.5 \, \text{kJ}$$
 
 
-### Work done by a variable force
+## Work done by a variable force
 
 When the component of a variable force F acts on a body, the small work done (dW) by the force in producing a small displacement dr is given by the relation
 

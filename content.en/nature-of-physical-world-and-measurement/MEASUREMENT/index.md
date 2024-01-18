@@ -3,6 +3,7 @@ title: 'MEASUREMENT'
 weight: 7
 ---
 
+# Measurement
 
 ---
 _“When you can measure what you are speaking about and can express it in numbers, you know something about it; but when you cannot express it in numbers, your knowledge is of a meager and unsatisfactory kind”_ \- **Lord Kelvin**  

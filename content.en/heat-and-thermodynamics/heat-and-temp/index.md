@@ -13,9 +13,9 @@ weight: 1
 • meaning of heat, work and temperature • ideal gas laws • concept of specific heat capacity • thermal expansion of solids, liquids and gases • various states of matter • Newton’s law of cooling • Stefan’s law and Wien’s law • meaning of thermodynamic equilibrium • meaning of internal energy • zeroth and first laws of thermodynamics • various thermodynamic processes • work done in various thermodynamic processe • second law of thermodynamics • working of carnot engine and refrigerator -->
 
 
-## HEAT AND TEMPERATURE
+# HEAT AND TEMPERATURE
 
-# Introduction 
+## Introduction 
 
 Temperature and heat play very important role in everyday life. All species can function properly only if its body is maintained at a particular temperature. In fact life on Earth is possible because the Sun maintains its temperature. Understanding the meaning of temperature and heat are very crucial to understand the nature. Thermodynamics is a branch of physics which explains the phenomena of temperature, heat etc. The concepts presented in this chapter will help us to understand the terms ‘hot’ and ‘cold’ and also differentiate heat from temperature. In thermodynamics, heat and temperature are two different but closely related parameters.
 

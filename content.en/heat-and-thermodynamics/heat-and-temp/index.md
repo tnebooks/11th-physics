@@ -3,14 +3,12 @@ title: 'HEAT AND TEMPERATURE'
 weight: 1
 ---
 
+![Ramanujan](image_72.jpg)
   
-<img src="image_72.jpg" alt="Ramanujan" width="1200" height="400">
+<!-- <img src="image_72.jpg" alt="Ramanujan" width="1200" height="400"> -->
 <!-- **8.1** -->
 
-<!-- **Learning Objectives**
-
-**In this unit, a student is exposed to** 
-• meaning of heat, work and temperature • ideal gas laws • concept of specific heat capacity • thermal expansion of solids, liquids and gases • various states of matter • Newton’s law of cooling • Stefan’s law and Wien’s law • meaning of thermodynamic equilibrium • meaning of internal energy • zeroth and first laws of thermodynamics • various thermodynamic processes • work done in various thermodynamic processe • second law of thermodynamics • working of carnot engine and refrigerator -->
+<
 
 
 # HEAT AND TEMPERATURE
@@ -29,9 +27,10 @@ When an object at higher temperature is placed in contact with another object at
 There is a misconception that heat is a quantity of energy. People often talk ‘this
 
 water has more heat or less heat’. These words are meaningless. Heat is not a quantity. Heat is an energy in transit which flows from higher temperature object to lower temperature object. Once the heating process is stopped we cannot use the word heat. When we use the word ‘heat’, it is the energy in transit but not energy stored in the body.
+
 <blockquote style="background-color: pink; padding:10px; border-radius:5px;">
-<!-- ![Ramanujan](image_5.png) -->
-<img src="image_5.png" alt="Ramanujan" width="30" >
+![Ramanujan](image_5.png)
+<!-- <img src="image_5.png" alt="Ramanujan" width="30" > -->
 **Note**
 There is a misconception that heat is a quanity of energy. People oftens talk 'this water has more heat or less heat'. These words are meaningless. Heat is not a quanity. Heat is an energy in transit which flows from higher temperature object to lower temperature object.Once the heating process is stopped we cannot use the word heat. when we use the word 'heat', it is the energy in transit but not energy stored in the body.</blockquote>
 
@@ -55,8 +54,8 @@ When you rub your hands against each other the temperature of the hands increase
 
 By doing work on the system, the temperature in the system will increase and sometimes may not. Like heat, work is also
 
-<!-- ![Ramanujan](image_66.jpg) -->
-<img src="image_66.jpg" alt="Ramanujan" width="1200" height="400">
+![Ramanujan](image_66.jpg)
+<!-- <img src="image_66.jpg" alt="Ramanujan" width="1200" height="400"> -->
 Figure 8.1 Difference between work and heat
 
 
@@ -81,18 +80,7 @@ In our day to day applications, **_Celsius_** (˚C) and **_Fahrenheit_** (°F) s
 
 Temperature is measured with a thermometer. The conversion of temperature from one scale to other scale is given in Table 8.1
 <!-- ![Alt text](image-1.png) -->
-<!-- ![Ramanujan](image_73.jpg) -->
-<img src="image_73.jpg" alt="Ramanujan" width="1200" height="400">
+![Ramanujan](image_73.jpg)
+<!-- <img src="image_73.jpg" alt="Ramanujan" width="1200" height="400"> -->
 **Table 8.1** Temperature conversion Scale To Kelvin From Kelvin
 
-<!-- Celsius K=°C + 273.15 °C = K − 273.15
-
-Fahrenheit K=(°F + 459.67)÷1.8 °F=(K × 1.8)-459.67
-
-Scale To Fahrenheit From Fahrenheit
-
-Celsius °F=(1.8 × °C) + 32 °C = (°F − 32)÷1.8
-
-Scale To Celsius From Celsius
-
-Fahrenheit °C=(°F − 32)÷1.8 °F = (1.8 × °C) + 32   -->

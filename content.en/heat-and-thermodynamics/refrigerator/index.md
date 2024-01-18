@@ -6,7 +6,8 @@ A refrigerator is a Carnot’s engine working in the reverse order. It is shown 
 
 **Working Principle:**
 
-<img src="image_1.jpg" alt="Ramanujan" width="500" >
+![Ramanujan](image_1.jpg)
+<!-- <img src="image_1.jpg" alt="Ramanujan" width="500" > -->
 
 **Fig 8.49** (a) Schematic diagram of a refrigerator (b) Actual refrigerator
 
@@ -30,7 +31,9 @@ From the equation (8.68)
 
 But we know that 
 {{< katex display >}} \beta = \frac{Q_t}{ Q_t}=\frac{T_n}{ T_t} {{< /katex >}}
-<img src="image_2.jpg" alt="Ramanujan" width="100" >
+
+![Ramanujan](image_2.jpg)
+<!-- <img src="image_2.jpg" alt="Ramanujan" width="100" > -->
 
 Substituting this equation into equation (8.70) we get
 {{< katex display >}} \beta = \frac{1}{\frac{T_n}{ T_l}-1} =\frac{T_t}{T_n- T_t} {{< /katex >}}
@@ -65,13 +68,17 @@ The amount of CO2 present in the atmos human activities since 1900s. The major e
 In addition to CO2, another very imp carbon(CFC) which is used as coolant in re greenhouse gases CO2 is 55%, CFCs are 24%. CFCs also has made huge damage to ozone layer
 
 Lot of efforts are taken internationally to various countries. Nowadays a lot of research the fossil-fuels in automobile industry. The m countries like USA and European countries. V to reduce the emission of CO2 to considerable is not taken seriously in various countries.
-<img src="image_3.jpg" alt="Ramanujan" width="500" >
+
+![Ramanujan](image_3.jpg)
+<!-- <img src="image_3.jpg" alt="Ramanujan" width="500" > -->
 
 </blockquote>
 
-<img src="image_4.jpg" alt="Ramanujan" width="30" >In hot summer, we use earther The pot reduces the temperatu the earthern pot act as a refrig is the basic necessity for heat
-<!-- ![Ramanujan](image_56.png) -->
-<img src="image_56.png" alt="Ramanujan" width="300" >
+
+![Ramanujan](image_4.jpg)
+<!-- <img src="image_4.jpg" alt="Ramanujan" width="30" >In hot summer, we use earther The pot reduces the temperatu the earthern pot act as a refrig is the basic necessity for heat -->
+![Ramanujan](image_56.png)
+
 
 earthern pot, the cooling process is not due cooling occurs due to evaporation of water m through pores of the pot. Once the water m never come back to the pot. Even though the to open atmosphere, it is not a violation of inside the pot is an open thermodynamic sys always increases. 
 

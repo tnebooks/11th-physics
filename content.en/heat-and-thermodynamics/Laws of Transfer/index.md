@@ -30,7 +30,11 @@ Stefan Boltzmann law states that, _the total amount of heat radiated per second 
 Where, σ is known as Stefan’s constant. Its value is {{< katex display >}}5.67 \times 10^{-8} \, \text{W m}^{-2} \text{K}^{-4}{{< /katex  >}}
 
 <blockquote style="background-color:pink; padding:10px; border-radius:5px;">
-<img src="image_5.png" alt="Ramanujan" width="30" >
+
+<!-- ![Ramanujan](image_5.png) -->
+![Ramanujan](image_5.png)
+
+<!-- <img src="image_5.png" alt="Ramanujan" width="30" > -->
 
 **Note** If a body is not a perfect black body, then
 {{< katex display >}}  E = \varepsilon \sigma T^4 {{< /katex  >}} 
@@ -52,7 +56,8 @@ Wien’s law states that, _the wavelength of maximum intensity of emission of a 
 
 Where, b is known as Wien’s constant. Its value is {{< katex display >}} 2.898 \times 10^{-3} \, \text{m K}{{< /katex >}} 
  It implies that if temperature of the body increases, maximal intensity wavelength ( λ_m_ ) shifts towards lower wavelength (higher frequency) of electromagnetic spectrum. It is shown in Figure 8.13 **Graphical representation**
-<img src="image_84.jpg" alt="Ramanujan" width="500" >
+ ![Ramanujan](image_84.jpg)
+<!-- <img src="image_84.jpg" alt="Ramanujan" width="500" > -->
 
 
 **Figure 8.13** Wien’s displacement law
@@ -68,7 +73,9 @@ The Sun is approximately taken as a black body. Since any object above 0 K will 
  {{< katex display >}}\lambda_m = \frac{b}{T} \approx \frac{2.898 \times 10^{-3}}{5700} \, \text{nm} {{< /katex  >}}
 
 It is the wavelength at which maximum intensity is 508_nm_. Since the Sun’s temperature is around 5700K, the spectrum of radiations emitted by Sun lie between 400 nm to 700 nm which is the visible part of the spectrum. It is shown in Figure 8.14
-<img src="image_85.jpg" alt="Ramanujan" width="500" >
+
+![Ramanujan](image_85.jpg)
+<!-- <img src="image_85.jpg" alt="Ramanujan" width="500" > -->
 
 
 The humans evolved under the Sun by receiving its radiations. The human eye is sensitive only in the visible not in infrared or X-ray ranges in the spectrum. Suppose if humans had evolved in a planet near the star Sirius (9940K), then they would have had the ability to see the Ultraviolet rays!
@@ -79,8 +86,8 @@ The power radiated by a black body A is EA and the maximum energy radiated was a
 and the radiated energy was at the maximum wavelength, {{< katex display >}}2\lambda_A{{< /katex >}}. What is the value of N?
 
 According to Wien’s displacement law λmax T = constant for both object A and B
-
-<img src="image_86.jpg" alt="Ramanujan" width="500" >
+![Ramanujan](image_86.jpg)
+<!-- <img src="image_86.jpg" alt="Ramanujan" width="500" > -->
 
 
 Object B has emitted at lower wavelength compared to A. So the object B would have emitted more energetic radiation than A.

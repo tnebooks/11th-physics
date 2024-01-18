@@ -3,6 +3,7 @@ title: 'MEASUREMENT'
 weight: 7
 ---
 
+# Measurement
 
 ---
 _“When you can measure what you are speaking about and can express it in numbers, you know something about it; but when you cannot express it in numbers, your knowledge is of a meager and unsatisfactory kind”_ \- **Lord Kelvin**  
@@ -109,21 +110,23 @@ ice are all in equilibrium. The triple point temperature of water is 273.16K
 
 Table 1.3 lists some of the derived quantities and their units.
 
----
 Note: π radian = 180°
 
 1 radian= 180/ π = 180 * 7 / 22 = 57.27 
 
 Also, 1° (degree of arc) = 60′ (minute of arc) and 1′ (minute of arc) = 60″ (seconds of arc)
----
 
----
+
+
 Relations between radian, degree and 
 minutes:
 
 1 = π / 180 rad =  1.744 × $10^{-2}$ rad 
 
-$\therefore$ 1<sup>' = $\frac{1}{60}^\circ$ = $(1.744\times 10^{-2} )\div 60$ =2.906 × $10^{-2}$ rad
+{{< katex diaplay >}}
+\begin{aligned}
+\therefore 1' & = \frac{1}{60}^\circ = \frac{1.744 \times 10^{-2}}{60} = 2.906 \times 10^{-2} \, \text{rad} \\
+\therefore 1's' & = \frac{1}{3600}^\circ = \frac{1.744 \times 10^{-2}}{60} = 4.844 \times 10^{-6} \, \text{rad}
+\end{aligned}
+{{< /katex >}}
 
-$\therefore$ 1<sup>" = $\frac{1}{3600}^\circ$ = $(1.744\times 10^{-2} )\div 60$ =4.844 × $10^{-6}$ rad
----

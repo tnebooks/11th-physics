@@ -3,6 +3,9 @@ title: 'NEWTON’S LAWS'
 weight: 2
 ---
 
+[comment]: <> (katex Header)
+{{< katex display >}}{{< /katex >}}
+
 # NEWTON’S LAWS
 
 >Newton analysed the views of Galileo, and 
@@ -78,7 +81,6 @@ valid only in certain special reference frames
 called inertial frames. In fact, Newton’s first 
 law defines an inertial frame.
 
-![alt text](../media/img7.png)
 
 ![alt text](../media/img8.png)
 
@@ -255,13 +257,13 @@ Newton’s approach
 ##  Newton’s Third Law
 
 >Consider Figure 3.8(a) whenever an 
-object 1 exerts a force on the object 2 ( $ \vec{F} $<sub>21</sub> ), 
+object 1 exerts a force on the object 2 ($ \vec{F}_{21} $), 
 then object 2 must also exert equal and 
-opposite force on the object 1 ( $ \vec{F} $<sub>12</sub> ). These 
+opposite force on the object 1 ( $ \vec{F}_{12} $). These 
 forces must lie along the line joining the 
 two objects.
 
->$ \vec{F} $<sub>12</sub> = -$ \vec{F} $<sub>21</sub>
+>$$ \vec{F}_{12} = -\vec{F}_{21} $$
 
 >Newton’s third law assures that the 
 forces occur as equal and opposite pairs. 
@@ -325,27 +327,30 @@ and essentially it is equivalent to
 three scalar equations. In Cartesian 
 coordinates, this equation can be written 
 as 
-*F<sub>x</sub>i+F<sub>y</sub>j+F<sub>z</sub>k=ma<sub>x</sub>i+ma<sub>y</sub>j+ma<sub>z</sub>k.*
+$$ F_x \mathbf{i} + F_y \mathbf{j} + F_z \mathbf{k} = ma_x \mathbf{i} + ma_y \mathbf{j} + ma_z \mathbf{k} $$
 By comparing both sides, the three scalar 
 equations are
 
->*F<sub>x</sub> =ma<sub>x</sub>* The acceleration along the x 
+$$ F_x = ma_x $$
+The acceleration along the x 
 direction depends only on the component 
 of force acting along the x-direction.
 
->*F<sub>y</sub> =ma<sub>y</sub>* The acceleration along the y 
+$$ F_y = ma_y $$
+ The acceleration along the y 
 direction depends only on the component 
 of force acting along the y-direction.
 
->*F<sub>z</sub> =ma<sub>z</sub>* The acceleration along the z 
+$$ F_z = ma_z $$
+The acceleration along the z 
 direction depends only on the component 
 of force acting along the z-direction.
 
 >From the above equations, we can infer 
 that the force acting along y direction 
 cannot alter the acceleration along x 
-direction. In the same way, *F<sub>z</sub>* cannot 
-affect *a<sub>y</sub>* and *a<sub>x</sub>* . This understanding is 
+direction. In the same way, *$F_z$* cannot 
+affect *$a_y$* and *$a_x$* . This understanding is 
 essential for solving problems.
 
 >2. The acceleration experienced by the 
@@ -438,13 +443,24 @@ velocity. It is shown in the Figure 3.9 (d).
 >**Figure 3.9** (d) Zero net force and non 
 zero terminal velocity
 
+4. If multiple forces
+ $$ \vec{F}_{1}, \vec{F}_{2}, \vec{F}_{3}... \vec{F}_{n} $$ 
+ act on 
+the same body, then the total force 
+($ \vec{F}_{net} $)
+ is equivalent to the vectorial sum 
+of the individual forces. Their net force 
+provides the acceleration.
+
+$$ \vec{F}_{net} =\vec{F}_{1}+ \vec{F}_{2}+ \vec{F}_{3}+... +\vec{F}_{n} $$
+
 ![alt text](../media/img23.png)
 
 >**Figure 3.10** Vector addition of forces
 
 >Newton’s second law for this case is
 
->F ma
+>$$ \vec{F}_{net} = m\vec{a} $$
 
 >In this case the direction of acceleration 
 is in the direction of net force.
@@ -460,22 +476,10 @@ is on the arrow
 in the following form.
 Since the acceleration is the second 
 derivative of position vector of the body 
- 
-a
-d r
-dt  
-
- 
-
-
-2
-2 , the force on the body is
+$$ \vec{a} = \frac{d^2\vec{r}}{dt^2} $$
+, the force on the body is
 
-> 
-F md r
-dt =
-2
-2 .
+>$$ \vec{F} = m\frac{d^2\vec{r}}{dt^2} $$
 
 >From this expression, we can infer that 
 Newton’s second law is basically a second 
@@ -485,11 +489,8 @@ position vector is not zero, there must be
 a force acting on the body. 
 
 >6. If no force acts on the body then Newton’s 
-second law, m
-dv
-dt
-
-= 0. 
+second law, 
+$$ m\frac{du}{dv} = 0 $$
 
 >It implies that 
 v c = onstant. It is 
@@ -509,8 +510,7 @@ acceleration is the effect. Conventionally,
 the effect should be written on the left 
 and cause on the right hand side of the 
 equation. So the correct way of writing 
-Newton’s second law is ma F   = or dp
-dt
-F
- 
+Newton’s second law is 
+$$ m\mathbf{a} = \mathbf{F} \quad \text{or} \quad \frac{d\mathbf{p}}{dt} = \mathbf{F} $$
+
 

@@ -36,11 +36,24 @@ weight: 5
 
 14. The coefficient of restitution is defined as the velocity of separation (after collision) divided by the velocity of approach (before collision).
 
-![Alt text](image_40.png)
+# Concept Map: Work, Energy, and Power
 
-![Alt text](image-1.png)
-![Alt text](image-2.png)
-![Alt text](image-3.png)
-![Alt text](image-4.png)
-![Alt text](image-5.png)
+- **Work**
+  - Constant Force
+  - Variable Force
+    - Work-Kinetic Energy Theorem
+
+- **Force**
+  - Conservative
+    - Potential Energy
+    - Law of Conservation of Energy
+  - Non-Conservative
+
+- **Collisions**
+  - Elastic
+  - Inelastic
+    - Loss of K.E.
+
+- **Additional Concepts**
+  - Motion in a Vertical Circle
 

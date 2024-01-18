@@ -20,5 +20,3 @@ weight: 3
 - role of frictional forces
 - centripetal and centrifugal forces
 - origin of centrifugal force
-
-![alt text](./media/img1.png)

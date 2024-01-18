@@ -3,6 +3,9 @@ title: 'APPLICATION OF NEWTON’S LAWS'
 weight: 3
 ---
 
+[comment]: <> (katex Header)
+{{< katex display >}}{{< /katex >}}
+
 # APPLICATION OF NEWTON’S LAWS
 
 ## Free Body Diagram
@@ -95,20 +98,12 @@ acceleration experienced by each of them?
 magnitude form), F = ma
 
 >For the object of mass 2.5 kg, the 
-acceleration is a
-F
-m= = = m s
-5 -
-2 5
-2 2
+acceleration is a = F/m =5/2.5 = 2 ms^{-2}
+
 
 >For the object of mass 100 kg, the 
 acceleration is a
-F
-m= = = m s
-5 -
-100
-0 05 2
+a = F/m = 5/100 = 0.05 ms^{-2}
 
 >**Note**
 
@@ -139,8 +134,11 @@ stationary when an apple falls.
 >**EXAMPLE 3.3**
 
 >Which is the greatest force among the three 
-force    F F F 1 2 3 , , shown below
+force 
+$$ \vec{F}_{1},\vec{F}_{2},\vec{F}_{3}, $$
+ shown below
 
+![alt text](../media/img191.png)
 >*Solution*
 
 >Force is a vector and magnitude of the 
@@ -208,36 +206,39 @@ shown in the figure
 
 ![alt text](../media/img28.png)
 
->F m  g j  mgj
+>$$ \vec{F}_{g} = m\mathbf{g}( - \hat{j}) = -mg\hat{j} $$
 
 >Here, mg is the magnitude of the gravitational 
-force and   ˆ  j represents the unit vector in 
+force and (-ˆj) represents the unit vector in 
 negative y direction
 
->T Tˆ  j
+>$$ \vec{T} = T\hat{j} $$
 
 >Here T is the magnitude of the tension 
-force and   ˆj represents the unit vector in 
+force and (ˆj) represents the unit vector in 
 positive y direction
 
->F F net g  T =   mgˆ ˆ ˆ  j Tj T  mg j
+>$$ \vec{F}_{\text{net}} = \vec{F}_{g} + \vec{T} = -mg\hat{j} + T\hat{j} = (T - mg)\hat{j} $$
 
->From Newton’s second law  
+>From Newton’s second law 
+$$ \vec{F}_{net} = m\vec{a} $$
+
 
 >Since the mango is at rest with respect 
 to us (inertial coordinate system) the 
-acceleration is zero ( 
+acceleration is zero ( 
 a = 0).
 
->So   F ma net = = 0
+>So 
+$$ \vec{F}_{net} = m\vec{a} =0 $$
 
->  ˆ T m  g j 0
+>$$ (T - mg)\hat{j} = 0 $$
 
 >By comparing the components on both sides 
-of the above equation, we get T m  g 0
+of the above equation, we get T-mg = 0
 
 >So the tension force acting on the 
-mango is given by T m= g
+mango is given by T= mg
 
 >Mass of the mango m = 400g and 
 g = 9.8 m s–2
@@ -248,10 +249,10 @@ T = 0.4 × 9.8 = 3.92 N
 >**EXAMPLE 3.5**
 
 >A person rides a bike with a constant 
-velocity 
+velocity 
 v with respect to ground and 
 another biker accelerates with acceleration 
-
+
 a with respect to ground. Who can apply 
 Newton’s second law with respect to a 
 stationary observer on the ground?
@@ -270,25 +271,14 @@ to Earth (he is in inertial frame).
 >**EXAMPLE 3.6**
 
 >The position vector of a particle is given 
-by 2 3 5 7 . ˆ ˆ ˆ    
-r ti t j k Find the direction in 
+by 
+$$ \hat{r} = 3t\hat{i} + 5t^2\hat{j} + 7\hat{k} $$
+ Find the direction in 
 which the particle experiences net force?
 
 >*Solution*
 
->Velocity of the particle,
-
-v =       ˆ 2 ˆ ˆ 3 5 7 dr d d d t i t j k
-dt dt dt dt
-  
-
-ˆ ˆ   3 10
-
-dr i tj dt
-Acceleration of the particle 
-2
-2 0ˆ   1
-   dv d r a j d
+![alt text](../media/img192.png)
 
 >Here, the particle has acceleration only along 
 positive y direction. According to Newton’s 
@@ -360,8 +350,9 @@ the direction of force acting on the particle?
 
 >*Solution*
 
-The velocity of the particle is ˆ . ˆ ˆ     x y z v v i v j v k
-ˆ . ˆ ˆ     x y z v v i v j v k As shown in the figure, the particle 
+The velocity of the particle is
+$$ \vec{v} = v_{x}\hat{i} + v_{y}\hat{j} + v_{z}\hat{k} $$
+As shown in the figure, the particle 
 is moving in the xy plane, there is no motion 
 in the z direction. So velocity in the z direction 
 is zero (vz = 0). The velocity of the particle 
@@ -406,31 +397,28 @@ The free body diagram for this object is
 
 ![alt text](../media/img34.png)
 
->
-g
-F mgj
-ˆ 
-
-N Nj
+>$$ \vec{F}_g = -mg\hat{j} $$
+>$$ \vec{N} = N\hat{j} $$
 
->Net force ˆ ˆ    
-net F mgj Nj
+>Net force
+ $$ \vec{F}_{net} = -mg\hat{j} + N\hat{j} $$
 
 >But there is no acceleration on the ball. 
-So 
+So 
 a = 0. By applying Newton’s second law 
-(
-  F ma net = )
+$$ (\vec{F}_{net} = -m\vec{a}) $$
 
->Since ˆ ˆ 
+>Since 
 
->( )ˆ   mg N j  0
+$$ \vec{a} = 0 ,$$
+$$ \vec{F}_{net} = -mg\hat{j} + N\hat{j} $$
+>$$ (-mg + N)\hat{j} = 0 $$
 
 >By comparing the components on both 
 sides of the equation, we get
 
->  mg N  0
-N m= g
+>$$ -mg + N =0 $$
+>$$ N = mg $$
 
 >We can conclude that if the object is at rest, 
 the magnitude of normal force is exactly 
@@ -438,32 +426,7 @@ equal to the magnitude of gravity.
 
 >**EXAMPLE 3.10**
 
->A particle of mass 2 kg experiences two 
-forces, 1 8ˆ ˆ 5ˆ    7 
-F i j k and 
-2 4ˆ ˆ 3ˆ    3 
-F i j k. 
-What is the acceleration of the particle?
-
->*Solution*
-
->We use Newton’s second law,   F ma net =
-where    F F F net  1 2 . From the above 
-equations the acceleration is  
-a
-F
-m
-net = , where
-
->F i j k
-4 ˆ 10 ˆ ˆ   8  
-net F i j k
-ˆ ˆ ˆ 8 4 10
-2 2 2
-                    
-
-a i j k
-4 2 ˆ ˆ ˆ    5 
+![alt text](../media/img193.png)
 
 >**EXAMPLE 3.11**
 
@@ -623,10 +586,8 @@ components. The perpendicular
 component cancels the downward gravity 
 (m gc ). Parallel component acts backwards 
 and the force exerted by the horse (Fh
-
 ) 
 acts forward. Force (Fh
-
 ) is greater than the 
 parallel component acting in the opposite 
 direction. So there is an overall unbalanced 
@@ -638,7 +599,7 @@ then there are two forces acting on the
 system.
 
 (i) Downward gravitational force 
-(m m h c + )g
+$$ (m_{h} + m_{c})g $$ 
 
 (ii) The force exerted by the road (Fr) on 
 the system.
@@ -653,8 +614,9 @@ by the road (Fr) on the system
 and perpendicular components. 
 The perpendicular component is 
 the normal force which cancels 
-the downward gravitational force 
-(m m h c + )g. The parallel component 
+the downward gravitational force
+$$ (m_{h} + m_{c})g .$$ 
+The parallel component 
 of the force is not balanced, hence the 
 system (cart+horse) accelerates and 
 moves forward due to this force.
@@ -662,10 +624,9 @@ moves forward due to this force.
 >**EXAMPLE 3.13**
 
 >The position of the particle is represented 
-by y u  t gt
-1
-2
-2
+by 
+$$ y = ut - \frac{1}{2}gt^2 $$
+
 
 a) What is the force acting on the particle? 
 
@@ -676,28 +637,26 @@ b) What is the momentum of the particle?
 >To find the force, we need to find the 
 acceleration experienced by the particle.
 
->The acceleration is given by a d y
-dt =
-2
-The acceleration is given by a d y
-dt =
-2
+>The acceleration is given by 
+$$ a = \frac{d^2y}{dt^2} $$
+
+or
+$$ a = \frac{dv}{dt} $$
+
 
 >Here
 
 >v =velocity of the particle in y direction
-v dy
-dt = = u g - t
+$$ v = \frac{dv}{dt} = u - gt $$
 
 >The momentum of the particle = mv = m 
 (u-gt).
 
->a
-dv
-dt   g
+
+>$$ a = \frac{dv}{dt} = - g $$
 
 >The force acting on the object is given by 
-F m  a m g
+F=ma=-mg
 
 >The negative sign implies that the force 
 is acting on the negative y direction. This is 
@@ -751,12 +710,12 @@ angle of inclination θ as shown in Figure ’
 the y axis. Applying Newton’s second law in 
 the y direction
 
-> mg ˆ ˆ 
+![alt text](../media/img194.png)
 
 By comparing the components on both 
-sides, N m  g cos 0
+sides, N- mg cos0 = 0
 
->N m g cos
+>$$N= mg cosθ $$
 
 >The magnitude of normal force (N) exerted 
 by the surface is equivalent to mg cosθ .
@@ -765,16 +724,16 @@ by the surface is equivalent to mg cosθ .
 along the x direction. Applying Newton’s 
 second law in the x direction
 
->mg sini m ai
+>$$ mg sinθ\hat{i} = ma\hat{i} $$
 
 >By comparing the components on both 
 sides, we can equate
 
->mg sinθ = ma
+>$$ mg sinθ = ma $$
 
 >The acceleration of the sliding object is
 
->a = g sinθ
+>$$ a = g sinθ $$
 
 ![alt text](../media/img44.png)
 
@@ -782,7 +741,7 @@ sides, we can equate
 components (c) The angle θ2 is equal to θ2
 
 >Note that the acceleration depends on the 
-angle of inclination . If the angle .  is 90 
+angle of inclination θ. If the angle . θ is 90 
 degree, the block will move vertically with 
 acceleration a = g.
 
@@ -791,8 +750,8 @@ find the speed of the object when it reaches
 the bottom. The acceleration is constant 
 throughout the motion.
 
->v u as
-2 2   2 along the x direction (3.3)
+>$$ {v^2} = {u^2}+2as $$
+ >$$along the x direction (3.3)$$
 
 >The acceleration a is equal to g sinθ. The 
 initial speed (u) is equal to zero as it starts 
@@ -802,7 +761,7 @@ surface.
 >The speed (v) when it reaches the bottom 
 is (using equation (3.3))
 
->v s = 2 g sinθ (3.4)
+![alt text](../media/img195.png)
 
 >**Note**
 
@@ -843,35 +802,28 @@ a, Newton’s
 second law has to be applied to the system 
 (combined mass m = m1 + m2)
 
->F m= a
+>$$ \vec{F} = m\vec{a} $$
 
 >If we choose the motion of the two masses 
 along the positive x direction,
 
->Fiˆ = maiˆ
+>$$ F\hat{i} = ma\hat{i} $$
 
->F = ma where m = m1 + m2
+>$$ F = ma $$
+>$$where m = m_{1} + m_{2} $$
 
 >The acceleration of the system is given by
 
-> 
-
-a
-F
-m m 1 2
-(3.5)
+![alt text](../media/img196.png)
 
 >The force exerted by the block m1
  on m2
 due to its motion is called force of contact 
-(
-
-f21). According to Newton’s third law, the 
+$$(\vec{f}_{21}).$$
+ According to Newton’s third law, the 
 block m2
  will exert an equivalent opposite 
-reaction force ( 
-f
-12 ) on block m1.
+reaction force $$(\vec{f}_{12}).$$ on block m1.
 
 >Figure 3.14 (b) shows the free body 
 diagram of block m1.
@@ -881,47 +833,18 @@ diagram of block m1.
 Figure 3.14 (b) Free body diagram of 
 block of mass m1
 
-> ˆ ˆ  ˆ Fi f i m a
+>$$F\hat{i}- {f}_{12}\hat{i} = m_{1}a\hat{i} $$
 
 >By comparing the components on both sides 
 of the above equation, we get
 
->F f   m a 12 1 
-f F m a 12 1   (3.6)
+>$$F- {f}_{12} = m_{1}a $$
+>$${f}_{12} =F - m_{1}a $$
 
 >Substituting the value of acceleration from 
 equation (3.5) in (3.6) we get
 
->f F m
-F
-m m
-12 1
-1 2
-  
-
-
- 
-
- 
-f F m
-m m
-12
-1
-1 2
- 1
-
-
-
- 
-
-
-f Fm
-m m
-12
-2
-1 2
- 
-(3.7)
+![alt text](../media/img197.png)
 
 >Equation (3.7) shows that the magnitude 
 of contact force depends on mass m2 which 
@@ -931,12 +854,8 @@ x direction.
 
 >In vector notation, the reaction force on 
 mass m1
- is given by 2
-12
-1 2
-  ˆ
-
- Fm f i
+ is given By
+![alt text](../media/img198.png)
 
 >For mass m2
  there is only one force acting 
@@ -956,39 +875,32 @@ block of mass m2
 >Applying Newton’s second law for mass 
 m2
 
->f i m ˆ ˆ  a
+$${f}_{21}\hat{i} =m_{2}a\hat{i} $$
 
 >By comparing the components on both 
 sides of the above equation
 
->f m a 21 2 = (3.8)
+>$${f}_{21} =m_{2}a (3.8)$$
 
 >Substituting for acceleration from equation 
-(3.5) in equation (3.8), we get f Fm
-m m
-21
-2
-1 2
+(3.5) in equation (3.8), we get 
+![alt text](../media/img199.png)
 
 >In this case the magnitude of the contact 
 force is
 
->f Fm
-m m
-21
-2
-1 2
- 
+>![alt text](../media/img199.png)
 The direction of this force is along the positive x direction.
 
 >In vector notation, the force acting on 
 mass m2
 exerted by mass m1
-is 2
-21
-1 2
-ˆ Fm f i
-m m  
+is ![alt text](../media/img200.png)
+
+Note 
+$$ \vec{f}_{12}=-\vec{f}_{21} $$
+which confirms Newton’s 
+third law.
 
 ## Motion of Connected Bodies
 
@@ -1096,16 +1008,12 @@ equation (3.13)
 acceleration.
 
 >For mass m1 , the acceleration vector is 
-given by 1 2
-1 2
-ˆ         
+given by 
+![alt text](../media/img201.png)
 
 >For mass m2 , the acceleration vector is 
-given by 1 2
-1 2
-ˆ         
- m m
-a g
+given by 
+![alt text](../media/img202.png)
 
 >**Case 2:** Horizontal motion
 

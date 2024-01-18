@@ -66,7 +66,9 @@ d) ΔU = 0, Q > 0
 
 9. An ideal gas is taken from (Pi,Vi) to 
 (Pf,Vf) in three different ways. Identify the process in which the work done on the gas the most.
-<img src="image_10.jpg" alt="Ramanujan" width="500" >
+
+![Ramanujan](image_10.jpg)
+<!-- <img src="image_10.jpg" alt="Ramanujan" width="500" > -->
 
 a) Process A
 b) Process B
@@ -76,11 +78,13 @@ d) Equal work is done in Process A,B &C
 10. The V-T diagram of an ideal gas which goes through a reversible cycle A→B→C→D is shown below. (Processes D→A and B→C are 
 adiabatic)
 
-<img src="image_11.jpg" alt="Ramanujan" width="500" >
+![Ramanujan](image_11.jpg)
+<!-- <img src="image_11.jpg" alt="Ramanujan" width="500" > -->
 
 The corresponding PV diagram for the process is (all figures are schematic)
 
-<img src="image_12.jpg" alt="Ramanujan" width="500" >
+![Ramanujan](image_12.jpg)
+<!-- <img src="image_12.jpg" alt="Ramanujan" width="500" > -->
 
 11. A distant star emits radiation with 
 maximum intensity at 350 nm. The temperature of the star is 
@@ -285,7 +289,9 @@ refrigerator
 **IV. Exercises**
 
 1. Calculate the number of moles of air is in the inflated balloon at room temperature as shown in the figure.
-<img src="image_58.png" alt="Ramanujan" width="500" >
+
+![Ramanujan](image_58.png)
+<!-- <img src="image_58.png" alt="Ramanujan" width="500" > -->
 
 The radius of the balloon is 10 cm, and 
 pressure inside the balloon is 180 kPa.
@@ -343,13 +349,16 @@ Answer: T ≅ 400°C
 10. Consider the following cyclic process 
 consist of isotherm, isochoric and 
 isobar which is given in the figure
-<img src="image_14.jpg" alt="Ramanujan" width="500" >
+
+![Ramanujan](image_14.jpg)
+<!-- <img src="image_14.jpg" alt="Ramanujan" width="500" > -->
 
 Draw the same cyclic process qualitatively in the V-T diagram where T is taken along x direction and V is taken along y-direction. Analyze the nature of heat exchange in each process.
 
 Answer:
 
-<img src="image_15.jpg" alt="Ramanujan" width="500" >
+![Ramanujan](image_15.jpg)
+<!-- <img src="image_15.jpg" alt="Ramanujan" width="500" > -->
 
 Process 1 to 2 = increase in volume. So 
 heat must be added. 
@@ -368,7 +377,8 @@ as shown in the figure. Calculate
 (b) W = −1.2kJ
 (c) W = +300J.
 
-<img src="image_16.jpg" alt="Ramanujan" width="500" >
+![Ramanujan](image_16.jpg)
+<!-- <img src="image_16.jpg" alt="Ramanujan" width="500" > -->
 
 12. For a given ideal gas 6 × 105
 J heat energy is supplied and the volume of 
@@ -377,7 +387,8 @@ gas is increased from 4 m3 to 6 m3 at atmospheric pressure. Calculate (a) the wo
 Answer: (a) W = +202.6 kJ 
 (b) dU = 397.4 kJ
 
-<img src="image_17.jpg" alt="Ramanujan" width="500" >
+![Ramanujan](image_17.jpg)
+<!-- <img src="image_17.jpg" alt="Ramanujan" width="500" > -->
 
 13. Suppose a person wants to increase the 
 efficiency of the reversible heat engine 

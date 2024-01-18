@@ -32,7 +32,7 @@ From the equation (8.68)
 But we know that 
 {{< katex display >}} \beta = \frac{Q_t}{ Q_t}=\frac{T_n}{ T_t} {{< /katex >}}
 
-![Ramanujan](image_2.jpg)
+<!-- ![Ramanujan](image_2.jpg) -->
 <!-- <img src="image_2.jpg" alt="Ramanujan" width="100" > -->
 
 Substituting this equation into equation (8.70) we get

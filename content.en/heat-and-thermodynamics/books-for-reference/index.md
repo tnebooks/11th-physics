@@ -47,7 +47,7 @@ URL:
 
 http://physics.bu.edu/~duffy/HTML5/PV_diagram.html
 
-![Ramanujan](image_3.jpg)
+<!-- ![Ramanujan](image_3.jpg) -->
 <!-- <img src="image_3.jpg" alt="Ramanujan" width="100" > -->
 
 * Pictures are indicative only.

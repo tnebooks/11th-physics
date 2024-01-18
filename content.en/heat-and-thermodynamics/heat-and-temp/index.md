@@ -8,7 +8,7 @@ weight: 1
 <!-- <img src="image_72.jpg" alt="Ramanujan" width="1200" height="400"> -->
 <!-- **8.1** -->
 
-<
+
 
 
 # HEAT AND TEMPERATURE

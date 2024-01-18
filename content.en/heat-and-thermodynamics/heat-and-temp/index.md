@@ -15,12 +15,12 @@ weight: 1
 
 ## HEAT AND TEMPERATURE
 
-# 8.1.1 Introduction 
+# Introduction 
 
 Temperature and heat play very important role in everyday life. All species can function properly only if its body is maintained at a particular temperature. In fact life on Earth is possible because the Sun maintains its temperature. Understanding the meaning of temperature and heat are very crucial to understand the nature. Thermodynamics is a branch of physics which explains the phenomena of temperature, heat etc. The concepts presented in this chapter will help us to understand the terms ‘hot’ and ‘cold’ and also differentiate heat from temperature. In thermodynamics, heat and temperature are two different but closely related parameters.
 
 
-## 8.1.2 Meaning of heat
+## Meaning of heat
 
 
 
@@ -69,7 +69,7 @@ not a quantity and through the work energy is transferred to the system . So we 
 
 Either the system can transfer energy to the surrounding by doing work on surrounding or the surrounding may transfer energy to the system by doing work on the system. For the transfer of energy from one body to another body through the process of work, they need not be at different temperatures.
 
-**8.1.4 Meaning of temperature**
+## Meaning of temperature
 <!-- ## Meaning of temperature -->
 
 

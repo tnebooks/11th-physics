@@ -81,4 +81,6 @@ and the radiated energy was at the maximum wavelength, {{< katex display >}}2\la
 According to Wien’s displacement law λmax T = constant for both object A and B
 
 <img src="image_86.jpg" alt="Ramanujan" width="500" >
+
+
 Object B has emitted at lower wavelength compared to A. So the object B would have emitted more energetic radiation than A.

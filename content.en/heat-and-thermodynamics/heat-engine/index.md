@@ -3,7 +3,7 @@ title: 'HEAT ENGINE'
 weight: 9
 ---
 
-**HEAT ENGINE**
+# HEAT ENGINE
 
 In the modern technological world, the role of automobile engines plays a vital role in for transportation. In motor bikes and cars there are engines which take in petrol or diesel as input, and do work by rotating wheels. Most of these automobile engines have efficiency not greater than 40%. The second law of thermodynamics puts a fundamental restriction on efficiency of engines. Therefore understanding heat engines is very important.
 

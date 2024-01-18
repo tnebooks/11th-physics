@@ -1,6 +1,6 @@
 ---
 title: 'DISTANCE AND DISPLACEMENT'
-weight: 7
+weight: 6
 ---
 
 # DISTANCE AND DISPLACEMENT 
@@ -9,7 +9,7 @@ weight: 7
 
 **Displacement is the difference between** the final and initial positions of the object in a given interval of time. It can also be defined as the shortest distance between these two positions of the object and its direction is from the initial to final position of the object, during the given interval of time. It is a vector quantity. Figure 2.26 illustrates the difference between displacement and distance.
 
-![Alt text](<./fig 2.26.png>)
+![Alt text](<./fig-2.26.png>)
 
 **Figure 2.26 Distance and displacement**
 
@@ -19,7 +19,7 @@ Assume your school is located 2 km away from your home. In the morning you are g
 
 **_Solution_**
 
-![Alt text](<./eg 2.15.1.png>)
+![Alt text](<./eg-2.15.1.png>)
 
 The displacement covered is zero. It is because your initial and final positions are the same.
 
@@ -31,7 +31,7 @@ An athlete covers 3 rounds on a circular track of radius 50 m. Calculate the tot
 
 **_Solution_**
 
-![Alt text](<./eg 2.16.png>)
+![Alt text](<./eg-2.16.png>)
 
 The total distance the athlete covered {{< katex >}}=3 \mathrm{x}{{< /katex >}} circumference of track
 
@@ -64,7 +64,7 @@ This displacement is also shown in Figure 2.27.
 
 This displacement is also shown in Figure 2.27.
 
-![Alt text](<./eg 2.17.png>)
+![Alt text](<./eg-2.17.png>)
 
 **Figure 2.27 Displacement vector**
 
@@ -72,7 +72,7 @@ This displacement is also shown in Figure 2.27.
 
 Calculate the displacement vector for a particle moving from a point P to Q as shown below. Calculate the magnitude of displacement.
 
-![Alt text](<./eg 2.17.1.png>)
+![Alt text](<./eg-2.17.1.png>)
 
 **_Solution_**
 

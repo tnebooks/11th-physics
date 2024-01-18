@@ -1,6 +1,6 @@
 ---
 title: 'DIFFERENTIAL CALCULUS'
-weight: 8
+weight: 7
 ---
 
 # DIFFERENTIAL CALCULUS
@@ -29,7 +29,7 @@ Mathematically the derivative {{< katex >}}\mathrm{dy} / \mathrm{dx}{{< /katex >
 {{< katex >}}\frac{d y}{d x}{{< /katex >}} represents the limit that the quantity {{< katex >}}\frac{\Delta y}{\Delta x}{{< /katex >}} attains, as {{< katex >}}\Delta x{{< /katex >}} tends to zero.
 Graphically this is represented as shown in Figure 2.28.
 
-![Alt text](<./fig 2.28.png>)
+![Alt text](<./fig-2.28.png>)
 
 **Figure 2.28 Derivative of a function**
 

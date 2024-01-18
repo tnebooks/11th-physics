@@ -1,6 +1,6 @@
 ---
 title: 'INTEGRAL CALCULUS'
-weight: 9
+weight: 8
 ---
 
 # INTEGRAL CALCULUS
@@ -9,7 +9,7 @@ Integration is an area finding process. For certain geometric shapes we can dire
 
 The area of the rectangle is simply given by {{< katex >}}\mathrm{A}={{< /katex >}} length {{< katex >}}\times{{< /katex >}} breadth {{< katex >}}=(\mathrm{b}-\mathrm{a}) \mathrm{c}{{< /katex >}}
 
-![Alt text](<./fig 2.29.png>)
+![Alt text](<./fig-2.29.png>)
 
 **Figure 2.29** Area of rectangular and irregular shape
 
@@ -18,7 +18,7 @@ The area under the curve is approximately equal to sum of areas of each rectangu
 
 This is given by {{< katex >}}A \approx f(a) \Delta x+f\left(x_{1}\right) \Delta x{{< /katex >}} {{< katex >}}+f\left(x_{2}\right) \Delta x+f\left(x_{3}\right) \Delta x{{< /katex >}}.
 
-![Alt text](<./fig 2.30.png>)
+![Alt text](<./fig-2.30.png>)
 
 **Figure 2.30** Area under the curve using rectangular strip
 
@@ -36,7 +36,7 @@ As the number of strips goes to infinity, {{< katex >}}N \rightarrow \infty{{< /
 
 The integration will give the total area under the curve {{< katex >}}f(x){{< /katex >}}. This is shown in Figure 2.31.
 
-![Alt text](<./fig 2.31.png>)
+![Alt text](<./fig-2.31.png>)
 
 **Figure 2.31** Relation between su
 
@@ -52,7 +52,7 @@ W=\int_{a}^{b} F(x) d x
 
 1) The work done is the area under the force displacement graph as shown in Figure 2.32
 
-![Alt text](<./fig 2.32.png>)
+![Alt text](<./fig-2.32.png>)
 
 **Figure 2.32** Work done by the force
 
@@ -64,7 +64,7 @@ W=\int_{a}^{b} F(x) d x
 
 The impulse is the area under the force function {{< katex >}}F(t){{< /katex >}} - {{< katex >}}t{{< /katex >}} graph as shown in Figure 2.33.
 
-![Alt text](<./fig 2.33.png>)
+![Alt text](<./fig-2.33.png>)
 
 **Figure 2.33** Impulse of a force
 
@@ -82,7 +82,7 @@ It is a vector quantity. The direction of average velocity is in the direction o
 
 This is also shown in Figure 2.34.
 
-![Alt text](<./fig 2.34.png>)
+![Alt text](<./fig-2.34.png>)
 
 **Average speed**
 
@@ -93,7 +93,7 @@ Average speed = total path length / total time
 EXAMPLE 2.20
 Consider an object travelling in a semi-circular path from point O to point P in 5 second, as shown in the Figure given below. Calculate the average velocity and average speed.
 
-![Alt text](<./eg 2.20.png>)
+![Alt text](<./eg-2.20.png>)
 
 {{< katex >}}
 \begin{gathered}

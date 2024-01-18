@@ -1,6 +1,6 @@
 ---
 title: 'PROJECTILE MOTION'
-weight: 11
+weight: 10
 ---
 
 # PROJECTILE MOTION
@@ -39,7 +39,7 @@ To study the motion of a projectile, let us assume that,
 Consider a projectile, say a ball, thrown horizontally with an initial velocity u from the top of a tower of height h (Figure 2.39).
 As the ball moves, it covers a horizontal distance due to its uniform horizontal
 
-![Alt text](<./fig 2.39.png>)
+![Alt text](<./fig-2.39.png>)
 
 velocity {{< katex >}}u{{< /katex >}}, and a vertical downward distance because of constant acceleration due to gravity {{< katex >}}g{{< /katex >}}. Thus, under the combined effect the ball moves along the path OPA. The motion is in a 2-dimensional plane. Let the ball take time {{< katex >}}t{{< /katex >}} to reach the ground at point A, Then the horizontal distance travelled by the ball is {{< katex >}}x(\mathrm{t})=x{{< /katex >}}, and the vertical distance travelled is {{< katex >}}\mathrm{y}(\mathrm{t})=\mathrm{y}{{< /katex >}}
 
@@ -89,7 +89,7 @@ h=\frac{1}{2} g T^{2} \quad \text { or } \quad \mathrm{T}=\sqrt{\frac{2 \mathrm{
 
 Thus, the time of flight for projectile motion depends on the height of the tower, but is independent of the horizontal velocity of projection. If one ball falls vertically and another ball is projected horizontally with some velocity, both the balls will reach the bottom at the same time. This is illustrated in the Figure 2.40.
 
-![Alt text](<./fig 2.40.png>)
+![Alt text](<./fig-2.40.png>)
 
 **Figure 2.40 Vertical distance covered by the two particles is same in equal intervals.**
 
@@ -109,7 +109,7 @@ The above equation implies that the range {{< katex >}}\mathrm{R}{{< /katex >}} 
 
 **(3) Resultant Velocity (Velocity of projectile at any time):** At any instant t, the projectile has velocity components along both x-axis and y-axis. The resultant of these two components gives the velocity of the projectile at that instant t, as shown in Figure 2.41
 
-![Alt text](<./fig 2.41.png>)
+![Alt text](<./fig-2.41.png>)
 
 **Figure 2.41. Velocity resolved into two components**
 The velocity component at any {{< katex >}}t{{< /katex >}} along horizontal ( {{< katex >}}x{{< /katex >}}-axis) is {{< katex >}}v_{x}=u_{x}+a_{x} t{{< /katex >}}
@@ -163,7 +163,7 @@ The speed of the particle when it reaches the ground is
 v=\sqrt{u^{2}+2 g h}
 {{< /katex >}}
 
-![Alt text](<./fig 2.42.png>)
+![Alt text](<./fig-2.42.png>)
 
 **Figure 2.42. Projectile motion**
 
@@ -195,7 +195,7 @@ The horizontal distance travelled by projectile in time {{< katex >}}t{{< /katex
 
 Here, {{< katex >}}s_{x}=x, u_{x}=u \cos \theta, a_{x}=0{{< /katex >}}
 
-![Alt text](<./fig 2.43.png>)
+![Alt text](<./fig-2.43.png>)
 
 **Figure 2.43. Initial velocity resolved into components**
 
@@ -290,7 +290,7 @@ R_{\max }=\frac{u^{2}}{g}
 ---
 **Projectile motion !**
 
-![Alt text](./Projection.png)
+![Alt text](./projection.png)
 
 In Tamil Nadu there is an interesting traditional game ‘kitti pull’. When the ‘pull’ is hit by the kitti, the path followed by the pull is ‘parabolic’.
 
@@ -331,7 +331,7 @@ The range attained on the Moon is approximately six times that on Earth.
 **Example 2.38**
 In the cricket game, a batsman strikes the ball such that it moves with the speed 30 {{< katex >}}\mathrm{m} \mathrm{s}^{-1}{{< /katex >}} at an angle {{< katex >}}30^{\circ}{{< /katex >}} with the horizontal as shown in the figure. The boundary line of the cricket ground is located at a distance of {{< katex >}}75 \mathrm{~m}{{< /katex >}} from the batsman? Will the ball go for a six? (Neglect the air resistance and take acceleration due to gravity {{< katex >}}\mathrm{g}=10 \mathrm{~m} \mathrm{~s}^{-2}{{< /katex >}} ).
 
-![Alt text](<./fig 2.38.png>)
+![Alt text](<./fig-2.38.png>)
 
 **_Solutions_**
 
@@ -362,7 +362,7 @@ Radian describes the planar angle subtended by a circular arc at the centre of a
 \theta=1 \text { radian }(\mathrm{rad})
 {{< /katex >}}
 
-![Alt text](<./fig 2.44.png>)
+![Alt text](<./fig-2.44.png>)
 
 **Figure 2.44 One radian (shown in yellow color)**
 
@@ -380,7 +380,7 @@ which means {{< katex >}}1 \mathrm{rad} \cong 57.27^{\circ}{{< /katex >}}
 
 Calculate the angle {{< katex >}}\theta{{< /katex >}} subtended by the two adjacent wooden spokes of a bullock cart wheel is shown in the figure. Express the angle in both radian and degree.
 
-![Alt text](<./Ex 2.39.png>)
+![Alt text](<./ex-2.39.png>)
 
 **_Solution_**
 
@@ -398,7 +398,7 @@ The number π plays a very important role in both physics and mathematics. It is
 ## Angular displacement
 Consider a particle revolving around a point {{< katex >}}\mathrm{O}{{< /katex >}} in a circle of radius {{< katex >}}\mathrm{r}{{< /katex >}} (Figure 2.45). Let the position of the particle at time {{< katex >}}t=0{{< /katex >}} be {{< katex >}}A{{< /katex >}} and after time {{< katex >}}t{{< /katex >}}, its position is {{< katex >}}B{{< /katex >}}.
 
-![Alt text](<./fig 2.45.png>)
+![Alt text](<./fig-2.45.png>)
 
 **Figure 2.47 Angular displacement**
 
@@ -429,7 +429,7 @@ If {{< katex >}}\theta{{< /katex >}} is the angular displacement in time {{< kat
 
 The unit of angular velocity is radian per second {{< katex >}}\left(\mathrm{rad} \mathrm{s}^{-1}\right){{< /katex >}}. The direction of angular velocity is along the axis of rotation following the right hand rule. This is shown in Figure 2.46.
 
-![Alt text](<./fig 2.46.png>)
+![Alt text](<./fig-2.46.png>)
 
 **Figure 2.47 Direction of angular velocity**
 
@@ -502,14 +502,14 @@ a_{t}=r \alpha
 
 The tangential acceleration {{< katex >}}a_{t}{{< /katex >}} experienced by an object in circular motion is shown in Figure 2.48.
 
-![Alt text](<./fig 2.48.png>)
+![Alt text](<./fig-2.48.png>)
 
 **Figure 2.49 Tangential motion**
 
 ## Circular Motion
 When a point object is moving on a circular path with a constant speed, it covers equal distances on the circumference of the circle in equal intervals of time. Then the object is said to be in uniform circular motion. This is shown in Figure 2.49.
 
-![Alt text](<./fig 2.49.png>)
+![Alt text](<./fig-2.49.png>)
 
 **Figure 2.49 Uniform circular motion**
 
@@ -521,19 +521,19 @@ non uniform circular motion.
 **Centripetal acceleration**
 As seen already, in uniform circular motion the velocity vector turns continuously without changing its magnitude (speed), as shown in Figure 2.50.
 
-![Alt text](<./fig 2.50.png>)
+![Alt text](<./fig-2.50.png>)
 
 **Figure 2.50 Velocity in uniform circular motion**
 
 Note that the length of the velocity vector (blue) is not changed during the motion, implying that the speed remains constant. Even though the velocity is tangential at every point in the circle, the acceleration is acting towards the centre of the circle. This is called centripetal acceleration. It always points towards the centre of the circle. This is shown in the Figure 2.51.
 
-![Alt text](<./fig 2.51.png>)
+![Alt text](<./fig-2.51.png>)
 
 **Figure 2.51 Centripetal acceleration**
 
 The centripetal acceleration is derived from a simple geometrical relationship between position and velocity vectors (Figure 2.48 or Figure 2.52)
 
-![Alt text](<./fig 2.52.png>)
+![Alt text](<./fig-2.52.png>)
 
 **Figure 2.52 Geometrical relationship between the postion and velocity vectors**
 
@@ -558,7 +558,7 @@ The magnitude of centripetal acceleration is constant for uniform circular motio
 **Non uniform circular motion**
 If the speed of the object in circular motion is not constant, then we have non-uniform circular motion. For example, when the bob attached to a string moves in vertical circle, the speed of the bob is not the same at all time. Whenever the speed is not same in circular motion, the particle will have both centripetal and tangential acceleration as shown in the Figure 2.53.
 
-![Alt text](<./fig 2.53.png>)
+![Alt text](<./fig-2.53.png>)
 
 **Figure 2.53 Resultant acceleration (a R ) in non uniform circular motion**
 
@@ -610,7 +610,7 @@ Earth orbits the Sun in an elliptical orbit. Let us specify the velocity of the 
 
 During the day {{< katex >}}\vec{v}_{c}{{< /katex >}} and {{< katex >}}\vec{v}_{s}{{< /katex >}} are either in opposite directions or at an obtuse angle with each other. So, the velocity of the object with respect to Sun at day time {{< katex >}}\vec{v}_{d a y}=\vec{v}_{c}-\vec{v}_{s}{{< /katex >}}. From this, we can conclude that any object on the surface of the Earth travels faster with respect to Sun during night than during day time. This happens due to the rotation of the Earth.
 
-![Alt text](<./fig 2.42.1.png>)
+![Alt text](<./fig-2.42.1.png>)
 
 ---
 

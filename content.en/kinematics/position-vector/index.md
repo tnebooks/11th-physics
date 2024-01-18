@@ -1,6 +1,6 @@
 ---
 title: 'POSITION VECTOR'
-weight: 6
+weight: 5
 ---
 
 # POSITION VECTOR
@@ -15,7 +15,7 @@ The position vector {{< katex >}}\vec{r}{{< /katex >}} of the particle at a poin
 
 where {{< katex >}}\mathrm{x}, \mathrm{y}{{< /katex >}} and {{< katex >}}\mathrm{z}{{< /katex >}} are components of {{< katex >}}\vec{r}{{< /katex >}}, Figure 2.25 shows the position vector {{< katex >}}\vec{r}{{< /katex >}}.
 
-![Alt text](<./fig 2.25.png>)
+![Alt text](<./fig-2.25.png>)
 
 **Figure 2.25 Position vector in Cartesian coordinate system**
 
@@ -23,7 +23,7 @@ where {{< katex >}}\mathrm{x}, \mathrm{y}{{< /katex >}} and {{< katex >}}\mathrm
 
 Determine the position vectors for the following particles which are located at points {{< katex >}}\mathrm{P}, \mathrm{Q}, \mathrm{R}, \mathrm{S}{{< /katex >}}.
 
-![Alt text](<./eg 2.15.png>)
+![Alt text](<./eg-2.15.png>)
 
 **_Solution_**
 
@@ -59,7 +59,7 @@ A person initially at rest starts to walk 2 m towards north, then 1 m towards ea
 
 As shown in the Figure, the positive x axis is taken as east direction, positive y direction is taken as north.
 
-![Alt text](<./eg 2.14.png>)
+![Alt text](<./eg-2.14.png>)
 
 After the trip, the person reaches the point $\mathrm{P}$ whose position vector given by
 

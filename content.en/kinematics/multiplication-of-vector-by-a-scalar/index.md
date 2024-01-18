@@ -1,6 +1,6 @@
 ---
 title: 'MULTIPLICATION OF VECTOR BY A SCALAR'
-weight: 5
+weight: 4
 ---
 
 # MULTIPLICATION OF VECTOR BY A SCALAR
@@ -144,7 +144,7 @@ Hence, {{< katex >}}\vec{C}{{< /katex >}} and {{< katex >}}\vec{D}{{< /katex >}}
 
 It is also possible to geometrically show that the vectors {{< katex >}}\vec{C}{{< /katex >}} and {{< katex >}}\vec{D}{{< /katex >}} are orthogonal to each other. This is shown in the following Figure.
 
-![Alt text](<./fig 2.22.png>)
+![Alt text](<./fig-2.22.png>)
 
 
 In physics, the work done by a force {{< katex >}}\vec{F}{{< /katex >}} to move an object through a small displacement {{< katex >}}d \vec{r}{{< /katex >}} is defined as,
@@ -201,7 +201,7 @@ The vector product of {{< katex >}}\vec{A}{{< /katex >}} and {{< katex >}}\vec{B
 {{< /katex >}}
 
 
-![Alt text](<./fig 2.22.1.png>)
+![Alt text](<./fig-2.22.1.png>)
 
 **Figure 2.22 Vector product of two**
 
@@ -284,13 +284,13 @@ Note that in the {{< katex >}}\hat{j}^{\text {th }}{{< /katex >}} component the 
 
 (ix) If two vectors {{< katex >}}\vec{A}{{< /katex >}} and {{< katex >}}\vec{B}{{< /katex >}} form adjacent sides in a parallelogram, then the magnitude of {{< katex >}}\vec{A} \times \vec{B}{{< /katex >}} will give the area of the parallelogram as represented graphically in Figure 2.23.
 
-![Alt text](<./fig 2.23.1.png>)
+![Alt text](<./fig-2.23.1.png>)
 
 **Figure 2.23 Area of parallelogram**
 
 (x) Since we can divide a parallelogram into two equal triangles as shown in the Figure 2.24, the area of a triangle with {{< katex >}}\vec{A}{{< /katex >}} and {{< katex >}}\vec{B}{{< /katex >}} as sides is {{< katex >}}\frac{1}{2}|\vec{A} \times \vec{B}|{{< /katex >}}. This is shown in the Figure 2.24. (This fact will be used when we study Kepler's laws in unit 6)
 
-![Alt text](<./fig 2.24.png>)
+![Alt text](<./fig-2.24.png>)
 
 **Figure 2.24 Area of triangle**  
 

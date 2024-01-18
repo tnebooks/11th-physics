@@ -1,6 +1,6 @@
 ---
 title: 'MOTION ALONG ONE DIMENSION'
-weight: 10
+weight: 9
 ---
 
 # MOTION ALONG ONE  DIMENSION
@@ -54,7 +54,7 @@ The negative sign implies that at {{< katex >}}\mathrm{t}=0{{< /katex >}} the ve
 
 Average speed {{< katex >}}={{< /katex >}} total path length {{< katex >}}/{{< /katex >}} total time period
 
-![Alt text](<./fig 2.35.png>)
+![Alt text](<./fig-2.35.png>)
 
 **Figure 2.35 Displacement in the velocity–time graph**
 
@@ -77,7 +77,7 @@ Thus, if two objects are moving in the same direction, the magnitude of relative
 
 Suppose two cars A and B are moving with uniform velocities with respect to ground along parallel tracks and in the same direction. Let the velocities of {{< katex >}}A{{< /katex >}} and {{< katex >}}B{{< /katex >}} be {{< katex >}}35 \mathrm{~km} \mathrm{~h}^{-1}{{< /katex >}} due east and {{< katex >}}40 \mathrm{~km} \mathrm{~h}^{-1}{{< /katex >}} due east respectively. What is the relative velocity of car {{< katex >}}\mathrm{B}{{< /katex >}} with respect to {{< katex >}}\mathrm{A}{{< /katex >}} ?
 
-![Alt text](<./eg 2.26.png>)
+![Alt text](<./eg-2.26.png>)
 
 **_Solution_** 
 The relative velocity of {{< katex >}}\mathrm{B}{{< /katex >}} with respect to {{< katex >}}\mathrm{A}{{< /katex >}}, {{< katex >}}\vec{v}_{B A}=\vec{v}_{B}-\vec{v}_{A}=5 \mathrm{~km} \mathrm{~h}^{-1}{{< /katex >}} due east
@@ -137,7 +137,7 @@ V_{R M}=\sqrt{V_{R}^{2}+V_{M}^{2}}
 
 and direction {{< katex >}}\theta=\tan ^{-1}\left(\frac{V_{M}}{V_{R}}\right){{< /katex >}} with the vertical as shown in Figure. 2.36
 
-![Alt text](<./fig 2.36.png>)
+![Alt text](<./fig-2.36.png>)
 
 In order to save himself from the rain, he should hold an umbrella at an angle {{< katex >}}\theta{{< /katex >}} with the vertical.
 
@@ -150,7 +150,7 @@ Relative velocity of A with respect to B, {{< katex >}}v_{\mathrm{AB}}=80 \mathr
 
 Thus to a passenger in train {{< katex >}}\mathrm{B}{{< /katex >}}, the train A will appear to move east with a velocity of {{< katex >}}80 \mathrm{~km} \mathrm{~h}^{-1}{{< /katex >}}
 
-![Alt text](<./fig 2.36.png>)
+![Alt text](<./fig-2.36.png>)
 
 **Figure 2.35 Angle of umbrella with respect to train**
 
@@ -372,7 +372,7 @@ An object is thrown vertically downward. What is the acceleration experienced by
 
 We know that when the object falls towards the Earth, it experiences acceleration due to gravity {{< katex >}}\mathrm{g}=9.8 \mathrm{~m} \mathrm{~s}^{-2}{{< /katex >}} downward. We can choose the coordinate system as shown in the figure.
 
-![Alt text](<./eg 2.33.png>)
+![Alt text](<./eg-2.33.png>)
 
 The acceleration is along the negative {{< katex >}}y{{< /katex >}} direction.
 
@@ -496,7 +496,7 @@ A practical example of a straight line motion with constant acceleration is the 
 
 **Case (i): A body falling from a height h**
 
-![Alt text](<./fig 2.37.png>)
+![Alt text](<./fig-2.37.png>)
 
 Consider an object of mass {{< katex >}}mathrm{m}{{< /katex >}} falling from a height {{< katex >}}h{{< /katex >}}. Assume there is no air resistance. For convenience, let us choose the downward direction as positive {{< katex >}}mathrm{y}{{< /katex >}}-axis as shown in the Figure 2.37. The object experiences acceleration ' {{< katex >}}mathrm{g}{{< /katex >}} ' due to gravity which is constant near the surface of the Earth. We can use kinematic equations to explain its motion. We have
 
@@ -585,12 +585,12 @@ v & =\sqrt{2 g h}=\sqrt{2 \times 10 \times 10} \\
 \end{aligned}
 {{< /katex >}}
 
-![Alt text](<./eg 2.35.png>)
+![Alt text](<./eg-2.35.png>)
 
 **EXAMPLE 2.35**
 Is it possible to measure the depth of a well using kinematic equations?
 
-![Alt text](<./eg 2.35.1.png>)
+![Alt text](<./eg-2.35.1.png>)
 
 Consider a well without water, of some depth d. Take a small object (for example lemon) and a stopwatch. When you drop the emon, start the stop watch. As soon as the lemon touches the bottom of the well, stop the watch. Note the time taken by the lemon to reach the bottom and denote the time as t. 
 Since the initial velocity of lemon {{< katex >}}u=0{{< /katex >}} and the acceleration due to gravity {{< katex >}}g{{< /katex >}} is constant over the well, we can use the equations of motion for constant acceleration.
@@ -607,7 +607,7 @@ d=\frac{1}{2} g t^{2}
 
 Substituting {{< katex >}}g=9.8 \mathrm{~m} \mathrm{~s}^{-2}{{< /katex >}} we get the depth of the well.
 
-![Alt text](<./eg 2.3.png>)
+![Alt text](<./eg-2.3.png>)
 
 To estimate the error in our calculation we can use another method to measure the depth of the well. Take a long rope and hang the rope inside the well till it touches the bottom. Measure the length of the rope which is the correct depth of the well {{< katex >}}\left(d_{\text {correct }}\right){{< /katex >}}. Then
 
@@ -636,7 +636,7 @@ If there is water in the well, this method can be used to measure depth of the w
 **Case (ii): A body thrown vertically upwards**
 Consider an object of mass {{< katex >}}m{{< /katex >}} thrown vertically upwards with an initial velocity {{< katex >}}u{{< /katex >}}. Let us neglect the air friction. In this case we choose the vertical direction as positive {{< katex >}}y{{< /katex >}} axis as shown in the Figure 2.38, then the acceleration {{< katex >}}\mathrm{a}=-\mathrm{g}{{< /katex >}} (neglect air friction) and {{< katex >}}g{{< /katex >}} points towards the negative {{< katex >}}y{{< /katex >}} axis. The kinematic equations for this motion are,
 
-![Alt text](<./fig 2.38.PNG>)
+![Alt text](<./fig-2.38.PNG>)
 
 **Figure 2.38. An object thrown vertically**
 The velocity and position of the object at any time {{< katex >}}t{{< /katex >}} are,

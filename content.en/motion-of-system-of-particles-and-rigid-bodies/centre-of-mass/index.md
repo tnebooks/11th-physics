@@ -30,28 +30,29 @@ _A point mass is a hypothetical point particle which has nonzero mass and no siz
 
 The equation for the x coordinate of the centre of mass is,
 {{< katex display >}}
-\[ x_{\text{CM}} = \frac{\sum_{i} m_i x_i}{\sum_{i} m_i} \]
+
+[ x_{\text{CM}} = \frac{\sum_{i} m_i x_i}{\sum_{i} m_i} ]
 {{< /katex >}}
 
-where \( \sum m_i \) is the total mass \( M \) of all the particles,
+where ( sum m_i) is the total mass ( M ) of all the particles,
 
 {{< katex display >}}
-\[ x_{\text{CM}} = \frac{\sum_{i} x_i m_i}{M} \quad (5.1) \]
+[ x_{\text{CM}} = \frac{\sum_{i} x_i m_i}{M} \quad (5.1) ]
 {{< /katex >}}
 Similarly, we can also find y and z coordinates of the centre of mass for these distributed point masses as indicated in Figure (5.2).
 {{< katex display >}}
-\[ y_{\text{CM}} = \frac{\sum_{i} y_i m_i}{M} \quad (5.2) \]
+[ y_{\text{CM}} = \frac{\sum_{i} y_i m_i}{M} \quad (5.2) ]
 
-\[ z_{\text{CM}} = \frac{\sum_{i} z_i m_i}{M} \quad (5.3) \]
+[ z_{\text{CM}} = \frac{\sum_{i} z_i m_i}{M} \quad (5.3) ]
 {{< /katex >}}
 
 Hence, the position of centre of mass of these point masses in a Cartesian coordinate system is (xCM, yCM, zCM). In general, the position of centre of mass can be written in a vector form as,
 
 {{< katex display >}}
-\[ \vec{r}_{\text{CM}} = \sum_{i} \frac{m_i \vec{r}_i}{M} \quad (5.4) \]
+[ \vec{r}_{\text{CM}} = \sum_{i} \frac{m_i \vec{r}_i}{M} \quad (5.4) ]
 {{< /katex >}}
 
-where, \( \vec{r}_{\text{CM}} = \sum_{i} \frac{m_i \vec{r}_i}{M} \) is the position vector of the center of mass and \( \vec{r}_i = x_i \hat{i} + y_i \hat{j} + z_i \hat{k} \) is the position vector of the distributed point mass. Here, \(\hat{i}, \hat{j},\) and \(\hat{k}\) are the unit vectors along X, Y, and Z-axes respectively.
+where,{{< katex display >}} \( \vec{r}_{\text{CM}} = \sum_{i} \frac{m_i \vec{r}_i}{M} \) is the position vector of the center of mass and \( \vec{r}_i = x_i \hat{i} + y_i \hat{j} + z_i \hat{k} \) is the position vector of the distributed point mass. Here, \(\hat{i}, \hat{j},\) and \(\hat{k}\){{< /katex >}} are the unit vectors along X, Y, and Z-axes respectively.
 
 ## Centre of Mass of Two Point Masses
 
@@ -59,23 +60,24 @@ With the equations for centre of mass, let us find the centre of mass of two poi
 
 _(i) When the masses are on positive X-axis:_ The origin is taken arbitrarily so that the masses m1 and m2 are at positions x1 and x2 on the positive X-axis as shown in Figure 5.3(a). The centre of mass will also be on the positive X-axis at xCM as given by the equation,
 
-\[ x_{1} m_{1} x_{2} m_{2} x_{\text{CM}} \]
-
+{{< katex display >}}
+[ x_{1} m_{1} x_{2} m_{2} x_{\text{CM}} ]
+{{< /katex >}}
 
 
 _(ii) When the origin coincides with any one of the masses:_ The calculation could be minimised if the origin of the coordinate system is made to coincide with any one of the masses as shown in Figure 5.3(b). When the origin coincides with the point mass m1, its position x1 is zero, (i.e. x1 = 0). Then,
 
 {{< katex display >}}
-\[ x_{1} m_{1} x_{2} m_{2} x_{\text{CM}} \]
+[ x_{1} m_{1} x_{2} m_{2} x_{\text{CM}} ]
 {{< /katex >}}
 
 The equation further simplifies as,
 {{< katex display >}}
-\[ x_{1} m_{1} x_{2} m_{2} m_{\text{CM}} \]
+[ x_{1} m_{1} x_{2} m_{2} m_{\text{CM}} ]
 {{< /katex >}}
 
 Where:
-- \( x_{1} \), \( m_{1} \), \( x_{2} \), \( m_{2} \), \( m_{\text{CM}} \) represent the respective variables,
+-{{< katex display >}}( x_{1} \), ( m_{1}), ( x_{2} \), ( m_{2} \), ( m_{\text{CM}} {{< /katex >}}) represent the respective variables,
 - Subscripts "1 2 2" and "1 2" represent specific values for the variables.
 
 
@@ -100,15 +102,15 @@ _(i) To find centre of mass from the origin:_ The point masses are at positions,
 The centre of mass xCM can be obtained using equation 5.4.
 
 {{< katex display >}}
-\[ x_{\text{CM}} = \frac{(x_{1} m_{1} + x_{2} m_{2})}{(m_{1} + m_{2})} \]
+[ x_{\text{CM}} = \frac{(x_{1} m_{1} + x_{2} m_{2})}{(m_{1} + m_{2})} ]
 
-\[ x_{\text{CM}} = \frac{(3x_{1} + 5x_{2})}{8} \]
+[ x_{\text{CM}} = \frac{(3x_{1} + 5x_{2})}{8} ]
 
-\[ x_{\text{CM}} = \frac{3x_{1} + 5x_{2}}{8} \]
+[ x_{\text{CM}} = \frac{3x_{1} + 5x_{2}}{8} ]
 
-\[ x_{\text{CM}} = \frac{12x_{1} + 40x_{2}}{52} \]
+[ x_{\text{CM}} = \frac{12x_{1} + 40x_{2}}{52} ]
 
-\[ x_{\text{CM}} = \frac{6x_{1} + 20x_{2}}{26} = 6.5 \]
+[ x_{\text{CM}} = \frac{6x_{1} + 20x_{2}}{26} = 6.5 ]
 
 {{< /katex >}}
 
@@ -116,18 +118,17 @@ The centre of mass is located 6.5 m from the origin on X-axis.
 
 _(ii) To find the centre of mass from 3 kg mass:_ The origin is shifted to 3 kg mass along X-axis. The position of 3 kg point mass is zero (x1 = 0) and the position of 5 kg point mass is 4 m from the shifted origin (x2 = 4 m).
 ![Alt text](image-4.png)
-  
-\[ x_{\text{CM}} = \frac{(3 \times 0 + 5 \times 4)}{(3 + 5)} \]
+  {{< katex display >}}
+[ x_{\text{CM}} = \frac{(3 \times 0 + 5 \times 4)}{(3 + 5)} ]
 
-\[ x_{\text{CM}} = \frac{(0 + 20)}{8} \]
+[ x_{\text{CM}} = \frac{(0 + 20)}{8} ]
 
-\[ x_{\text{CM}} = \frac{20}{8} \]
+[ x_{\text{CM}} = \frac{20}{8} ]
 
-\[ x_{\text{CM}} = \frac{5}{2} \]
+[ x_{\text{CM}} = \frac{5}{2} ]
+[ x_{\text{CM}} = 2.5 ]
 
-\[ x_{\text{CM}} = 2.5 \]
-
-
+{{< /katex >}}
 The centre of mass is located 2.5 m from 3 kg point mass, (and 1.5 m from the 5 kg point mass) on X-axis.
 
 „ This result shows that the centre of mass is located closer to larger mass.
@@ -146,17 +147,18 @@ Let the mass of the small disc cut and removed be m and its centre of mass is at
 ![Alt text](image-5.png)
 
 Hence, the remaining portion of the disc should have its centre of mass to the left of the origin; say, at a distance x. We can write from the principle of moments,
-\[ m \cdot \frac{x}{m} \cdot R - \left(\frac{M}{m}\right)^2 \]
-
- If σ is the surface mass density (i.e. mass per unit surface area), \[ σ = \frac{M}{\pi R^2} \]
- ; then, the mass m of small disc is, m surface mass density surfacearea= × \[ m \cdot s = \frac{M}{\pi R^2} \]
+{{< katex display >}}
+[ m \cdot \frac{x}{m} \cdot R - \left(\frac{M}{m}\right)^2 ]
+{{< /katex >}}
+ If σ is the surface mass density (i.e. mass per unit surface area),{{< katex display >}} [ σ = \frac{M}{\pi R^2} ] {{< /katex >}}
+ ; then, the mass m of small disc is, m surface mass density surfacearea= × {{< katex display >}}[ m \cdot s = \frac{M}{\pi R^2} ] {{< /katex >}}
 
 Substituting m in the expression for x:
 {{< katex display >}}
 
-\[ x = \frac{M - \sqrt{M(M-4mR)}}{2m} \]
+[ x = \frac{M - \sqrt{M(M-4mR)}}{2m} ]
 
-\[ x = \frac{M + \sqrt{M(M-4mR)}}{2m} \]
+[ x = \frac{M + \sqrt{M(M-4mR)}}{2m} ]
 
 {{< /katex >}}
 

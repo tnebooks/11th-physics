@@ -121,7 +121,7 @@ A diver while in air as in Figure 5.28 curls the body close to decrease the mome
 ![Alt text](image-54.png)
 
 Figure 5.28 Conservation of angular momentum for a diver
-![Alt text](image-78.png)
+
 
 ![Alt text](image-79.png)
 

@@ -95,7 +95,16 @@ The concepts to form the integrand to find the moment of inertia could be borrow
 \end{aligned}
 {{< /katex >}}
 
-![Alt text](image-70.png)
+
+**Note**
+`The moment of inertia of
+the same uniform rod is
+different about different axes
+of reference. The reference axes could
+be even outside the object. We have two
+useful theorems to calculate the moments
+of inertia about different axes. We shall
+see these theorems in Section 5.4.5.`
 
 The moment of inertia of
 
@@ -363,7 +372,7 @@ Substituting in the equation for {{< katex display >}}\mathrm{I}_{\mathrm{z}}{{<
 
 Thus, the perpendicular axis theorem is proved.
 
-![Alt text](image-73.png)
+
 
 **EXAMPLE 5.16**
 

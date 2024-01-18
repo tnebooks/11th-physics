@@ -169,7 +169,20 @@ A crane has an arm length of {{< katex display >}}20 \mathrm{~m} {{< /katex >}} 
 
 **Solution**
 
-![Alt text](capture3.png)
+
+**Note**
+`In many problems, the angle
+θ between 
+r and 
+F will not
+be directly given. Thus,
+the students must get accustomed to
+identify and denote always the angle
+between the 
+r and 
+F as θ. The other
+angles in the arrangement may be
+denoted as α, β, ϕ etc.`
 
 The force F at the point of suspension is due to the weight of the hanging mass.
 
@@ -247,7 +260,20 @@ For the rest of the lesson, we consider rotation about only fixed axis. For this
 1. Consider forces that lie only on planes perpendicular to the axis (without intersecting in the axis).
 2. Consider position vectors that are only perpendicular to the axis.
 
-![Alt text](content2.png)
+
+**Note**
+`• Forces parallel to the
+axis will give torques
+perpendicular to the axis
+of rotation and need not
+be taken into account.
+ • Forces that intersect (pass
+through) the axis cannot
+produce torque as r = 0.
+ • Position vectors along the
+axis will result in torques
+perpendicular to the axis and
+need not be taken into account.`
 
 **EXAMPLE 5.10**
 

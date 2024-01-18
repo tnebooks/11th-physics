@@ -93,7 +93,7 @@ Slipping is the case when {{< katex display >}}\mathrm{v}_{\mathrm{CM}}<\mathrm{
 
 Figure 5.36 Slipping
 
-![Alt text](image-89.png)
+
 
 **EXAMPLE 5.21**
 
@@ -290,16 +290,3 @@ The one with least value of radius of gyration K will take the shortest time to 
 
 ![Alt text](summary-1.png)
 
-![Alt text](image-82.png)
-
-![Alt text](image-92.png)
-
-![Alt text](image-83.png)
-
-![Alt text](image-84.png)
-
-![Alt text](image-85.png)
-
-![Alt text](image-86.png)
-
-![Alt text](image-87.png)

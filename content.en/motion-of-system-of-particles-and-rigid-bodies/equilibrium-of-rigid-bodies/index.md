@@ -185,7 +185,7 @@ We can also determine the centre of gravity of a uniform lamina of even an irreg
 Figure 5.17. Determination of centre of gravity of plane lamina by pivoting
 
 There is also another way to determine the centre of gravity of an irregular lamina. If we suspend the lamina from different
-![Alt text](Circle1.png)
+![Alt text](circle1.png)
 
 
 Figure 5.18 Determination of centre of gravity of plane lamina by suspending points like P, Q, R as shown in Figure 5.18,
@@ -193,7 +193,7 @@ Figure 5.18 Determination of centre of gravity of plane lamina by suspending poi
 ![Alt text](equation.png)
 through the centre of gravity. Here, reaction force acting at the point of suspension and the gravitational force acting at the centre of gravity cancel each other and the torques caused by them also cancel each other.
 
-![Alt text](cycle1.png)
+
 
 
 ## Bending of Cyclist in Curves

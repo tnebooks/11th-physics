@@ -5,7 +5,7 @@ weight: 5
 
 **6.5 ELEMENTARY IDEAS OF ASTRONOMY**
 
-Astronomy is one of the oldest sciences in the history of mankind. In the olden days, astronomy was an inseparable part of physical science. It contributed a lot to the development of physics in the $16^{\text {th }}$ century. In fact Kepler's laws and Newton's theory of gravitation were formulated and verified using astronomical observations and data accumulated over the centuries by famous astronomers like Hippachrus, Aristachrus, Ptolemy, Copernicus and Tycho Brahe. Without Tycho Brahe's astronomical observations, Kepler's laws would not have emerged. Without Kepler's laws, Newton's theory of gravitation would not have been formulated.
+Astronomy is one of the oldest sciences in the history of mankind. In the olden days, astronomy was an inseparable part of physical science. It contributed a lot to the development of physics in the {{< katex display >}}16^{\text {th }}{{< /katex >}} century. In fact Kepler's laws and Newton's theory of gravitation were formulated and verified using astronomical observations and data accumulated over the centuries by famous astronomers like Hippachrus, Aristachrus, Ptolemy, Copernicus and Tycho Brahe. Without Tycho Brahe's astronomical observations, Kepler's laws would not have emerged. Without Kepler's laws, Newton's theory of gravitation would not have been formulated.
 
 It was mentioned in the beginning of this chapter that Ptolemy's geocentric model was replaced by Copernicus' heliocentric model. It is important to analyze and explain the shortcoming of the geocentric model over heliocentric model.
 
@@ -27,7 +27,7 @@ visible planets and tried to explain the motion. According to Aristotle, the oth
 
  **Figure 6.26 “Epicycle” motion of planetary objects around Earth, depicted with respect to months of observation.**
 
-But Ptolemy's model became more and more complex as every planet was found to undergo retrograde motion. In the $15^{\text {th }}$ century, the Polish astronomer Copernicus proposed the heliocentric model to explain this problem in a simpler manner. According to this model, the Sun is at the center of the solar system and all planets orbited the Sun. The retrograde motion of planets with respect to Earth is because of the relative motion of the planet with respect to Earth. The retrograde motion from the heliocentric point of view is shown in Figure 6.27.
+But Ptolemy's model became more and more complex as every planet was found to undergo retrograde motion. In the {{< katex display >}}15^{\text {th }}{{< /katex >}} century, the Polish astronomer Copernicus proposed the heliocentric model to explain this problem in a simpler manner. According to this model, the Sun is at the center of the solar system and all planets orbited the Sun. The retrograde motion of planets with respect to Earth is because of the relative motion of the planet with respect to Earth. The retrograde motion from the heliocentric point of view is shown in Figure 6.27.
 
 Figure 6.27 shows that the Earth orbits around the Sun faster than Mars. Because of the relative motion between Mars and Earth, Mars appears to move backwards from July to October. In the same way the retrograde motion of all other planets was explained successfully by the Copernicus model. It was because of its simplicity, the heliocentric model slowly replaced the geocentric model. Historically, if any natural phenomenon has one or more explanations, the simplest one is usually accepted. Though this was not the only reason to disqualify the geocentric model, a detailed discussion on correctness of the Copernicus model over to Ptolemy's model can be found in astronomy books.
 
@@ -54,31 +54,31 @@ Figure 6.29 shows that when Venus is at maximum elongation (i.e., 46 degree) wit
 
 The trigonometric relation satisfied by this right angled triangle is shown in Figure 6.29.
 
-$$
+{{< katex display >}}
 \sin \theta=\frac{r}{R}
-$$
+{{< /katex >}}
 
-where $\mathrm{R}=1 \mathrm{AU}$.
+where {{< katex display >}}\mathrm{R}=1 \mathrm{AU}{{< /katex >}}.
 
-$$
+{{< katex display >}}
 r=R \sin \theta=(1 A U)\left(\sin 46^{\circ}\right)
-$$
 
+{{< /katex >}}
 
 **Figure 6.29 Angle of elevation for Mercury from horizon**
 
-Here $\sin 46^{\circ}=0.72$. Hence Venus is at a distance of $0.72 \mathrm{AU}$ from Sun. Similarly, the distance between Mercury ( $\theta$ is 22.5 degree) and Sun is calculated as $0.38 \mathrm{AU}$. To find the distance of exterior planets like Mars and Jupiter, a slightly different method is used. The distances of planets from the Sun is given in the table below.
+Here {{< katex display >}}\sin 46^{\circ}=0.72{{< /katex >}}. Hence Venus is at a distance of {{< katex display >}}0.72 \mathrm{AU}{{< /katex >}} from Sun. Similarly, the distance between Mercury ( {{< katex display >}}\theta{{< /katex >}} is 22.5 degree) and Sun is calculated as {{< katex display >}}0.38 \mathrm{AU}{{< /katex >}}. To find the distance of exterior planets like Mars and Jupiter, a slightly different method is used. The distances of planets from the Sun is given in the table below.
 
-**Table $6.2 \mathrm{a}^{3} / \mathrm{T}^{2}$ for different planets**
+**Table {{< katex display >}}6.2 \mathrm{a}^{3} / \mathrm{T}^{2}{{< /katex >}} for different planets**
 
-| Planet | semi major <br> axis of the <br> orbit(a) | Period T <br> (days) | $\mathbf{a}^{3} / \mathrm{T}^{2}$ |
+| Planet | semi major <br> axis of the <br> orbit(a) | Period T <br> (days) | {{< katex display >}}\mathbf{a}^{3} / \mathrm{T}^{2}{{< /katex >}} |
 | :--- | :--- | ---: | :--- |
-| Mercury | $0.389 \mathrm{AU}$ | 87.77 | 7.64 |
-| Venus | $0.724 \mathrm{AU}$ | 224.70 | 7.52 |
-| Earth | $1.000 \mathrm{AU}$ | 365.25 | 7.50 |
-| Mars | $1.524 \mathrm{AU}$ | 686.98 | 7.50 |
-| Jupiter | $5.200 \mathrm{AU}$ | 4332.62 | 7.49 |
-| Saturn | $9.510 \mathrm{AU}$ | $10,759.20$ | 7.40 |
+| Mercury | {{< katex display >}}0.389 \mathrm{AU}{{< /katex >}} | 87.77 | 7.64 |
+| Venus | {{< katex display >}}0.724 \mathrm{AU}{{< /katex >}} | 224.70 | 7.52 |
+| Earth | {{< katex display >}}1.000 \mathrm{AU}{{< /katex >}} | 365.25 | 7.50 |
+| Mars | {{< katex display >}}1.524 \mathrm{AU}{{< /katex >}} | 686.98 | 7.50 |
+| Jupiter | {{< katex display >}}5.200 \mathrm{AU}{{< /katex >}} | 4332.62 | 7.49 |
+| Saturn | {{< katex display >}}9.510 \mathrm{AU}{{< /katex >}} | $10,759.20$ | 7.40 |
 
 It is to be noted that to verify the Kepler's law we need only high school level geometry and trigonometry.
 
@@ -96,31 +96,31 @@ Around 225 B.C a Greek librarian "Eratosthenes" who lived at Alexandria measured
 
 brilliant insight. He observed that during noon time of summer solstice the Sun's rays cast no shadow in the city Syne which was located 500 miles away from Alexandria. At the same day and same time he found that in Alexandria the Sun's rays made 7.2 degree with local vertical as shown in the Figure 6.30. He realized that this difference of 7.2 degree was due to the curvature of the Earth.
 
-The angle 7.2 degree is equivalent to $\frac{1}{8}$ radian. So $\theta=\frac{1}{8} \mathrm{rad}$;
+The angle 7.2 degree is equivalent to {{< katex display >}}\frac{1}{8}{{< /katex >}} radian. So {{< katex display >}}\theta=\frac{1}{8} \mathrm{rad}{{< /katex >}} ;
 
-If $S$ is the length of the arc between the cities of Syne and Alexandria, and if $\mathrm{R}$ is radius of Earth, then
+If {{< katex display >}}S{{< /katex >}}  is the length of the arc between the cities of Syne and Alexandria, and if {{< katex display >}}\mathrm{R}{{< /katex >}}  is radius of Earth, then
 
-$$
+{{< katex display >}}
 S=R \theta=500 \text { miles, }
-$$
+{{< /katex >}} 
 
 so radius of the Earth
 
-$$
+{{< katex display >}}
 \begin{aligned}
 R & =\frac{500}{\theta} \text { miles } \\
 R & =\frac{500}{\left(\frac{1}{8}\right)} \text { miles } \\
 \mathrm{R} & =4000 \text { miles }
 \end{aligned}
-$$
+{{< /katex >}}
 
-1 mile is equal to $1.609 \mathrm{~km}$. So, he measured the radius of the Earth to be equal to $\mathrm{R}=$ $6436 \mathrm{~km}$, which is amazingly close to the correct value of $6378 \mathrm{~km}$.
+1 mile is equal to {{< katex display >}}1.609 \mathrm{~km}{{< /katex >}}. So, he measured the radius of the Earth to be equal to {{< katex display >}}\mathrm{R}={{< /katex >}} {{< katex display >}}6436 \mathrm{~km}{{< /katex >}}, which is amazingly close to the correct value of {{< katex display >}}6378 \mathrm{~km}{{< /katex >}}.
 
-The distance of the Moon from Earth was measured by a famous Greek astronomer Hipparchus in the $3^{\text {rd }}$ century BC.
+The distance of the Moon from Earth was measured by a famous Greek astronomer Hipparchus in the {{< katex display >}}3^{\text {rd }}{{< /katex >}} century BC.
 
 **Activity**
 
-To measure the radius of the Earth, choose two different places (schools) that are separated by at least $500 \mathrm{~km}$. It is important to note that these two places have to be along the same longitude of the Earth (For example Hosur and Kanyakumariliealong the samelongitude of $77.82^{\circ} \mathrm{E}$ ). Take poles of known length (h) and fix them vertically in the ground (it may be in the school playgrounds) at both the places. At exactly noon in both the places the length of the shadow (L) cast by each pole has to be noted down. Draw the picture like in Figure 6.30. By using the equation $\tan \theta=\frac{L}{h}$, the angle in radian can be found at each place. The difference in angle $\left(\theta^{\prime}\right)$ is due to the curvature of the Earth. Now the distance between the two schools can be obtained from 'Google maps'. Divide the distance with the angle $\left(\theta^{\prime}\right.$ in radians) which will give the radius of the Earth.
+To measure the radius of the Earth, choose two different places (schools) that are separated by at least {{< katex display >}}500 \mathrm{~km}{{< /katex >}}. It is important to note that these two places have to be along the same longitude of the Earth (For example Hosur and Kanyakumariliealong the same longitude of {{< katex display >}}77.82^{\circ} \mathrm{E}{{< /katex >}} ). Take poles of known length (h) and fix them vertically in the ground (it may be in the school playgrounds) at both the places. At exactly noon in both the places the length of the shadow (L) cast by each pole has to be noted down. Draw the picture like in Figure 6.30. By using the equation {{< katex display >}}\tan \theta=\frac{L}{h}{{< /katex >}}, the angle in radian can be found at each place. The difference in angle {{< katex display >}}\left(\theta^{\prime}\right){{< /katex >}} is due to the curvature of the Earth. Now the distance between the two schools can be obtained from 'Google maps'. Divide the distance with the angle {{< katex display >}}\left(\theta^{\prime}\right.{{< /katex >}} in radians) which will give the radius of the Earth.
 
 
 **6.5.4 Interesting Astronomical Facts**
@@ -144,27 +144,27 @@ By finding the apparent radii of the Earth's umbra shadow and the Moon, the rati
 
 **Figure 6.33 Schematic diagram of umbra disk radius**
 
-The apparent radius of Earth's umbra shadow $=\mathrm{R}_{\mathrm{s}}=13.2 \mathrm{~cm}$
+The apparent radius of Earth's umbra shadow {{< katex display >}}=\mathrm{R}_{\mathrm{s}}=13.2 \mathrm{~cm}{{< /katex >}}
 
-The apparent radius of the Moon $=\mathrm{R}_{\mathrm{m}}=$ $5.15 \mathrm{~cm}$
+The apparent radius of the Moon {{< katex display >}}=\mathrm{R}_{\mathrm{m}}={{< /katex >}} {{< katex display >}}5.15 \mathrm{~cm}{{< /katex >}}
 
-The ratio $\frac{R_{s}}{R_{m}} \approx 2.56$
+The ratio {{< katex display >}}\frac{R_{s}}{R_{m}} \approx 2.56{{< /katex >}}
 
-The radius of the Earth's umbra shadow is $R_{s}=2.56 \times R_{m}$
+The radius of the Earth's umbra shadow is {{< katex display >}}R_{s}=2.56 \times R_{m}{{< /katex >}}
 
-The radius of Moon $R_{m}=1737 \mathrm{~km}$
+The radius of Moon {{< katex display >}}R_{m}=1737 \mathrm{~km}{{< /katex >}}
 
 ![](n4.png)
 
 **Figure 6.34 Calculation of umbra radius**
 
-The radius of the Earth's umbra shadow is $R_{s}=2.56 \times 1737 \mathrm{~km} \cong 4446 \mathrm{~km}$.
+The radius of the Earth's umbra shadow is {{< katex display >}}R_{s}=2.56 \times 1737 \mathrm{~km} \cong 4446 \mathrm{~km}{{< /katex >}}.
 
-The correct radius is $4610 \mathrm{~km}$.
+The correct radius is {{< katex display >}}4610 \mathrm{~km}{{< /katex >}}.
 
 The percentage of error in the calculation
 
-$=\frac{4610-4446}{4610} \times 100=3.5 \%$.
+{{< katex display >}}=\frac{4610-4446}{4610} \times 100=3.5 \%{{< /katex >}}.
 
 The error will reduce if the pictures taken using a high quality telescope are used. It is to be noted that this calculation is done using very simple mathematics.
 
@@ -172,14 +172,14 @@ Early astronomers proved that Earth is spherical in shape by looking at the shap
 
 2. Why there are no lunar eclipse and solar eclipse every month?
 
-If the orbits of the Moon and Earth lie on the same plane, during full Moon of every month, we can observe lunar eclipse. If this is so during new Moon we can observe solar eclipse. But Moon's orbit is tilted $5^{\circ}$ with respect to Earth's orbit. Due to this $5^{\circ}$ tilt, only during certain periods of the year, the Sun, Earth and Moon align in straight line leading to either lunar eclipse or solar eclipse depending on the alignment. This is shown in Figure 6.35
+If the orbits of the Moon and Earth lie on the same plane, during full Moon of every month, we can observe lunar eclipse. If this is so during new Moon we can observe solar eclipse. But Moon's orbit is tilted {{< katex display >}}5^{\circ}{{< /katex >}} with respect to Earth's orbit. Due to this {{< katex display >}}5^{\circ}{{< /katex >}} tilt, only during certain periods of the year, the Sun, Earth and Moon align in straight line leading to either lunar eclipse or solar eclipse depending on the alignment. This is shown in Figure 6.35
 
 
 **3. Why do we have seasons on Earth?**
 
-The common misconception is that 'Earth revolves around the Sun, so when the Earth is very far away, it is winter and when the Earth is nearer, it is summer'. Actually, the seasons in the Earth arise due to the rotation of Earth around the Sun with $23.5^{\circ}$ tilt. This is shown in Figure 6.36
+The common misconception is that 'Earth revolves around the Sun, so when the Earth is very far away, it is winter and when the Earth is nearer, it is summer'. Actually, the seasons in the Earth arise due to the rotation of Earth around the Sun with {{< katex display >}}23.5^{\circ}{{< /katex >}} tilt. This is shown in Figure 6.36
 
-Due to this $23.5^{\circ}$ tilt, when the northern part of Earth is farther to the Sun, the southern part is nearer to the Sun. So when it is summer in the northern hemisphere, the southern hemisphere experience winter.
+Due to this {{< katex display >}}23.5^{\circ}{{< /katex >}} tilt, when the northern part of Earth is farther to the Sun, the southern part is nearer to the Sun. So when it is summer in the northern hemisphere, the southern hemisphere experience winter.
 
 
 ![](n5.png)
@@ -206,7 +206,7 @@ Using Sun rays and shadows, How will you prove that the Earth’s tilt is 23.5°
 
 **6.5.5 Recent developments of astronomy and gravitation**
 
-Till the $19^{\text {th }}$ century astronomy mainly depended upon either observation with the naked eye or telescopic observation. After the discovery of the electromagnetic spectrum at the end of the $19^{\text {th }}$ century, our understanding of the universe increased enormously. Because of this development in the late $19^{\text {th }}$ century it was found that Newton's law of gravitation could not explain certain phenomena and showed some discrepancies. Albert Einstein formulated his 'General theory of relativity' which was one of the most successful theories of $20^{\text {th }}$ century in the field of gravitation.
+Till the {{< katex display >}}19^{\text {th }}{{< /katex >}} century astronomy mainly depended upon either observation with the naked eye or telescopic observation. After the discovery of the electromagnetic spectrum at the end of the {{< katex display >}}19^{\text {th }}{{< /katex >}} century, our understanding of the universe increased enormously. Because of this development in the late {{< katex display >}}19^{\text {th }}{{< /katex >}} century it was found that Newton's law of gravitation could not explain certain phenomena and showed some discrepancies. Albert Einstein formulated his 'General theory of relativity' which was one of the most successful theories of {{< katex display >}}20^{\text {th }}{{< /katex >}} century in the field of gravitation.
 
 In the twentieth century both astronomy and gravitation merged together and have grown in manifold. The birth and death of stars were more clearly understood. Many Indian physicists made very important contributions to the field of astrophysics and gravitation.
 Subramanian Chandrasekar formulated the theory of black holes and explained the life of stars. These studies brought him the Nobel prize in the year 1983. Another very notable Indian astrophysicist Meghnad Saha discovered the ionization formula which was useful in classifying stars. This formula is now known as "Saha ionization formula". In the field of gravitation Amal Kumar Raychaudhuri solved an equation now known as "Raychaudhuri equation" which was a very important contribution. Another notable Indian Astrophysicist Jayant V Narlikar made pioneering contribution in the field of astrophysics and has written interesting books on astronomy and astrophysics. IUCAA (Inter University Center for Astronomy and Astrophysics) is one of the important Indian research institutes where active research in astrophysics and gravitation are conducted. The institute was founded by Prof. J.V. Narlikar. Students are encouraged to read more about the recent developments in these fields.
@@ -217,15 +217,15 @@ Subramanian Chandrasekar formulated the theory of black holes and explained the 
 - Kepler's first law: All the planets in the solar system orbit the Sun in elliptical orbits with the Sun at one of the foci.
 - Kepler's second law: The radial vector line joining the Sun to a planet sweeps equal areas in equal intervals of time.
 - Kepler's third law: The ratio of the square of the time period of planet to the cubic power of semi major axis is constant for all the planets in the solar system.
-- Newton's law of gravitation states that the gravitational force between two masses is directly proportional to product of masses and inversely proportional to square of the distance between the masses. In vector form it is given by $\overrightarrow{\mathrm{F}}=-\frac{G m_{1} m_{2}}{r^{2}} \hat{r}$
+- Newton's law of gravitation states that the gravitational force between two masses is directly proportional to product of masses and inversely proportional to square of the distance between the masses. In vector form it is given by {{< katex display >}}\overrightarrow{\mathrm{F}}=-\frac{G m_{1} m_{2}}{r^{2}} \hat{r}{{< /katex >}}
 - Gravitational force is a central force.
 - Kepler's laws can be derived from Newton's law of gravitation.
-- The gravitational field due to a mass $m$ at a point which is at a distance $r$ from mass $\mathrm{m}$ is given by $\overrightarrow{\mathrm{E}}=-\frac{\mathrm{Gm}}{\mathrm{r}^{2}} \hat{\mathrm{r}}$. It is a vector quantity.
-- The gravitational potential energy of two masses is given by $U=-\frac{G m_{1} m_{2}}{r}$. It is a scalar quantity.
-- The gravitational potential at a point which is at a distance $r$ from mass $m$ is given by $\mathrm{V}=-\frac{\mathrm{Gm}}{\mathrm{r}}$. It is a scalar quantity.
+- The gravitational field due to a mass {{< katex display >}}m{{< /katex >}} at a point which is at a distance {{< katex display >}}r{{< /katex >}} from mass {{< katex display >}}\mathrm{m}{{< /katex >}} is given by {{< katex display >}}\overrightarrow{\mathrm{E}}=-\frac{\mathrm{Gm}}{\mathrm{r}^{2}} \hat{\mathrm{r}}{{< /katex >}}. It is a vector quantity.
+- The gravitational potential energy of two masses is given by {{< katex display >}}U=-\frac{G m_{1} m_{2}}{r}{{< /katex >}}. It is a scalar quantity.
+- The gravitational potential at a point which is at a distance {{< katex display >}}r{{< /katex >}} from mass {{< katex display >}}m{{< /katex >}} is given by {{< katex display >}}\mathrm{V}=-\frac{\mathrm{Gm}}{\mathrm{r}}{{< /katex >}}. It is a scalar quantity.
 - The acceleration due to Earth's gravity decreases as altitude increases and as depth increases.
 - Due to rotation of the Earth, the acceleration due to gravity is maximum at poles and minimum at Earth's equator.
-- The (escape) speed of any object required to escape from the Earth's gravitational field is $\mathrm{v}_{\mathrm{e}}=\sqrt{2 \mathrm{gR}_{\mathrm{e}}}$. It is independent of mass of the object.
+- The (escape) speed of any object required to escape from the Earth's gravitational field is {{< katex display >}}\mathrm{v}_{\mathrm{e}}=\sqrt{2 \mathrm{gR}_{\mathrm{e}}}{{< /katex >}}. It is independent of mass of the object.
 - The energy of the satellite is negative. It implies that the satellite is bound to Earth's gravitational force.
 - Copernicus model explained that retrograde motion is due to relative motion between planets. This explanation is simpler than Ptolemy's epicycle explanation which is complicated
 - Copernicus and Kepler measured the distance between a planet and the Sun using simple geometry and trigonometry.
@@ -257,13 +257,13 @@ Subramanian Chandrasekar formulated the theory of black holes and explained the 
 
 (d) decrease 2 times
 
-3. A planet moving along an elliptical orbit is closest to the Sun at distance $r_{1}$ and farthest away at a distance of $r_{2}$. If $\mathrm{v}_{1}$ and $\mathrm{v}_{2}$ are linear speeds at these points respectively. Then the ratio $\frac{v_{1}}{v_{2}}$ is
+3. A planet moving along an elliptical orbit is closest to the Sun at distance {{< katex  >}}r_{1}{{< /katex >}} and farthest away at a distance of {{< katex  >}}r_{2}{{< /katex >}}. If {{< katex  >}}\mathrm{v}_{1}{{< /katex >}} and {{< katex  >}}\mathrm{v}_{2}{{< /katex >}} are linear speeds at these points respectively. Then the ratio {{< katex  >}}\frac{v_{1}}{v_{2}}{{< /katex >}} is
 
 (NEET 2016)
-(a) $\frac{r_{2}}{r_{1}}$
-(b) $\left(\frac{r_{2}}{r_{1}}\right)^{2}$
-(c) $\frac{r_{1}}{r_{2}}$
-(d) $\left(\frac{r_{1}}{r_{2}}\right)^{2}$
+(a) {{< katex >}}\frac{r_{2}}{r_{1}}{{< /katex >}}
+(b) {{< katex >}}\left(\frac{r_{2}}{r_{1}}\right)^{2}{{< /katex >}}
+(c) {{< katex >}}\frac{r_{1}}{r_{2}}{{< /katex >}}
+(d) {{< katex >}}\left(\frac{r_{1}}{r_{2}}\right)^{2}{{< /katex >}}
 
 4. The time period of a satellite orbiting Earth in a cirular orbit is independent of .
 
@@ -298,17 +298,17 @@ Subramanian Chandrasekar formulated the theory of black holes and explained the 
 
 (d) always zero
 
-8. The kinetic energies of a planet in an elliptical orbit about the Sun, at positions $A, B$ and $C$ are $K_{A}, K_{B}$ and $K_{C}$ respectively. $A C$ is the major axis and $\mathrm{SB}$ is perpendicular to $\mathrm{AC}$ at the position of the Sun $S$ as shown in the figure. Then
+8. The kinetic energies of a planet in an elliptical orbit about the Sun, at positions {{< katex >}}A, B{{< /katex >}} and {{< katex >}}C{{< /katex >}} are {{< katex >}}K_{A}, K_{B}{{< /katex >}} and {{< katex >}}K_{C}{{< /katex >}} respectively. {{< katex >}}A C{{< /katex >}} is the major axis and {{< katex >}}\mathrm{SB}{{< /katex >}} is perpendicular to {{< katex >}}\mathrm{AC}{{< /katex >}} at the position of the Sun {{< katex >}}S{{< /katex >}} as shown in the figure. Then
 
 (NEET 2018)
 
-(a) $\mathrm{K}_{\mathrm{A}}>\mathrm{K}_{\mathrm{B}}>\mathrm{K}_{\mathrm{C}}$
+(a) {{< katex >}}\mathrm{K}_{\mathrm{A}}>\mathrm{K}_{\mathrm{B}}>\mathrm{K}_{\mathrm{C}}{{< /katex >}}
 
-(b) $\mathrm{K}_{\mathrm{B}}<\mathrm{K}_{\mathrm{A}}<\mathrm{K}_{\mathrm{C}}$
+(b) {{< katex >}}\mathrm{K}_{\mathrm{B}}<\mathrm{K}_{\mathrm{A}}<\mathrm{K}_{\mathrm{C}}{{< /katex >}}
 
-(c) $\mathrm{K}_{\mathrm{A}}<\mathrm{K}_{\mathrm{B}}<\mathrm{K}_{\mathrm{C}}$
+(c) {{< katex >}}\mathrm{K}_{\mathrm{A}}<\mathrm{K}_{\mathrm{B}}<\mathrm{K}_{\mathrm{C}}{{< /katex >}}
 
-(d) $\mathrm{K}_{\mathrm{B}}>\mathrm{K}_{\mathrm{A}}>\mathrm{K}_{\mathrm{C}}$
+(d) {{< katex >}}\mathrm{K}_{\mathrm{B}}>\mathrm{K}_{\mathrm{A}}>\mathrm{K}_{\mathrm{C}}{{< /katex >}}
 
 9. The work done by the Sun's gravitational force on the Earth is
 
@@ -322,9 +322,9 @@ Subramanian Chandrasekar formulated the theory of black holes and explained the 
 
 10. If the mass and radius of the Earth are both doubled, then the acceleration due to gravity g'
 (a) remains same
-(b) $\frac{g}{2}$
-(c) $2 \mathrm{~g}$
-(d) $4 \mathrm{~g}$
+(b) {{< katex display >}}\frac{g}{2}{{< /katex >}}
+(c) {{< katex display >}}2 \mathrm{~g}{{< /katex >}}
+(d) {{< katex display >}}4 \mathrm{~g}{{< /katex >}}
 11. The magnitude of the Sun's gravitational field as experienced by Earth is
 
 (a) same over the year
@@ -346,11 +346,11 @@ Subramanian Chandrasekar formulated the theory of black holes and explained the 
 (d) increases and then decreases
 
 
-13. An object of mass $10 \mathrm{~kg}$ is hanging on a spring scale which is attached to the roof of a lift. If the lift is in free fall, the reading in the spring scale is
-(a) $98 \mathrm{~N}$
+13. An object of mass {{< katex >}}10 \mathrm{~kg}{{< /katex >}} is hanging on a spring scale which is attached to the roof of a lift. If the lift is in free fall, the reading in the spring scale is
+(a) {{< katex >}}98 \mathrm{~N}{{< /katex >}}
 (b) zero
-(c) $49 \mathrm{~N}$
-(d) $9.8 \mathrm{~N}$
+(c) {{< katex >}}49 \mathrm{~N}{{< /katex >}}
+(d) {{< katex >}}9.8 \mathrm{~N}{{< /katex >}}
 
 14. If the acceleration due to gravity becomes 4 times its original value, then escape speed
 
@@ -372,10 +372,10 @@ Subramanian Chandrasekar formulated the theory of black holes and explained the 
 
 **Answers**
 
-| 1) $\mathrm{a}$ | 2) $\mathrm{c}$ | 3) $\mathrm{a}$ | 4) $\mathrm{b}$ | 5) $\mathrm{b}$ |
+| 1) {{< katex display >}}\mathrm{a}{{< /katex >}} | 2) {{< katex display >}}\mathrm{c}{{< /katex >}} | 3) {{< katex display >}}\mathrm{a}{{< /katex >}} | 4) {{< katex display >}}\mathrm{b}{{< /katex >}} | 5) {{< katex display >}}\mathrm{b}{{< /katex >}} |
 | ---: | ---: | ---: | ---: | ---: |
-| 6) $\mathrm{b}$ | 7) $\mathrm{b}$ | 8) $\mathrm{a}$ | 9) $\mathrm{c}$ | 10) $\mathrm{b}$ |
-| 11) $\mathrm{c}$ | 12) $\mathrm{b}$ | 13) $\mathrm{b}$ | 14) $\mathrm{b}$ | 15) $\mathrm{b}$ |
+| 6) {{< katex display >}}\mathrm{b}{{< /katex >}} | 7) {{< katex display >}}\mathrm{b}{{< /katex >}} | 8) {{< katex display >}}\mathrm{a}{{< /katex >}} | 9) {{< katex display >}}\mathrm{c}{{< /katex >}} | 10) {{< katex display >}}\mathrm{b}{{< /katex >}} |
+| 11) {{< katex display >}}\mathrm{c}{{< /katex >}} | 12) {{< katex display >}}\mathrm{b}{{< /katex >}} | 13) {{< katex display >}}\mathrm{b}{{< /katex >}} | 14) {{< katex display >}}\mathrm{b}{{< /katex >}} | 15) {{< katex display >}}\mathrm{b}{{< /katex >}} |
 
 **II . Short Answer Questions**
 
@@ -401,12 +401,12 @@ Subramanian Chandrasekar formulated the theory of black holes and explained the 
 2. Explain how Newton arrived at his law of gravitation from Kepler's third law.
 3. Explain how Newton verified his law of gravitation.
 4. Derive the expression for gravitational potential energy.
-5. Prove that at points near the surface of the Earth, the gravitational potential energy of the object is $U=m g h$
+5. Prove that at points near the surface of the Earth, the gravitational potential energy of the object is {{< katex display >}}U=m g h{{< /katex >}}
 6. Explain in detail the idea of weightlessness using lift as an example.
 7. Derive an expression for escape speed.
-8. Explain the variation of $g$ with lattitude.
-9. Explain the variation of $g$ with altitude.
-10. Explain the variation of $g$ with depth from the Earth's surface.
+8. Explain the variation of {{< katex display >}}g{{< /katex >}} with lattitude.
+9. Explain the variation of {{< katex display >}}g{{< /katex >}} with altitude.
+10. Explain the variation of {{< katex display >}}g{{< /katex >}} with depth from the Earth's surface.
 11. Derive the time period of satellite orbiting the Earth.
 12. Derive an expression for energy of satellite.
 13. Explain in detail the geostationary and polar satellites.
@@ -416,9 +416,9 @@ Subramanian Chandrasekar formulated the theory of black holes and explained the 
 
 **IV. Exercises**
 
-1. An unknown planet orbits the Sun with distance twice the semi major axis distance of the Earth's orbit. If the Earth's time period is $T_{1}$, what is the time period of this unknown planet?
+1. An unknown planet orbits the Sun with distance twice the semi major axis distance of the Earth's orbit. If the Earth's time period is {{< katex display >}}T_{1}{{< /katex >}}, what is the time period of this unknown planet?
 
-Ans: $T_{2}=2 \sqrt{2} T_{1}$
+Ans: {{< katex display >}}T_{2}=2 \sqrt{2} T_{1}{{< /katex >}}
 
 2. Assume that you are in another solar system and provided with the set of data given below consisting of the planets' semi major axes and time periods. Can you infer the relation connecting semi major axis and time period?
 
@@ -434,89 +434,89 @@ Ans: $T_{2}=2 \sqrt{2} T_{1}$
 
 Ans: No change
 
-4. Two bodies of masses $\mathrm{m}$ and $4 \mathrm{~m}$ are placed at a distance $\mathrm{r}$. Calculate the gravitational potential at a point on the line joining them where the gravitional field is zero.
+4. Two bodies of masses {{< katex display >}}\mathrm{m}{{< /katex >}} and {{< katex display >}}4 \mathrm{~m}{{< /katex >}} are placed at a distance {{< katex display >}}\mathrm{r}{{< /katex >}}. Calculate the gravitational potential at a point on the line joining them where the gravitional field is zero.
 
-$$
+{{< katex display >}}
 \text { Ans: } V=-\frac{9 G m}{r}
-$$
+{{< /katex >}}
 
-5. If the ratio of the orbital distance of two planets $\frac{\mathrm{d}_{1}}{\mathrm{~d}_{2}}=2$, what is the ratio of gravitational field experienced by these two planets?
+5. If the ratio of the orbital distance of two planets {{< katex display >}}\frac{\mathrm{d}_{1}}{\mathrm{~d}_{2}}=2{{< /katex >}}, what is the ratio of gravitational field experienced by these two planets?
 
-$$
+{{< katex display >}}
 \text { Ans: } \mathrm{E}_{2}=4 \mathrm{E}_{1}
-$$
+{{< /katex >}}
 
-6. The Moon Io orbits Jupiter once in 1.769 days. The orbital radius of the Moon Io is $421700 \mathrm{~km}$. Calculate the mass of Jupiter?
+6. The Moon Io orbits Jupiter once in 1.769 days. The orbital radius of the Moon Io is {{< katex display >}}421700 \mathrm{~km}{{< /katex >}}. Calculate the mass of Jupiter?
 
-Ans: $1.898 \times 10^{27} \mathrm{~kg}$
+Ans: {{< katex display >}}$1.898 \times 10^{27} \mathrm{~kg}{{< /katex >}}
 
-7. If the angular momentum of a planet is given by $\overrightarrow{\mathrm{L}}=5 \mathrm{t}^{2} \hat{\mathrm{i}}-6 \mathrm{t} \hat{\mathrm{j}}+3 \hat{\mathrm{k}}$ What is the torque experienced by the planet? Will the torque be in the same direction as that of the angular momentum?
+7. If the angular momentum of a planet is given by {{< katex display >}}\overrightarrow{\mathrm{L}}=5 \mathrm{t}^{2} \hat{\mathrm{i}}-6 \mathrm{t} \hat{\mathrm{j}}+3 \hat{\mathrm{k}}{{< /katex >}} What is the torque experienced by the planet? Will the torque be in the same direction as that of the angular momentum?
 
-$$
+{{< katex display >}}
 \text { Ans: } \vec{\tau}=10 t \hat{i}-6 \hat{j}
-$$
+{{< /katex >}}
 
-8. Four particles, each of mass $M$ and equidistant from each other, move along a circle of radius $\mathrm{R}$ under the action of their mutual gravitational attraction. Calculate the speed of each particle
+8. Four particles, each of mass {{< katex display >}}M{{< /katex >}} and equidistant from each other, move along a circle of radius {{< katex display >}}\mathrm{R}{{< /katex >}} under the action of their mutual gravitational attraction. Calculate the speed of each particle
 
-$$
+{{< katex display >}}
 \text { Ans: } \frac{1}{2} \sqrt{\frac{G M}{R}(1+2 \sqrt{2})}
-$$
+{{< /katex >}}
 
-9. Suppose unknowingly you wrote the universal gravitational constant value as $G=6.67 \times 10^{11}$ instead of the correct value $G=6.67 \times 10^{-11}$, what is the acceleration due to gravity g' for this incorrect G? According to this new acceleration due to gravity, what will be your weight W'?
+9. Suppose unknowingly you wrote the universal gravitational constant value as {{< katex display >}}G=6.67 \times 10^{11}{{< /katex >}} instead of the correct value {{< katex display >}}G=6.67 \times 10^{-11}{{< /katex >}}, what is the acceleration due to gravity g' for this incorrect G? According to this new acceleration due to gravity, what will be your weight W'?
 
-$$
+{{< katex display >}}
 \text { Ans: } g^{\prime}=10^{22} g, W^{\prime}=10^{22} \mathrm{~W}
-$$
+{{< /katex >}}
 
-10. Calculate the gravitational field at point $\mathrm{O}$ due to three masses $\mathrm{m}_{1}, \mathrm{~m}_{2}$ and $\mathrm{m}_{3}$ whose positions are given by the following figure. If the masses $m_{1}$ and $\mathrm{m}_{2}$ are equal what is the change in gravitational field at the point $\mathrm{O}$ ?
+10. Calculate the gravitational field at point {{< katex  >}}\mathrm{O}{{< /katex >}} due to three masses {{< katex  >}}\mathrm{m}_{1}, \mathrm{~m}_{2}{{< /katex >}} and {{< katex  >}}\mathrm{m}_{3}{{< /katex >}} whose positions are given by the following figure. If the masses {{< katex  >}}m_{1}{{< /katex >}} and {{< katex  >}}\mathrm{m}_{2}{{< /katex >}} are equal what is the change in gravitational field at the point {{< katex  >}}\mathrm{O}{{< /katex >}} ?
 
-$$
+{{< katex  >}}
 \begin{aligned}
 & \text { Ans: } \vec{E}=\frac{G}{a^{2}}\left[\left(m_{1}-m_{2}\right) i+m_{3} j\right] \\
 & \quad \text { if } m_{1}=m_{2}, \vec{E}=\frac{G}{a^{2}}\left[m_{3} \hat{j}\right]
 \end{aligned}
-$$
+{{< /katex >}}
 
-11. What is the gravitational potential energy of the Earth and Sun? The Earth to Sun distance is around 150 million $\mathrm{km}$. The mass of the Earth is $5.9 \times 10^{24} \mathrm{~kg}$ and mass of the Sun is $1.9 \times 10^{30} \mathrm{~kg}$.
+11. What is the gravitational potential energy of the Earth and Sun? The Earth to Sun distance is around 150 million {{< katex  >}}\mathrm{km}{{< /katex >}}. The mass of the Earth is {{< katex  >}}5.9 \times 10^{24} \mathrm{~kg}{{< /katex >}} and mass of the Sun is {{< katex  >}}1.9 \times 10^{30} \mathrm{~kg}{{< /katex >}}.
 
-Ans: $\mathrm{U}=-49.84 \times 10^{32}$ Joule
+Ans: {{< katex  >}}\mathrm{U}=-49.84 \times 10^{32}{{< /katex >}} Joule
 
-12. Earth revolves around the Sun at 30 $\mathrm{km} \mathrm{s}^{-1}$. Calculate the kinetic energy of the Earth. In the previous example you calculated the potential energy of the Earth. What is the total energy of the Earth in that case? Is the total energy positive? Give reasons.
+12. Earth revolves around the Sun at 30 {{< katex  >}}\mathrm{km} \mathrm{s}^{-1}{{< /katex >}}. Calculate the kinetic energy of the Earth. In the previous example you calculated the potential energy of the Earth. What is the total energy of the Earth in that case? Is the total energy positive? Give reasons.
 
-$$
+{{< katex  >}}
 \begin{array}{r}
 \text { Ans: } \mathrm{K} . \mathrm{E}=26.5 \times 10^{32} \mathrm{~J} \\
 \qquad \mathrm{E}=-23.29 \times 10^{32} \mathrm{~J}
 \end{array}
-$$
+{{< /katex >}}
 
 (-) ve implies that Earth is bounded with Sun
 
 13. An object is thrown from Earth in such a way that it reaches a point at infinity with non-zero kinetic energy
-$\left[\mathrm{K} . \mathrm{E}(\mathrm{r}=\infty)=\frac{1}{2} \mathrm{Mv}_{\infty}{ }^{2}\right]$, with what velocity should the object be thrown from Earth?
+{{< katex display >}}\left[\mathrm{K} . \mathrm{E}(\mathrm{r}=\infty)=\frac{1}{2} \mathrm{Mv}_{\infty}{ }^{2}\right]{{< /katex >}}, with what velocity should the object be thrown from Earth?
 
-$$
+{{< katex display >}}
 \text { Ans: } v_{e}=\sqrt{v_{\infty}^{2}+2 g R_{E}}
-$$
+{{< /katex >}}
 
-14. Suppose we go $200 \mathrm{~km}$ above and below the surface of the Earth, what are the $g$ values at these two points? In which case, is the value of $g$ small?
+14. Suppose we go {{< katex display >}}200 \mathrm{~km}{{< /katex >}} above and below the surface of the Earth, what are the {{< katex display >}}g{{< /katex >}} values at these two points? In which case, is the value of {{< katex display >}}g{{< /katex >}} small?
 
-$$
+{{< katex display >}}
 \text { Ans: } \begin{aligned}
 \mathrm{g}_{\text {down }} & =0.96 \mathrm{~g} \\
 \mathrm{~g}_{\text {up }} & =0.94 \mathrm{~g}
 \end{aligned}
-$$
+{{< /katex >}}
 
-15. Calculate the change in $g$ value in your district of Tamil nadu. (Hint: Get the latitude of your district of Tamil nadu from the Google). What is the difference in $g$ values at Chennai and Kanyakumari?
+15. Calculate the change in {{< katex display >}}g{{< /katex >}} value in your district of Tamil nadu. (Hint: Get the latitude of your district of Tamil nadu from the Google). What is the difference in {{< katex display >}}g{{< /katex >}} values at Chennai and Kanyakumari?
 
-$$
+{{< katex display >}}
 \begin{aligned}
 \text { Ans: } \mathrm{g}_{\text {chennai }} & =9.7677 \mathrm{~m} \mathrm{~s}^{-2} \\
 \mathrm{~g}_{\text {Kanyakumari }} & =9.7667 \mathrm{~m} \mathrm{~s}^{-2} \\
 \Delta \mathrm{g} & =0.001 \mathrm{~m} \mathrm{~s}^{-2}
 \end{aligned}
-$$
+{{< /katex >}}
 
 **V. Conceptual Questions**
 

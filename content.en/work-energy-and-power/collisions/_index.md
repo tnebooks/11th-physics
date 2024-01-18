@@ -8,26 +8,20 @@ weight: 4
 
 # COLLISIONS
 
-
 Collision is a common phenomenon that happens around us every now and then. For example, carom, billiards, marbles, etc. Collisions can happen between two bodies with or without physical contacts.
 
-Linear momentum is conserved in all collision processes. When two bodies collide, the mutual impulsive forces acting between them during the collision time ($$\Delta t$$) produces a change in their respective momenta. That is, the first body exerts a force $$\vec{F}_{21}$$ on the second body. From Newton’s third law, the second body exerts a force $$\vec{F}_{12}$$ on the first body. This causes a change in momentum $$\Delta \vec{p}_1$$ and $$\Delta \vec{p}_2$$ of the first body and second body respectively. Now, the relations could be written as,
+Linear momentum is conserved in all collision processes. When two bodies collide, the mutual impulsive forces acting between them during the collision time ($$\Delta$$ t) produces a change in their respective momenta. That is, the first body exerts a force $$ \vec{F}$$_$${21}$$ on the second body. From Newton’s third law, the second body exerts a force $$\vec{F}$$_$${12}$$ on the first body. This causes a change in momentum $$\Delta \vec{p}_1$$ and $$\Delta$$ $$\vec{p}$$_2 of the first body and second body respectively. Now, the relations could be written as,
 
-$$
-\Delta \vec{p}_1 = \vec{F}_{12} \cdot \Delta t \quad (4.44)
-$$
+$$ \Delta $$ $$\vec{p} $$_1 = $$\vec{F}$$_ $${12}$$ $$\cdot \Delta t \quad $$ (4.44)
 
-$$
-\Delta \vec{p}_2 = \vec{F}_{21} \cdot \Delta t \quad (4.45)
-$$
+$$ \Delta \vec{p} $$ _2 = $$ \vec{F} $$ _ $$ {21} $$ $$ \cdot \Delta t \quad (4.45) $$
 
 Adding equation (4.44) and equation (4.45), we get
 
-$$
-\Delta \vec{p}_1 + \Delta \vec{p}_2 = \vec{F}_{12} \cdot \Delta t + \vec{F}_{21} \cdot \Delta t \quad (4.46)
-$$
+$$\Delta$$ $$\vec{p}$$_1 + $$\Delta$$ $$\vec{p}$$_2 = $$\vec{F}$$_{12} $$\cdot$$ $$\Delta$$ t + $$\vec{F}$$_$${21}$$ $$\cdot$$ $$\Delta$$ t $$\quad $$ (4.46)
 
-According to Newton’s third law, $$\vec{F}_{12} = -\vec{F}_{21}$$, so $$\Delta \vec{p}_1 + \Delta \vec{p}_2 = \vec{0}$$.
+According to Newton’s third law, $$\vec{F}$$_$${12}$$ = -$$\vec{F}$$_$${21}$$, so $$\Delta \vec{p}_1 + \Delta \vec{p}_2 = \vec{0}$$.
+
 
 Dividing both sides by $$\Delta t$$ and taking the limit $$\Delta t \to 0$$, we get
 
@@ -206,7 +200,7 @@ As the two speeds $$v_1$$ and $$v_2$$ are positive, they move in the same direct
 
 
 
-### Perfect inelastic collision
+## Perfect inelastic collision
 
 In a perfectly inelastic or completely inelastic collision, the objects stick together permanently after collision such that they move with common velocity. Let the two bodies with masses $$m_1$$ and $$m_2$$ move with initial velocities $$u_1$$ and $$u_2$$ respectively before collision. After a perfect inelastic collision, both objects move together with a common velocity $$v$$ as shown in Figure (4.17).
 
@@ -276,7 +270,7 @@ Substituting equation (4.63) in equation (4.66), and on simplifying (expand v by
 
 Loss of KE, $$\Delta Q = \frac{1}{2} m_1 u_1^2 - \frac{1}{2} m_2 u_2^2$$
 
-### Coefficient of restitution (\(e\))
+## Coefficient of restitution (\(e\))
 
 Suppose we drop a rubber ball and a plastic ball on the same floor. The rubber ball will bounce back higher than the plastic ball. This is because the loss of kinetic energy for an elastic ball is much less than the loss of kinetic energy for a plastic ball. The amount of kinetic energy after the collision of two bodies, in general, can be measured through a dimensionless number called the coefficient of restitution (COR).
 

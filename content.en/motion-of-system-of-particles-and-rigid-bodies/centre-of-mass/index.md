@@ -77,7 +77,7 @@ The equation further simplifies as,
 {{< /katex >}}
 
 Where:
--{{< katex display >}}( x_{1} \), ( m_{1}), ( x_{2} \), ( m_{2} \), ( m_{\text{CM}} {{< /katex >}}) represent the respective variables,
+-{{< katex display >}}( x_{1} ), ( m_{1}), ( x_{2} ), ( m_{2} ), ( m_{\text{CM}} ){{< /katex >}} represent the respective variables,
 - Subscripts "1 2 2" and "1 2" represent specific values for the variables.
 
 

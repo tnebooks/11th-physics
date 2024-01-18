@@ -18,7 +18,7 @@ _“In nature, we have to deal not with material points but with material bodies
 • rolling motion, slipping and sliding motions.
 
 ---
-##INTRODUCTION
+<!-- # INTRODUCTION
 
 
 Most of the objects that we come across in our day to day life consist of large number of particles. In the previous Units, we studied the motion of bodies without considering their size and shape. So far we have treated even the bulk bodies as only point objects. In this section, we will give importance to the size and shape of the bodies. These bodies are actually made up of a large number of particles. When such a body moves, we consider it as the motion of collection of particles as a whole. We define the concept of centre of mass to deal with such a system of particles.
@@ -26,11 +26,11 @@ Most of the objects that we come across in our day to day life consist of large 
 The forces acting on these bulk bodies are classified into internal and external _forces_. Internal forces are the forces acting among the particles within a system that constitute the body. External forces are the forces acting on the particles of a system from outside. In this unit, we deal with such system of particles which make different rigid bodies. A rigid body is the _one which maintains its definite and fixed shape even when an external force acts on it_. This means that, the interatomic distances do not change in a rigid body when an external force is applied. However, in real life situation, we have bodies which are not ideally rigid, because the shape and size of the body change when forces act on them. For the rigid bodies we study here, we assume that such deformations are negligible. The deformations produced on non-rigid bodies are studied separately in Unit 7 under elasticity of solids.
 
 
-### CENTRE OF MASS
+## CENTRE OF MASS
 
-When a rigid body moves, all particles that constitute the body need not take the same path. Depending on the type of motion, different particles of the body may take different paths. For example, when a wheel rolls on a surface, the path of the centre point of the wheel and the paths of other points of the wheel are different. In this Unit, we study about the translation, rotation and the combination of these motions of rigid bodies in detail.
+When a rigid body moves, all particles that constitute the body need not take the same path. Depending on the type of motion, different particles of the body may take different paths. For example, when a wheel rolls on a surface, the path of the centre point of the wheel and the paths of other points of the wheel are different. In this Unit, we study about the translation, rotation and the combination of these motions of rigid bodies in detail. -->
 
-### Centre of Mass of a Rigid Body
+<!-- ## Centre of Mass of a Rigid Body
 
 When a bulk object (say a bat) is thrown at an angle in air as shown in Figure 5.1; do all the points of the body take a parabolic path? Actually, only one point takes the parabolic path and all the other points take different paths.
 ![Alt text](image.png)
@@ -38,9 +38,9 @@ When a bulk object (say a bat) is thrown at an angle in air as shown in Figure 5
 
 The one point that takes the parabolic path is a very special point called _centre of mass_ (CM) of the body. Its motion is like the motion of a single point that is thrown. The _centre of mass of a body is defined as a point where the entire mass of the body appears to be concentrated. Therefore, this point can_ represent the entire body.  
 
-For bodies of regular shape and uniform mass distribution, the centre of mass is at the geometric centre of the body. As examples, for a circle and sphere, the centre of mass is at their centres; for square and rectangle, at the point their diagonals meet; for cube and cuboid, it is at the point where their body diagonals meet. For other bodies, the centre of mass has to be determined using some methods. The centre of mass could be well within the body and in some cases outside the body as well.
+For bodies of regular shape and uniform mass distribution, the centre of mass is at the geometric centre of the body. As examples, for a circle and sphere, the centre of mass is at their centres; for square and rectangle, at the point their diagonals meet; for cube and cuboid, it is at the point where their body diagonals meet. For other bodies, the centre of mass has to be determined using some methods. The centre of mass could be well within the body and in some cases outside the body as well. -->
 
-### Centre of Mass for Distributed Point Masses
+<!-- ## Centre of Mass for Distributed Point Masses
 
 _A point mass is a hypothetical point particle which has nonzero mass and no size or shape_. To find the centre of mass for a collection of n point masses, say, m1, m2, m3 . . . mn we have to first choose an origin and an appropriate coordinate system as shown in Figure 5.2. Let, x1, x2, x3 . . . xn be the X-coordinates of the positions of these point masses in the X direction from the origin.
 ![Alt text](image-1.png)
@@ -48,74 +48,49 @@ _A point mass is a hypothetical point particle which has nonzero mass and no siz
 
 The equation for the x coordinate of the centre of mass is,
 
-x m x mCM
+\[ x_{\text{CM}} = \frac{\sum_{i} m_i x_i}{\sum_{i} m_i} \]
 
-i i
+where \( \sum m_i \) is the total mass \( M \) of all the particles,
 
-i
-
-  
-
-where, Σmi is the total mass M of all the particles,   m Mi . Hence,
-
-x m x MCM
-
-i i  (5.1)
+\[ x_{\text{CM}} = \frac{\sum_{i} x_i m_i}{M} \quad (5.1) \]
 
 Similarly, we can also find y and z coordinates of the centre of mass for these distributed point masses as indicated in Figure (5.2).
 
-y m y MCM
+\[ y_{\text{CM}} = \frac{\sum_{i} y_i m_i}{M} \quad (5.2) \]
 
-i i  (5.2)
+\[ z_{\text{CM}} = \frac{\sum_{i} z_i m_i}{M} \quad (5.3) \]
 
-z m z MCM
-
-i i  (5.3)
 
 Hence, the position of centre of mass of these point masses in a Cartesian coordinate system is (xCM, yCM, zCM). In general, the position of centre of mass can be written in a vector form as,
 
- 
 
-r m r MCM
+\[ \vec{r}_{\text{CM}} = \sum_{i} \frac{m_i \vec{r}_i}{M} \quad (5.4) \]
 
-i i= ∑ (5.4)
 
-where,     CM CM CM CMr x i y j z ˆˆ ˆ k is the position vector of the centre of mass and 
-i i i ir x i y k̂ˆ ĵ z    is the position vector of the distributed point mass; where, i, j ˆ ˆ and k̂ are the unit vectors along X, Y and Z-axes respectively.  
+where, \( \vec{r}_{\text{CM}} = \sum_{i} \frac{m_i \vec{r}_i}{M} \) is the position vector of the center of mass and \( \vec{r}_i = x_i \hat{i} + y_i \hat{j} + z_i \hat{k} \) is the position vector of the distributed point mass. Here, \(\hat{i}, \hat{j},\) and \(\hat{k}\) are the unit vectors along X, Y, and Z-axes respectively. -->
+  
 
-### Centre of Mass of Two Point Masses
+<!-- ## Centre of Mass of Two Point Masses
 
 With the equations for centre of mass, let us find the centre of mass of two point masses m1 and m2, which are at positions x1 and x2 respectively on the X-axis. For this case, we can express the position of centre of mass in the following three ways based on the choice of the coordinate system.
 
 _(i) When the masses are on positive X-axis:_ The origin is taken arbitrarily so that the masses m1 and m2 are at positions x1 and x2 on the positive X-axis as shown in Figure 5.3(a). The centre of mass will also be on the positive X-axis at xCM as given by the equation,
 
-x m x m x m mCM 
+\[ x_{1} m_{1} x_{2} m_{2} x_{\text{CM}} \]
 
- 
 
-1 1 2 2
-
-1 2
 
 _(ii) When the origin coincides with any one of the masses:_ The calculation could be minimised if the origin of the coordinate system is made to coincide with any one of the masses as shown in Figure 5.3(b). When the origin coincides with the point mass m1, its position x1 is zero, (i.e. x1 = 0). Then,
 
-x m m x
-
-m mCM     
-
-1 2 2
-
-1 2
-
-0
+\[ x_{1} m_{1} x_{2} m_{2} x_{\text{CM}} \]
 
 The equation further simplifies as,
+\[ x_{1} m_{1} x_{2} m_{2} m_{\text{CM}} \]
 
-x m x m mCM 
+Where:
+- \( x_{1} \), \( m_{1} \), \( x_{2} \), \( m_{2} \), \( m_{\text{CM}} \) represent the respective variables,
+- Subscripts "1 2 2" and "1 2" represent specific values for the variables.
 
- 2 2
-
-1 2
 
 _(iii) When the origin coincides with the centre of mass itself:_ If the origin of the coordinate system is made to coincide with the centre of mass,then, xCM = 0 and the mass m1 is found to be on the negative X-axis as shown in Figure 5.3(c). Hence, its position x1 is negative, (i.e. -x1).
 
@@ -137,42 +112,32 @@ _(i) To find centre of mass from the origin:_ The point masses are at positions,
 
 The centre of mass xCM can be obtained using equation 5.4.
 
-x m x m x
+\[ x_{\text{CM}} = \frac{(x_{1} m_{1} + x_{2} m_{2})}{(m_{1} + m_{2})} \]
 
-m mCM = + +
+\[ x_{\text{CM}} = \frac{(3x_{1} + 5x_{2})}{8} \]
 
-1 1 2 2
+\[ x_{\text{CM}} = \frac{3x_{1} + 5x_{2}}{8} \]
 
-1 2
+\[ x_{\text{CM}} = \frac{12x_{1} + 40x_{2}}{52} \]
 
-xCM = ×( ) + ×( )
+\[ x_{\text{CM}} = \frac{6x_{1} + 20x_{2}}{26} = 6.5 \]
 
-\+ 3 4 5 8
-
-3 5
-
-x mCM = + = =12 40 8
-
-52 8
-
-6 5.
 
 The centre of mass is located 6.5 m from the origin on X-axis.
 
 _(ii) To find the centre of mass from 3 kg mass:_ The origin is shifted to 3 kg mass along X-axis. The position of 3 kg point mass is zero (x1 = 0) and the position of 5 kg point mass is 4 m from the shifted origin (x2 = 4 m).
 ![Alt text](image-4.png)
   
-xCM = ×( ) + ×( )
+\[ x_{\text{CM}} = \frac{(3 \times 0 + 5 \times 4)}{(3 + 5)} \]
 
-\+ 3 0 5 4
+\[ x_{\text{CM}} = \frac{(0 + 20)}{8} \]
 
-3 5
+\[ x_{\text{CM}} = \frac{20}{8} \]
 
-x mCM = + = =0 20 8
+\[ x_{\text{CM}} = \frac{5}{2} \]
 
-20 8
+\[ x_{\text{CM}} = 2.5 \]
 
-2 5.
 
 The centre of mass is located 2.5 m from 3 kg point mass, (and 1.5 m from the 5 kg point mass) on X-axis.
 
@@ -188,28 +153,23 @@ From a uniform disc of radius R, a small disc of radius R2 is cut and removed as
 
 **_Solution_**
 
-Let us consider the mass of the uncut full disc be M. Its centre of mass would be at the geometric centre of the disc on which the origin coincides.
-Let the mass of the small disc cut and removed be m and its centre of mass is at a position R 2 to the right of the origin as shown in the figure.  
+Let the mass of the small disc cut and removed be $\mathrm{m}$ and its centre of mass is at a position $\frac{R}{2}$ to the right of the origin as shown in the figure.  
 ![Alt text](image-5.png)
 Hence, the remaining portion of the disc should have its centre of mass to the left of the origin; say, at a distance x. We can write from the principle of moments,
-M m x m R-( ) = ( ) 2 x m M m R= -( )     2 If s is the surface mass density (i.e. mass per unit surface area), s  M R 2 ; then, the mass m of small disc is, m surface mass density surfacearea= × m R          2 2 m M R R M R R M                   2 2 2 2 2 4 4 substituting m in the expression for x x M M M R M M R x R \= −      × =       × \= 4 4 
+\[ m \cdot \frac{x}{m} \cdot R - \left(\frac{M}{m}\right)^2 \]
 
-| 3 kg p5 kg p(ii), tapt |xxm |() ()30× +×54=35+02+ 0 20= == 25.8 8CMe o f m ass i s lo cated 2.5CMt m ass, (a nd 1.5 m ft mass) on X-axis. |
-|------|------|------|------|
-| m f rom rom t he |
-| e cen troinoin |
-| is r esult s hows t hat t he cen tre o f mass is located closer to larger mass. If  the  origin  is s hied  to t he  centre of m ass, t hen t he p rinciple o f moments h olds g ood.  mx = mx ;32 ..55  15 ; 75.. = 7511 22 |
-| When w e co mpare c ase (i) w ith c ase he  xm = 25.  f rom 3 kg m ass could lso b e o btained b y s ubtracting 4  m (t he osition o f 3 kg m ass) f rom 6.5 m, w here he centre of mass was located in case (i)CM |
+ If σ is the surface mass density (i.e. mass per unit surface area), \[ σ = \frac{M}{\pi R^2} \]
+ ; then, the mass m of small disc is, m surface mass density surfacearea= × \[ m \cdot s = \frac{M}{\pi R^2} \]
+
+Substituting \( m \) in the expression for \( x \):
+
+\[ x = \frac{M - \sqrt{M(M-4mR)}}{2m} \]
+
+\[ x = \frac{M + \sqrt{M(M-4mR)}}{2m} \]
 
 
-| ms=×urfacem  Mm   Rsubstitux = MRx =6 | R 2 ting m in tM2 |
-|------|------|
-| 4 |
-| M |
-| −4 |
-  
-
-The centre of mass of the remaining portion is at a distance R 6 to the left from the centre of the disc.
+The centre of mass of the remaining portion is at a distance \( \frac{r}{6} \)
+ to the left from the centre of the disc.
 
 ---
 - If, the small disc is removed concentrically from the large disc, what will be the position of the centre of mass of the remaining portion of disc?
@@ -217,19 +177,28 @@ The centre of mass of the remaining portion is at a distance R 6 to the left fro
 ---
 **EXAMPLE 5.3**
 
-The position vectors of two point masses 10 kg and 5 kg are ˆˆˆ( 3 2 4 )_i j k_   m and
-
-ˆˆˆ(3 6 5 )_i j k_  m respectively. Locate the position of centre of mass.
+The position vectors of two point masses $10 \mathrm{~kg}$ and $5 \mathrm{~kg}$ are $(-3 \hat{i}+2 \hat{j}+4 \hat{k}) \mathrm{m}$ and $(3 \hat{i}+6 \hat{j}+5 \hat{k}) \mathrm{m}$ respectively. Locate the position of centre of mass.
 
 **_Solution_**
-                1 2 1 2 1 1 2 2 1 2 10 5 ˆˆˆ( 3 2 4 ) ˆˆˆ(3 6 5 ) _m kg_ _m kg_ _r i j k m_ _r i j k m_ _m r m rr m m_   _r_        ˆ ˆˆ ˆˆ ˆ10( 3 2 4 ) 5(3 6 5 ) 10 5 _i j k i j k_ ˆ ˆˆ ˆˆ ˆ30 20 40 15 30 25 15 ˆˆˆ15 50 65 15 _i j k i j k_ _i j k_            _r_ \=       10 13 ˆˆˆ 3 3 _i j k m_
-The centre of mass is located at position r .
 
-xx  
+$$
+\begin{aligned}
+m_{1} & =10 k g \\
+m_{2} & =5 k g \\
+\vec{r}_{1} & =(-3 \hat{i}+2 \hat{j}+4 \hat{k}) m \\
+\vec{r}_{2} & =(3 \hat{i}+6 \hat{j}+5 \hat{k}) m \\
+\vec{r} & =\frac{m_{1} \vec{r}_{1}+m_{2} \vec{r}_{2}}{m_{1}+m_{2}} \\
+\therefore \vec{r} & =\frac{10(-3 \hat{i}+2 \hat{j}+4 \hat{k})+5(3 \hat{i}+6 \hat{j}+5 \hat{k})}{10+5} \\
+& =\frac{-30 \hat{i}+20 \hat{j}+40 \hat{k}+15 \hat{i}+30 \hat{j}+25 \hat{k}}{15} \\
+\vec{r} & =\left(-\hat{i}+\frac{10}{3} \hat{j}+\frac{13}{3} \hat{k}\right) m
+\end{aligned}
+$$
 
-### Centre of mass for uniform distribution of mass
+The centre of mass is located at position $\vec{r}$. -->
 
-If the mass is uniformly distributed in a bulk object, then a small mass (Dm) of the body can be treated as a point mass and the summations can be done to obtain the expressions for the coordinates of centre of mass.
+<!-- ## Centre of mass for uniform distribution of mass
+
+If the mass is uniformly distributed in a bulk object, then a small mass $(\Delta \mathrm{m})$ of the body can be treated as a point mass and the summations can be done to obtain the expressions for the coordinates of centre of mass.
 
 On the other hand, if the small mass taken is infinitesimally\* small (dm) then, the summations can be replaced by integrations as given below.
 
@@ -239,9 +208,10 @@ Locate the centre of mass of a uniform rod of mass M and length .
 
 **_Solution_**
 
-Consider a uniform rod of mass M and length  whose one end coincides with the origin as shown in Figure. The rod is kept along the x axis. To find the centre of mass
-x m x m y m y m z m z m CM i i i CM i i i CM i i i \= ( ) \= ( ) \= ( ) ∑ ∑ ∑ ∑ ∑ ∑ ∆ ∆ ∆ ∆ ∆ ∆ x x y y z z CM i i i CM i i i CM i i i ( ) ( ) ( ) x m x m y m y m z m z m CM i i i CM i i i CM i i i \= ( ) \= ( ) \= ( ) ∆ ∆ ∆ ∆ ∆ ∆ (5.5) x xdm dm y ydm dm z zdm dm cm cm cm          ; ; xdm dm y ydm dm z zdm dm cm cm cm          ; ; xd d y yd d z zd d cm cm cm          ; ; (5.6)
-∗ Infinitesimal quantity is an extremely small quantity.
+Consider a uniform rod of mass $\mathrm{M}$ and length $\ell$ whose one end coincides with the origin as shown in Figure. The rod is kept along the $\mathrm{x}$ axis. To find the centre of mass
+
+* Infinitesimal quantity is an extremely small quantity.
+
 
 | e centre of mass of the remaining portion Ris at a distance   to the le from the centre 6of the disc. If, t he sm all di sc i s r emoved concentrically f rom t he l arge di sc, what w ill b e t he p osition o f t he centre  of  mass o f  the  remaining portion of disc? |
 |------|
@@ -391,9 +361,9 @@ The other fragment falls at a distance of 1.375R from the point of launching. (H
 | where, v  is the relative velocity of the boat with respect to 
 the walking m an.v  03. 32 21vm  23. 3 se negative sign in the answer implies that 21the b oat a ppears t o m ove in t he o pposite 1direction t o t21 he m an wa lking in t he boat.e m agnitude o f t he r elativevelocity o f t he b oat w ith r espect t othe wa lking m an i s g reater t han t hemagnitude of t he r elative v elocity o fthe boat with respect to the stationar yobserver.e n egative sig ns in t he t wo answers in dicate t he  opposite direction o f t he b oat w ith r espect to  the s tationar y o bser ver a nd  the walking man on the boat. |
 |------|
-rFsin   
+rFsin    -->
 
-## TORQUE AND ANGULAR MOMENTUM
+<!-- ## TORQUE AND ANGULAR MOMENTUM
 
 When a net force acts on a body, it produces linear motion in the direction of the applied force. If the body is fixed to a point or an axis, such a force rotates the body depending on the point of application of the force on the body. This ability of the force to produce rotational motion in a body is called torque or moment of force. Examples for such motion are plenty in day to day life. To mention a few; the opening and closing of a door about the hinges and turning of a nut using a wrench.
 
@@ -609,9 +579,9 @@ Two mutually perpendicular beams AB, CD, are joined at O to form a structure whi
 
 (ii) about the axes DE, CD, AB and BG.
 
-![Alt text](image-16.png)
+![Alt text](image-16.png) -->
 
-**_Solution_**
+<!-- **_Solution_**
 
 (i) Torque about point E is zero. (as      r F passes through E). Torque about point D is zero. (as      r F passes through D). Torque about point O is OE F×   ( ) which is perpendicular to axes AB and CD. Torque about point B is BE F×   ( ) which is perpendicular to axes AB and CD.
 (ii) Torque about axis DE is zero (as      r F is parallel to DE). Torque about axis CD is zero (as      r F intersects CD). Torque about axis AB is zero (as      r F is parallel to AB). Torque about axis BG is zero (as      r F intersects BG).
@@ -777,9 +747,9 @@ If   0 then, dL dt
 
 constant= =0; L
 
-The above expression is known as law of conservation of angular momentum. We will learn about this law further in section 5.5.
+The above expression is known as law of conservation of angular momentum. We will learn about this law further in section 5.5. -->
 
-##EQUILIBRIUM OF RIGID BODIES
+<!-- ##EQUILIBRIUM OF RIGID BODIES
 
 
 When a body is at rest without any motion on a table, we say that there is no force acting on the body. Actually it is wrong because, there is gravitational force acting on the body downward and also the normal force exerted by table on the body upward. These two forces cancel each other and thus  
@@ -1017,8 +987,8 @@ points like P, Q, R as shown in Figure 5.18, the vertical lines PP', QQ', RR' al
 
 Let us consider a cyclist negotiating a circular level road (not banked) of radius r with a speed v. The cycle and the cyclist are considered as one system with mass m. The centre gravity of the system is C and it goes in a circle of radius r with centre at O. Let us choose the line OC as X-axis and the vertical line through O as Z-axis as shown in Figure 5.19.
 ![Alt text](image-30.png)
-**Figure 5.19** Bending of cyclist
-The system as a frame is rotating about Z-axis. The system is at rest in this rotating frame. To solve problems in rotating frame of reference, we have to apply a centrifugal force (pseudo force) on the system which will be mv r
+**Figure 5.19** Bending of cyclist -->
+<!-- The system as a frame is rotating about Z-axis. The system is at rest in this rotating frame. To solve problems in rotating frame of reference, we have to apply a centrifugal force (pseudo force) on the system which will be mv r
 This force will act through the centre of gravity. The forces acting on the system are, (i) gravitational force (mg), (ii) normal force (N), (iii) frictional force (f ) and (iv) centrifugal force mv system is in equilibrium in the rotational frame of reference, the net external force and net external torque must be zero. Let us consider all torques about the point A in Figure 5.20.
 ![Alt text](image-31.png)
 **Figure 5.20** Force diagrams for the cyclist in turns
@@ -1041,9 +1011,9 @@ Speed of the cyclist, v = 20 m s-1
 Angle of bending with vertical, θ = 30o
 
 Equation for angle of bending, tan  v rg
-2 Rewriting the above equation for radius r v g  2 tan Substituting, r                 20 30 10 20 20 30 10 400 1 3 10 2 tan tan  r     3 40 1 732 40. r m= 69 28.
+2 Rewriting the above equation for radius r v g  2 tan Substituting, r                 20 30 10 20 20 30 10 400 1 3 10 2 tan tan  r     3 40 1 732 40. r m= 69 28. -->
 
-## MOMENT OF INERTIA
+<!-- ## MOMENT OF INERTIA
 
 In the expressions for torque and angular momentum for rigid bodies (which are considered as bulk objects), we have come across a term Σm ri i 2\. This quantity is called moment of inertia (I) of the bulk object. For point mass mi at a distance ri from the fixed axis, the moment of inertia is given as, m ri i2.
 
@@ -1423,9 +1393,9 @@ I kg m= 2 7 2.
 | 2IM 52I 5sphI =×(.20Iksph = 12.sphsph |
 |------|
 | Solutione s tructure i s m ade u p o f t hree o bjects; one thin rod and two solid spheres.e m ass o f t he r od, M  = 3 kg a nd t he total length of the rod, ℓ = 80 cm = 0.8 me m oment o f in ertia o f t he r od about i ts cen tre o f m ass i s, 1 IM = 12 1 1I  30 ..8  06 412 4 2Ik = 01. 6 gm rod2rode m ass o f t he s phere, M  = 5 kg a nd t he radius of the sphere, R = 10 cm 2 = 0.1 mrode m oment o f in ertia o f t he s phere about its centre of mass is, 2IM= Re m oment o f in ertia o f t5 he s phere about g eometric cen tre o f t he s tructure i s, 2CII  MdWhere, d = 40 cm + 10 cm = 50 cm = 0.5 m2sphC2IM  RM d5  2I  50 ..15  055 22sphI =×(.20 01)(+× 2250 .)25 =+00.. 21 25Iksph = 12. 7 gmAs t here a re o ne r od  and  two simi lar s olid sphsperh es w e c an w rite t he t otal m oment o f 2inersph tia (I) o f t he g iven geometric structure as, II=+ ()2 × II =+(.01 62)( ×=12.) 70 ..16 + 25 4rods phIk= 27. gm2 |
-|------|
+|------| -->
 
-## ROTATIONAL DYNAMICS
+<!-- ## ROTATIONAL DYNAMICS
 The relations among torque, angular acceleration, angular momentum, angular velocity and moment of inertia were seen in Section 5.2. In continuation to that, in this section, we will learn the relations among the other dynamical quantities like work, kinetic energy in rotational motion of rigid bodies. Finally a comparison between the translational and rotational quantities is made with a tabulation.
 
 ### Effect of Torque on Rigid Bodies
@@ -1809,7 +1779,7 @@ Power, P = τω
 | Impulse, F Dt = Dp |
 | Work done, w = F s |
 | Kinetic energ y,  1KE = mv22 |
-| Power, P = F v |
+| Power, P = F v | -->
   
 
 ## ROLLING MOTION

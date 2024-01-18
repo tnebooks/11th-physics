@@ -3,7 +3,7 @@ title: 'GRAVITATION'
 weight: 6
 ---
 
-
+<!-- ---
 We are amazed looking at the glittering sky; we wonder how the Sun rises in the East and sets in the West, why there are comets or why stars twinkle. The sky has been an object of curiosity for human beings from time immemorial. We have always wondered about the motion of stars, the Moon, and the planets. From Aristotle to Stephen Hawking, great minds have tried to understand the movement of celestial objects in space and what causes their motion.
 
 The ‘Theory of Gravitation’ was developed by Newton in the late 17th century to explain the motion of celestial
@@ -68,11 +68,11 @@ elliptical orbit with the Sun at one of the foci.
 **b**
 
 **a AMajor axis**
-
+<!-- ![](6.1.png).\ -->
 **Figure 6.1** An ellipse traced out by a planet around the Sun.
 
 The closest point of approach of the planet to the Sun ‘P’ is called perihelion and the farthest point ‘A’ is called aphelion (Figure 6.1). The semi-major axis is ‘a’ and semi-minor axis is ‘b’. In fact, both Copernicus and Ptolemy considered planetary orbits to be circular, but Kepler discovered that the actual orbits of the planets are elliptical.
-
+<!-- ![](6.2.png).\ -->
 **Perihelion**
 
 **Semi-major axis**
@@ -98,7 +98,8 @@ The closest point of approach of the planet to the Sun ‘P’ is called perihel
 
 
 
-  
+<!-- ![](6.3.png).\ -->
+**Figure 6.2** Motion of a planet around the Sun depicting ‘law of area’.
 
 2\. **Law of area:**
 
@@ -110,13 +111,19 @@ In Figure 6.2, the white shaded portion is the area DA swept in a small interval
 
 The square of the time period of revolution of a planet around the Sun in its elliptical orbit is directly proportional to the cube of the semi-major axis of the ellipse. It can be written as:
 
-_T a_2 3∝ (6.1)
+<!-- _T a_2 3∝ (6.1)
 
 _T a_
 
 _constant_ 2
 
-3 = (6.2)
+3 = (6.2) -->
+
+T^2 is proportional to a^3   (6.1)
+
+T^2 is equal to a constant times a^3   (6.2)
+
+
 
 **Radial vector**
 
@@ -134,7 +141,7 @@ _constant_ 2
 
 **r** **Janu**
 
-**Figure 6.2** Motion of a planet around the Sun  
+<!-- **Figure 6.2** Motion of a planet around the Sun   -->
 
 where, T is the time period of revolution for a planet and _a_ is the semi-major axis. Physically this law implies that as the distance of the planet from the Sun increases, the time period also increases but not at the same rate.
 
@@ -3966,4 +3973,4 @@ s/latest/gravity-
 
 
 
-
+ -->

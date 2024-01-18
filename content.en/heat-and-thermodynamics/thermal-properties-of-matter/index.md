@@ -28,8 +28,8 @@ pressure, the volume of the gas is directly proportional to absolute temperature
 
 _PV_ = _CT._ Here C is a positive constant. We can infer that C is proportional to the number of particles in the gas container by considering the following argument. If we take two containers of same type of gas with same volume V, same pressure P and same temperature T, then the gas in each container obeys the above equation. _PV_ = _CT._ If the two containers of gas is considered as a single system, then the pressure and temperature of this combined system will be same but volume will be twice and number of particles will also be double as shown in Figure 8.2
 
-<!-- ![Alt text](image_67.png) -->
-<img src="image_67.png" alt="Ramanujan" width="500" >
+![Alt text](image_67.png)
+<!-- <img src="image_67.png" alt="Ramanujan" width="500" > -->
 
 
 
@@ -103,8 +103,8 @@ Pa
 
 JK K -->
 
-<!-- ![Ramanujan](image_10.png) -->
-<img src="image_10.png" alt="Ramanujan" width="500" >
+![Ramanujan](image_10.png)
+<!-- <img src="image_10.png" alt="Ramanujan" width="500" > -->
 
 **_Solution_**
 
@@ -138,9 +138,9 @@ When a person breaths, his lungs can hold up to 5.5 Litre of air at body tempera
 <!-- **_V_ \= 5.5 L**
 
 **_P_ = 101 kPa _T_ = 310 K** -->
-<!-- ![Alt text](image_69.png) -->
+![Alt text](image_69.png)
 
-<img src="image_69.png" alt="Ramanujan" width="500" >
+<!-- <img src="image_69.png" alt="Ramanujan" width="500" > -->
 **_Solution_**
 
 We can treat the air inside the lungs as an ideal gas. To find the number of molecules, we can use the ideal gas law.
@@ -202,8 +202,8 @@ the volume of one mole of gas at room temperature. It is 24.6 L.
 
 Estimate the mass of air in your class room at NTP. Here NTP implies normal temperature (room temperature) and 1 atmospheric pressure.
 
-<!-- ![Ramanujan](image_11.png) -->
-<img src="image_11.png" alt="Ramanujan" width="500" >
+![Ramanujan](image_11.png)
+<!-- <img src="image_11.png" alt="Ramanujan" width="500" > -->
 
 **_Solution_**
 
@@ -254,8 +254,8 @@ Where s is known as specific heat capacity of a substance and its value depends 
 m = Mass of the substance
 
 The SI unit for specific heat capacity is {{< katex display >}}J \, \text{kg}^{-1} \, \text{K}^{-1}{{< /katex >}}. Heat capacity and specific heat capacity are always positive quantities.
-<!-- ![Ramanujan](image_74.JPG) -->
-<img src="image_74.JPG" alt="Ramanujan" width="500" >
+![Ramanujan](image_74.JPG)
+<!-- <img src="image_74.JPG" alt="Ramanujan" width="500" > -->
 
 <!-- **Table 8.2 Specific heat capacity of** some common substances at 1 atm (20°C) -->
 
@@ -285,7 +285,9 @@ The term heat capacity or specific heat capacity does not mean that object
 
 contains a certain amount of heat. Heat is energy transfer from the object at higher temperature to the object at lower temperature. The correct usage is ‘internal energy capacity’. But for historical reason the term ‘heat capacity’ or ‘specific heat capacity’ are retained.
 <blockquote style="background-color:pink; padding:10px; border-radius:5px;">
-<img src="image_5.png" alt="Ramanujan" width="30" >
+<!-- ![Alt text](image_5.png) -->
+![Ramanujan](image_5.png)
+<!-- <img src="image_5.png" alt="Ramanujan" width="30" > -->
 **Note**
 the term heat capacity or specific heat capacity does not mean that object contains a certain amount of heat.Heat is energy transfer from the object oat highe temperature to the object at lower temperature. The correct usage is 'internal enegy capacity'.But for historical reason the term heat capacity or specific heat capacity is retained.
 </blockquote>
@@ -326,10 +328,10 @@ _Thermal expansion is the tendency of matter to change in shape, area, and volum
 
 All three states of matter (solid, liquid and gas) expand when heated. When a solid is heated, its atoms vibrate with higher amplitude about their fixed points. The relative change in the size of solids is small. Railway tracks are given small gaps so that in the summer, the tracks expand and do not buckle. Railroad tracks and bridges have expansion joints to allow them to expand and contract freely with temperature changes. It is shown in Figure 8.3
 
-<!-- ![Ramanujan](image_14.png)
-![Ramanujan](image_15.png) -->
-<img src="image_14.png" alt="Ramanujan" width="500" >
-<img src="image_15.png" alt="Ramanujan" width="500" >
+![Ramanujan](image_14.png) 
+![Ramanujan](image_15.png) 
+<!-- <img src="image_14.png" alt="Ramanujan" width="500" > -->
+<!-- <img src="image_15.png" alt="Ramanujan" width="500" > -->
 **Figure 8.3** Expansion joints for safety  
 
  
@@ -341,8 +343,8 @@ In the case of **gas** molecules, the intermolecular forces are almost negligibl
 The increase in dimension of a body due to the increase in its temperature is called thermal expansion.
 
 The expansion in length is called linear **expansion**. Similarly the expansion in area is termed as **area expansion** and the
-<!-- ![Ramanujan](image_75.JPG) -->
-<img src="image_75.JPG" alt="Ramanujan" width="200" >
+![Ramanujan](image_75.JPG)
+<!-- <img src="image_75.JPG" alt="Ramanujan" width="200" > -->
 **Figure 8.4 Thermal expansions**
 
 
@@ -397,8 +399,8 @@ L0 = Original length
 
 Eiffel tower is made up of iron and its height is roughly 300 m. During winter season (January) in France the temperature is 2°C and in hot summer its average temperature 25°C. Calculate the change in height of Eiffel tower between summer and winter. The linear thermal expansion coefficient for iron α = 10 ×10−6 per °C 
 
-<!-- ![Ramanujan](image_16.png) -->
-<img src="image_16.png" alt="Ramanujan" width="400" >
+![Ramanujan](image_16.png)
+<!-- <img src="image_16.png" alt="Ramanujan" width="400" > -->
 
 
 
@@ -478,7 +480,9 @@ For a given specimen,
 ≈ 3 αL ΔT (Volume expansion ≈ 3 × Linear expansion)
 
 <blockquote style="background-color:pink; padding:10px; border-radius:5px;">
-<img src="image_5.png" alt="Ramanujan" width="30" >
+![Ramanujan](image_5.png)
+
+<!-- <img src="image_5.png" alt="Ramanujan" width="30" > -->
 **Note**For a given specimen,
 \[
 \frac{\Delta V}{L_0} = \alpha V \Delta T
@@ -500,8 +504,8 @@ Liquids expand on heating and contract on cooling at moderate temperatures. But 
 
 In cold countries during the winter season, the surface of the lakes will be at lower temperature than the bottom as shown in the Figure 8.6. Since the solid water (ice) has lower density than its liquid form, below 4°C, the frozen water will be
 
-<!-- ![Alt text](image-70.png) -->
-<img src="image-70.png" alt="Ramanujan" width="400" >
+![Alt text](image-70.png)
+<!-- <img src="image-70.png" alt="Ramanujan" width="400" > -->
 **Figure 8.5** Anomalous Expansion of water
 <!-- Temperatureº C 0 1 2 3 4 5 6 7 8
 
@@ -541,8 +545,8 @@ peratureº C   -->
 
 on the top surface above the liquid water (ice floats). This is due to the anomalous expansion of water. As the water in lakes and ponds freeze only at the top the species living in the lakes will be safe at the bottom.
 
-<!-- ![Alt text](image_71.png) -->
-<img src="image_71.png" alt="Ramanujan" width="500" >
+![Alt text](image_71.png)
+<!-- <img src="image_71.png" alt="Ramanujan" width="500" > -->
 **Figure 8.6** Anomalous expansion of water in lakes
 
 <!-- 0°C 1 2 3 4
@@ -660,7 +664,8 @@ Examples:
  4. Freezing / Solidification (liquid to solid) 
  5. Condensation (gas to liquid)
 
-<img src="image_76.jpg" alt="Ramanujan" width="500" >
+![Ramanujan](image_76.jpg)
+<!-- <img src="image_76.jpg" alt="Ramanujan" width="500" > -->
 **Figure 8.7** Change of states of matter
 
 
@@ -679,8 +684,8 @@ Where L = Latent heat capacity of the substance
  Q = Amount of heat 
  m = mass of the substance The SI unit for Latent heat capacity is J kg<sup>–1</sup>
 
-
-<img src="image_77.jpg" alt="Ramanujan" width="500" >
+![Ramanujan](image_77.jpg)
+<!-- <img src="image_77.jpg" alt="Ramanujan" width="500" > -->
 **Figure 8.8** Temperature versus heat for water
 
 <blockquote style="background-color:pink; padding:10px; border-radius:5px;">
@@ -716,7 +721,9 @@ _Q_gain + _Q_lost= 0 -->
 {{< katex display >}} Q_{\text{gain}} + -Q_{\text{lost}} = 0{{< /katex>}} 
 
 Heat gained or lost is measured with a calorimeter. Usually the calorimeter is an insulated container of water as shown in Figure 8.9.
-<img src="image_78.jpg" alt="Ramanujan" width="500" >
+
+![Ramanujan](image_78.jpg)
+<!-- <img src="image_78.jpg" alt="Ramanujan" width="500" > -->
 **Figure 8.9** Calorimeter
 
 <!-- **ermometer Stirrer**
@@ -817,7 +824,9 @@ It is important to note that the final equilibrium temperature of mixing of
 gas or liquid depends on mass of the substances, their specific heat capacities and their temperatures. Only if we mix the same substances at equal amount, the final temperature will be an average of the individual temperatures.
 
 <blockquote style="background-color:pink; padding:10px; border-radius:5px;">
-<img src="image_5.png" alt="Ramanujan" width="30" >
+
+![Ramanujan](image_5.png)
+<!-- <img src="image_5.png" alt="Ramanujan" width="30" > -->
 
 **Note** It is important to note that final equilibrium temperature of mixing of gas and liquids depends upon the mass of substances, their specific heat capacities and their temperatures.Only if we mix the same substances at equal amoutn the fimal temperature will be the average of equivalent temperature</blockquote>
 
@@ -832,8 +841,8 @@ As we have seen already heat is a energy in transit which is transferred from on
 
 <!-- **Figure 8.11 Steady state heat flow by** conduction. -->
 
-
-<img src="image_79.jpg" alt="Ramanujan" width="500" >
+![Ramanujan](image_79.jpg)
+<!-- <img src="image_79.jpg" alt="Ramanujan" width="500" > -->
 
 **Figure 8.11**  Steady state heat flow byconduction.
 
@@ -849,15 +858,16 @@ J s<sup>-1</sup> m<sup>-1</sup> K<sup>-1</sup> or W m<sup>-1</sup> K<sup>-1</sup
 
 
 
-
-<img src="image_80.jpg" alt="Ramanujan" width="500" >
+![Ramanujan](image_80.jpg)
+<!-- <img src="image_80.jpg" alt="Ramanujan" width="500" > -->
 
 
   
 
 
 <blockquote style="background-color:pink; padding:10px; border-radius:5px;">
-<img src="image_5.png" alt="Ramanujan" width="30" >
+![Ramanujan](image_5.png)
+<!-- <img src="image_5.png" alt="Ramanujan" width="30" > -->
 
 **Note** Steady state: The state at which temperature attains constant value everywhere and there is no further transfer of heat anywhere is called steady state.</blockquote> 
 <!-- It is important to note that the final equilibrium temperature of mixing of gas or liquid depends on mass of the substances, their specific heat capacities and their temperatures. Only if we mix the same substances at equal amount, the final temperature will be an average of the individual temperatures</blockquote> -->
@@ -867,8 +877,12 @@ Thermal conductivity depends on the nature of the material. For example silver a
 **Convection** 
 Convection is the process in which heat transfer is by actual movement of molecules in fluids such as liquids and gases. In convection, molecules move freely from one place to another. It happens naturally or forcefully
 
-<img src="image_82.jpg" alt="Ramanujan" width="30" >During the day, sun rays warm up the land more quickly than sea water. It is because land has less specific heat capacity than water. As a result the air above the land becomes less dense and rises. At the same time the cooler air above the sea flows to land and it is called ‘sea breeze’. During the night time the land gets cooled faster than sea due to the same reason (specific heat). The air molecules above sea are warmer than air molecules above the land. So air molecules above the sea are replaced by cooler air molecules from the land. It is called ‘land breeze’.
-<img src="image_81.jpg" alt="Ramanujan" width="500" >
+![Ramanujan](image_82.jpg)
+<!-- <img src="image_82.jpg" alt="Ramanujan" width="30" > -->
+During the day, sun rays warm up the land more quickly than sea water. It is because land has less specific heat capacity than water. As a result the air above the land becomes less dense and rises. At the same time the cooler air above the sea flows to land and it is called ‘sea breeze’. During the night time the land gets cooled faster than sea due to the same reason (specific heat). The air molecules above sea are warmer than air molecules above the land. So air molecules above the sea are replaced by cooler air molecules from the land. It is called ‘land breeze’.
+
+![Ramanujan](image_81.jpg)
+<!-- <img src="image_81.jpg" alt="Ramanujan" width="500" > -->
 
 
 
@@ -887,7 +901,8 @@ Example:
 2. Radiation from room heater.  
 
 <blockquote style="background-color:pink; padding:10px; border-radius:5px;">
-<img src="image_5.png" alt="Ramanujan" width="30" >
+![Ramanujan](image_5.png)
+<!-- <img src="image_5.png" alt="Ramanujan" width="30" > -->
 
 **Note**The parameter temperature is generally thought to be associated with matter (solid, liquid and gas). But radiation is also considered as a thermodynamic system which has well defined temperature and pressure. The visible radiation coming from the Sun is at the temperature of 5700 K and the Earth re emits the radiation in the infrared range into space which is at a temperature of around 300K</blockquote>
 
@@ -903,7 +918,8 @@ The negative sign indicates that the quantity of heat lost by object goes on dec
 T = Temperature of the object
 Ts = Temperature of the surrounding
 
-<img src="image_83.jpg" alt="Ramanujan" width="500" >
+![Ramanujan](image_83.jpg)
+<!-- <img src="image_83.jpg" alt="Ramanujan" width="500" > -->
 
 **Figure 8.12** Cooling of hot water with time
 
@@ -966,4 +982,5 @@ or
 
 Similarly the average temperature of 65°C and 60°C is 62.5°C. The average temperature is 35.5°C above the room temperature. Then we can write
 
-<img src="image_17.jpg" alt="Ramanujan" width="500" >
+![Ramanujan](image_17.jpg)
+<!-- <img src="image_17.jpg" alt="Ramanujan" width="500" > -->

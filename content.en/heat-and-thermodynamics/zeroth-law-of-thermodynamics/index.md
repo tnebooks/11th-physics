@@ -5,7 +5,8 @@ weight: 5
 **ZEROTH LAW OF THERMODYNAMICS**
 
 The zeroth law of thermodynamics states that if two systems, _A_ and _B_, are in thermal equilibrium with a third system, _C_,
-<img src="image_93.jpg" alt="Ramanujan" width="500" >
+![Ramanujan](image_93.jpg)
+<!-- <img src="image_93.jpg" alt="Ramanujan" width="500" > -->
 
 **Figure 8.18** (a) Two systems A and B in therm systems A and B are in thermal contact, they a other.
 
@@ -22,6 +23,8 @@ in thermal equilibrium with other systems or not. Zeroth law enables us to deter
 We often associate the temperature as a measure of how hot or cold an object is while touching it. Can we use our sensory organs to determine the temperature of an object?
 
 When you stand bare feet with one foot on the carpet and the other on the tiled floor, your foot on tiled floor feels cooler than the foot on the carpet even though both the tiled floor and carpet are at the same room temperature. It is because the tiled floor transfers the heat energy to your skin at higher rate than the carpet. So the skin is not measuring the actual temperature of the object; instead it measures the rate of heat energy transfer. But if we place a thermometer on the tiled floor or carpet it will show the same temperature.
-<img src="Image_94.jpg" alt="Ramanujan" width="1000" >
+
+![Ramanujan](Image_94.jpg)
+<!-- <img src="Image_94.jpg" alt="Ramanujan" width="1000" > -->
 
 </blockquote>

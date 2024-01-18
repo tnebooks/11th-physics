@@ -7,4 +7,6 @@ weight: 12
 # Concept Map
 
 </blockquote>
-<img src="image_1.jpg" alt="Ramanujan" width="1100" >
+
+![Ramanujan](image_1.jpg)
+<!-- <img src="image_1.jpg" alt="Ramanujan" width="1100" > -->

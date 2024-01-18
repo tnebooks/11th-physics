@@ -3,7 +3,7 @@ title: 'SUMMARY'
 weight: 23
 ---
 
-## SUMMARY
+# SUMMARY
 
 - Physics is an experimental science in which measurements made must be expressed in units.
 - All physical quantities have a magnitude (size) and a unit

@@ -33,6 +33,8 @@ pressure both in the left image and graph.
 • Repeat the same with different values and try drawing the graph accordingly. This also 
 helps to understand isothermal process.
 
+At selected temperature, change the “Volume” given below the graph and click play button.
+
 <img src="image_2.jpg" alt="Ramanujan" width="500" >
 
 URL:

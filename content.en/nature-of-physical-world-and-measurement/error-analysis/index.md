@@ -9,29 +9,20 @@ weight: 14
 
 The magnitude of difference between the true value and the measured value of a quantity is called absolute error. If _a_1_, a_2_, a_3_, ……….a_n are the measured values of any quantity ‘_a’_ in an experiment performed _n_ times, then the arithmetic mean of these values is called the true value (_a_m) of the quantity.
 
-_a a a a a_
 
-_n_
+{{< katex diaplay >}}
+\begin{aligned}
+\text{am} & = \frac{a_{\text{}1} + a_{\text{}2} + a_{\text{}3} + \ldots + a_{\text{}n}}{n}
+\end{aligned}
+{{< /katex >}}
+or
 
-_a n_
+{{< katex diaplay >}}
+\begin{aligned}
+\text{am} & = \frac{1}{n} \sum_{i=1}^{n} a_{\text{}i}
+\end{aligned}
+{{< /katex >}}
 
-_a_
-
-_m n_
-
-_m i i_
-
-_n_
-
-\= + + + +
-
-\= = ∑
-
-1 2 3
-
-1
-
-1
 
 .............. or
 

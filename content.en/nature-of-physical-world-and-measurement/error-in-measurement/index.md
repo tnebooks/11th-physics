@@ -24,24 +24,18 @@ Systematic errors are reproducible inaccuracies that are consistently in the sam
 Random errors may arise due to random and unpredictable variations in experimental conditions like pressure, temperature, voltage supply etc. Errors may also be due to personal errors by the observer who performs the experiment. Random errors are sometimes called **“chance error”. When different readings** are obtained by a person every time he repeats the experiment, personal error occurs. For example, consider the case of the thickness of a wire measured using a screw gauge. The readings taken may be different for different trials. In this case, a large number of measurements are made and then the arithmetic mean is taken.
 
 If n number of trial readings are taken in an experiment, and the readings are a1, a2, a3,…………………. an. The arithmetic mean is 
-_a a a a a_
-
-_nm n_\=
-
-\+ + +1 2 3 ............. (1.1)
-
+{{< katex diaplay >}}
+\begin{aligned}
+\text{am} & = \frac{a_{\text{}1} + a_{\text{}2} + a_{\text{}3} + \ldots + a_{\text{}n}}{n}
+\end{aligned}
+{{< /katex >}}
 or
 
-_a n_
-
-_am i i_
-
-_n_
-
-\= = ∑1
-
-1
-
+{{< katex diaplay >}}
+\begin{aligned}
+\text{am} & = \frac{1}{n} \sum_{i=1}^{n} a_{\text{}i}
+\end{aligned}
+{{< /katex >}}
 (1.2)
 
 Usually this arithmetic mean is taken as the best possible true value of the quantity.

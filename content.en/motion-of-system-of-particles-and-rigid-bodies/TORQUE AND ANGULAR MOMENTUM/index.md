@@ -223,7 +223,7 @@ In the earlier sections, we have dealt with the torque about a point. In this se
 
 Figure 5.8 Torque about an axis answer.
 
-![Alt text](content1.png)
+![Alt text](Content1.png)
 
 The torque of the force $\overrightarrow{\mathrm{F}}$ about $\mathrm{O}$ is, $\vec{\tau}=\vec{r} \times \vec{F}$. The component of the torque $\vec{\tau}$ along the axis is the torque about the axis. To find it, we should first find the vector $\vec{\tau}=\overrightarrow{\mathrm{r}} \times \overrightarrow{\mathrm{F}}$ and then find the angle $\phi$ between $\vec{\tau}$ and the axis AB. (Remember here, the force $\vec{F}$ is not on the plane $A B P$ ). The torque about the axis $A B$ is the parallel component of the torque along the axis $A B$, which is $|\vec{r} \times \vec{F}| \cos \phi$. The torque perpendicular to the axis $\mathrm{AB}$ is $|\overrightarrow{\mathrm{r}} \times \overrightarrow{\mathrm{F}}| \sin \phi$.
 

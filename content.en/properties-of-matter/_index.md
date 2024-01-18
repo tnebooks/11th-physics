@@ -3,24 +3,7 @@ title: 'PROPERTIES OF MATTER'
 weight: 7
 ---
 
-
-# UNIT 7
-<!-- ![ Kallana](image2.png) -->
-
-<!-- 
-![ Kallanai (கல்லணை)](image1.jpg) -->
-
-PROPERTIES OF MATTER 
-<!-- 
-<div style="background-color:pink; padding:10px; border-radius: 5px;">
-    <span style="color:black;">"Many of the greatest advances that have been made from the beginning of the world to the present time have been made in the earnest desire to turn the knowledge of the properties of matter to some purpose useful to mankind."</span>  
-    <span style="color:black;">- Lord Kelvin</span>
-</div>  -->
-
-
 Many of the greatest advances that have be present time have been made in the earne of matter to en made from the beginning of the world to the st desire to turn the knowledge of the properties some purpose useful to mankind – Lord Kelvin  
-
-
 
 **Learning Objectives**
 
@@ -32,40 +15,56 @@ Many of the greatest advances that have be present time have been made in the ea
 - properties of fluids and their applications
 
 
-## INTRODUCTION
+<!-- # UNIT 7 -->
+<!-- ![ Kallana](image2.png) -->
+
+<!-- 
+![ Kallanai (கல்லணை)](image1.jpg) -->
+
+<!-- ## PROPERTIES OF MATTER  -->
+<!-- 
+<div style="background-color:pink; padding:10px; border-radius: 5px;">
+    <span style="color:black;">"Many of the greatest advances that have been made from the beginning of the world to the present time have been made in the earnest desire to turn the knowledge of the properties of matter to some purpose useful to mankind."</span>  
+    <span style="color:black;">- Lord Kelvin</span>
+</div>  -->
+
+
+
+
+<!-- ## INTRODUCTION -->
 
 <!-- ![ Kallanai (கல்லணை)](img1.png) -->
 
-
+<!-- 
 One of the oldest dams in the world is Kallanai (கல்லணை) located at Trichy. Kallanai was built across river Kaveri for the purpose of irrigation. During heavy floods, the velocity of water is generally very high in river Kaveri. The stability and utility of 
-Kallanai dam reveal the intuitive scientific understanding of Tamils who designed this dam as early as 2nd century AD. The other example known for insightful constructions of the past is the pyramids in Egypt. The flyovers and overbridges are common worldwide today. Heavy vehicles ply over and hence, the bridges are always under stress. Without effective design using suitable materials, the bridges and flyovers will not 
+Kallanai dam reveal the intuitive scientific understanding of Tamils who designed this dam as early as 2nd century AD. The other example known for insightful constructions of the past is the pyramids in Egypt. The flyovers and overbridges are common worldwide today. Heavy vehicles ply over and hence, the bridges are always under stress. Without effective design using suitable materials, the bridges and flyovers will not be stable.
 
 ![alt text](image_1.png)
 
-be stable. The growth of human civilization is due to the understanding of various forms of matter (solid, liquid, and gas).
+The growth of human civilization is due to the understanding of various forms of matter (solid, liquid, and gas).
+
+The study of properties of matter is very essential in selecting a material for a specific application. For example, in technology, the materials used for space applications should be of lightweight but should be strong. Materials used for artificial human organ replacements should be biocompatible. Artificial body fluids are used as tissue substitute for radiotherapy analysis in medicine. Fluids used as lubricants or fuel should possess certain properties. Such salient macroscopic properties are decided by the microscopic phenomena within matter. This unit deals with the properties of solids and fluids and the laws governing the behaviour of matter. -->
 
 
-
-
-The study of properties of matter is very essential in selecting a material for a specific application. For example, in technology, the materials used for space applications should be of lightweight but should be strong. Materials used for artificial human organ replacements should be biocompatible. Artificial body fluids are used as tissue substitute for radiotherapy analysis in medicine. Fluids used as lubricants or fuel should possess certain properties. Such salient macroscopic properties are decided by the microscopic phenomena within matter. This unit deals with the properties of solids and fluids and the laws governing the behaviour of matter.
-
-
-##  MICROSCOPIC UNDERSTANDING OF VARIOUS STATES OF MATTER
+<!-- ##  MICROSCOPIC UNDERSTANDING OF VARIOUS STATES OF MATTER -->
 
 
 <!-- ![Alt text](img2.png) -->
 
 
-Even though various forms of matter such as solid food, liquids like water, and the air that we breathe are familiar in the day – to – day lifestyle for the past several thousand years, the microscopic understanding of solids, liquids, and gases was established only in 20th century. In the universe, everything is made up of atoms. If so, why the same materials exist in three states? For example, water exists in three forms as solid ice, liquid water, and gaseous steam. Interestingly ice, water, and steam are made up of same water molecules; two hydrogen atoms and one oxygen atom form a water molecule. Physics helps us to explore this beauty of nature at the microscopic level. The distance between  the atoms or molecules determines whether it exists in solid, liquid or gaseous state.
+<!-- Even though various forms of matter such as solid food, liquids like water, and the air that we breathe are familiar in the day – to – day lifestyle for the past several thousand years, the microscopic understanding of solids, liquids, and gases was established only in 20th century. In the universe, everything is made up of atoms. If so, why the same materials exist in three states? For example, water exists in three forms as solid ice, liquid water, and gaseous steam. Interestingly ice, water, and steam are made up of same water molecules; two hydrogen atoms and one oxygen atom form a water molecule. Physics helps us to explore this beauty of nature at the microscopic level. The distance between  the atoms or molecules determines whether it exists in solid, liquid or gaseous state.
 
-**Solids** 
-In solids, atoms or molecules are tightly fixed. In the solid formation, atoms get bound together through various types of bonding. Due to the interaction between the atoms, they position themselves at a particular interatomic distance. This position of atoms in this bound condition is called their mean positions.
+**Solids**
+ 
+ In solids, atoms or molecules are tightly fixed. In the solid formation, atoms get bound together through various types of bonding. Due to the interaction between the atoms, they position themselves at a particular interatomic distance. This position of atoms in this bound condition is called their mean positions.
 
 **Liquids**
+
  When the solid is not given any external energy such as heat, it will remain as a solid due to the bonding between atoms. When heated, atoms of the solid receive thermal energy and vibrate about their mean positions. When the solid is heated above its melting point, the heat energy will break the bonding between atoms and eventually the atoms receive enough energy and wander around. Here also the intermolecular (or interatomic) forces are important, but the molecules will have enough energy to move around, which makes the structure mobile.
 
 **Gases** 
-When a liquid is heated at constant pressure to its boiling point or when the pressure is reduced at a constant temperature it will convert to a gas. This process of a liquid changing to a gas is called evaporation. The gas molecules have either very weak bonds or no bonds at all. This enables them to move freely and quickly. Hence, the gas will conform to the shape of its container and also will expand to fill the container. The transition from solid to liquid to gaseous states with the variation in external energy is schematically shown in Figure 7.1.
+
+When a liquid is heated at constant pressure to its boiling point or when the pressure is reduced at a constant temperature it will convert to a gas. This process of a liquid changing to a gas is called evaporation. The gas molecules have either very weak bonds or no bonds at all. This enables them to move freely and quickly. Hence, the gas will conform to the shape of its container and also will expand to fill the container. The transition from solid to liquid to gaseous states with the variation in external energy is schematically shown in Figure 7.1. -->
 <!-- 
 **Energy**
 
@@ -74,36 +73,30 @@ When a liquid is heated at constant pressure to its boiling point or when the pr
 **Liquid**
 
 **Solid** -->
-![Alt text](img3.png)
+<!-- ![Alt text](img3.png)
 
 
-**Figure 7.1** Schematic representations of the transition from solid to liquid to gaseous states with a change in external energy
+**Figure 7.1** Schematic representations of the transition from solid to liquid to gaseous states with a change in external energy -->
 
 
 
 <!-- In addition to the three physical states of matter (solid, liquid, and gas), in extreme environments,matter can exist in other states such as plasma, Bose-Einstein condensates. Additional states, such as quark-gluon plasmas are also believed to be possible. A major part of the atomic matter of the universe is hot plasma in the form of rarefied interstellar medium and dense stars. -->
+<!-- 
+<div style="border: 4px solid pink; padding: 10px; display: flex; align-items: flex-start;">
 
-<div style="border: 4px solid pink; background-color: white; padding: 10px; display: flex; align-items: flex-start;">
+![Alt text](youtubeimg.jpg) In addition to the three physical states of matter (solid, liquid, and gas), in extreme environments, matter can exist in other states such as plasma, Bose-Einstein condensates. Additional states, such as quark-gluon plasmas are also believed to be possible. A major part of the atomic matter of the universe is hot plasma in the form of rarefied interstellar medium and dense stars.
 
-![YouTube](youtubeimg.jpg)In addition to the three physical states of matter (solid, liquid, and gas), in extreme environments, matter can exist in other states such as plasma, Bose-Einstein condensates. Additional states, such as quark-gluon plasmas are also believed to be possible. A major part of the atomic matter of the universe is hot plasma in the form of rarefied interstellar medium and dense stars.
+</div> -->
 
-</div>
+<!-- 
+In the study of Newtonian mechanics (Volume 1), we assumed the objects to be either as point masses or perfect rigid bodies (collection of point masses). Both these are idealized models. In rigid bodies, changes in the shape of the bodies are so small that they are neglected. In real materials, when a force is applied on the objects, there could be some deformations due to the applied force. It is very important to know how materials behave when a deforming force is applied.   -->
 
-
-
-
-
-
-
-
-In the study of Newtonian mechanics (Volume 1), we assumed the objects to be either as point masses or perfect rigid bodies (collection of point masses). Both these are idealized models. In rigid bodies, changes in the shape of the bodies are so small that they are neglected. In real materials, when a force is applied on the objects, there could be some deformations due to the applied force. It is very important to know how materials behave when a deforming force is applied.  
-
-###  Elastic behaviour of materials
+<!-- ###  Elastic behaviour of materials -->
 <!-- **7.2.1**
 ## Elastic behaviour of materials -->
 <!-- ![Alt text](imagggg.png) -->
 
-In a solid, interatomic forces bind two or more atoms together and the atoms occupy the positions of stable equilibrium. When a deforming force is applied on a body, its atoms are pulled apart or pushed closer. When the deforming force is removed, interatomic forces of attraction or repulsion restore the atoms to their equilibrium positions. **If a body regains its original shape and size after the removal of deforming force, it is said to be elastic and the property is called elasticity. The force which changes the size** or shape of a body is called a deforming force.
+<!-- In a solid, interatomic forces bind two or more atoms together and the atoms occupy the positions of stable equilibrium. When a deforming force is applied on a body, its atoms are pulled apart or pushed closer. When the deforming force is removed, interatomic forces of attraction or repulsion restore the atoms to their equilibrium positions. **If a body regains its original shape and size after the removal of deforming force, it is said to be elastic and the property is called elasticity. The force which changes the size** or shape of a body is called a deforming force.
 **Examples:** Rubber, metals, steel ropes.
 
 ![Alt text](img4.png)
@@ -112,55 +105,65 @@ In a solid, interatomic forces bind two or more atoms together and the atoms occ
 
 **Plasticity: 
 If a body does not regain its original shape and size after removal of the deforming force, it is said to be a plastic body and the property is called plasticity. 
-Example**: Glass
+Example**: Glass -->
 
 
-
-### Stress and strain
+<!-- 
+### Stress and strain -->
 
 <!-- ![Alt text](IMGG.png) -->
-
+<!-- 
 **(a) Stress:** When a force is applied, the size or shape or both may change due to the change in relative positions of atoms or molecules. 
 This deformation may not be noticeable to our naked eyes but it exists in the material itself. When a body is subjected to such a deforming force, internal force is developed in it, called as restoring force. The force per unit area is called as stress.
 
+{{< katex display >}}
+Stress,\sigma = \frac{Force}{Area} = \frac{F}{A}             (7.1)
+{{< /katex >}} -->
+
+<!-- Stress,\( \sigma = \frac{Force}{Area} = \frac{F}{A} \)            (7.1) -->
 
 
-
- 
-Stress,\( \sigma = \frac{Force}{Area} = \frac{F}{A} \)            (7.1)
-
-The SI unit of stress is N m<sup>–2</sup> or pascal (Pa) and its dimension is [ML<sup>–1</sup>T<sup>–2</sup>\]. Stress is a tensor. 
+<!-- The SI unit of stress is N m<sup>–2</sup> or pascal (Pa) and its dimension is [ML<sup>–1</sup>T<sup>–2</sup>\]. Stress is a tensor. 
 
 **(i) Longitudinal stress and shearing stress:**
 
 Let us consider a body as shown in Figure 7.3. When many forces act on the system (body), the center of mass (defined in unit 5) remains at rest. However, the body gets deformed due to these forces and so the internal forces appear. Let ∆A be the cross sectional area of the body. The parts of the body on two sides of ∆A exert internal forces \( \vec{F} \) and  \( -\vec{F} \) on each other which is due to deformation. The force can be resolved in two components; \(F_n \) normal to the surface ∆A (perpendicular to the surface) and \(F_t \) tangential to the surface ∆A (tangent to the surface). The normal stress or longitudinal stress \( \sigma_n \) over the area is defined as
 
 
- \[\sigma_n = \frac{F_n}{\Delta A} \]
 
-![Alt text](img6.png)
+{{< katex display >}}
+ \sigma_n = \frac{F_n}{\Delta A}
+{{< /katex >}} -->
+ <!-- \[\sigma_n = \frac{F_n}{\Delta A} \] -->
+
+<!-- ![Alt text](img6.png)
 
 **Figure 7.3** Longitudinal stress
 
 
 Similarly, the tangential stress or shearing stress σt over the area is defined as
 
- \[ \sigma_t = \frac{F_t}{\Delta A} \]
 
+{{< katex display >}}
+\sigma_t = \frac{F_t}{\Delta A} 
+{{< /katex >}} -->
+<!-- 
+ \[ \sigma_t = \frac{F_t}{\Delta A} \] -->
 
+<!-- 
 Longitudinal stress can be classified into two types, tensile stress and compressive stress.
 
 **Tensile stress** 
 Internal forces on the two sides of ∆A may pull each other, i.e., it is stretched by equal and opposite forces. Then, the longitudinal stress is called tensile stress.
 
 ![Alt text](img5.png)
-**Figure 7.4** Tensile stress
+**Figure 7.4** Tensile stress -->
 
 
 
 
 
-**Compressive stress** When forces acting on the two sides of ∆A push each other, ∆A is pushed by equal and opposite forces at the two ends. In this case, ∆A is said to be under compression. Then, the longitudinal stress is called compressive stress.
+<!-- **Compressive stress** When forces acting on the two sides of ∆A push each other, ∆A is pushed by equal and opposite forces at the two ends. In this case, ∆A is said to be under compression. Then, the longitudinal stress is called compressive stress.
 
 
 ![Alt text](img7.png)
@@ -169,29 +172,45 @@ Internal forces on the two sides of ∆A may pull each other, i.e., it is stretc
 **(ii) Volume stress** 
 This happens when a body is acted by forces everywhere on the surface such that the force at any point is normal to the surface and the magnitude of the force on a small surface area is proportional to the area. For instance, when a solid is immersed in a fluid, the pressure at the location of the solid is P, the force on any area ∆A is
 
-\[ F = P \Delta A \]
-Where, F is perpendicular to the area. Thus, force per unit area is called volume stress.
+{{< katex display >}}
+F = P \Delta A 
+{{< /katex >}} -->
+<!-- \[ F = P \Delta A \] -->
+<!-- Where, F is perpendicular to the area. Thus, force per unit area is called volume stress.
 
+{{< katex display >}}
+\sigma_v = \frac{F}{A} 
+{{< /katex >}} -->
 
-\[ \sigma_v = \frac{F}{A} \]
+<!-- \[ \sigma_v = \frac{F}{A} \] -->
 
-which is the same as the pressure.
+<!-- which is the same as the pressure.
 
 **(b) Strain:** 
 Strain measures how much an object is stretched or deformed when a force is applied. Strain deals with the fractional change in the size of the object, in other words, strain measures the degree of deformation. As an example, in one dimension, consider a rod of length _L_ when it stretches to a new length ∆L then
 
-Strain, \(\varepsilon = \frac{Change \ in \ size}{Original \ size} = \frac{\Delta L}{L} \) (7.2)
+{{< katex display >}}
+Strain, \varepsilon = \frac{Change \ in \ size}{Original \ size} = \frac{\Delta L}{L}  (7.2)
+{{< /katex >}} -->
 
-ε is a dimensionless quantity and has no unit. Strain is classified into three types.
+<!-- Strain, \(\varepsilon = \frac{Change \ in \ size}{Original \ size} = \frac{\Delta L}{L} \) (7.2) -->
+
+<!-- ε is a dimensionless quantity and has no unit. Strain is classified into three types.
 
 **(1) Longitudinal strain** 
 When a rod of length _L_ is pulled by equal and opposite forces, the longitudinal strain is defined as
 
-\( \varepsilon_1 =  \frac{Increase \ in \ length \ of \ therod}{Original \ or \ natural \ length \ of \ therod} = \frac{\Delta L}{L} \) (7.3)
+
+
+{{< katex display >}}
+ \varepsilon_1 =  \frac{Increase \ in \ length \ of \ therod}{Original \ or \ natural \ length \ of \ therod} = \frac{\Delta L}{L}  (7.3)
+{{< /katex >}} -->
+
+<!-- \( \varepsilon_1 =  \frac{Increase \ in \ length \ of \ therod}{Original \ or \ natural \ length \ of \ therod} = \frac{\Delta L}{L} \) (7.3) -->
 
 
 
-Longitudinal strain can be classified into two types  
+<!-- Longitudinal strain can be classified into two types  
 
 **(i) Tensile strain:** If the length is increased from its natural length then it is known as tensile strain.
 
@@ -202,31 +221,42 @@ Longitudinal strain can be classified into two types
 
 ![Alt text](img8.png)
 
-**Figure 7.6** Shearing strain
-
-\(\varepsilon_s = \frac{AA'}{BZ} = \frac{x}{h} = \tan \theta \)        (7.4)
-
-For small angle, tanθ ≈ θ Therefore, shearing strain or shear,
+**Figure 7.6** Shearing strain -->
 
 
-\( \varepsilon_s = \frac{x}{h} = \theta =Angle \ of \ shear \)
+<!-- {{< katex display >}}
+ \varepsilon_s = \frac{AA'}{BZ} = \frac{x}{h} = \tan \theta         (7.4)
+{{< /katex >}} -->
+<!-- \(\varepsilon_s = \frac{AA'}{BZ} = \frac{x}{h} = \tan \theta \)        (7.4) -->
+
+<!-- For small angle, tanθ ≈ θ Therefore, shearing strain or shear,
+
+{{< katex display >}}
+ \varepsilon_s = \frac{x}{h} = \theta =Angle \ of \ shear 
+{{< /katex >}} -->
+<!-- \( \varepsilon_s = \frac{x}{h} = \theta =Angle \ of \ shear \) -->
 
 
-**(3) Volume strain** 
+<!-- **(3) Volume strain** 
 If the body is subjected to a volume stress, the volume will change. Let _V_ be the original volume of the body before stress and _V +_ ∆V be the change in volume due to stress. The volume strain which measures the fractional change in volume is
 
-Volume strain,\( \varepsilon_v = \frac{\Delta V}{V} \)
-(7.5)
 
-**Elastic Limit** 
+{{< katex display >}}
+ Volumestrain, \varepsilon_v = \frac{\Delta V}{V} 
+(7.5) 
+{{< /katex >}} -->
+<!-- Volume strain,\( \varepsilon_v = \frac{\Delta V}{V} \)
+(7.5) -->
+
+<!-- **Elastic Limit** 
 The maximum stress within which the body regains its original size and shape after the
 removal of deforming force is called the elastic limit.
 
-If the deforming force exceeds the elastic limit, the body acquires a permanent deformation. For example, rubber band loses its elasticity if pulled apart too much. It changes its size and becomes misfit to be used again.
+If the deforming force exceeds the elastic limit, the body acquires a permanent deformation. For example, rubber band loses its elasticity if pulled apart too much. It changes its size and becomes misfit to be used again. -->
 
 
 <!-- ![Alt text](IMGGG.png) -->
-###  Hooke’s law and its experimental verification
+<!-- ###  Hooke’s law and its experimental verification
 
 
 Hooke’s law states that for a small deformation within the elastic limit, the strain produced in a body is directly proportional to the stress that produces it.
@@ -235,10 +265,10 @@ It can be verified in a simple way by stretching a thin straight wire (stretches
 
 The extension produced on the wire is measured using a vernier scale arrangement. The experiment shows that for a given load, the corresponding stretching force is F and the elongation produced on the wire is ΔL. It is directly proportional to the original length L and inversely proportional to the area of cross section A. A graph is plotted using F on the X- axis and ΔL on the Y- axis. This graph is a straight line passing through the origin as shown in Figure 7.7 (b).
 
-![Alt text](img10.png)
+![Alt text](img10.png) -->
 
 
-**Figure 7.7 (a) Experimental verification** of Hooke’s law
+<!-- **Figure 7.7 (a) Experimental verification** of Hooke’s law -->
 
 <!-- **0**
 
@@ -264,9 +294,9 @@ The extension produced on the wire is measured using a vernier scale arrangement
 
 **Support**   -->
 
-![Alt text](img9.png)
+<!-- ![Alt text](img9.png)
 
-**Figure 7.7** (b) Variation of ∆L with F
+**Figure 7.7** (b) Variation of ∆L with F -->
 
 <!-- Stretching force (F)
 
@@ -284,28 +314,42 @@ n( L
 
 L F -->
 
-Therefore, ∆L = (slope)F
+<!-- Therefore,   {{< katex display >}}
+              ∆L = (slope)F 
+             {{< /katex >}}
 
-Multiplying and dividing by volume, 
-V = A L,
+Multiplying and dividing by volume,   {{< katex display >}}
+                                      V = A L,
+                                     {{< /katex >}}
+
+         
+             
+
+{{< katex display >}}
+F(\text{slope}) = \frac{AL}{AL}{\Delta L} 
+{{< /katex >}} -->
+<!-- \(F(\text{slope}) = \frac{AL}{AL}{\Delta L} \) -->
+
+<!-- Rearranging, we get
+
+{{< katex display >}}
+ \frac{F}{A}  =  (\frac{L}{A(\text{slope})}) \frac{\Delta L}{L} 
+{{< /katex >}} -->
+<!-- \( \frac{F}{A} \) = \( (\frac{L}{A(\text{slope})}) \frac{\Delta L}{L} \) -->
 
 
-\(F(\text{slope}) = \frac{AL}{AL}{\Delta L} \)
-
-Rearranging, we get
 
 
-\( \frac{F}{A} \) = \( (\frac{L}{A(\text{slope})}) \frac{\Delta L}{L} \)
+<!-- Therefore, 
 
-
-
-
-Therefore, 
-\( \frac{F}{A} \) ∝ \( (\frac{\Delta L}{L}) \)
+{{< katex display >}}
+ \frac{F}{A}  ∝  (\frac{\Delta L}{L}) 
+{{< /katex >}} -->
+<!-- \( \frac{F}{A} \) ∝ \( (\frac{\Delta L}{L}) \) -->
 
 
 
-Comparing with equation (7.1) and equation (7.2), we get equation (7.5) as
+<!-- Comparing with equation (7.1) and equation (7.2), we get equation (7.5) as
 
 σ ∝ ε
 
@@ -314,9 +358,9 @@ i.e., the stress is proportional to the strain in the elastic limit.
 **Stress – Strain profile curve:** 
 The stress versus strain profile is a plot in which stress and strain are noted for each load and a graph is drawn taking strain along the X-axis and stress along the Y-axis. The elastic characteristics of the materials can be analyzed from the stress-strain profile.
 
-![Alt text](img11.png)
+![Alt text](img11.png) -->
 
-**Figure 7.8 Stress-Strain profile**
+<!-- **Figure 7.8 Stress-Strain profile** -->
 <!-- 
 **A**
 
@@ -350,7 +394,7 @@ The stress versus strain profile is a plot in which stress and strain are noted 
 
   
 
-**(a) Portion OA:** 
+<!-- **(a) Portion OA:** 
 In this region, stress is very small such that stress is proportional to strain, which means Hooke’s law is valid. The point A is called limit _of proportionality_ because above this point Hooke’s law is not valid. The slope of the line OA gives the Young’s modulus of the wire.
 
 **(b) Portion AB:** 
@@ -360,15 +404,15 @@ This region is reached if the stress is increased by a very small amount. In thi
 If the wire is stretched beyond the point B (elastic limit), stress increases and the wire will not regain its original length after the removal of stretching force.
 
 **(d) Portion CD:**
- With further increase in stress (beyond the point C), the strain increases rapidly and reaches the point D. Beyond D, the strain increases even when the load is removed and breaks (ruptures) at the point E. Therefore, the maximum stress (here D) beyond which the wire breaks is called _breaking stress_ or _tensile strength. The corresponding point D is known_ as fracture point. The region BCDE represents the plastic behaviour of the material of the wire.
+ With further increase in stress (beyond the point C), the strain increases rapidly and reaches the point D. Beyond D, the strain increases even when the load is removed and breaks (ruptures) at the point E. Therefore, the maximum stress (here D) beyond which the wire breaks is called _breaking stress_ or _tensile strength. The corresponding point D is known_ as fracture point. The region BCDE represents the plastic behaviour of the material of the wire. -->
 
 <!-- ![Alt text](IMGGE.png) -->
 
-###  Moduli of elasticity
+<!-- ###  Moduli of elasticity -->
 <!-- #### Moduli of elasticity -->
 
 
-From Hooke’s law, 
+<!-- From Hooke’s law, 
             
 <div style="text-align:center;">
 
@@ -376,35 +420,46 @@ stress ∝ strain
 
 </div>
 
-\( \frac{\text{stress}}{\text{strain}} \)= a constant, known as modulus of
+{{< katex display >}}
+\frac{\text{stress}}{\text{strain}} = a constant, 
+{{< /katex >}} -->
+<!-- \( \frac{\text{stress}}{\text{strain}} \)= a constant, known as modulus of -->
 
 
-elasticity. Its SI unit is N m<sup>–2</sup>or pascal and its dimensional formula is ML<sup>–1</sup>T<sup>–2</sup> .  
+<!-- known as modulus of elasticity. Its SI unit is N m<sup>–2</sup>or pascal and its dimensional formula is ML<sup>–1</sup>T<sup>–2</sup> .  
 
 In this section, we shall define the elastic modulus of a given material. There are three types of elastic modulus.
 
-(a) Young’s modulus 
-(b) Rigidity modulus (or Shear modulus) 
-(c) Bulk modulus
+1. Young’s modulus 
+2. Rigidity modulus (or Shear modulus)
+3. Bulk modulus
 
 **Young’s modulus:** 
+
 When a wire is stretched or compressed, then the ratio between tensile stress (or compressive stress) and tensile strain (or compressive strain) is defined as Young’s modulus.
 
-Young modulus of a material
 
-=  \( \frac{\text{Tensilestress or compressivestress}}{\text{Tensilestrain or compressivestrain}} \)
+
+
+{{< katex display >}}
+Young modulus of a material =  \frac{\text{Tensilestress or compressivestress}}{\text{Tensilestrain or compressivestrain}} 
+{{< /katex >}} -->
+
+<!-- =  \( \frac{\text{Tensilestress or compressivestress}}{\text{Tensilestrain or compressivestrain}} \) -->
     
+<!-- {{< katex display >}}
+Y = \frac{\sigma_t}{\epsilon_t}   Or  Y =  \frac{\sigma_c}{\epsilon_c} (7.6)
+{{< /katex >}} -->
+
+<!-- Y = \( \frac{\sigma_t}{\epsilon_t} \)   Or  Y = \( \frac{\sigma_c}{\epsilon_c} \) -->
 
 
-Y = \( \frac{\sigma_t}{\epsilon_t} \)   Or  Y = \( \frac{\sigma_c}{\epsilon_c} \)
 
-(7.6)
-
-**EXAMPLE 7.1**
+<!-- **EXAMPLE 7.1**
 
 Within the elastic limit, the stretching strain produced in wires A, B, and C due to stress is shown in the figure. Assume the load applied are the same and discuss the elastic property of the material.
 
-![Alt text](img12.png)
+![Alt text](img12.png) -->
 <!-- **Stress**
 
 **StrainO**
@@ -412,12 +467,12 @@ Within the elastic limit, the stretching strain produced in wires A, B, and C du
 **A B**
 
 **C** -->
-
+<!-- 
 Write down the elastic modulus in ascending order.
 
 **_Solution_**
 
-Here, the elastic modulus is Young modulus and due to stretching, stress is tensile stress and strain is tensile strain.
+Here, the elastic modulus is Young modulus and due to stretching, stress is tensile stress and strain is tensile strain. -->
 
 
 
@@ -437,7 +492,7 @@ Here, the elastic modulus is Young modulus and due to stretching, stress is tens
 
 
   
-
+<!-- 
 Within the elastic limit, stress is proportional to strain (obey Hooke’s law). Therefore, it shows a straight line behaviour. So, Young modulus can be computed by taking slope of these straight lines. Hence, calculating the slope for the straight line, we get
 
 Slope of A > Slope of B > Slope of C
@@ -446,47 +501,83 @@ Which implies,
 
 Young modulus of C < Young modulus of B < Young modulus of A
 
-Notice that larger the slope, lesser the strain (fractional change in length). So, the material is much stiffer. Hence, the elasticity of wire A is greater than wire B which is greater than C. From this example, we have understood that Young’s modulus measures the resistance of solid to a change in its length.
+Notice that larger the slope, lesser the strain (fractional change in length). So, the material is much stiffer. Hence, the elasticity of wire A is greater than wire B which is greater than C. From this example, we have understood that Young’s modulus measures the resistance of solid to a change in its length. -->
 
-**EXAMPLE 7.2**
+<!-- **EXAMPLE 7.2**
  
 
 A wire 10 m long has a cross-sectional area 1.25 × 10<sup>–4</sup> m<sup>2</sup>. It is subjected to a load of 5 kg. If Young’s modulus of the material is 4 × 10<sup>10</sup> N m<sup>–2</sup>, calculate the elongation produced in the wire. Take g = 10 ms<sup>–2</sup>.
 
 **_Solution_**
 
-We know that    
+We know that  
+
+{{< katex display >}}
+\frac{F}{A} = Y \cdot \frac{\Delta L}{L} 
+{{< /katex >}} -->
+
  
-\( \frac{F}{A} = Y \cdot \frac{\Delta L}{L} \)
+<!-- \( \frac{F}{A} = Y \cdot \frac{\Delta L}{L} \) -->
 
-\( \Delta L = (\frac{F}{A})(\frac{L}{Y}) \)
+<!-- {{< katex display >}}
+ \Delta L = (\frac{F}{A})(\frac{L}{Y}) 
+{{< /katex >}} -->
+<!-- 
+\( \Delta L = (\frac{F}{A})(\frac{L}{Y}) \) -->
 
-= \( (\frac{50}{1.25 \times 10^{-4}})(\frac{10}{4 \times 10^10}) = 10^{-4} m \)
+
+<!-- {{< katex display >}}
+ = (\frac{50}{1.25 \times 10^{-4}})(\frac{10}{4 \times 10^10}) = 10^{-4} m  
+{{< /katex >}} -->
+<!-- 
+= \( (\frac{50}{1.25 \times 10^{-4}})(\frac{10}{4 \times 10^10}) = 10^{-4} m \) -->
 
 
 
 
-
+<!-- 
 **Bulk modulus:** 
-The bulk modulus is defined as the ratio of the volume stress to the volume strain.
- **Bulk modulus, K =**
 
-\(\frac{\text{Normal (Perpendicular) stress or Pressure}}{\text{Volume strain}}\)
+The bulk modulus is defined as the ratio of the volume stress to the volume strain. -->
 
-The normal stress or pressure is
+ <!-- **Bulk modulus, K =** -->
+<!-- 
+ {{< katex display >}}
+  Bulk modulus, K =
+\frac{\text{Normal (Perpendicular) stress or Pressure}}{\text{Volume strain}}
+{{< /katex >}} -->
 
-σₙ = \(\frac{Fₙ}{ΔA}\) = Δp
+<!-- \(\frac{\text{Normal (Perpendicular) stress or Pressure}}{\text{Volume strain}}\) -->
 
-The volume strain is
+<!-- The normal stress or pressure is
 
-εᵥ = \(\frac{\Delta V}{V}\)
+ {{< katex display >}}
+σₙ = \frac{Fₙ}{ΔA} = Δp
+{{< /katex >}} -->
 
+
+<!-- σₙ = \(\frac{Fₙ}{ΔA}\) = Δp -->
+
+<!-- The volume strain is
+
+ {{< katex display >}}
+εᵥ = \frac{\Delta V}{V}
+{{< /katex >}} -->
+
+<!-- εᵥ = \(\frac{\Delta V}{V}\) -->
+<!-- 
 Therefore, Bulk modulus is
 
-K = \(\frac{-σₙ}{εᵥ}\) = \(\frac{-ΔP}{\frac{ΔV}{V}}\)
-(7.7)
 
-The negative sign in the equation (7.7) means that when pressure is applied on the body, its volume decreases. Further, the equation (7.7) implies that a material can be easily compressed if it has a small value of bulk modulus. In other words, bulk modulus measures the resistance of solids to change in their volume.
+ {{< katex display >}}
+K = \frac{-σₙ}{εᵥ} = \frac{-ΔP}{\frac{ΔV}{V}}
+(7.7)
+{{< /katex >}} -->
+
+<!-- K = \(\frac{-σₙ}{εᵥ}\) = \(\frac{-ΔP}{\frac{ΔV}{V}}\)
+(7.7) -->
+
+<!-- The negative sign in the equation (7.7) means that when pressure is applied on the body, its volume decreases. Further, the equation (7.7) implies that a material can be easily compressed if it has a small value of bulk modulus. In other words, bulk modulus measures the resistance of solids to change in their volume.
 
 For an example, we know that gases can be easily compressed than solids. This means that gases have small value of bulk modulus compared to solids.
 
@@ -495,7 +586,12 @@ The reciprocal of the bulk modulus is called compressibility. It is defined as t
 
 From equation (7.7), we can say that the compressibility
 
-C = \(\frac{1}{K}\) = \(\frac{-εᵥ}{σₙ}\) = \(\frac{-\frac{\Delta V}{V}}{\Delta P}\)
+ {{< katex display >}}
+C = \frac{1}{K} = \frac{-εᵥ}{σₙ} = \frac{-\frac{\Delta V}{V}}{\Delta P} 
+(7.8)
+{{< /katex >}} -->
+
+<!-- C = \(\frac{1}{K}\) = \(\frac{-εᵥ}{σₙ}\) = \(\frac{-\frac{\Delta V}{V}}{\Delta P}\) -->
 
 <!-- C= 1 _K_
 
@@ -511,11 +607,10 @@ _n_
 
 ∆ ε σ -->
 
-(7.8)
 
-Since gases have small value of bulk modulus than solids, their values of compressibility is very high.
+<!-- Since gases have small value of bulk modulus than solids, their values of compressibility is very high.
 
-<div style="border: 4px solid pink; background-color: white; padding: 10px;">
+<div style="border: 4px solid pink; padding: 10px;">
 
 ![YouTube](youtubeimg.jpg) After pumping the air in the cycle tyre, usually we press the cycle tyre to check whether it has enough air. What is checked here is essentially the compressibility of air.
 The tyre should be less compressible for its easy rolling
@@ -523,10 +618,10 @@ The tyre should be less compressible for its easy rolling
 ![Alt text](image_8.png){: style="width: 100%;" }
 
 In fact the rear tyre is less compressible than front tyre for a smooth ride.
-</div>
+</div> -->
 
 
-**EXAMPLE 7.3**
+<!-- **EXAMPLE 7.3**
 
 A metallic cube of side 100 cm is subjected to a uniform force acting normal to the whole surface of the cube. The pressure is 10<sup>6</sup> pascal. If the volume changes by 1.5 × 10<sup>–5</sup> m<sup>3</sup>, calculate the bulk modulus of the material.
 
@@ -534,9 +629,19 @@ A metallic cube of side 100 cm is subjected to a uniform force acting normal to 
 
 By definition,
 
-K = \(\frac{\frac{F}{A}}{\frac{\Delta V}{V}}\) = \(\frac{P \cdot V}{\Delta V}\)
 
-K = \( \frac{{10^6 \times 1}}{{1.5 \times 10^{-5}}} \) = \( 6.67 \times 10^{10} \, \text{N m}^{-2} \)
+ {{< katex display >}}
+K = \frac{\frac{F}{A}}{\frac{\Delta V}{V}} = \frac{P \cdot V}{\Delta V}
+{{< /katex >}} -->
+
+<!-- 
+K = \(\frac{\frac{F}{A}}{\frac{\Delta V}{V}}\) = \(\frac{P \cdot V}{\Delta V}\) -->
+<!-- 
+ {{< katex display >}}
+K = \frac{{10^6 \times 1}}{{1.5 \times 10^{-5}}}  =  6.67 \times 10^{10} \, \text{N m}^{-2} 
+{{< /katex >}} -->
+
+<!-- K = \( \frac{{10^6 \times 1}}{{1.5 \times 10^{-5}}} \) = \( 6.67 \times 10^{10} \, \text{N m}^{-2} \) -->
 
  <!-- K = _F A V V_
 
@@ -558,10 +663,10 @@ K= 10 1
 
 . . N m -->
 
-**Rigidity modulus or shear modulus:** 
+<!-- **Rigidity modulus or shear modulus:** 
 The rigidity modulus is defined as the ratio of the shearing stress to the shearing strain.
 
-![Alt text](table1.png)
+![Alt text](table1.png) -->
 
 <!-- **Table 7.1 Elastic coefficient of some mater Material Young’s modulus (Y)**
 
@@ -617,35 +722,55 @@ _F A_
 
 \= ∆ = ∆ -->
 
+ <!-- {{< katex display >}}
+( \eta_R ) = \frac{\text{Shearing stress}}{\text{Angle of shear or shearing strain}} 
+{{< /katex >}} -->
+
+<!-- (\( \eta_R \)) = \(\frac{\text{Shearing stress}}{\text{Angle of shear or shearing strain}}\) -->
 
 
-(\( \eta_R \)) = \(\frac{\text{Shearing stress}}{\text{Angle of shear or shearing strain}}\)
+
+<!-- The shearing stress is
 
 
-
-The shearing stress is
- 
- σₛ = \(\frac{\text{Tangential force}}{\text{Area over which it is applied}}\) = \(\frac{F_t}{\Delta A}\)
-
-
-The angle of shear or shearing strain
-
-εₛ = \(\frac{x}{h}\) = θ
+ {{< katex display >}}
+ σₛ = \frac{\text{Tangential force}}{\text{Area over which it is applied}} = \frac{F_t}{\Delta A}
+{{< /katex >}}
+  -->
+ <!-- σₛ = \(\frac{\text{Tangential force}}{\text{Area over which it is applied}}\) = \(\frac{F_t}{\Delta A}\) -->
 
 
-Therefore, Rigidity modulus is 
+<!-- The angle of shear or shearing strain
 
-ηR = \(\frac{\sigma_s}{\varepsilon_s}\) = \(\frac{F_t}{\frac{\Delta A}{\frac{x}{h}}}\) = \(\frac{F_t}{\Delta A \theta}\)
+ {{< katex display >}}
+εₛ = \frac{x}{h} = θ
+{{< /katex >}} -->
+
+<!-- εₛ = \(\frac{x}{h}\) = θ -->
+
+
+<!-- Therefore, Rigidity modulus is 
+
+ {{< katex display >}}
+ηR = \frac{\sigma_s}{\varepsilon_s} = \frac{F_t}{\frac{\Delta A}{\frac{x}{h}}} = \frac{F_t}{\Delta A \theta}
 
 (7.9)
+{{< /katex >}} -->
 
-Further, the equation (7.9) implies that a material can be easily twisted if it has small value of rigidity modulus. For example, consider a wire twisted through an angle θ, a restoring torque (τ) developed is
+<!-- ηR = \(\frac{\sigma_s}{\varepsilon_s}\) = \(\frac{F_t}{\frac{\Delta A}{\frac{x}{h}}}\) = \(\frac{F_t}{\Delta A \theta}\)
 
-τ ∝ _θ_
+(7.9) -->
+
+<!-- Further, the equation (7.9) implies that a material can be easily twisted if it has small value of rigidity modulus. For example, consider a wire twisted through an angle θ, a restoring torque (τ) developed is
+ 
+ {{< katex display >}}
+τ ∝ θ
+{{< /katex >}}
+
 
 This means that for a larger torque, wire will twist by a larger amount (angle of shear θ is large). Since the rigidity modulus is inversely proportional to angle of shear, the modulus of rigidity is small.
 
-For the best understanding, the elastic coefficients of some of the important materials are listed in Table 7.1.
+For the best understanding, the elastic coefficients of some of the important materials are listed in Table 7.1. -->
 
 <!-- ials **ulk modulus (K)**
 
@@ -676,7 +801,7 @@ For the best understanding, the elastic coefficients of some of the important ma
 | ∆V | -->
   
 
-**EXAMPLE 7.4**
+<!-- **EXAMPLE 7.4**
 
 A metal cube of side 0.20 m is subjected to a shearing force of 4000 N. The top surface is displaced through 0.50 cm with respect to the bottom. Calculate the shear modulus of elasticity of the metal.
 
@@ -686,7 +811,12 @@ Here, L = 0.20 m, F = 4000 N, _x_ = 0.50 cm = 0.005 m and Area A = L<sup>2</sup>
 
 Therefore,
 
-ηR = \(\frac{F}{A} \times \frac{L}{X}\) = \(\frac{4000}{0.04} \times \frac{0.20}{0.005}\) = \(4 \times 10^6 \, \text{N m}^{-2}\)
+ {{< katex display >}}
+ηR = \frac{F}{A} \times \frac{L}{X} = \frac{4000}{0.04} \times \frac{0.20}{0.005} = 4 \times 10^6 \, \text{N m}^{-2}
+{{< /katex >}} -->
+
+<!-- 
+ηR = \(\frac{F}{A} \times \frac{L}{X}\) = \(\frac{4000}{0.04} \times \frac{0.20}{0.005}\) = \(4 \times 10^6 \, \text{N m}^{-2}\) -->
 
  
 
@@ -712,7 +842,7 @@ _L x_
 . N m -->
 
 
-###  Poisson’s ratio
+<!-- ###  Poisson’s ratio -->
 <!-- #### Poisson’s ratio -->
 
 
@@ -727,7 +857,7 @@ Lateral Strain -->
 
 <!-- ![Alt text](IMGE.png) -->
 
-![Alt text](img13.png)
+<!-- ![Alt text](img13.png)
 
 **Figure 7.9** Lateral strain versus longitudinal strain
 
@@ -735,17 +865,25 @@ Suppose we stretch a wire, its length increases (elongation) but its diameter de
 
 **It is defined as the ratio of relative contraction (lateral strain) to relative expansion (longitudinal strain). It is denoted by the symbol µ.**  
 
-
-Poisson's ratio, \( \mu = \frac{\text{Lateral strain}}{\text{Longitudinal strain}} \)
+ {{< katex display >}}
+Poisson's ratio,  \mu = \frac{\text{Lateral strain}}{\text{Longitudinal strain}} 
 (7.10)
+{{< /katex >}} -->
+
+<!-- Poisson's ratio, \( \mu = \frac{\text{Lateral strain}}{\text{Longitudinal strain}} \)
+(7.10) -->
+
 <!-- Poisson’sratio, Lateral strain
 
 Longitudinal strain µ= (7.10) -->
 
-Consider a wire of length _L_ with diameter _D_. Due to applied force, wire stretches and let the increase in length be _l_ and decrease in diameter be d. Then
+<!-- Consider a wire of length _L_ with diameter _D_. Due to applied force, wire stretches and let the increase in length be _l_ and decrease in diameter be d. Then
 
+ {{< katex display >}}
+ \mu = -\frac{d}{D} \div \frac{l}{L} = -\frac{L}{l} \times \frac{d}{D} 
+{{< /katex >}} -->
 
-\( \mu = -\frac{d}{D} \div \frac{l}{L} = -\frac{L}{l} \times \frac{d}{D} \)
+<!-- \( \mu = -\frac{d}{D} \div \frac{l}{L} = -\frac{L}{l} \times \frac{d}{D} \) -->
 
 
 
@@ -758,10 +896,10 @@ _d D l L_
 _L l_
 
 _d D_ -->
-
+<!-- 
 Negative sign indicates the elongation is along longitudinal and the contraction along lateral dimension. Further, notice that it is the ratio between quantities of the same dimension. So, Poisson’s ratio has no unit and no dimension (dimensionless number). The Poisson’s ratio values of some of the materials are listed in Table 7.2.
 
-![Alt text](table2.png)
+![Alt text](table2.png) -->
 <!-- 
 **Table 7.2** Poisson’s ratio of some of the materials -->
 
@@ -802,14 +940,14 @@ Energy stress strain volum= × × 1 2
 
 ( ) -->
 
-###  Elastic energy
+<!-- ###  Elastic energy -->
 <!-- ![Alt text](IMAGE.png) -->
 
-When a body is stretched, work is done against the restoring force (internal force). This work done is stored in the body in the form of elastic energy.
+<!-- When a body is stretched, work is done against the restoring force (internal force). This work done is stored in the body in the form of elastic energy.
 
-Consider a wire whose un-stretch length is L and area of cross section is A. Let a force produce an extension _l_ and further assume that the elastic limit of the wire has not been exceeded and there is no loss in energy. Then, the work done by the force F is equal to the energy gained by the wire. The work done in stretching the wire by dl, dW = F d_l_ The total work done in stretching the wire from 0 to _l_ is
+Consider a wire whose un-stretch length is L and area of cross section is A. Let a force produce an extension _l_ and further assume that the elastic limit of the wire has not been exceeded and there is no loss in energy. Then, the work done by the force F is equal to the energy gained by the wire. The work done in stretching the wire by dl, dW = F d_l_ The total work done in stretching the wire from 0 to _l_ is -->
 
-W = _F dl l_
+<!-- W = _F dl l_
 
 0ò (7.11)
 
@@ -935,9 +1073,9 @@ Energy stress strain volume= × × = × × × 1 2
 
 e= × × × × ×−1 2
 
-98 10 8 17 10 2 17 3( ) ( . ) 0 86− = J
+98 10 8 17 10 2 17 3( ) ( . ) 0 86− = J -->
 
-## Applications of elasticity
+<!-- ## Applications of elasticity
  The mechanical properties of materials play a very vital role in everyday life. The elastic behaviour is one such property which especially decides the structural design of the columns and beams of a building.
 
 As far as the structural engineering is concerned, the amount of stress that the design could withstand is a primary safety factor. A bridge has to be designed in such a way that it should have the capacity to withstand the load of the flowing traffic, the force of winds, and even its own weight. The elastic behaviour or in other words, the bending of beams is a major concern over the stability of the buildings or bridges.
@@ -953,9 +1091,9 @@ For an example, to reduce the bending of a beam for a given load, one should use
 
 Which one is more elastic? Rubber or steel? Steel is more elastic than rubber. If an equal stress
 
-is applied to both steel and rubber, the steel produces less strain. So the Young’s modulus is higher for steel than rubber. The object which has higher Young’s modulus is more elastic.
+is applied to both steel and rubber, the steel produces less strain. So the Young’s modulus is higher for steel than rubber. The object which has higher Young’s modulus is more elastic. -->
 
-**FLUIDS**
+<!-- **FLUIDS**
 
 ## Introduction
 
@@ -1051,9 +1189,9 @@ Hence, the specific gravity of the sphere
 
 \= 2690 1000
 
-2 69= .
+2 69= . -->
 
-## Pressure due to fluid column at rest
+<!-- ## Pressure due to fluid column at rest
 
 
 A mountaineer climbing the mountain is able to experience a decrease in pressure with altitude. A person jumping into the swimming pool always realizes an increase in pressure with depth below the water surface. In both the cases, the pressure encountered by the mountaineer and diver is usually due to the hydrostatic pressure, because they are due to fluids that are static.
@@ -1140,8 +1278,8 @@ The decrease of atmospheric pressure with altitude has an unwelcome consequence 
 
 Take a metal container with an opening. Connect a vacuum pump to the opening. Evacuate the air from inside the container. Why the shape of the metal container gets crumbled?
 
-**Inference:** Due to the force of atmospheric pressure acting on its outer surface, the shape of the container crumbles.
-
+**Inference:** Due to the force of atmospheric pressure acting on its outer surface, the shape of the container crumbles. -->
+<!-- 
 **Activity**
 
 
@@ -1159,9 +1297,9 @@ Take a glass tumbler. Fill it with water to the brim. Slide a cardboard on its r
 
 **Inference:** This is due to the fact that the weight of water in the tumbler is balanced by the upward thrust caused due to the atmospheric pressure acting on the lower surface of the cardboard that is exposed to air.
 
-**Activity**
+**Activity** -->
 
-## Pascal’s law and its applications
+<!-- ## Pascal’s law and its applications
 
 
 The French scientist Blaise Pascal observed that the pressure in a fluid at rest is the same at all points if they are at the same height. Pascal’s law states that _if the pressure in a liquid is changed at a particular point, the change is transmitted to the entire liquid without being diminished in magnitude_.
@@ -1224,13 +1362,13 @@ _A_ 2
 
 1 and this
 
-factor is called the mechanical advantage of the lift.
+factor is called the mechanical advantage of the lift. -->
 
-**EXAMPLE 7.7**
+<!-- **EXAMPLE 7.7**
 
-Two pistons of a hydraulic lift have diameters of 60 cm and 5 cm. What is the force exerted by the larger piston when 50 N is placed on the smaller piston?
+Two pistons of a hydraulic lift have diameters of 60 cm and 5 cm. What is the force exerted by the larger piston when 50 N is placed on the smaller piston? -->
 
-**_Solution_** Since, the diameter of the pistons are given, we can calculate the radius of the piston
+<!-- **_Solution_** Since, the diameter of the pistons are given, we can calculate the radius of the piston
 
 r = _D_ 2
 
@@ -1281,16 +1419,16 @@ _A F N N_2
 
 
 
-  
+   -->
 
-## Buoyancy
+<!-- ## Buoyancy
 
 
 When a body is partially or fully immersed in a fluid, it displaces a certain amount of fluid. The displaced fluid exerts an upward force on the body. The upward force exerted by a fluid that opposes the weight of an immersed object in a fluid is called upthrust or _buoyant force_ and the phenomenon is called _buoyancy_.
 
-**Archimedes principle:**
+**Archimedes principle:** -->
 
-**Figure 7.13** Archimedes principle
+<!-- **Figure 7.13** Archimedes principle
 
 Weight of object
 
@@ -1344,18 +1482,18 @@ g cm g cm
 
 − × = only.
 
-**Note**
+**Note** -->
 
-**EXAMPLE 7.8**
+<!-- **EXAMPLE 7.8**
 
 A cube of wood floating in water supports a 300 g mass at the centre of its top face. When the mass is removed, the cube rises by 3 cm. Determine the volume of the cube.
-
+ -->
 
 
 
   
 
-**_Solution_**
+<!-- **_Solution_**
 
 Let each side of the cube be l. The volume occupied by 3 cm depth of cube,
 
@@ -1393,15 +1531,15 @@ the submarines have ballast tanks that can be filled with water or air alternati
 
 easily than in river water. ii) Ice floats on water. iii) The ship is made of steel but its interior is
 
-made hollow by giving it a concave shape.  
+made hollow by giving it a concave shape.   -->
 
-# VISCOSITY
-
-
-## Introduction
+<!-- # VISCOSITY
 
 
-In section 7.3, the behaviour of fluids at rest is discussed. Successive discussions will bring out the influence of fluid motion on different properties. A fluid in motion is a complex phenomenon as it possesses potential, kinetic, and gravitational energy besides causing friction viscous forces to come into play. Therefore, it is necessary to consider the case of an ideal liquid to simplify the task. An ideal liquid is incompressible (i.e., bulk modulus is infinity) and in which no shearing forces can be maintained (i.e., the coefficient of viscosity is zero).
+## Introduction -->
+
+
+<!-- In section 7.3, the behaviour of fluids at rest is discussed. Successive discussions will bring out the influence of fluid motion on different properties. A fluid in motion is a complex phenomenon as it possesses potential, kinetic, and gravitational energy besides causing friction viscous forces to come into play. Therefore, it is necessary to consider the case of an ideal liquid to simplify the task. An ideal liquid is incompressible (i.e., bulk modulus is infinity) and in which no shearing forces can be maintained (i.e., the coefficient of viscosity is zero).
 
 Most of the fluids offer resistance towards motion. A frictional force acts at the contact surface when a fluid moves relative to a solid or when two fluids move relative to each other. This resistance to fluid motion is similar to the friction produced when a solid moves on a surface. The internal friction existing between the layers of a moving fluid is viscosity. So, viscosity is defined as the property of a fluid to oppose the relative motion between its layers.
 
@@ -1474,17 +1612,17 @@ Viscosity is similar to friction. The kinetic energy of the substance is dissipa
 
 as heat energy.
 
-**Note**
+**Note** -->
 
-**EXAMPLE 7.9**
+<!-- **EXAMPLE 7.9**
 
 A metal plate of area 2.5×10–4 m2 is placed on a 0.25×10–3 m thick layer of castor oil. If a force of 2.5 N is needed to move the plate with a velocity 3×10–2 m s–1_,_ calculate the coefficient of viscosity of castor oil.
 
-Given: A=2.5×10–4 m2, _dx_ = 0.25×10–3m, _F_\=2.5 N and _dv_ = 3×10–2 m s–1
+Given: A=2.5×10–4 m2, _dx_ = 0.25×10–3m, _F_\=2.5 N and _dv_ = 3×10–2 m s–1 -->
 
-**_Solution_**
+<!-- **_Solution_** -->
 
-_F A d dx_
+<!-- _F A d dx_
 
 \=−η _v_
 
@@ -1547,12 +1685,12 @@ ms
 
 
 
-  
+   -->
 
-## Streamlined flow
+<!-- ## Streamlined flow -->
 
 
-The flow of fluids occurs in different ways. It can be a steady or streamlined flow, unsteady or turbulent flow, compressible or incompressible flow or even viscous or non-viscous flow. For example, consider a calm flow of water through a river. Careful observation reveals that the velocity of water at different locations of the river is quite different. It is almost faster at the center and slowest near the banks. However, the velocity of the particle at any point is constant. For better understanding, assume that the velocity of the particle is about 4 meter per second at the center of the river. Hence it will be of the same value for all other particles crossing through this point. In a similar way, if the velocity of the particle flowing near the bank of the river is 0.5 meter per second, then the succeeding particles flowing through it will have the same value.
+<!-- The flow of fluids occurs in different ways. It can be a steady or streamlined flow, unsteady or turbulent flow, compressible or incompressible flow or even viscous or non-viscous flow. For example, consider a calm flow of water through a river. Careful observation reveals that the velocity of water at different locations of the river is quite different. It is almost faster at the center and slowest near the banks. However, the velocity of the particle at any point is constant. For better understanding, assume that the velocity of the particle is about 4 meter per second at the center of the river. Hence it will be of the same value for all other particles crossing through this point. In a similar way, if the velocity of the particle flowing near the bank of the river is 0.5 meter per second, then the succeeding particles flowing through it will have the same value.
 
 **When a liquid flows such that each particle of the liquid passing through a point moves along the same path with the same velocity as its predecessor then the flow of liquid is said to be a streamlined _flow. It is also referred to as steady or_** laminar flow. The actual path taken by the particle of the moving fluid is called a streamline, which is a curve, the tangent to which at any point gives the direction of the flow of the fluid at that point as shown in Figure 7.16. It is named so because the flow looks like the flow of a stream or river under ideal conditions.
 
@@ -1576,12 +1714,12 @@ v
 
 **Figure 7.17 (a) turbulent flow around a** sphere (when v = vc) (b) turbulent flow around a sphere (when _v **>** vc_**)**
 
-The distinction between the two types of motion can be easily demonstrated by injecting a jet of ink axially in a wide tube through which water flows. When the velocity of the fluid is small, the ink will move in a straight line path. Conversely, when the velocity is increased beyond a certain value, the ink will spread out showing the disorderliness and hence the motion becomes turbulent. The zig-zag motion results in the formation of eddy currents and as a consequence, much energy is dissipated.
+The distinction between the two types of motion can be easily demonstrated by injecting a jet of ink axially in a wide tube through which water flows. When the velocity of the fluid is small, the ink will move in a straight line path. Conversely, when the velocity is increased beyond a certain value, the ink will spread out showing the disorderliness and hence the motion becomes turbulent. The zig-zag motion results in the formation of eddy currents and as a consequence, much energy is dissipated. -->
 
-## Reynold’s number
+<!-- ## Reynold’s number -->
 
 
-We have learnt that the flow of a fluid becomes steady or laminar when the velocity of flow is less than the critical velocity vc otherwise, the flow becomes turbulent. Osborne Reynolds (1842-1912) formulated an equation to find out the nature of the
+<!-- We have learnt that the flow of a fluid becomes steady or laminar when the velocity of flow is less than the critical velocity vc otherwise, the flow becomes turbulent. Osborne Reynolds (1842-1912) formulated an equation to find out the nature of the
 
 (a)
 
@@ -1701,12 +1839,12 @@ rise up through water or any fluid. This is also the reason for the clouds in th
 
 i) The terminal speed of a sphere is directly proportional to the square of the radius of the sphere. Hence, larger raindrops fall with greater speed as compared to the smaller raindrops.
 
-ii) If the density of the material of the sphere is less than the density of the medium, then the sphere shall attain terminal velocity in the upward direction. That is why gas bubbles rise up in soda water.
+ii) If the density of the material of the sphere is less than the density of the medium, then the sphere shall attain terminal velocity in the upward direction. That is why gas bubbles rise up in soda water. -->
+<!-- 
+## Stoke’s law and its applications -->
 
-## Stoke’s law and its applications
 
-
-When a body falls through a viscous medium, it drags the layer of the fluid immediately in contact with it. This produces a relative motion between the different layers of the liquid. Stoke performed many experiments on the motion of small spherical bodies in different fluids and concluded that the viscous force F acting on a spherical body of radius r depends directly on
+<!-- When a body falls through a viscous medium, it drags the layer of the fluid immediately in contact with it. This produces a relative motion between the different layers of the liquid. Stoke performed many experiments on the motion of small spherical bodies in different fluids and concluded that the viscous force F acting on a spherical body of radius r depends directly on
 
 i) radius (_r_) of the sphere ii) velocity (_v_) of the sphere and iii) coefficient of viscosity η of the liquid
 
@@ -1730,19 +1868,19 @@ Experimentally, Stoke found that the value of k = 6π
 
 F = 6πη _rv_ (7.23)
 
-This relation is known as Stoke’s law
+This relation is known as Stoke’s law -->
 
-**Practical applications of Stoke’s law** Since the raindrops are smaller in size and their terminal velocities are small, remain suspended in air in the form of clouds. As they grow up in size, their terminal velocities increase and they start falling in the form of rain. This law explains the following:
+<!-- **Practical applications of Stoke’s law** Since the raindrops are smaller in size and their terminal velocities are small, remain suspended in air in the form of clouds. As they grow up in size, their terminal velocities increase and they start falling in the form of rain. This law explains the following:
 
 a) Floatation of clouds b) Larger raindrops hurt us more than the
 
 smaller ones c) A man coming down with the help of
 
-a parachute acquires constant terminal velocity.
+a parachute acquires constant terminal velocity. -->
 
-## Poiseuille’s equation
+<!-- ## Poiseuille’s equation -->
 
-
+<!-- 
 Poiseuille analyzed the steady flow of liquid through a capillary tube. He derived an expression for the volume of the liquid flowing per second through the capillary tube. As per the theory, the following conditions must be retained while deriving the equation.
 
 • The flow of liquid through the tube is streamlined.
@@ -1875,10 +2013,10 @@ _r P l_
 
 **7.5**
 
-The above equation is known as Poiseuille’s _equation for the flow of liquid through a_ narrow tube or a capillary tube. This relation holds good for the fluids whose velocities are lesser than the critical velocity (vc).
+The above equation is known as Poiseuille’s _equation for the flow of liquid through a_ narrow tube or a capillary tube. This relation holds good for the fluids whose velocities are lesser than the critical velocity (vc). -->
 
-## Applications of viscosity
-
+<!-- ## Applications of viscosity -->
+<!-- 
 
 The importance of viscosity can be understood from the following examples. (1) The oil used as a lubricant for heavy
 
@@ -1888,14 +2026,14 @@ machinery parts should have a high viscous coefficient. To select a suitable lub
 
 (3) Blood circulation through arteries and veins depends upon the viscosity of fluids.
 
-(4) Millikan conducted the oil drop experiment to determine the charge of an electron. He used the knowledge of viscosity to determine the charge.
+(4) Millikan conducted the oil drop experiment to determine the charge of an electron. He used the knowledge of viscosity to determine the charge. -->
 
-**SURFACE TENSION**
+<!-- **SURFACE TENSION** -->
 
-## Intermolecular forces
+<!-- ## Intermolecular forces -->
 
 
-Some liquids do not mix together due to their physical properties such as density, surface tension force, etc. For example, water and kerosene do not mix together. Mercury does not wet the glass but water sticks to it. Water
+<!-- Some liquids do not mix together due to their physical properties such as density, surface tension force, etc. For example, water and kerosene do not mix together. Mercury does not wet the glass but water sticks to it. Water
 
 _ML T and r L_− −  \[ \]=  
 
@@ -1947,20 +2085,20 @@ The hairs of the painting brush cling together when taken out of water. This is 
 
 **Fw**
 
-**Activity**  
-
+**Activity**   -->
+<!-- 
 The floating needle causes a little depression; the forces Fs due to the surface tension of the curved surface are inclined as shown in Figure 7.23. The vertical components of these two forces support the weight of the needle. Now add liquid soap to the water and stir it. We find that the needle sinks.
 
 Take a plastic sheet and cut out a piece in the shape of a boat (Figure 7.24). A tapering and smooth front with a notch at the back is suggested. Put a piece of camphor into the notch of the boat. Gently release the boat on the surface of the water and we find that the boat is propelled forward when the camphor dissolves. The surface tension is lowered, as the camphor dissolves and produces a difference in surface tension in the water nearby the notch. This causes the water to flow away from the back of the boat, which moves the boat forward.
 
 **Figure 7.24** Camphor boat
 
-**Activity**
+**Activity** -->
 
-## Factors affecting the surface tension of a liquid
+<!-- ## Factors affecting the surface tension of a liquid -->
 
 
-Surface tension for a given liquid varies in following situations (1) The presence of any contamination or
+<!-- Surface tension for a given liquid varies in following situations (1) The presence of any contamination or
 
 **_impurities considerably affects the force_** of surface tension depending upon the degree of contamination.
 
@@ -2009,12 +2147,12 @@ _n_
 
 which gives more accurate value. Here, _n_ varies for different liquids and t and tc denote  
 
-the temperature and critical temperature in absolute scale (Kelvin scale) respectively.
+the temperature and critical temperature in absolute scale (Kelvin scale) respectively. -->
 
-## Surface energy (S.E.) and surface tension (S.T.)
+<!-- ## Surface energy (S.E.) and surface tension (S.T.) -->
 
 
-**Surface Energy** Consider a sample of liquid in a container. A molecule inside the liquid is being pulled in all direction by other molecules that surround it. However, near the surface, a molecule is pulled down only by the molecules below it and there is a net downward force. As a result, the entire surface of the liquid is being pulled inward. The liquid surface thus tends to have the least surface area. To increase the surface area, some molecules are brought from the interior to the surface. For this reason, work has to be done against the forces of attraction. The amount of work done is stored as potential energy. Thus, the molecules lying on the surface possess greater potential energy than other molecules. This excess energy per unit area of the free surface of the liquid is called ‘_surface energy_’. In other words, the work done in increasing the surface area per unit area of the liquid against the surface tension force is called the surface energy of the liquid.
+<!-- **Surface Energy** Consider a sample of liquid in a container. A molecule inside the liquid is being pulled in all direction by other molecules that surround it. However, near the surface, a molecule is pulled down only by the molecules below it and there is a net downward force. As a result, the entire surface of the liquid is being pulled inward. The liquid surface thus tends to have the least surface area. To increase the surface area, some molecules are brought from the interior to the surface. For this reason, work has to be done against the forces of attraction. The amount of work done is stored as potential energy. Thus, the molecules lying on the surface possess greater potential energy than other molecules. This excess energy per unit area of the free surface of the liquid is called ‘_surface energy_’. In other words, the work done in increasing the surface area per unit area of the liquid against the surface tension force is called the surface energy of the liquid.
 
 Surfaceenergy = work doneinincreasing thesurfacearea
 
@@ -2098,15 +2236,15 @@ It should be remembered that a liquid drop has only one free surface. Therefore,
 
 surface area of a spherical drop of radius r is equal to 4π_r_2, whereas, a bubble has two free surfaces and hence the surface area of a spherical bubble is equal to 2 × 4π_r_2.
 
-**Note**
+**Note** -->
 
-**EXAMPLE 7.10**
+<!-- **EXAMPLE 7.10** -->
+<!-- 
+Let 2 4 10 4. × − _J_ of work is done to increase the area of a film of soap bubble from 50 cm2 to 100 cm2. Calculate the value of surface tension of soap solution. -->
 
-Let 2 4 10 4. × − _J_ of work is done to increase the area of a film of soap bubble from 50 cm2 to 100 cm2. Calculate the value of surface tension of soap solution.
+<!-- **_Solution:_** -->
 
-**_Solution:_**
-
-A soap bubble has two free surfaces, therefore increase in surface area Δ_A_ = _A_2−_A_1 _=_ 2(100–50) × 10–4m2 = 100 × 10–4m2.
+<!-- A soap bubble has two free surfaces, therefore increase in surface area Δ_A_ = _A_2−_A_1 _=_ 2(100–50) × 10–4m2 = 100 × 10–4m2.
 
 Since, work done _W T A T W A_
 
@@ -2142,12 +2280,12 @@ _A T W A_
 
 4 2 2 1. .J
 
-m Nm
+m Nm -->
 
-## Angle of contact
+<!-- ## Angle of contact -->
 
 
-When the free surface of a liquid comes in contact with a solid, then the surface of the liquid becomes curved at the point of contact. Whenever the liquid surface becomes a curve, then the angle between the two medium (solid-liquid interface) comes in the picture. For an example, when a glass plate is dipped in water with sides vertical as shown in figure, we can observe that the water is drawn up to the plate. In the same manner, instead of water the glass plate is dipped in mercury, the surface is curved but now the curve is depressed as shown in Figure 7.29
+<!-- When the free surface of a liquid comes in contact with a solid, then the surface of the liquid becomes curved at the point of contact. Whenever the liquid surface becomes a curve, then the angle between the two medium (solid-liquid interface) comes in the picture. For an example, when a glass plate is dipped in water with sides vertical as shown in figure, we can observe that the water is drawn up to the plate. In the same manner, instead of water the glass plate is dipped in mercury, the surface is curved but now the curve is depressed as shown in Figure 7.29
 
 
 
@@ -2204,12 +2342,12 @@ obtuse angle (θ less than 180°) as cosθ is negative.
 
 (iii) If Tsa > Tla + Tsl, then there will be no equilibrium and liquid will spread over the solid.
 
-Therefore, the concept of angle of contact between the solid-liquid interface leads to some practical applications in real life. For example, soaps and detergents are wetting agents. When they are added to an aqueous solution, they will try to minimize the angle of contact and in turn penetrate well in the cloths and remove the dirt. On the other hand, water proofing paints are coated on the outer side of the building so that it will enhance the angle of contact between the water and the painted surface during the rainfall.
+Therefore, the concept of angle of contact between the solid-liquid interface leads to some practical applications in real life. For example, soaps and detergents are wetting agents. When they are added to an aqueous solution, they will try to minimize the angle of contact and in turn penetrate well in the cloths and remove the dirt. On the other hand, water proofing paints are coated on the outer side of the building so that it will enhance the angle of contact between the water and the painted surface during the rainfall. -->
 
-## Excess of pressure inside a liquid drop, a soap bubble, and an air bubble
+<!-- ## Excess of pressure inside a liquid drop, a soap bubble, and an air bubble -->
 
 
-As it is discussed earlier, the free surface of a liquid becomes curved when it has contact with a solid. Depending upon the nature of liquid-air or liquid-gas interface, the magnitude of interfacial surface tension varies. In other words, as a consequence of surface tension, the above such interfaces have energy and for a given volume, the surface will have a minimum energy with least area. Due to this reason, the liquid drop becomes spherical (for a smaller radius).
+<!-- As it is discussed earlier, the free surface of a liquid becomes curved when it has contact with a solid. Depending upon the nature of liquid-air or liquid-gas interface, the magnitude of interfacial surface tension varies. In other words, as a consequence of surface tension, the above such interfaces have energy and for a given volume, the surface will have a minimum energy with least area. Due to this reason, the liquid drop becomes spherical (for a smaller radius).
 
 When the free surface of the liquid is curved, there is a difference in pressure between the inner and outer the side of the surface (Figure 7.27).
 
@@ -2357,14 +2495,14 @@ Excess pressure is ∆ = − =_P P P T R_2 1
 
 The smaller the radius of a liquid drop, the greater is the excess of pressure inside the drop. It is due
 
-to this excess of pressure inside, the tiny fog droplets are rigid enough to behave like solids. When an ice-skater skate over the surface of the ice, some ice melts due to the pressure exerted by the sharp metal edges of the skates, the tiny droplets of water act as rigid ball- bearings and help the skaters to run along smoothly.
+to this excess of pressure inside, the tiny fog droplets are rigid enough to behave like solids. When an ice-skater skate over the surface of the ice, some ice melts due to the pressure exerted by the sharp metal edges of the skates, the tiny droplets of water act as rigid ball- bearings and help the skaters to run along smoothly. -->
 
-**EXAMPLE 7.11**
+<!-- **EXAMPLE 7.11**
 
-If excess pressure is balanced by a column of oil (with specific gravity 0.8) 4 mm high, where R = 2.0 cm, find the surface tension of the soap bubble.
-
-**_Solution_**
-
+If excess pressure is balanced by a column of oil (with specific gravity 0.8) 4 mm high, where R = 2.0 cm, find the surface tension of the soap bubble. -->
+<!-- 
+**_Solution_** -->
+<!-- 
 The excess of pressure inside the soap
 
 bubble is ∆ = − =_P P P T R_2 1
@@ -2405,12 +2543,12 @@ _T_ = _N m_× × ×
 
 θ=0 (A) Weak Strong Perfect
 
-θ<90 (B) Weak Strong Hi θ>90 (C) Strong Weak Lo  
+θ<90 (B) Weak Strong Hi θ>90 (C) Strong Weak Lo   -->
 
-## Capillarity
+<!-- ## Capillarity -->
 
 
-The word ‘capilla’ means hair in Latin. If the tubes were hair thin, then the rise would be very large. It means that the tube having a very small diameter is called a ‘capillary tube’. When a glass capillary tube open at both ends is dipped vertically in water, the water in the tube will rise above the level of water in the vessel. In case of mercury, the liquid is depressed in the tube below the level of mercury in the vessel (shown in Figure 7.29). In a liquid whose angle of contact with solid is less than 90°, suffers capillary rise. On the other hand, in a liquid whose angle of contact is greater than 90°, suffers capillary fall (Table 7.4). The rise or fall of a liquid in a narrow tube is called capillarity or capillary action. Depending on the diameter of the capillary tube, liquid rises or falls to different heights.
+<!-- The word ‘capilla’ means hair in Latin. If the tubes were hair thin, then the rise would be very large. It means that the tube having a very small diameter is called a ‘capillary tube’. When a glass capillary tube open at both ends is dipped vertically in water, the water in the tube will rise above the level of water in the vessel. In case of mercury, the liquid is depressed in the tube below the level of mercury in the vessel (shown in Figure 7.29). In a liquid whose angle of contact with solid is less than 90°, suffers capillary rise. On the other hand, in a liquid whose angle of contact is greater than 90°, suffers capillary fall (Table 7.4). The rise or fall of a liquid in a narrow tube is called capillarity or capillary action. Depending on the diameter of the capillary tube, liquid rises or falls to different heights.
 
 **Figure 7.29** Capillary rise or fall
 
@@ -2482,12 +2620,12 @@ cotton within an earthen lamp. Likewise, sap rises from the roots of a plant to 
 
 tear fluid from the eye to drain constantly. • Cotton dresses are preferred in summer
 
-because cotton dresses have fine pores which act as capillaries for sweat.
+because cotton dresses have fine pores which act as capillaries for sweat. -->
 
-## Surface Tension by capillary rise method
+<!-- ## Surface Tension by capillary rise method -->
 
 
-The pressure difference across a curved liquid-air interface is the basic factor behind the rising up of water in a narrow tube (influence of gravity is ignored). The capillary rise is more dominant in the case of very fine tubes. But this phenomenon is the outcome of the force of surface tension. In order to arrive a relation between the capillary rise (_h_) and surface tension (_T_),
+<!-- The pressure difference across a curved liquid-air interface is the basic factor behind the rising up of water in a narrow tube (influence of gravity is ignored). The capillary rise is more dominant in the case of very fine tubes. But this phenomenon is the outcome of the force of surface tension. In order to arrive a relation between the capillary rise (_h_) and surface tension (_T_),
 
 (a)
 
@@ -2688,11 +2826,11 @@ _h r_
 
 ρ (7.34)
 
-This implies that the capillary rise (h) is inversely proportional to the radius (_r_) of the tube. i.e, the smaller the radius of the tube greater will be the capillarity.
+This implies that the capillary rise (h) is inversely proportional to the radius (_r_) of the tube. i.e, the smaller the radius of the tube greater will be the capillarity. -->
 
-**EXAMPLE 7.12**
+<!-- **EXAMPLE 7.12** -->
 
-Water rises in a capillary tube to a height of 2.0cm. How much will the water rise through another capillary tube whose radius is one-third of the first tube? **_Solution_** From equation (7.34), we have
+<!-- Water rises in a capillary tube to a height of 2.0cm. How much will the water rise through another capillary tube whose radius is one-third of the first tube? **_Solution_** From equation (7.34), we have
 
 _h r_
 
@@ -2800,13 +2938,13 @@ _v r r_2
 
 
 
- 
+  -->
 
-**BERNOULLI’S THEOREM**
+<!-- **BERNOULLI’S THEOREM** -->
+<!-- 
+## Equation of continuity -->
 
-## Equation of continuity
-
-
+<!-- 
 In order to discuss the mass flow rate through a pipe, it is necessary to assume that the flow of fluid is steady, the flow of the fluid is said to be steady if at any given point, the velocity of each passing fluid particle remains constant with respect to time. Under this condition, the path taken by the fluid particle is a streamline.
 
 Consider a pipe AB of varying cross sectional area _a_1 and _a_2 such that _a_1 > _a_2\. A non-viscous and incompressible liquid flows steadily through the pipe, with velocities _v_1 and _v_2 in area _a_1 and _a_2, respectively as shown in Figure 7.32.
@@ -2831,15 +2969,15 @@ _a_1_v_1 = _a_2_v_2 ⇒ _a_ _v_ = constant (7.35)
 
 which is called the equation of continuity and it is a statement of conservation of mass in the flow of fluids.  
 
-In general, _a v =_ constant, which means that the volume flux or flow rate remains constant throughout the pipe. In other words, the smaller the cross section, greater will be the velocity of the fluid.
+In general, _a v =_ constant, which means that the volume flux or flow rate remains constant throughout the pipe. In other words, the smaller the cross section, greater will be the velocity of the fluid. -->
 
-**EXAMPLE 7.14**
+<!-- **EXAMPLE 7.14** -->
 
-In a normal adult, the average speed of the blood through the aorta (radius _r_ = 0.8 cm) is 0.33 ms–1. From the aorta, the blood goes into major arteries, which are 30 in number, each of radius 0.4 cm. Calculate the speed of the blood through the arteries.
+<!-- In a normal adult, the average speed of the blood through the aorta (radius _r_ = 0.8 cm) is 0.33 ms–1. From the aorta, the blood goes into major arteries, which are 30 in number, each of radius 0.4 cm. Calculate the speed of the blood through the arteries. -->
 
-**_Solution:_**
+<!-- **_Solution:_** -->
 
-_a_1_v_1 = 30 _a_2 _v_2 ⇒ π _r v_1 2
+<!-- _a_1_v_1 = 30 _a_2 _v_2 ⇒ π _r v_1 2
 
 1 = 30 π _r v_2 2
 
@@ -2921,11 +3059,11 @@ _v v_ 2
 
 10 33( . )ms
 
-_v_2 = 0.044 m s–1
+_v_2 = 0.044 m s–1 -->
 
-## Pressure, kinetic and potential energy of liquids
+<!-- ## Pressure, kinetic and potential energy of liquids -->
 
-
+<!-- 
 A liquid in a steady flow can possess three kinds of energy. They are (1) Kinetic energy, (2) Potential energy, and (3) Pressure energy, respectively.
 
 i) Kinetic energy: The kinetic energy of a liquid of mass _m_ moving with a velocity _v_ is given by
@@ -3029,14 +3167,14 @@ volume = _E PV V_
 
 _PP_
 
-volume = =
+volume = = -->
 
-## Bernoulli’s theorem and its applications
+<!-- ## Bernoulli’s theorem and its applications -->
 
+<!-- 
+In 1738, the Swiss scientist Daniel Bernoulli developed a relationship for the flow of fluid through a pipe of varying cross section. He proposed a theorem for the streamline flow of a liquid based on the law of conservation of energy.   -->
 
-In 1738, the Swiss scientist Daniel Bernoulli developed a relationship for the flow of fluid through a pipe of varying cross section. He proposed a theorem for the streamline flow of a liquid based on the law of conservation of energy.  
-
-**Bernoulli’s theorem** According to Bernoulli’s theorem, the sum of pressure energy, kinetic energy, and potential energy per unit mass of an incompressible, non-viscous fluid in a streamlined flow remains a constant. Mathematically,
+<!-- **Bernoulli’s theorem** According to Bernoulli’s theorem, the sum of pressure energy, kinetic energy, and potential energy per unit mass of an incompressible, non-viscous fluid in a streamlined flow remains a constant. Mathematically,
 
 _P v_ ρ + +
 
@@ -3827,4 +3965,4 @@ tml
 
 
 
-
+ -->

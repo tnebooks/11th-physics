@@ -176,18 +176,18 @@ The resultant of these parallel forces always acts through a point. This point i
 
 We can also determine the centre of gravity of a uniform lamina of even an irregular shape by pivoting it at various points by trial and error. The lamina remains horizontal when pivoted at the point where the net gravitational force acts, which is the centre of gravity as shown in Figure 5.17. When a body is supported at the centre of gravity, the sum of the torques acting on all the point masses of the rigid body becomes zero. Moreover the weight is compensated by the normal reaction force exerted by the pivot. The body is in static equilibrium and hence it remains horizontal.
 
-![Alt text](equation.PNG)
+![Alt text](equation.png)
 
 
 Figure 5.17. Determination of centre of gravity of plane lamina by pivoting
 
 There is also another way to determine the centre of gravity of an irregular lamina. If we suspend the lamina from different
-![Alt text](Circle1.png)
+![Alt text](circle1.png)
 
 
 Figure 5.18 Determination of centre of gravity of plane lamina by suspending points like P, Q, R as shown in Figure 5.18,
 
-![Alt text](equation.PNG)
+![Alt text](equation.png)
 through the centre of gravity. Here, reaction force acting at the point of suspension and the gravitational force acting at the centre of gravity cancel each other and the torques caused by them also cancel each other.
 
 ![Alt text](cycle1.png)

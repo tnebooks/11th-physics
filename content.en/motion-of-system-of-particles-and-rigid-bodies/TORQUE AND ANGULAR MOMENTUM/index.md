@@ -111,7 +111,7 @@ Force, $\mathrm{F}=2.5 \mathrm{~N}$
 
 Angle between $\mathrm{r}$ and $\mathrm{F}, \theta=90^{\circ}$
 
-![Alt text](Capture2.png)
+![Alt text](capture2.png)
 
 (i) Torque, $\tau=\mathrm{rF} \sin \theta$
 
@@ -162,7 +162,7 @@ A crane has an arm length of $20 \mathrm{~m}$ inclined at $30^{\circ}$ with the 
 
 **Solution**
 
-![Alt text](Capture3.png)
+![Alt text](capture3.png)
 
 The force $\mathrm{F}$ at the point of suspension is due to the weight of the hanging mass.
 
@@ -239,7 +239,7 @@ For the rest of the lesson, we consider rotation about only fixed axis. For this
 1. Consider forces that lie only on planes perpendicular to the axis (without intersecting in the axis).
 2. Consider position vectors that are only perpendicular to the axis.
 
-![Alt text](Content2.png)
+![Alt text](content2.png)
 
 **EXAMPLE 5.10**
 

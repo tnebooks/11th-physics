@@ -12,7 +12,8 @@ In the previous sections we have studied about the heat, temperature and thermal
 a branch of physics which describes the laws governing the process of conversion of work into heat and conversion of heat into work. The laws of thermodynamics are formulated over three centuries of experimental works of Boyle, Charles, Bernoulli, Joule, Clausius, Kelvin, Carnot and Helmholtz. In our day to day life, the functioning of everything around us and even our body is governed by the laws of thermodynamics. Therefore thermodynamics is one of the essential branches of physics.
 
 **Thermodynamic system:** A thermodynamic system is a finite part of the universe. It is a collection of large number of particles (atoms and molecules) specified by certain parameters called pressure (P), Volume (V) and Temperature (T). The remaining part of the universe is called surrounding. Both are separated by a boundary. It is shown in Figure 8.15
-<img src="image_90.jpg" alt="Ramanujan" width="500" >
+![Ramanujan](image_90.jpg)
+<!-- <img src="image_90.jpg" alt="Ramanujan" width="500" > -->
 
 
 **Figure 8.15 Thermodynamic system**
@@ -20,14 +21,17 @@ a branch of physics which describes the laws governing the process of conversion
 
 
 Examples: A thermodynamic system can be liquid, solid, gas and radiation.
-<img src="image_91.jpg" alt="Ramanujan" width="500" >
+
+![Ramanujan](image_91.jpg)
+<!-- <img src="image_91.jpg" alt="Ramanujan" width="500" > -->
 
 
 
 
 
 We can classify thermodynamics system into three types: It is given in Figure 8.16
-<img src="image_92.jpg" alt="Ramanujan" width="500" >
+![Ramanujan](image_92.jpg)
+<!-- <img src="image_92.jpg" alt="Ramanujan" width="500" > -->
 
 **Figure 8.16 ** Different types of thermodynamic systems
 
@@ -42,7 +46,8 @@ Two systems are said to be in thermal equilibrium with each other if they are at
 **Mechanical equilibrium:** 
 Consider a gas container with piston as shown in Figure 8.17. When some mass is placed on the piston, it will move downward due to downward gravitational force and after certain humps and jumps the piston will come to rest at a new position. When the downward gravitational force given by the piston is balanced by the upward force exerted by the gas, the system is said to be in mechanical equilibrium. A system is said to be in mechanical equilibrium if no unbalanced force acts on the thermo dynamic system or on the surrounding by thermodynamic system.
 
-<img src="image_93.jpg" alt="Ramanujan" width="500" >
+![Ramanujan](image_93.jpg)
+<!-- <img src="image_93.jpg" alt="Ramanujan" width="500" > -->
 
 **Figure 8.17** Mechanical equilibrium
 

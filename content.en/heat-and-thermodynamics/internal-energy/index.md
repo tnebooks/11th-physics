@@ -19,7 +19,9 @@ The energy due to molecular interaction is called internal potential energy {{< 
 � Internal energy is a state variable. It depends only on the initial and final states of the thermodynamic system. For example, if the temperature of water is raised from 30°C to 40°C either by heating or by stirring, the final internal energy depends only on the final temperature 40°C and not the way it is arrived at.
 
 <blockquote style="background-color:pink; padding:10px; border-radius:5px;">
-<img src="image_5.png" alt="Ramanujan" width="30" >
+
+![Ramanujan](image_5.png)
+<!-- <img src="image_5.png" alt="Ramanujan" width="30" > -->
 
 **Note** It is very important to note that the internal energy of a thermodynamic system is associated with only the kinetic energy of the individual molecule due to its random motion and the potential energy of molecules which depends on their chemical nature. The bulk kinetic energy of the entire system or gravitational potential energy of the system should not be mistaken as a part of internal energy. For example
 (a) Consider two gas containers at the same temperature having the same internal energy, one is kept at rest on the ground and the other is kept in a moving train. Even though the gas container in the train is moving with the speed of the train, the internal energy of the gas in it will not increase. 
@@ -36,13 +38,15 @@ The water in the tumbler is at a higher temperature than the bucket of normal wa
 Even though the bucket of normal water has larger internal energy than the tumbler of hot water, heat will flow from water in the tumbler to the water in the bucket. This is because heat flows from a body at higher temperature to the one at lower temperature and is independent of internal energy of the system. 
 
 Once the heat is transferred to an object it becomes internal energy of the object. The right way to say is ‘object has certain amount of internal energy’. Heat is one of the ways to increase the internal energy of a system as shown in the Figure.  
-
-<img src="image_90.jpg" alt="Ramanujan" width="500" >
+![Ramanujan](image_90.jpg)
+<!-- <img src="image_90.jpg" alt="Ramanujan" width="500" > -->
 
 
 
 <blockquote style="background-color:pink; padding:10px; border-radius:5px;">
-<img src="image_5.png" alt="Ramanujan" width="30" >
+
+![Ramanujan](image_5.png)
+<!-- <img src="image_5.png" alt="Ramanujan" width="30" > -->
 
  **Note**  It is to be noted that heat does not always increases the internal energy. Laterwe shall see that in ideal gases during isothermal process the internal energy will not increase even though heat flows in to the system.
 </blockquote>
@@ -53,8 +57,8 @@ Once the heat is transferred to an object it becomes internal energy of the obje
 
 The temperature of an object can be increased by heating it or by doing some work on it. In the eighteenth century, James Prescott Joule showed that mechanical energy can be converted into internal energy and vice versa. In his experiment, two masses were attached with a rope and a paddle wheel as shown in Figure 8.19. When these masses fall through a distance h due to gravity, both the masses lose potential energy equal to 2mgh. When the masses fall, the paddle wheel turns. Due to the turning of wheel inside water, frictional force comes in between the water and the paddle wheel. This causes
 
-
-<img src="image_91.jpg" alt="Ramanujan" width="500" >
+![Ramanujan](image_91.jpg)
+<!-- <img src="image_91.jpg" alt="Ramanujan" width="500" > -->
 
 
 
@@ -70,7 +74,9 @@ This is called Joule’s mechanical equivalent of heat.
 
 
 <blockquote style="background-color:pink; padding:10px; border-radius:5px;">
-<img src="image_5.png" alt="Ramanujan" width="30" >
+
+![Ramanujan](image_5.png)
+<!-- <img src="image_5.png" alt="Ramanujan" width="30" > -->
 
 **Note** Before James Prescott Joule, people thought that heat was a kind of fluid called caloric fluid which flows from an object at high temperature to that in low temperature. According to caloric fluid idea, the hot object contains more caloric fluid and the cold object contains less caloric fluid since heat was treated as a quantity. Now we understand that heat is not a quantity but it is an energy in transit. So the word ‘mechanical equivalent of heat’ is wrong terminology. Because mechanical energy is a quantity and any object can contain more or less</blockquote>
 
@@ -80,8 +86,8 @@ This is called Joule’s mechanical equivalent of heat.
 
 A student had a breakfast of 200 food calories. He thinks of burning this energy by drawing water from the well and watering the trees in his school. Depth of the well is about 25 m. The pot can hold 25L of water and each tree requires one pot of water. How many trees can he water? (Neglect the mass of the pot and the energy spent by walking. Take {{< katex display >}} g = 10 \, \text{ms}^2 {{< /katex>}})
 
-<!-- ![Ramanujan](image_20.png) -->
-<img src="image_20.png" alt="Ramanujan" width="500" >
+![Ramanujan](image_20.png)
+<!-- <img src="image_20.png" alt="Ramanujan" width="500" > -->
 
 **_Solution_**
 
@@ -123,18 +129,22 @@ The first law of thermodynamics is a statement of the law of conservation of ene
 ∆U=Q-W (8.13)
 
 The internal energy of a thermodynamic system can be changed either by heating or by work as shown below.
-<img src="image_92.jpg" alt="Ramanujan" width="500" >
+![Ramanujan](image_92.jpg)
+<!-- <img src="image_92.jpg" alt="Ramanujan" width="500" > -->
 
 
 Based on the above table the sign convention is introduced to use first law of thermodynamics appropriately. It is shown in the following table and the Figure 8.20.
-<img src="image_93.jpg" alt="Ramanujan" width="500" >
+![Ramanujan](image_93.jpg)
+<!-- <img src="image_93.jpg" alt="Ramanujan" width="500" > -->
+![Ramanujan](image_94.jpg)
 
-
-<img src="image_94.jpg" alt="Ramanujan" width="500" >
+<!-- <img src="image_94.jpg" alt="Ramanujan" width="500" > -->
 
 **Figure 8.20** The Sign convention for heat and work
 <blockquote style="background-color:pink; padding:10px; border-radius:5px;">
-<img src="image_5.png" alt="Ramanujan" width="30" >
+
+![Ramanujan](image_5.png)
+<!-- <img src="image_5.png" alt="Ramanujan" width="30" > -->
 
 **Note**
 Even though we often explain first law of thermodynamics using gases, this law is universal and applies to liquids and solids also.Some book presents the first law of thermodynamics as ∆U = Q + W. Here the work done by the system is taken as negative and work done on the system is positive. However both the conventions are correct and we can follow any one of the convention.</blockquote>
@@ -159,9 +169,9 @@ Jogging every day is good for health. Assume that when you jog a work of 500 kJ 
 
 **_Solution_**
 
-<!-- ![Ramanujan](image_21.png) -->
+![Ramanujan](image_21.png)
 
-<img src="image_21.png" alt="Ramanujan" width="500" >
+<!-- <img src="image_21.png" alt="Ramanujan" width="500" > -->
 
 Work done by the system (body), W = +500 kJ
 
@@ -180,8 +190,8 @@ A quasi-static process is an infinitely slow process in which the system changes
 **EXAMPLE 8.14**
 
 Give an example of a quasi-static process. Consider a container of gas with volume V, pressure P and temperature T. If we add sand particles one by one slowly on the top of the piston, the piston will move inward very slowly. This can be taken as almost a quasi-static process. It is shown in the figure
-
-<img src="image_95.jpg" alt="Ramanujan" width="500" >
+![Ramanujan](image_95.jpg)
+<!-- <img src="image_95.jpg" alt="Ramanujan" width="500" > -->
 
 
 <!-- **Sand** -->
@@ -199,7 +209,8 @@ _dW_ = _Fdx_ (8.14)
 
 The force exerted by the gas on the piston F = PA. Here A is area of the piston and P is pressure exerted by the gas on the piston.
 
-<img src="image_96.jpg" alt="Ramanujan" width="500" >
+![Ramanujan](image_96.jpg)
+<!-- <img src="image_96.jpg" alt="Ramanujan" width="500" > -->
 
 Equation (8.14) can be rewritten as
 
@@ -221,7 +232,8 @@ Suppose if the work is done on the system, then Vi > Vf . Then, W is negative. N
 
 PV diagram is a graph between pressure P and volume V of the system. The P-V diagram is used to calculate the amount of work done by the gas during expansion or on the gas during compression. In Unit 2, we have seen that the area under the curve will give integration of the function from lower limit to upper limit. The area under the PV diagram will give the work done during expansion or compression which is shown in Figure 8.22
 
-<img src="image_97.jpg" alt="Ramanujan" width="500" >
+![Ramanujan](image_97.jpg)
+<!-- <img src="image_97.jpg" alt="Ramanujan" width="500" > -->
 
 **Figure 8.22** Work done by the gas during expansion
 
@@ -250,6 +262,7 @@ Since P is constant. It is taken out of the integral.
 
 (b) Since the pressure is kept constant, PV diagram is straight line as shown in the figure. The area is equal to work done by the gas.
 
-<img src="image_98.jpg" alt="Ramanujan" width="500" >
+![Ramanujan](image_98.jpg)
+<!-- <img src="image_98.jpg" alt="Ramanujan" width="500" > -->
 
 Note the arrow mark in the curve. Suppose the work is done on the system, then volume will decreases and the arrow will point in the opposite direction.

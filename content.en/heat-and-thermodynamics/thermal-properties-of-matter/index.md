@@ -254,7 +254,7 @@ Where s is known as specific heat capacity of a substance and its value depends 
 m = Mass of the substance
 
 The SI unit for specific heat capacity is {{< katex display >}}J \, \text{kg}^{-1} \, \text{K}^{-1}{{< /katex >}}. Heat capacity and specific heat capacity are always positive quantities.
-![Ramanujan](image_74.JPG)
+![Ramanujan](image_74.jpg)
 <!-- <img src="image_74.JPG" alt="Ramanujan" width="500" > -->
 
 <!-- **Table 8.2 Specific heat capacity of** some common substances at 1 atm (20°C) -->
@@ -343,7 +343,7 @@ In the case of **gas** molecules, the intermolecular forces are almost negligibl
 The increase in dimension of a body due to the increase in its temperature is called thermal expansion.
 
 The expansion in length is called linear **expansion**. Similarly the expansion in area is termed as **area expansion** and the
-![Ramanujan](image_75.JPG)
+![Ramanujan](image_75.jpg)
 <!-- <img src="image_75.JPG" alt="Ramanujan" width="200" > -->
 **Figure 8.4 Thermal expansions**
 

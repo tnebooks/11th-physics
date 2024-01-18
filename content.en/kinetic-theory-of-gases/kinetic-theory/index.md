@@ -4,7 +4,7 @@ weight: 1
 ---
 **9.1**
 **Learning Objectives**
-![Alt text](intro1.png)
+<!-- ![Alt text](intro1.png) -->
 **In this unit, the student is exposed to**
 • necessity of kinetic theory of gases
 • the microscopic origin of pressure and temper

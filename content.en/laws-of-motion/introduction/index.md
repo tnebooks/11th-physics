@@ -84,4 +84,3 @@ without a force acting on it.
 with force while Galileo decoupled the 
 motion and force. 
 
-![alt text](../media/img4.png)

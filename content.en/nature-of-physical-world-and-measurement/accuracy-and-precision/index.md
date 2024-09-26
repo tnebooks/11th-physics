@@ -11,7 +11,7 @@ If a measurement is precise, that does not necessarily mean that it is accurate.
 
 For example, if the temperature outside a building is 40oC as measured by a weather thermometer and if the real outside
 ![Alt text](<fig 1.8.png>)
-**Figure 1.9** Visual example of accuracy and pr
+**Figure 1.9** Visual example of accuracy and preecision
 
 temperature is 40oC, the thermometer is accurate. If the thermometer consistently registers this exact temperature in a row, the thermometer is precise.
 

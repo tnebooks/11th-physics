@@ -1,7 +1,10 @@
 ---
 title: 'Scope And Excitement Of Physics'
 weight: 5
+extensions:
+    - katex
 ---
+{{< katex diaplay >}}  {{< /katex >}}
 
 # Scope And Excitement Of Physics
 
@@ -9,9 +12,9 @@ Discoveries in physics are of two types; accidental discoveries and well-analyse
 
 Physics has a huge scope as it covers a tremendous range of magnitude of various physical quantities (length, mass, time, energy etc). It deals with systems of very large magnitude as in astronomical phenomena as well as those with very small magnitude involving electrons and protons.
 
-- Range of time scales: astronomical scales to microscopic scales, 1018s to 10−22s.  
+- Range of time scales: astronomical scales to microscopic scales, 10\\(^{18}\\)s to \\(10^{−22}\\)s.  
 
-- Range of masses: from heavenly bodies to electron, 1055 kg (mass of known observable universe) to 10−31 kg (mass of an electron) \[the actual mass of an electron is 9.11×10–31 kg\].
+- Range of masses: from heavenly bodies to electron, 10\\(^{55}\\) kg (mass of known observable universe) to 10\\(^{31}\\) kg (mass of an electron) \[the actual mass of an electron is 9.11×10\\(^{-31}\\) kg\].
 
 The study of physics is not only educative but also exciting in many ways.
 

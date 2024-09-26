@@ -30,7 +30,13 @@ The absolute error in measured values is given by
 
 |∆_a_1| = |_a_m – _a_1|
 
-|∆_a_2| = |_a_m – _a_2| ……………… ……………… |∆_a_n| = |_a_m – _a_n|
+|∆_a_2| = |_a_m – _a_2| 
+
+……………… 
+
+……………… 
+
+|∆_a_n| = |_a_m – _a_n|
 
 **ii) Mean Absolute error** 
 

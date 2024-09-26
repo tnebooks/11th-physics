@@ -1,7 +1,10 @@
 ---
 title: 'Rounding Off'
 weight: 18
+extensions:
+    - katex
 ---
+{{< katex diaplay >}}  {{< /katex >}}
 
 # Rounding Off
 
@@ -13,20 +16,16 @@ Calculators are widely used now-a-days to do calculations. The result given by a
 Round off the following numbers as indicated
 
 i) 18.35 up to 3 digits 
+
 ii) 19.45 up to 3 digits 
+
 iii) 101.55 × 106 up to 4 digits 
+
 iv) 248337 up to digits 3 digits 
+
 v) 12.653 up to 3 digits.
 
-| ∆∆x×x+×=          = 8% +6%+3% +0.5% |a ∆b100 =×2 100 +×3 100a b∆∆c∆∆c 1 d100 +× 100c 2 d(2 × 4%) + (3 × 2%) + (1 × 3%) + (½ ×1%)centage error is x = 17.5% |1 d |
-|------|------|------|------|
-
-
-| e per |
-
-
-
-**Table 1.9 Rules for counting significant fig 
+**Table 1.9 Rules for counting significant fig**
 
 |**Rule**|**Example**|
 |---|---|
@@ -40,7 +39,7 @@ v) 12.653 up to 3 digits.
 
 **Note 1:** Multiplying or dividing factors, which are neith measured values, are exact and they have infinite numb example, circumference of circle S = 2πr, Here the facto 2.000 as required. 
 
-**Note 2: The power of 10 is irrelevant to the determinat** For example _x_ = 5.70 m = 5.70 × 102 cm = 5.70 × 103 m In each case the number of significant figures is three.
+**Note 2: The power of 10 is irrelevant to the determinat** For example _x_ = 5.70 m = 5.70 × \\(10^2\\) cm = 5.70 × \\(10^3\\) m In each case the number of significant figures is three.
 
 **Table 1.10 Rules for Rounding Off** 
 |**Rule**|Example|
@@ -51,12 +50,10 @@ v) 12.653 up to 3 digits.
 |iv) If the digit to be dropped is 5 or 5 followe zeros, then the preceding digit is not chang it is even|i) 3.45 is rounded off to 3.4 ii) 8.250 is rounded off to 8.2|
 |v) If the digit to be dropped is 5 or 5 followe zeros, then the preceding digit is raised by is odd  |i) 3.35 is rounded off to 3.4 ii) 8.350 is rounded off to 8.4|
 
-rounded numbers nor numbers representing ers of significant figures as per the situation. For r 2 is exact number. It can be written as 2.0, 2.00 or
 
-ion of significant figures. m = 5.70 × 10−3 km.
 
 **_Solution_**
 
-i) 18.4 ii) 19.4 iii) 101.6 × 106
+i) 18.4 ii) 19.4 iii) 101.6 × \\(10^6\\)
 
 iv) 248000 v) 12.7

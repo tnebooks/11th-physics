@@ -190,18 +190,27 @@ satellite motion.
 >*The force acting on an object is equal to 
 the rate of change of its momentum*
 
-> $$ \vec{F} = d \vec{p} / dt (3.1) $$
+> \\(F dp
+ d\\)
 
 >In simple words, whenever the momentum 
 of the body changes, there must be a force 
 acting on it. The momentum of the object is 
-defined as $ \vec{p} = m \vec{v} $. In most cases, the mass 
+defined as \\(p =mv\\). In most cases, the mass 
 of the object remains constant during the 
 motion. In such cases, the above equation 
 gets modified into a simpler form
 
->$$ \vec{F} = d(m \vec{v})/dt = m d \vec{v} / dt = m \vec{a}. $$
->$$ \vec{F} = m \vec{a}  (3.2) $$ 
+>\\(F= d(mv\\)
+ 
+ dt
+ mdv
+ 
+ dt ma. 
+
+ 
+ F ma
+ = . \\)
 
 >The above equation conveys the fact that 
 if there is an acceleration $ \vec{a} $
@@ -257,7 +266,7 @@ Newton’s approach
 ##  Newton’s Third Law
 
 >Consider Figure 3.8(a) whenever an 
-object 1 exerts a force on the object 2 ($ \vec{F}_{21} $), 
+object 1 exerts a force on the object 2 \\(F21\\)
 then object 2 must also exert equal and 
 opposite force on the object 1 ( $ \vec{F}_{12} $). These 
 forces must lie along the line joining the 

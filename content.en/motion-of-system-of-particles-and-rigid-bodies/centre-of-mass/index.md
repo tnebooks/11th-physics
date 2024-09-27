@@ -6,12 +6,18 @@ weight: 1
 [comment]: <> (katex Header)
 {{< katex display >}}{{< /katex >}}
 
-# Introduction
-
 ## Centre of Mass
-Most of the objects that we come across in our day to day life consist of large number of particles. In the previous Units, we studied the motion of bodies without considering their size and shape. So far we have treated even the bulk bodies as only point objects. In this section, we will give importance to the size and shape of the bodies. These bodies are actually made up of a large number of particles. When such a body moves, we consider it as the motion of collection of particles as a whole. We define the concept of centre of mass to deal with such a system of particles.
-
-The forces acting on these bulk bodies are classified into internal and external _forces_. Internal forces are the forces acting among the particles within a system that constitute the body. External forces are the forces acting on the particles of a system from outside. In this unit, we deal with such system of particles which make different rigid bodies. A rigid body is the _one which maintains its definite and fixed shape even when an external force acts on it_. This means that, the interatomic distances do not change in a rigid body when an external force is applied. However, in real life situation, we have bodies which are not ideally rigid, because the shape and size of the body change when forces act on them. For the rigid bodies we study here, we assume that such deformations are negligible. The deformations produced on non-rigid bodies are studied separately in Unit 7 under elasticity of solids.
+When a rigid body moves, all particles that
+constitute the body need not take the same
+path. Depending on the type of motion,
+different particles of the body may take
+different paths. For example, when a wheel
+rolls on a surface, the path of the centre point
+of the wheel and the paths of other points
+of the wheel are different. In this Unit, we
+study about the translation, rotation and
+the combination of these motions of rigid
+bodies in detail.
 
 ## Centre of Mass of a Rigid Body
 
@@ -29,10 +35,9 @@ _A point mass is a hypothetical point particle which has nonzero mass and no siz
 **Figure 5.2** Centre of mass for distributed point masses
 
 The equation for the x coordinate of the centre of mass is,
-{{< katex display >}}
 
-[ x_{\text{CM}} = \frac{\sum_{i} m_i x_i}{\sum_{i} m_i} ]
-{{< /katex >}}
+
+\\( [ x_{\text{CM}} = \frac{\sum_{i} m_i x_i}{\sum_{i} m_i} ] \\)
 
 where ( sum m_i) is the total mass ( M ) of all the particles,
 
@@ -46,7 +51,7 @@ Similarly, we can also find y and z coordinates of the centre of mass for these 
 [ z_{\text{CM}} = \frac{\sum_{i} z_i m_i}{M} \quad (5.3) ]
 {{< /katex >}}
 
-Hence, the position of centre of mass of these point masses in a Cartesian coordinate system is (xCM, yCM, zCM). In general, the position of centre of mass can be written in a vector form as,
+Hence, the position of centre of mass of these point masses in a Cartesian coordinate system is \\( (x_{CM}, y_{CM}, z_{CM}) \\). In general, the position of centre of mass can be written in a vector form as,
 
 {{< katex display >}}
 [ \vec{r}_{\text{CM}} = \sum_{i} \frac{m_i \vec{r}_i}{M} \quad (5.4) ]
@@ -376,3 +381,5 @@ The distance between the point of launching and the position of 2kg mass is R+d.
 {{< /katex >}}
 
 The other fragment falls at a distance of 1.375R from the point of launching. (Here R is the range of the projectile.)
+
+

@@ -4,7 +4,6 @@ weight: 4
 ---
 [comment]: <> (katex Header)
 {{< katex display >}}{{< /katex >}}
-# LAW OF EQUIPARTITION OF ENERGY
  
 We have seen in Section 9.2.1 that the average kinetic energy of a molecule moving
 in the x-direction is $$\frac{1}{2}mv_x^2 = \frac{1}{2}kT_x$$.

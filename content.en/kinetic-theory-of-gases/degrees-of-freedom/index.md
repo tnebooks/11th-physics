@@ -56,7 +56,7 @@ In this type, two atoms lie on either side of the central atom. A linear triatom
  
 **Example:** Carbon dioxide.
  
-![Alt text](figure9.5.png)
+![images](figure9.5.png)
  
 **Non-linear Triatomic Molecule**
  
@@ -64,7 +64,7 @@ In this case, the three atoms lie at the vertices of a triangle. A non-linear tr
  
 **Example:** Water, Sulphur dioxide.
  
-![Alt text](figure9.6.png)
+![images](figure9.6.png)
  
-![Alt text](figure9.7.png)
+![images](figure9.7.png)
  

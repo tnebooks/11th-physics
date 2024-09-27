@@ -490,4 +490,36 @@ From the above expression we could conclude that in the absence of external torq
 {{< /katex >}}
 
 The above expression is known as law of conservation of angular momentum. We will learn about this law further in section 5.5.
-
+there is no net force acting on the body.
+There is a lot of difference between the
+terms “no force” and “no net force” acting
+on a body. The same argument holds good
+for rotational conditions in terms of torque
+or moment of force.
+A rigid body is said to be in mechanical
+equilibrium when both its linear momentum
+and angular momentum remain constant.
+When the linear momentum remains
+constant, the net force acting on the body
+is zero.
+
+Fnet = 0 (5.28)
+In this condition, the body is said to be in
+translational equilibrium. This implies that
+the vector sum of different forces  \\(F F 1 2 , ,F3…\\)
+acting in different directions on the body is
+zero.
+ \\(F F 1 2 F F 3 0 (5.29)\\)
+If the forces \\( F F 1 2 , , F3… \\)act in different
+directions on the body, we can resolve them
+into horizontal and vertical components
+and then take the resultant in the respective
+directions. In this case there will be horizontal
+as well as vertical equilibria possible.
+Similarly, when the angular momentum
+remains constant, the net torque acting on
+the body is zero.
+Under this condition, the body is said to
+be in rotational equilibrium. The vector sum
+of different torques \\( τ τ 1 2 , , τ3… \\)producing
+different senses of rotation on the body is zero

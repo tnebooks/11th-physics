@@ -3,8 +3,6 @@ title: 'THERMODYNAMIC PROCESSES'
 weight: 8
 ---
 
-# THERMODYNAMIC PROCESSES
-
 ## Isothermal process
 
 
@@ -25,8 +23,7 @@ Figure 8.25 shows the PV diagram for quasi-static isothermal expansion and quasi
 
 We know that for an ideal gas the internal energy is a function of temperature only. For an isothermal process since temperature is constant, the internal energy is also constant.   
 
-![Ramanujan](image_4.jpg)
-<!-- <img src="image_4.jpg" alt="Ramanujan" width="500" > -->
+![images](image_4.jpg)
 
 **Figure 8.25** (a) Quasi-static isothermal expan compression (b) Quasi-static isothermal 
 compression
@@ -37,8 +34,7 @@ _Q_ \= _W_ (8.30)
 
 From equation (8.30), we infer that the heat supplied to a gas is used to do only external work. It is a common misconception that when there is flow of heat to the system, the temperature will increase. For isothermal process this is not true. The isothermal compression takes place when the piston of the cylinder is pushed. This will increase the internal energy which will flow out of the system through thermal contact. This is shown in Figure 8.26.
 
-![Ramanujan](image_6.jpg)
-<!-- <img src="image_6.jpg" alt="Ramanujan" width="500" > -->
+![images](image_6.jpg)
 
 
 **Figure 8.26** Isothermal expansion and isothermal compression
@@ -78,24 +74,24 @@ isothermal compression  {{< katex display >}}  \frac{V_f}{V_i} < 1 {{< /katex >}
 As a result the work done on the gas in an isothermal compression is negative. 
 In the PV diagram the work done during the isothermal expansion is equal to the area under the graph as shown in Figure 8.27
 
-![Ramanujan](image_7.jpg)
-<!-- <img src="image_7.jpg" alt="Ramanujan" width="500" > -->
+![images](image_7.jpg)
+
 
 
 **Figure 8.27** Work done in an isothermal process.
 
 work done on the gas which turns out to be the area with a negative sign.
 
-<blockquote style="background-color:pink; padding:10px; border-radius:5px;">
 
-![Ramanujan](image_5.png)
-<!-- <img src="image_5.png" alt="Ramanujan" width="30" > -->
+
+![images](image_5.png)
+
 
 **Note**
 To calculate the work done in an isothermal process, we assume that the process is
 quasi-static. If it is not quasi-static we cannot substitute {{< katex display >}}P = \frac{\mu RT}{V} {{< /katex >}} in equation(8.31). It is because the ideal gas law is not valid for non equilibrium states. But equation (8.34) is valid even when the isothermal process is not quasi-static. This is because the state variables like pressure and volume depend on initial and final state alone of an ideal gas and do not depend on the way the final state is reached. The assumption of ‘quasi-static’ requires to do the integration.
 
-</blockquote>
+
 
 **EXAMPLE 8.16**
 
@@ -128,13 +124,13 @@ Therefore, Q = W = 1.369 kJ. Thus Q is also positive which implies that heat flo
 
 The following PV curve shows two isothermal processes for two different temperatures and. Identify the higher temperature of these two.
 
-![Ramanujan](image_9.jpg)
-<!-- <img src="image_9.jpg" alt="Ramanujan" width="500" > -->
+![images](image_9.jpg)
+
 
 To determine the curve corresponding to higher temperature, draw a horizontal line parallel to x axis as shown in the figure. This is the constant pressure line. The volumes _V_1 and _V_2 belong to same pressure as the vertical lines from _V_1 and _V_2 meet the constant pressure line.
 
-![Ramanujan](image_9.jpg)
-<!-- <img src="image_9.jpg" alt="Ramanujan" width="500" > -->
+![images](image_9.jpg)
+
 
 At constant pressure, higher the volume of the gas, higher will be the temperature. From the figure, as V1 > V2 we conclude T1 > T2. In general the isothermal curve closer to the origin, has lower temperature
 
@@ -149,8 +145,8 @@ The adiabatic process can be achieved by the following methods
 
 (i) Thermally insulating the system from surroundings so that no heat flows into or out of the system; for example, when thermally insulated cylinder of gas is compressed (adiabatic compression) or expanded (adiabatic expansion) as shown in the Figure 8.28
 
-![Ramanujan](image_10.jpg)
-<!-- <img src="image_10.jpg" alt="Ramanujan" width="500" > -->
+![images](image_10.jpg)
+
 
 **Figure 8.28** Adiabatic compression and expa
 
@@ -159,19 +155,19 @@ The adiabatic process can be achieved by the following methods
 
 **Examples:**
 
-![Ramanujan](image_24.png)
-<!-- <img src="image_24.png" alt="Ramanujan" width="500" > -->
+![images](image_24.png)
+
 
 **Figure 8.29** (a) When the tyre bursts the air expands so quickly that there is no time to exchange heat with the surroundings.
 
-![Ramanujan](image_11.jpg)
-<!-- <img src="image_11.jpg" alt="Ramanujan" width="500" > -->
+![images](image_11.jpg)
+
 
 **Figure 8.29** (b): When the gas is compressed or expanded so fast, the gas cannot exchange heat with surrounding even though there is no thermal insulation.
 
 
-![Ramanujan](image_25.png)
-  <!-- <img src="image_25.png" alt="Ramanujan" width="500" > -->
+![images](image_25.png)
+  
 
 **Figure 8.29** (c): When the warm air rises from the surface of the Earth, it adiabatically expands. As a result the water vapor cools and condenses into water droplets forming a cloud.
 
@@ -182,8 +178,8 @@ The equation of state for an adiabatic process is given by
 Here γ is called adiabatic exponent (γ = _Cp_/_Cv_) which depends on the nature of the gas. The equation (8.35) implies that if the gas goes from an equilibrium state (_Pi,Vi_) to another equilibrium state (_Pf ,Vf_) adiabatically then it satisfies the relation
 
 {{< katex display >}} \frac{P_i}{V_i^\gamma} = \frac{P_f}{V_f^\gamma} {{< /katex  >}}
-![Ramanujan](image_12.jpg)
-<!-- <img src="image_12.jpg" alt="Ramanujan" width="500" > -->
+![images](image_12.jpg)
+
 
 **Figure 8.30** PV diagram for adiabatic expans
 
@@ -216,9 +212,9 @@ The equation of state for adiabatic process can also be written in terms of T an
 (The proof of equation (8.39) left as an exercise).
 
 **EXAMPLE 8.18**
-![Ramanujan](image_27.png)
+![images](image_27.png)
 
-<!-- <img src="image_27.png" alt="Ramanujan" width="500" > -->
+
 
 We often have the experience of pumping air into bicycle tyre using hand pump. Consider the air inside the pump as a thermodynamic system having volume V at atmospheric pressure and room temperature, 27°C. Assume that the nozzle of the tyre is blocked and you push the pump to a volume 1/4 of V. Calculate the final temperature of air in the pump? (For air , since the nozzle is blocked air will not flow into tyre and it can be treated as an adiabatic compression). Take γ for air = 1.4
 
@@ -239,12 +235,12 @@ Here, the process is adiabatic compression. The volume is given and temperature 
 
 This temperature is higher than the boiling point of water. So it is very dangerous to touch the nozzle of blocked pump when you pump air.  
 
-![Ramanujan](image_3.jpg)
-<!-- <img src="image_3.jpg" alt="Ramanujan" width="30" > -->
+![images](image_3.jpg)
+
 When the piston is compressed so quickly that there is no time to exchange heat to the surrounding, the temperature of the gas increases rapidly. This is shown in the figure. This principle is used in the diesel engine. The air-gasoline mixer is compressed so quickly (adiabatic compression) that the temperature increases enormously, which is enough to produce a spark.
 
-![Ramanujan](image_26.png)
-<!-- <img src="image_26.png" alt="Ramanujan" width="500" > -->
+![images](image_26.png)
+
 
 **Work done in an adiabatic process:**
  Consider μ moles of an ideal gas enclosed in a cylinder having perfectly non conducting walls and base. A frictionless and insulating piston of cross sectional area A is fitted in the cylinder as shown in Figure 8.31.
@@ -258,8 +254,8 @@ Let W be the work done when the system goes from the initial state (_P_i,_V_i,_T
 By assuming that the adiabatic process occurs quasi-statically, at every stage the ideal gas law is valid. Under this condition, the adiabatic equation of state is {{< katex display >}}PV^\gamma = \text{constant} \quad \text{or} \quad P = \frac{\text{constant}}{V^\gamma}{{< /katex >}}
 can be substituted in the equation (8.40), we get
 
-![Ramanujan](image_2.jpg)
- <!-- <img src="image_2.jpg" alt="Ramanujan" width="500" > -->
+![images](image_2.jpg)
+ 
 
 
 From ideal gas law,
@@ -273,18 +269,18 @@ Substituting in equation (8.41), we get
 
 In adiabatic expansion, work is done by the gas. i.e.,  {{< katex display >}}W_{\text{adia}} {{< /katex >}}is positive. As  Ti>Tf , the gas cools during adiabatic expansion. In adiabatic compression, work is done on the gas. i.e., {{< katex display >}}W_{\text{adia}} {{< /katex >}} is negative. As  Ti>Tf, the temperature of the gas increases during adiabatic compression.  
 
-<blockquote style="background-color:pink; padding:10px; border-radius:5px;">
 
-![Ramanujan](image_5.png)
-<!-- <img src="image_5.png" alt="Ramanujan" width="30" >  -->
+
+![images](image_5.png)
+
 
 **Note** 
 Even though we have derived equations (8.41) and (8.42) by assuming that the adiabatic process is quasi-static, both the equations are valid even if the process is not quasi- static. This is because P and V are state variables and are independent of how the state is arrived. 
 In the adiabatic PV diagram shown in the Figure 8.32, the area under the adiabatic curve from initial state to final state will give the total work done in adiabatic process.
-</blockquote>
 
-![Ramanujan](image_13.jpg)
-<!-- <img src="image_13.jpg" alt="Ramanujan" width="500" > -->
+
+![images](image_13.jpg)
+
 
 **Figure 8.32** PV diagram -Work done in the adiabatic process
 
@@ -311,15 +307,15 @@ If a gas goes from a state (_V_i ,_T_i) to (_V_f ,_T_f) at constant pressure, th
 
 Examples for Isobaric process: (i) When the gas is heated and pushes the piston so that it exerts a force equivalent to atmospheric pressure plus the force due to gravity then this process is isobaric. This is shown in Figure 8.33
 
-![Ramanujan](image_14.jpg)
-<!-- <img src="image_14.jpg" alt="Ramanujan" width="500" > -->
+![images](image_14.jpg)
+
 
 **Figure 8.33** Isobaric process
 
 (ii) Most of the cooking processes in our kitchen are isobaric processes. When the food is cooked in an open vessel, the pressure above the food is always at atmospheric pressure. This is shown in Figure 8.34
 
-![Ramanujan](image_28.png)
-<!-- <img src="image_28.png" alt="Ramanujan" width="500" > -->
+![images](image_28.png)
+
 
 **Figure 8.34** Isobaric process
 
@@ -327,8 +323,8 @@ The PV diagram for an isobaric process is a horizontal line parallel to volume a
 (a) represents isobaric process where volume decreases Figure 8.35 
 (b) represents isobaric process where volume increases
 
-![Ramanujan](image_15.jpg)
-<!-- <img src="image_15.jpg" alt="Ramanujan" width="500" > -->
+![images](image_15.jpg)
+
 
 **Figure 8.35** PV diagram for an isobaric process
 
@@ -357,8 +353,8 @@ Substituting this in equation (8.48) we get
 
 In the PV diagram, area under the isobaric curve is equal to the work done in isobaric process. The shaded area in the following Figure8.36 is equal to the work done by the gas.
 
-![Ramanujan](image_16.jpg)
-<!-- <img src="image_16.jpg" alt="Ramanujan" width="500" > -->
+![images](image_16.jpg)
+
 
 **Figure 8.36** Work done in an isobaric process
 
@@ -372,8 +368,8 @@ The first law of thermodynamics for isobaric process is given by
 
 The following graph shows a V-T graph for isobaric processes at two different pressures. Identify which one occurs at higher pressure.
 
-![Ramanujan](image_17.jpg)
-<!-- <img src="image_17.jpg" alt="Ramanujan" width="500" > -->
+![images](image_17.jpg)
+
 
 **_Solution_** 
 From the ideal gas equation{{< katex display >}} V = \mu R \frac{P}{T} {{< /katex >}}
@@ -439,8 +435,8 @@ _W_ = 1 × 8.3 × 300 × _ln_(2) = 1.7_kJ_
 
 (c) The PV diagram is shown in the Figure.
 
-![Ramanujan](image_18.jpg)
-<!-- <img src="image_18.jpg" alt="Ramanujan" width="500" > -->
+![images](image_18.jpg)
+
 
 The area under the curve AB = Work done during the isobaric process The area under the curve AC = Work done during the isothermal process
  The area under the curve AD= Work done during the adiabatic process
@@ -455,8 +451,8 @@ This is a thermodynamic process in which the volume of the system is kept consta
 
   The pressure - volume graph for an isochoric process is a vertical line parallel to pressure axis as shown in Figure 8.37
 
-![Ramanujan](image_19.jpg)
-<!-- <img src="image_19.jpg" alt="Ramanujan" width="500" > -->
+![images](image_19.jpg)
+
 
 **Figure 8.37** Isochoric process with (a) increased pressure and (b) decreased pressure
 
@@ -474,8 +470,8 @@ For an isochoric processes, Δ_V_\=0 and _W_\=0. Then the first law becomes
 
 Implying that the heat supplied is used to increase only the internal energy. As a result the temperature increases and pressure also increases. This is shown in Figure 8.38
 
-![Ramanujan](image_20.jpg)
-<!-- <img src="image_20.jpg" alt="Ramanujan" width="500" > -->
+![images](image_20.jpg)
+
 
 **Figure 8.38** Isochoric process
 
@@ -486,29 +482,22 @@ Suppose a system loses heat to the surroundings through conducting walls by keep
 
 lid as shown in figure.
 
-![Ramanujan](image_29.png)
-
-<!-- <img src="image_29.png" alt="Ramanujan" width="500" > -->
-
-
-![Ramanujan](image_21.jpg)
-<!-- <img src="image_21.jpg" alt="Ramanujan" width="500" > -->
-
-![Ramanujan](image_22.jpg)
-<!-- <img src="image_22.jpg" alt="Ramanujan" width="500" > -->
+![images](image_29.png)
 
 
 
 
+![images](image_21.jpg)
 
 
+![images](image_22.jpg)
 
 When food is being cooked in this closed position, after a certain time you can observe the lid is being pushed upwards by the water steam. This is because when the lid is closed, the volume is kept constant. As the heat continuously supplied, the pressure increases and water steam tries to push the lid upwards.
 
 2\. In automobiles the petrol engine undergoes four processes. First the piston is adiabatically compressed to some volume as shown in the Figure (a). In the second process (Figure (b)), the volume of the air-fuel mixture is kept constant and heat is being added. As a result the temperature and pressure are increased. This is an isochoric process. For a third stroke (Figure (c)) there will be an adiabatic expansion, and fourth stroke again isochoric process by keeping the piston immoveable (Figure (d)).
 
-![Ramanujan](image_23.jpg)
-<!-- <img src="image_23.jpg" alt="Ramanujan" width="500" > -->
+![images](image_23.jpg)
+
 
 
 The summary of various thermodynamic processes is give in the Table 8.4.
@@ -542,8 +531,8 @@ This is a thermodynamic process in which the thermodynamic system returns to its
 
 In the PV diagram the cyclic process is represented by a closed curve. Let the gas undergo a cyclic process in which it returns to the initial stage after an expansion and compression as shown in Figure 8.39
 
-![Ramanujan](image_35.jpg)
-<!-- <img src="image_35.jpg" alt="Ramanujan" width="500" > -->
+![images](image_35.jpg)
+
 
 **Figure 8.39** PV diagram for cyclic process
 
@@ -551,14 +540,14 @@ In the PV diagram the cyclic process is represented by a closed curve. Let the g
 
 Let W1 be the work done by the gas during expansion from volume V1 to volume V2. It is equal to area under the graph CBA as shown in Figure 8.40 (a) .
 
-![Ramanujan](image_36.jpg)
-<!-- <img src="image_36.jpg" alt="Ramanujan" width="500" > -->
+![images](image_36.jpg)
+
 
 
 **Figure 8.40** (a) W for path CBA
 
-![Ramanujan](image_37.jpg)
-<!-- <img src="image_37.jpg" alt="Ramanujan" width="500" > -->
+![images](image_37.jpg)
+
 
 **Figure 8.40** (b) W for path ADC
 
@@ -569,30 +558,30 @@ Let W2 be the work done on the gas during compression from volume V2 to volume V
 
 The total work done in this cyclic process = W1 - W2 = Green shaded area inside the loop, as shown in Figure 8.41.
 
-![Ramanujan](image_38.jpg)
-<!-- <img src="image_38.jpg" alt="Ramanujan" width="500" > -->
+![images](image_38.jpg)
+
 
 **Figure 8.41** Net work done in a cyclic process
 
 
 Thus the net work done during the cyclic process shown above is not zero. In general the net work done can be positive or negative. If the net work done is positive, then work done by the system is greater than the work done on the system. If the net work done is negative then the work done by the system is less than the work done on the system.
 
-<blockquote style="background-color:pink; padding:10px; border-radius:5px;">
 
-![Ramanujan](image_5.png)
-<!-- <img src="image_5.png" alt="Ramanujan" width="30" > -->
+
+![images](image_5.png)
+
 
 **Note** Further, in a cyclic process the net work done is positive if the process goes clockwise and net work done is negative if the process goes anti-clockwise. In Figure 8.41the process goes clockwise.
 
-</blockquote>
+
 
 
 **EXAMPLE 8.22**
 
 The PV diagrams for a thermodynamical system is given in the figure below. Calculate the total work done in each of the cyclic processes shown.
 
-![Ramanujan](image_39.jpg)
-<!-- <img src="image_39.jpg" alt="Ramanujan" width="500" > -->
+![images](image_39.jpg)
+
 
 **Solution**
 In the case (a) the closed curve is anticlockwise. So the net work done is negative, implying that the work done on the system is greater than the work done by the system. The area under the curve BC will give work done on the gas (isobaric compression) and area under the curve DA (work done by the system) will give the total work done by the system.
@@ -635,14 +624,14 @@ A thermodynamic process can be considered reversible only if it possible to retr
 
 3\. No dissipative forces such as friction, viscosity, electrical resistance should be present.
 
-<blockquote style="background-color:pink; padding:10px; border-radius:5px;">
 
-![Ramanujan](image_5.png)
 
-<!-- <img src="image_5.png" alt="Ramanujan" width="30" > -->
+![images](image_5.png)
+
+
 
 **Note** All reversible processes are quasi-static but all quasi- static processes need not be reversible. For example when we push the piston very slowly, if there is friction between cylinder wall and piston some amount of energy is lost to surroundings, which cannot be retrieved back.
-</blockquote>
+
 
 
 **Irreversible process:** All natural processes are irreversible. Irreversible process cannot be plotted in a PV diagram, because these processes cannot have unique values of pressure, temperature at every stage of the process.  
@@ -657,8 +646,8 @@ Give some examples of irreversible processes. All naturally occuring processes a
 
 (a) When we open a gas bottle, the gas molecules slowly spread into the entire room. These gas molecules can never get back in to the bottle.
 
-![Ramanujan](image_1.jpg)
-<!-- <img src="image_1.jpg" alt="Ramanujan" width="500" > -->
+![images](image_1.jpg)
+
 
 (b) Suppose one drop of an ink is dropped in water, the ink droplet slowly spreads in the water. It is impossible to get the ink droplet back.
 

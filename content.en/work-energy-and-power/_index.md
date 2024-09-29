@@ -1,5 +1,5 @@
 ---
-title: 'WORK, ENERGY AND POWER'
+title: 'work, energy and power'
 weight: 12
 ---
 

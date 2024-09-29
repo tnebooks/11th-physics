@@ -1,5 +1,5 @@
 ---
-title: 'MOTION ALONG ONE DIMENSION'
+title: 'motion along one dimension'
 weight: 9
 ---
 

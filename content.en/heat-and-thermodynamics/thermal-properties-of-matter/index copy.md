@@ -1,5 +1,5 @@
 ---
-title: 'HEAT AND TEMPERATURE'
+title: 'heat and temperature'
 weight: 1
 ---
 <!-- ![Ramanujan](image_72.jpg) -->

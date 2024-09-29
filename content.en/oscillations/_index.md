@@ -1,5 +1,5 @@
 ---
-title: 'OSCILLATIONS'
+title: 'oscillations'
 weight: 10
 extensions:
     - katex

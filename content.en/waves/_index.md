@@ -1,5 +1,5 @@
 ---
-title: 'WAVES'
+title: 'waves'
 weight: 11
 extensions:
     - katex

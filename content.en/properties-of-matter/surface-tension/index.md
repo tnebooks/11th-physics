@@ -1,5 +1,5 @@
 ---
-title: 'SURFACE TENSION'
+title: 'surface tension'
 weight: 5
 extensions:
     - katex # Add This Extension On Top

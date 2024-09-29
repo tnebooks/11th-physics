@@ -1,5 +1,5 @@
 ---
-title: 'PROPERTIES OF MATTER'
+title: 'properties of matter'
 weight: 7
 ---
 

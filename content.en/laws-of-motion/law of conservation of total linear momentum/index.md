@@ -1,5 +1,5 @@
 ---
-title: 'LAW OF CONSERVATION OF TOTAL LINEAR MOMENTUM'
+title: 'law of conservation of total linear momentum'
 weight: 5
 ---
 

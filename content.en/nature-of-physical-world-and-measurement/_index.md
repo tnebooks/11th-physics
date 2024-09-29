@@ -1,5 +1,5 @@
 ---
-title: 'NATURE OF PHYSICAL WORLD  AND MEASUREMENT'
+title: 'nature of physical world  and measurement'
 weight: 1
 ---
 # UNIT 1

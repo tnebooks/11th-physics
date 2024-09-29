@@ -1,5 +1,5 @@
 ---
-title: 'MOTION OF SYSTEM OF PARTICLES AND RIGID BODIES'
+title: 'motion of system of particles and rigid bodies'
 weight: 5
 ---
 

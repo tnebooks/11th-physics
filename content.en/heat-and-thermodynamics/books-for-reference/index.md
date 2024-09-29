@@ -1,5 +1,5 @@
 ---
-title: 'BOOKS FOR REFERENCE'
+title: 'books for reference'
 weight: 14
 ---
 1. Serway and Jewett, Physics for scientist and Engineers with modern physics, Brook/Coole 

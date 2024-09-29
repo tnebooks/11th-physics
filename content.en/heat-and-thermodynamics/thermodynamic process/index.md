@@ -1,5 +1,5 @@
 ---
-title: 'THERMODYNAMIC PROCESSES'
+title: 'thermodynamic processes'
 weight: 8
 ---
 

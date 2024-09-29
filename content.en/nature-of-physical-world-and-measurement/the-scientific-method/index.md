@@ -1,5 +1,5 @@
 ---
-title: 'The Scientific Method'
+title: 'the scientific method'
 weight: 2
 ---
 # The Scientific Method

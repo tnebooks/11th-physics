@@ -1,5 +1,5 @@
 ---
-title: 'Physics In Relation To Technology And Society'
+title: 'physics in relation to technology and society'
 weight: 6
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: 'INTEGRAL CALCULUS'
+title: 'integral calculus'
 weight: 8
 ---
 

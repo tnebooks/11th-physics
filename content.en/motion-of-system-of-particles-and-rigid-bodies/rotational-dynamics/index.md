@@ -1,5 +1,5 @@
 ---
-title: 'Rotational-Dynamics'
+title: 'rotational-dynamics'
 weight: 5
 ---
 

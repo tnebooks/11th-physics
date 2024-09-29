@@ -1,5 +1,5 @@
 ---
-title: 'SPECIFIC HEAT CAPACITY OF A GAS'
+title: 'specific heat capacity of a gas'
 weight: 7
 ---
 

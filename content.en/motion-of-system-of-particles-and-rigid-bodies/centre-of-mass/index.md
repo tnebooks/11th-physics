@@ -1,5 +1,5 @@
 ---
-title: 'Centre-of-Mass'
+title: 'centre-of-mass'
 weight: 1
 ---
 

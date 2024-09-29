@@ -1,5 +1,5 @@
 ---
-title: 'DYNAMICS OF CIRCULAR MOTION'
+title: 'dynamics of circular motion'
 weight: 7
 ---
 

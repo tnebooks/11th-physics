@@ -1,5 +1,5 @@
 ---
-title: 'Error Analysis'
+title: 'error analysis'
 weight: 14
 ---
 

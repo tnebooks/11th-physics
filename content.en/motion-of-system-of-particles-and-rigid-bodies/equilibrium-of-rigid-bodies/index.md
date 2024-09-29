@@ -1,5 +1,5 @@
 ---
-title: 'Equilibrium-of-Rigid-Bodies'
+title: 'equilibrium-of-rigid-bodies'
 weight: 3
 ---
 [comment]: <> (katex Header)

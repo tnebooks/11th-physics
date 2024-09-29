@@ -1,5 +1,5 @@
 ---
-title: 'DEGREES OF FREEDOM'
+title: 'degrees of freedom'
 weight: 3
 ---
 [comment]: <> (katex Header)

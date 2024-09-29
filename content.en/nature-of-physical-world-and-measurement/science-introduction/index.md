@@ -1,5 +1,5 @@
 ---
-title: 'SCIENCE-INTRODUCTION'
+title: 'science-introduction'
 weight: 1
 ---
 

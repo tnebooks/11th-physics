@@ -1,5 +1,5 @@
 ---
-title: 'Dimensional Quantities, Dimensionless Quantities, Principle of Homogeneity'
+title: 'dimensional quantities, dimensionless quantities, principle of homogeneity'
 weight: 21
 extensions:
     - katex

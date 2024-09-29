@@ -1,5 +1,5 @@
 ---
-title: 'KINETIC THEORY'
+title: 'kinetic theory'
 weight: 1
 ---
  

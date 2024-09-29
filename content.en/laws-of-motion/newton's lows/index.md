@@ -1,5 +1,5 @@
 ---
-title: 'NEWTON’S LAWS'
+title: 'newton’s laws'
 weight: 2
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: 'Branches Of Physics'
+title: 'branches of physics'
 weight: 4
 ---
 # Branches Of Physics

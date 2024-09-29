@@ -1,5 +1,5 @@
 ---
-title: 'REFRIGERATOR'
+title: 'refrigerator'
 weight: 10
 ---
 

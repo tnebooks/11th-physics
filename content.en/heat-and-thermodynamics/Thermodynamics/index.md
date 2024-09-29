@@ -1,6 +1,6 @@
 
 ---
-title: 'THERMODYNAMICS'
+title: 'thermodynamics'
 weight: 4
 ---
 

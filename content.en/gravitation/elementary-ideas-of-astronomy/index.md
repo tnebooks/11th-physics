@@ -1,9 +1,7 @@
 ---
-title: 'ELEMENTARY IDEAS OF ASTRONOMY'
+title: 'elementary ideas of astronomy'
 weight: 5
 ---
-
-**6.5 ELEMENTARY IDEAS OF ASTRONOMY**
 
 Astronomy is one of the oldest sciences in the history of mankind. In the olden days, astronomy was an inseparable part of physical science. It contributed a lot to the development of physics in the {{< katex display >}}16^{\text {th }}{{< /katex >}} century. In fact Kepler's laws and Newton's theory of gravitation were formulated and verified using astronomical observations and data accumulated over the centuries by famous astronomers like Hippachrus, Aristachrus, Ptolemy, Copernicus and Tycho Brahe. Without Tycho Brahe's astronomical observations, Kepler's laws would not have emerged. Without Kepler's laws, Newton's theory of gravitation would not have been formulated.
 

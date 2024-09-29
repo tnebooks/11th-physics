@@ -1,5 +1,5 @@
 ---
-title: 'GRAVITATIONAL FIELD AND GRAVITATIONAL POTENTIAL'
+title: 'gravitational field and gravitational potential'
 weight: 2
 ---
 

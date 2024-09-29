@@ -1,5 +1,5 @@
 ---
-title: 'Scope And Excitement Of Physics'
+title: 'scope and excitement of physics'
 weight: 5
 extensions:
     - katex

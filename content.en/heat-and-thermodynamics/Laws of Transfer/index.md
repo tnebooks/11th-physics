@@ -1,5 +1,5 @@
 ---
-title: 'LAWS OF HEAT TRANSFER'
+title: 'laws of heat transfer'
 weight: 3
 ---
 

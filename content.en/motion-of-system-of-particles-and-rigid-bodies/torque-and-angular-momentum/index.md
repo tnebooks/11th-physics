@@ -1,5 +1,5 @@
 ---
-title: 'Torque-and-Angular-Momentum'
+title: 'torque-and-angular-momentum'
 weight: 2
 ---
 

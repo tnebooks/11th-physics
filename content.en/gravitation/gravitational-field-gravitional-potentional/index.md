@@ -5,7 +5,7 @@ weight: 2
 
 **6.2 GRAVITATIONAL FIELD AND GRAVITATIONAL POTENTIAL**
 
-**6.2.1 Gravitational field**
+## Gravitational field
 
 Force is basically due to the interaction between two particles. Depending upon the type of interaction we can have two kinds of forces: Contact forces and Non-contact forces (Figure 6.8).
 
@@ -88,9 +88,9 @@ space. The concept of field is inevitable in understanding the behavior of charg
 iii) The unit of gravitational field is Newton per kilogram {{< katex diaplay >}}(\mathrm{N} / \mathrm{kg}){{< /katex >}}  or {{< katex diaplay >}}\mathrm{m} \mathrm{s}^{-2}{{< /katex >}} .
 
 
-**6.2.2 Superposition principle for Gravitational field**
+## Superposition principle for Gravitational field
 
-**6.2.2 Superposition principle for Gravitational field**
+## Superposition principle for Gravitational field
 
 Consider ' {{< katex diaplay >}}n{{< /katex >}} ' particles of masses {{< katex diaplay >}}m_{1}, m_{2}, \ldots . m_{n}{{< /katex >}}, distributed in space at positions {{< katex diaplay >}}\vec{r}_{1}, \vec{r}_{2}, \vec{r}_{3} \ldots{{< /katex >}} etc, with respect to point {{< katex diaplay >}}\mathrm{P}{{< /katex >}}. The total gravitational field at a point {{< katex diaplay >}}\mathrm{P}{{< /katex >}} due to all the masses is given by the vector sum of the gravitational field due to the individual masses (Figure 6.11). This principle is known as superposition of gravitational fields.
 
@@ -157,7 +157,7 @@ Since the gravitational field decreases as distance increases, Jupiter experienc
 
 Solar System
 
-**6.2.3 Gravitational Potential Energy**
+## Gravitational Potential Energy
 
 The concept of potential energy and its physical meaning were dealt in unit 4 . The gravitational force is a conservative force and hence we can define a gravitational potential energy associated with this conservative force field.
 
@@ -237,7 +237,7 @@ separated by an infinite distance and by distance r. {{< katex display >}}U(r)=U
 
 The unit of gravitational potential energy {{< katex display >}}U(r){{< /katex >}} is Joule and it is a scalar quantity. The gravitational potential energy depends upon the two masses and the distance between them.
 
-**6.2.4 Gravitational potential energy near the surface of the Earth**
+## Gravitational potential energy near the surface of the Earth
 
 It is already discussed in chapter 4 that when an object of mass {{< katex display >}}m{{< /katex >}} is raised to a height {{< katex display >}}h{{< /katex >}}, the potential energy stored in the object is mgh (Figure 6.14). This can be derived using the general expression for gravitational potential energy.
 
@@ -307,7 +307,7 @@ The term {{< katex display >}}m g R_{e}{{< /katex >}} in equations (6.36) and (6
 
 It is to be noted that mgh is the work done on the particle when we take the mass {{< katex display >}}\mathrm{m}{{< /katex >}} from the surface of the Earth to a height {{< katex display >}}\mathrm{h}{{< /katex >}}. This work done is stored as a gravitational potential energy in the mass {{< katex display >}}\mathrm{m}{{< /katex >}}. Even though {{< katex display >}}\mathrm{mgh}{{< /katex >}} is gravitational potential energy of the system (Earth and mass {{< katex display >}}\mathrm{m}{{< /katex >}} ), we can take {{< katex display >}}\mathrm{mgh}{{< /katex >}} as the gravitational potential energy of the mass {{< katex display >}}m{{< /katex >}} since Earth is stationary when the mass moves to height {{< katex display >}}h{{< /katex >}}.
 
-**6.2.5 Gravitational potential V(r)**
+## Gravitational potential V(r)
 
 It is explained in the previous sections that the gravitational field {{< katex display >}}\vec{E}{{< /katex >}} depends only on the source mass which creates the field. It is a vector quantity. We can also define a scalar quantity called "gravitational potential" which depends only on the source mass.  
 

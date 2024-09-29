@@ -9,7 +9,7 @@ It was mentioned in the beginning of this chapter that Ptolemy's geocentric mode
 
 
 
-**6.5.1 Heliocentric system over geocentric system**
+## Heliocentric system over geocentric system
 
 When the motion of the planets are observed in the night sky by naked eyes over a period of a few months, it can be seen that the planets move eastwards and reverse their motion for a while and return to eastward motion again. This is called "retrograde motion" of planets.
 
@@ -40,7 +40,7 @@ from ‘Google’.
 
 **Figure 6.27 ‘Retrograde motion’ in heliocentric model**
 
-**6.5.2 Kepler’s Third Law and The Astronomical Distance**
+## Kepler’s Third Law and The Astronomical Distance
 
 When Kepler derived his three laws, he strongly relied on Tycho Brahe's astronomical observation. In his third law, he formulated the relation between the distance of a planet from the Sun to the time period of revolution of the planet. Astronomers cleverly used geometry and trigonometry to calculate the distance of a planet from the Sun in terms of the distance between Earth and Sun. Here we can see how the distance of Mercury and Venus from the Sun were measured. The Venus and Mercury, being inner planets with respect to Earth, the maximum angular distance they can subtend at a point on Earth with respect to the Sun is 46 degree for Venus and 22.5 degree for Mercury. It is shown in the Figure 6.28
 
@@ -85,7 +85,7 @@ It is to be noted that to verify the Kepler's law we need only high school level
 
 Venus can be observed with the naked eye. We can see Venus during sunrise or sunset. Students are encouraged to observe the motion of Venus and verify that the maximum elevation is at 46 degree and calculate the distance of Venus from the Sun. As pointed out already Google or Stellarium will be helpful in locating the position of Venus in the sky.
 
-**6.5.3 Measurement of radius of the Earth**
+## Measurement of radius of the Earth
 Around 225 B.C a Greek librarian "Eratosthenes" who lived at Alexandria measured the radius of the Earth with a small error when compared with results using modern measurements. The technique he used involves lower school geometry and
 
 ![](m7.png)
@@ -121,7 +121,7 @@ The distance of the Moon from Earth was measured by a famous Greek astronomer Hi
 To measure the radius of the Earth, choose two different places (schools) that are separated by at least {{< katex display >}}500 \mathrm{~km}{{< /katex >}}. It is important to note that these two places have to be along the same longitude of the Earth (For example Hosur and Kanyakumariliealong the same longitude of {{< katex display >}}77.82^{\circ} \mathrm{E}{{< /katex >}} ). Take poles of known length (h) and fix them vertically in the ground (it may be in the school playgrounds) at both the places. At exactly noon in both the places the length of the shadow (L) cast by each pole has to be noted down. Draw the picture like in Figure 6.30. By using the equation {{< katex display >}}\tan \theta=\frac{L}{h}{{< /katex >}}, the angle in radian can be found at each place. The difference in angle {{< katex display >}}\left(\theta^{\prime}\right){{< /katex >}} is due to the curvature of the Earth. Now the distance between the two schools can be obtained from 'Google maps'. Divide the distance with the angle {{< katex display >}}\left(\theta^{\prime}\right.{{< /katex >}} in radians) which will give the radius of the Earth.
 
 
-**6.5.4 Interesting Astronomical Facts**
+## Interesting Astronomical Facts
 1. On January 31, 2018 there was a total lunar eclipse which was observed from various places including Tamil Nadu. It is possible to measure the radius of shadow of the Earth at the point where the Moon crosses. Figure 6.31 illustrates this.
 
 When the Moon is inside the umbra shadow, it appears red in color. As soon as the Moon exits from the umbra
@@ -202,7 +202,7 @@ Using Sun rays and shadows, How will you prove that the Earth’s tilt is 23.5°
 
 **Figure 6.37 Star’s apparent circular motion due to Earth’s rotation**
 
-**6.5.5 Recent developments of astronomy and gravitation**
+## Recent developments of astronomy and gravitation
 
 Till the {{< katex display >}}19^{\text {th }}{{< /katex >}} century astronomy mainly depended upon either observation with the naked eye or telescopic observation. After the discovery of the electromagnetic spectrum at the end of the {{< katex display >}}19^{\text {th }}{{< /katex >}} century, our understanding of the universe increased enormously. Because of this development in the late {{< katex display >}}19^{\text {th }}{{< /katex >}} century it was found that Newton's law of gravitation could not explain certain phenomena and showed some discrepancies. Albert Einstein formulated his 'General theory of relativity' which was one of the most successful theories of {{< katex display >}}20^{\text {th }}{{< /katex >}} century in the field of gravitation.
 

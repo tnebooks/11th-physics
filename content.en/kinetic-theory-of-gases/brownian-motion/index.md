@@ -5,12 +5,11 @@ weight: 6
 [comment]: <> (katex Header)
 {{< katex display >}}{{< /katex >}}
  
-# BROWNIAN MOTION
  
 In 1827, Robert Brown, a botanist reported that grains of pollen suspended in a liquid move randomly from one place to other. The random (Zig - Zag path) motion of pollen suspended in a liquid is called Brownian motion. In fact, we can observe the dust particle in water moving in random directions. This discovery puzzled scientists for a long time. There were a lot of explanations for pollen or dust to move in random directions but none of these explanations were found adequate. After a systematic study, Wiener and Gouy proposed that Brownian motion is due to the bombardment of suspended particles by molecules of the surrounding fluid. But during the 19th century, people did not accept that every matter is made up of small atoms or molecules. In the year 1905, Einstein gave a systematic theory of Brownian motion based on kinetic theory and he deduced the average size of molecules.
  
 According to kinetic theory, any particle suspended in a liquid or gas is continuously bombarded from all the directions so that the mean free path is almost negligible. This leads to the motion of the particles in a random and zig–zag manner as shown in Figure 9.9. But when we put our hand in water it causes no random motion because the mass of our hand is so large that the momentum transferred by the molecular collision is not enough to move our hand.
-![Alt text](figure9.9.png)
+![images](figure9.9.png)
  
 **Brownian motion**
  
@@ -144,7 +143,7 @@ The microscopic origin of macroscopic parameters like pressure and temperature i
    - $$(v_{\text{rms}}, \overline{v}, v_{\text{mp}})$$
    - $$(P = \frac{1}{3} n m \overline{v^2})$$
    - $$(f = 3N - q)$$
-   - $$(\lambda \propto \frac{kT}{\pi d^2 P})$$
+   - $$(\Lambda \propto \frac{kT}{\pi d^2 P})$$
 5. The average kinetic energy is directly proportional to pressure.
 6. Degrees of freedom represent the minimum number of independent coordinates needed to specify the state and configuration of a thermodynamic system.
 7. Law of equipartition of energy states that each degree of freedom gets $$( \frac{1}{2} kT )$$ energy.

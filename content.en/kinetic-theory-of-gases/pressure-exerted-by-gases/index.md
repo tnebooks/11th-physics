@@ -2,7 +2,6 @@
 title: 'PRESSURE EXERTED BY A GAS'
 weight: 2
 ---
-# PRESSURE EXERTED BY A GAS
 [comment]: <> (katex Header)
 {{< katex display >}}{{< /katex >}}
  
@@ -10,7 +9,7 @@ weight: 2
  
  
 Consider a monoatomic gas of N molecules each having a mass m inside a cubical container of side _l_ as shown in the Figure 9.1 (a).
-![Alt text](q2.png)
+![image](q2.png)
  
  
 **Gas molecule Container**
@@ -30,7 +29,7 @@ having components($$(v_x, v_y, v_z)$$)
  
 The x-component of momentum of the molecule before collision = $$(m \cdot v_x)$$
  
-![Alt text](figure2.png)
+![images](figure2.png)
 **Figure 9.1** (b) Collision of a molecule with the wall
  
 The x-component of momentum of the molecule after collision = mvx
@@ -57,7 +56,7 @@ The molecules within the distance of $$(v_x \Delta t)$$
  
 We have assumed that the number density is the same throughout the cube.
  
-![Alt text](image_8.png)
+![images](image_8.png)
  
  
  
@@ -256,11 +255,11 @@ From equation (9.12), we know that $$(PV = \frac{2}{3}U).$$
  
 But the internal energy of an ideal gas is equal to $$(N)$$ times the average kinetic energy ($$(varepsilon)$$) of each molecule.
  
-$$[ U = N\varepsilon ]$$
+$$[ U = N\varUpsilon ]$$
  
 For a fixed temperature, the average translational kinetic energy $$(varepsilon)$$ will remain constant. It implies that
  
-$$[ PV = \frac{2}{3} N\varepsilon ]$$
+$$[ PV = \frac{2}{3} N\varUpsilon ]$$
  
 Thus, $$(PV)$$ is constant.
  
@@ -306,7 +305,7 @@ Root mean square speed ($$(v_{\text{rms}})$$) is defined as the square root of t
 Equation (9.8) can be rewritten as,
  
 Mean square speed $$(v)$$ can be expressed as:
- 
+
 $$[v = \sqrt{\frac{3kT}{m}} \quad (9.17)]$$
  
 Root mean square speed,

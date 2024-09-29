@@ -2,24 +2,6 @@
 title: 'KINETIC THEORY'
 weight: 1
 ---
-**9.1**
-**Learning Objectives**
-<!-- ![Alt text](intro1.png) -->
-**In this unit, the student is exposed to**
-• necessity of kinetic theory of gases
-• the microscopic origin of pressure and temper
-• correlate the internal energy of the gas and tran
-• meaning of degrees of freedom
-• calculate the total degrees of freedom for mono
-• law of equipartition of energy
-• calculation of the ratio of CP and CV
-• mean free path and its dependence with pressu
-• Brownian motion and its microscopic origin
- 
-# KINETIC THEORY
- 
-## Introduction
- 
  
 Thermodynamics is basically a macroscopic science. We discussed macroscopic parameters like pressure, temperature and volume of thermodynamical systems in unit 8. In this unit we discuss the microscopic origin of pressure and temperature by considering a thermodynamic system as collection of particles or molecules. Kinetic theory relates pressure and temperature to molecular motion of sample of a gas and it is a bridge between Newtonian mechanics and thermodynamics. The present chapter introduces the kinetic nature of gas molecules.
  
@@ -35,7 +17,7 @@ atomic, diatomic and triatomic molecules
  
 re, temperature and number density
  
-C THEORY OF GASES
+**C THEORY OF GASES**
  
 _ost everything crudely; with kinetic theory, one can wer things, but more accurately.”_ \- Eugene Wigner
  

@@ -774,7 +774,7 @@ For the best understanding, the elastic coefficients of some of the important ma
 
 <!-- ials **ulk modulus (K)**
 
-**1010 N m–2) Shear modulus (ηR) (1010 N m–2)**
+# N m–2) Shear modulus (ηR) (1010 N m–2)
 
 5.8 8.0
 

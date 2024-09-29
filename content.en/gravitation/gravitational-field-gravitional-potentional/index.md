@@ -3,7 +3,6 @@ title: 'gravitational field and gravitational potential'
 weight: 2
 ---
 
-**6.2 GRAVITATIONAL FIELD AND GRAVITATIONAL POTENTIAL**
 
 ## Gravitational field
 

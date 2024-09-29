@@ -119,7 +119,7 @@ Scale To Celsius From Celsius
 Fahrenheit °C=(°F − 32)÷1.8 °F = (1.8 × °C) + 32   -->
 
 <!-- **8.2** -->
-**8.2 THERMAL PROPERTIES OF MATTER**
+# THERMAL PROPERTIES OF MATTER
 <!-- # THERMAL PROPERTIES OF MATTER -->
 
 

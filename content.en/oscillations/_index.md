@@ -1217,7 +1217,7 @@ Since the kinetic energy and potential energy of the oscillating particle are eq
 
 $$\frac{1}{2}m\omega^2(A^2 - x^2) = \frac{1}{2}m\omega^2x'^2$$
 
-**10.6 TYPES OF OSCILLATIONS:**
+# TYPES OF OSCILLATIONS:
 
 ## Free oscillations
 When the oscillator is allowed to oscillate by displacing its position from equilibrium position, it oscillates with a frequency which is equal to the natural frequency of the oscillator. Such an oscillation or vibration is known as free oscillation or free vibration. In this case, the amplitude, frequency and the energy of the vibrating object remains constant.

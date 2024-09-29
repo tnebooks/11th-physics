@@ -2,11 +2,6 @@
 title: 'introduction'
 weight: 1
 ---
-**U N I T 6** 
-
-**GRAVITATION** 
-
- "The most remarkable discovery in all of astronomy is that the stars are made up of atoms of same kind as those in the Earth" - Richard Feynman
 
 **Learning Objectives**
 
@@ -23,7 +18,7 @@ In this unit, the student is exposed to
 - measurement of the radius of Earth using Eratosthenes method
 - recent developments in gravitation and astrophysics
 
-**6.1 INTRODUCTION**
+# INTRODUCTION
 
 We are amazed looking at the glittering sky; we wonder how the Sun rises in the East and sets in the West, why there are comets or why stars twinkle. The sky has been an object of curiosity for human beings from time immemorial. We have always wondered about the motion of stars, the Moon, and the planets. From Aristotle to Stephen Hawking, great minds have tried to understand the movement of celestial objects in space and what causes their motion.
 

@@ -1,5 +1,5 @@
 ---
-title: 'LAWS OF MOTION'
+title: 'laws of motion'
 weight: 3
 ---
 

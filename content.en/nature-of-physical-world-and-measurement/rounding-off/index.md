@@ -1,5 +1,5 @@
 ---
-title: 'Rounding Off'
+title: 'rounding off'
 weight: 18
 extensions:
     - katex

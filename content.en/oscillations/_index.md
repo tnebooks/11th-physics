@@ -1,9 +1,11 @@
 ---
-title: 'OSCILLATIONS'
+title: 'oscillations'
 weight: 10
----
+extensions:
+    - katex
 
-  
+---
+{{<katex>}}{{</katex>}}
 
 **10.1**
 
@@ -21,42 +23,41 @@ weight: 10
 - types of oscillation – free, damped, maintained
 - concept of resonance
 
-Have you seen the Thanjavur Dancing Doll (In Tamil, it is called ‘Thanjavur thalayatti bommai’)?. It is a world famous Indian cultural doll (Figure 10.1). What does this
-_Life is a constant oscillation betwe_
+**INTRODUCTION**
 
-**Figure 10.1. Thanjavur dancing doll**
+Have you seen the Thanjavur Dancing Doll (In Tamil, it is called ‘Thanjavur thalayatti bommai’)?. It is a world famous Indian cultural doll (image 10.1). What does this
+_Life is a constant oscillation between
 
-**INTRODUCTION**  
+**image 10.1. Thanjavur dancing doll**
 
-periodic motion
 
-d vertical
 
-energy and total energy otion and forced oscillations
 
-ATIONS
-
-_en the sharp horns of a dilemma_ – H.L. Mencken
-
-doll do when disturbed? It will dance such that the head and body move continuously in a to and fro motion, until the movement gradually stops. Similarly, when we walk on the road, our hands and legs will move front and back. Again similarly, when a mother swings a cradle to make her child sleep, the cradle is made to move in to and fro motion. All these motions are different from the motion that we have discussed so far. These motions are shown in Figure 10.2. Generally, they are known as oscillatory motion or vibratory motion. A similar motion occurs even at atomic levels.
+doll do when disturbed? It will dance such that the head and body move continuously in a to and fro motion, until the movement gradually stops. Similarly, when we walk on the road, our hands and legs will move front and back. Again similarly, when a mother swings a cradle to make her child sleep, the cradle is made to move in to and fro motion. All these motions are different from the motion that we have discussed so far. These motions are shown in image 10.2. Generally, they are known as oscillatory motion or vibratory motion. A similar motion occurs even at atomic levels.
 
 When the temperature is raised, the atoms in a solid vibrate about their mean position or equilibrium position. The study of vibrational motion is very important in engineering applications, such as, designing the structure of building, mechanical equipments, etc.
 ## Periodic and non- periodic motion
 Motion in physics can be classified as repetitive (periodic motion) and non- repetitive (non-periodic motion).
 
-1. Periodic motion** Any motion which repeats itself in a fixed time interval is known as periodic motion. Examples : Hands in pendulum clock, swing of a cradle, the revolution of the Earth around the Sun, waxing and waning of Moon, etc.
+1. Periodic motion which repeats itself in a fixed time interval is known as periodic motion. 
+
+Examples : Hands in pendulum clock, swing of a cradle, the revolution of the Earth around the Sun, waxing and waning of Moon, etc.
 
 2. Non-Periodic motion** Any motion which does not repeat itself after a regular interval of time is known as non-periodic motion. **Example :** Occurance of Earth quake, eruption of volcano, etc.
 
 **EXAMPLE 10.1**
 
-Classify the following motions as periodic and non-periodic motions?. a. Motion of Halley’s comet. b. Motion of clouds. c. Moon revolving around the Earth.
+Classify the following motions as periodic and non-periodic motions?.
+ 
+ a. Motion of Halley’s comet.
+ 
+ b. Motion of clouds.
+ 
+ c. Moon revolving around the Earth.
 
 **Solution**
 
 a. Periodic motion
-
-**Figure 10.2.** Oscillatory or vibratory motions  
 
 b. Non-periodic motion c. Periodic motion
 
@@ -66,369 +67,116 @@ Which of the following functions of time represent periodic and non-periodic mot
 
 **Solution**
 
-a. Periodic b. Non-periodic
+a. Periodic
+
+ b. Non-periodic
 
 **Question to ponder**
 
 Discuss “what will happen if the motion of the Earth around the Sun is not a periodic motion”.
 
 ## Oscillatory motion
-_When an object or a particle moves back and forth repeatedly for some duration of time its motion is said to be oscillatory (or vibratory)_. Examples; our heart beat, swinging motion of the wings of an insect, grandfather’s clock (pendulum clock), etc. Note that all oscillatory motion are periodic whereas all periodic motions need not be oscillation in nature. see Figure 10.3
+_When an object or a particle moves back and forth repeatedly for some duration of time its motion is said to be oscillatory (or vibratory)_. Examples; our heart beat, swinging motion of the wings of an insect, grandfather’s clock (pendulum clock), etc. Note that all oscillatory motion are periodic whereas all periodic motions need not be oscillation in nature. see image 10.3
 
-| EXAMPLE 1 0 . 2Which o f t he f ollowing f unctions o f t ime represent p eriodic a nd n on-periodic motion?. a. sin ωt + cos ωtb. ln ωtSolutiona. Periodicb. Non-periodicQuestion to ponderDiscuss “ what w ill h appen if t he motion of the E arth around the Sun is not a periodic motion”. |
-|------|
-  
+|**note**
 
-**Figure 10.3 Oscillatory or vibratory motion**
+A simple harmonic motion 
+is a special type of oscillatory 
+motion. But all oscillatory 
+motions need not be simple 
+harmonic .
+
+
+
+**image 10.3 Oscillatory or vibratory motion**
 
 # SIMPLE HARMONIC MOTION (SHM)
-**Figure 10.4** Simple Harmonic Motion
+**image 10.4** Simple Harmonic Motion
 
 Equilibrium position
 
-A simple harmonic motion is a special type of oscillatory motion. But all oscillatory motions need not be simple harmonic .
+
 
 **Note**  
 
 Simple harmonic motion is a special type of oscillatory motion in which the acceleration or force on the particle is directly proportional to its displacement from a fixed point and is always directed towards that fixed point. In one dimensional case, let _x_ be the displacement of the particle and _ax_ be the acceleration of the particle, then
 
-_ax_ ∝ _x_ (10.1)
+$$ a_x \propto x  (10.1)  $$
+$$ a_x = -b \, x  (10.2)  $$
 
-_ax_ \= − b _x_ (10.2)
+
 
 where _b_ is a constant which measures acceleration per unit displacement and dimensionally it is equal to _T_ −2. By multiplying by mass of the particle on both sides of equation (10.2) and from Newton’s second law, the force is
 
-_Fx_\= _−_ _k_ _x_ (10.3)
+$$F_x = -k x(10.3)$$
 
-where k is a force constant which is defined as force per unit length. The negative sign indicates that displacement and force (or acceleration) are in opposite directions. This means that when the displacement of the particle is taken towards right of equilibrium position (_x_ takes positive value), the force (or acceleration) will point towards equilibrium (towards left) and similarly, when the
-
-**s**
-displacement of the particle is taken towards left of equilibrium position (x takes negative value), the force (or acceleration) will point towards equilibrium (towards right). This type of force is known as restoring **_force_** _because it always directs the particle executing simple harmonic motion to restore to its original (equilibrium or mean) position_. This force (restoring force) is central and attractive whose center of attraction is the equilibrium position.
+where k is a force constant which is defined as force per unit length. The negative sign indicates that displacement and force (or acceleration) are in opposite directions. This means that when the displacement of the particle is taken towards right of equilibrium position (_x_ takes positive value), the force (or acceleration) will point towards equilibrium (towards left) and similarly,
+ 
+when the displacement of the particle is taken towards left of equilibrium position (x takes negative value), the force (or acceleration) will point towards equilibrium (towards right). This type of force is known as restoring **_force_** _because it always directs the particle executing simple harmonic motion to restore to its original (equilibrium or mean) position_. This force (restoring force) is central and attractive whose center of attraction is the equilibrium position.
 
 In order to represent in two or three dimensions, we can write using vector notation
 
+$$F = -k \vec{r}(10.4)$$
+
+where 
+r is the displacement of the particle 
+from the chosen origin. Note that the force 
+and displacement have a linear relationship. 
+This means that the exponent of force 
+F and 
+the exponent of displacement 
+r are unity. 
+The sketch between cause (magnitude of force 
+|
 
+F |) and effect (magnitude of displacement 
+| 
+r |) is a straight line passing through 
+second and fourth quadrant as shown in
 
-_F k r_  (10.4)
-
-where _r_ is the displacement of the particle from the chosen origin. Note that the force and displacement have a linear relationship. This means that the exponent of force
-
-
-
-_F_ and the exponent of displacement _r_ are unity. The sketch between cause (magnitude of force | 
-
-_F_ |) and effect (magnitude of displacement | _r_ |) is a straight line passing through second and fourth quadrant as shown in
-
-**Figure 10.6** Projection of moving particle on
-
-**_y = + A_**
-
-**_y = 0_**
-
-**_y = A_**
-
-**_A A_**
-
-**_\-y_**
-
-**_+y_**
-
-**_+y_**
-
-**Light From Distant Source**
-
-**(A) (B)**
-
-**Shadow On Block**
-
-**Screen**
-
-**at** _t_
-
-\-y
-
-
-
-θ θ  
-
-Figure 10.5. By measuring slope 1 _k_
-
-, one can find the numerical value of force constant k.
-
-**Slope = _xx F_**
-
-**_F_**
-
-**1 k**
-
-**1 Slope**
-
-_\=_
-
-**k =**
-
-**Figure 10.5** Force verses displacement graph
 
 ## The projection of uniform circular motion on a diameter of SHM
-Consider a particle of mass _m_ moving with uniform speed _v_ along the circumference of a circle whose radius is _r_ in anti-clockwise direction (as shown in Figure 10.6). Let us assume that the origin of the coordinate system coincides with the center _O_ of the circle. If _ω_ is the angular velocity of the particle and _θ_ the angular displacement of the particle at any instant of time _t_, then _θ_ = _ωt_. By projecting the uniform circular motion on its diameter gives a simple harmonic motion. This means that we can associate
+Consider a particle of mass _m_ moving with uniform speed _v_ along the circumference of a circle whose radius is _r_ in anti-clockwise direction (as shown in image 10.6). Let us assume that the origin of the coordinate system coincides with the center _O_ of the circle. If _ω_ is the angular velocity of the particle and _θ_ the angular displacement of the particle at any instant of time _t_, then _θ_ = _ωt_. By projecting the uniform circular motion on its diameter gives a simple harmonic motion. This means that we can associate a map (or a relationship) between uniform circular (or revolution) motion to vibratory motion. Conversely, any vibratory motion or revolution can be mapped to uniform circular motion. In other words, these two motions are similar in nature.
 
-a circle on a diameter **Screen**
 
-**\> 0**
+Let us first project the position of a particle moving on a circle, on to its vertical diameter or on to a line parallel to vertical diameter as shown in image 10.7. Similarly, we can do it for horizontal axis or a line parallel to horizontal axis.
 
-**at** _t=_ **0**
 
-**y = A sinθ =A sin** **t**
+As a specific example, consider a spring mass system (or oscillation of pendulum) as shown in image 10.8. When the spring moves up and down (or pendulum moves to and fro), the motion of the mass or bob is mapped to points on the circular motion.
 
-**A sin** (
+**image 10.8** Motion of spring mass (or simple pendulum) related to uniform circular motion
 
-t)
+Thus, if a particle undergoes uniform circular motion then the projection of the particle on the diameter of the circle (or on a line parallel to the diameter ) traces straightline motion which is simple harmonic in nature. The circle is known as reference circle of the simple harmonic motion. _The simple harmonic motion can also be defined as the motion of the projection of a particle on any diameter of a circle of reference.
 
-**Shadow**
-
-y
-
- **y = r sin θ**
-
-**x = r cos θ**
-
-r
-
-x
-
-| k =  Slope1F |
-|------|------|------|------|
-
-| Figure 10.5 Force verses displacement graph |
-| On Block+y y = + A Aθ at t > 0 ShadowLightFrSourom Distantce Aθ y = 0 y =    =Aat A  sin t=sinθ 0 t A sin (y = A t)-y Screen -y |r y = r sin |θ |
-|------|------|------|------|------|
-| x = r cos θ |x |
-| Figure 10.6 Projection of moving particle on a circle on a diameterScreen |
-
-  
-
-a map (or a relationship) between uniform circular (or revolution) motion to vibratory motion. Conversely, any vibratory motion or revolution can be mapped to uniform circular motion. In other words, these two motions are similar in nature.
-
-**The following figures explain the position of p**
-
-**Figure 10.7 The location of a particle at each**
-
-**P7 P7**
-
-**x- axis**
-
-**y- axis**
-
-**o**
-
-**P3**
-
-**P3**
-
-**x- axis**
-
-**y- axis**
-
-**o**
-
-**P1 P1**
-
-**x- axis**
-
-**y- axis**
-
-**o**
-
-**P5P5 x- axis**
-
-**y- axis**
-
-**o**
-
-**P4**
-
-**P6**
-
-**P7 P7**
-
-**x- axis**
-
-**y- axis**
-
-**o**
-
-**P3**
-
-**P3**
-
-**x- axis**
-
-**y- axis**
-
-**o**
-
-**P1 P1**
-
-**x- axis**
-
-**y- axis**
-
-**o**
-
-**P5P5 x- axis**
-
-**y- axis**
-
-**o**  
-
-Let us first project the position of a particle moving on a circle, on to its vertical diameter or on to a line parallel to vertical diameter as shown in Figure 10.7. Similarly, we can do it for horizontal axis or a line parallel to horizontal axis.
-
-**article at different time :**
-
-instant as projected on a vertical axis
-
-**P8 P8**
-
-**x- axis**
-
-**y- axis**
-
-**o**
-
-**P2 P2**
-
-**x- axis**
-
-**y- axis**
-
-**o**
-
-**P4**
-
-**x- axis**
-
-**y- axis**
-
-**o**
-
-**P6**
-
-**x- axis**
-
-**y- axis**
-
-**o**
-
-**P8 P8**
-
-**x- axis**
-
-**y- axis**
-
-**o**
-
-**P2 P2**
-
-**x- axis**
-
-**y- axis**
-
-**o**
-
-**P4 P4**
-
-**x- axis**
-
-**y- axis**
-
-**o**
-
-**P6 P6**
-
-**x- axis**
-
-**y- axis**
-
-**o**
-As a specific example, consider a spring mass system (or oscillation of pendulum) as shown in Figure 10.8. When the spring moves up and down (or pendulum moves to and fro), the motion of the mass or bob is mapped to points on the circular motion.
-
-**Figure 10.8** Motion of spring mass (or simple pendulum) related to uniform circular motion
-
-Thus, if a particle undergoes uniform circular motion then the projection of the particle on the diameter of the circle (or on a line parallel to the diameter ) traces straightline motion which is simple harmonic in nature. The circle is known as reference circle of the simple harmonic motion. _The simple harmonic motion can also be defined as the motion of the projection of a particle on any diameter of a circle of reference._
+**Activity**  
 
 a. Sketch the projection of **_spiral in_** motion as a wave form.
 
 b. Sketch the projection of **_spiral out_** motion as a wave form.
 
-**Activity**  
+
 
 ## Displacement, velocity, acceleration and its graphical representation - SHM
-**Figure 10.9** Displacement, velocity and acceleration of a particle at some instant of time
-
-y
-
-x
-
-N P
-
-
-
-
-
-
-
-2a cos 
-
-2a sin 
-
-y
-
-N P
-
- x = A cos 
-
-y= A sinA
-
-y
-
-x
-
-N P
-
-
-
-
-
-
-
-v cos v
-
-
-
-
-
-v sin 
 
 _The distance travelled by the vibrating particle at any instant of time t from its mean position is known as displacement._
 
-Let _P_ be the position of the particle on a circle of radius A at some instant of time _t_ as shown in Figure 10.9. Then its displacement y at that instant of time _t_ can be derived as follows In ∆_OPN_
+Let _P_ be the position of the particle on a circle of radius A at some instant of time _t_ as shown in image 10.9. Then its displacement y at that instant of time _t_ can be derived as follows In ∆_OPN_
 
 sin sinθ θ= ⇒ = _ON OP_
 
-_ON OP_ (10.5)
+$$\sin{\theta}=\frac{ON}{OP} \Rightarrow ON = OP\sin{\theta}\quad(10.5)$$
 
-But θ = _ωt_, ON = _y_ and OP = _A_
+sin s θ θ = ⇒ = in ON = OPON OP (10.5)
 
-|  |x |
-|------|------|
-| Figure 10.9 Displacement, velocity and acceleration of a particle at some instant of time |
-  
+$$y = A\sin\omegat(10.6) $$
 
-_y_ = _A_ sin ω_t_ (10.6)
+
 
 The displacement y takes maximum value (which is equal to A) when sin ωt = 1. This _maximum displacement from the mean position is known as amplitude (A) of the vibrating particle._ For simple harmonic motion, the amplitude is constant. But, in general, for any motion other than simple harmonic, the amplitude need not be constant, it may vary with time.
 
-**Velocity** The rate of change of displacement is velocity. Taking derivative of equation (10.6) with respect to time, we get
+**Velocity**
+
+ The rate of change of displacement is velocity. Taking derivative of equation (10.6) with respect to time, we get
 
 _v dy dt_
 
@@ -439,54 +187,17 @@ _d dt_
 For circular motion (of constant radius), amplitude _A_ is a constant and further, for uniform circular motion, angular velocity _ω is a constant. Therefore,_
 
 _v dy dt_
-
-\= = A ω cos ω_t_ (10.7)
+$$y = A\sin(\omega t + \phi)(10.6)$$
 
 Using trigonometry identity, sin2 _ωt_ \+ cos2 _ωt_ \=1 ⇒ cos _ωt_ \= 1 2-sin ω_t_ we get _v A t_\= −ω ω1 2sin
 
-**Table 10.1** Displacement, velocity and acc
 
-Time 0
-
-_T_ 4
-
-ω_t_ 0 π
-
-2
-
-Displacement _y_ =_A_ sin ω_t_
-
-0 _A_
-
-Velocity _v_ =_A_ ω cos ω_t_
-
-_A_ ω 0
-
-Acceleration _a_ =-_A_ ω2 sin ω_t_
-
-0 −_A_ ω2  
-
-From equation (10.6),
-
-sinω_t y A_
-
-\=
-
-_v A y A_
-
-\= − 
-
-  
-
- ω 1
-
-2
-
-_v A y_\= −ω 2 2 (10.8)
 
 From equation (10.8), when the displacement _y_ = 0, the velocity _v_ = _ωA_ (maximum) and for the maximum displacement _y_ = A, the velocity _v_ = 0 (minimum). As displacement increases from zero to maximum, the velocity decreases from maximum to zero. This is repeated. Since velocity is a vector quantity, equation (10.7) can also be deduced by resolving in to components.
 
-**Acceleration** The rate of change of velocity is acceleration. Taking derivative of equation 10.7 with respect to time,
+**Acceleration**
+
+ The rate of change of velocity is acceleration. Taking derivative of equation 10.7 with respect to time,
 
 _a dv dt_
 
@@ -494,40 +205,13 @@ _d dt_
 
 _A t_\= = ( )ω ωcos
 
-_a A t y_\=− =−ω ω ω2 2sin (10.9)
+$$ya = -{\omega}^2 A \sin{\omega t} = -{\omega}^2 y(10.9)$$
 
-∴ _a d y dt_
+∴ 
 
-_y_\= =− 2
+$$a = -{\omega}^2 A\sin{\omega t}= -{\omega}^2 y(10.10)$$
 
-2 2ω (10.10)
 
-From the Table 10.1 and figure 10.10, we observe that at the mean position
-
-eleration at different instant of time.
-
-2
-
-4
-
-_T_ 3
-
-4
-
-_T_ 4 4 _T T_\=
-
-_π_ 3 2 π 2_π_
-
-0 −_A_ 0
-
-−_A_ ω 0 _A_ ω
-
-0 _A_ ω2 0
-
-| 0 |π2 |π |3π2 |
-|------|------|------|------|
-| 0 |A |0 |−A |
-| A ω |0 |−A ω |0 |
   
 
 (_y_ \= 0), velocity of the particle is maximum but the acceleration of the particle is zero. At the extreme position (_y_ = ±_A_), the velocity of the particle is zero but the acceleration is maximum _Aω_2 acting in the opposite direction.
@@ -540,345 +224,118 @@ Which of the following represent simple harmonic motion? (i) _x_ = _A_ sin ω_t_
 
 **Solution**
 
-(i) _x_ = _A_ sin ω_t_ \+ _B_ cos _ωt_
+(i)$$[ x = A \sin(\omega t) + B \cos(\omega t) ]$$
 
-_dx dt_
-
-\= _A_ ω cos _ωt_ − _B ω_ sin _ωt_
-
-_d x dt_
-
-2
-
-2 = − _ω_2 _(A_ sin _ωt+ B_ cos _ωt)_
-
-_d x dt_
-
-2
-
-2 = − _ω_2_x_
 
 This differential equation is similar to the differential equation of SHM (equation 10.10). Therefore, x = A sin ωt + B cos ωt represents SHM. (ii) _x_ =A sin _ωt_ + _B_ cos2_ωt_
 
-_o_
+$$[ \frac{d^2 x}{dt^2} = -A \omega^2 e^{i \omega t} \quad (\text{since } i^2 = -1) ]$$
 
-_o_
+$$ [ \frac{dx}{dt} = A \omega \cos(\omega t) - B \omega \sin(\omega t) ]$$
 
-_A x_
+$$[ \frac{d^2 x}{dt^2} = -\omega^2 (A \sin(\omega t) + B \cos(\omega t)) ]$$
 
-_v_
+$$[ \frac{d^2 x}{dt^2} = -\omega^2 x ]$$
 
-_T t_
 
-_T 2_
 
-_T 2_
+This differential equation is not like the differential equation of a SHM (equation 10.10).
 
-_T 2_
+Therefore, x = A sin ωt + B cos 2ωt does not represent SHM. (iii) $$ [ x = A \ln(\omega t) ]$$
 
-_T t_
+$$ [ \frac{dx}{dt} = \frac{A}{\omega t} = \frac{A}{t} ]
+$$
 
-_o_
+$$ [ \frac{d^2 x}{dt^2} = -\frac{A}{t^2} \Rightarrow \frac{d^2 x}{dt^2} = -\omega^2 x ]
+$$
 
-_a_ **ac**
+This differential equation is like the differential equation of SHM (equation 10.10). 
 
-**ce le**
+Therefore, x = A eiωt represents SHM. 
 
-**ra tio**
+(iv) $$ [ x = A \ln(\omega t) ]
+$$
 
-**n ve**
+$$[ \frac{dx}{dt} = \left( \frac{A}{\omega t} \right) \omega = \frac{A}{t} ]
+$$
 
-**lo ci**
+$$ [ \frac{d^2 x}{dt^2} = -\frac{A}{t^2} \Rightarrow x’’ = -\omega^2 x ]$$
 
-**ty D**
 
-**is pl**
-
-**ac em**
-
-**en t**
-
-_x = A sin_ ω _t_
-
-_v =_ ω _A cos_ ω _t_
-
-_a = –_ω _2 A sin_ ω _t T t_
-
-**Figure 10.10** Variation of displacement, velocity and acceleration at different instant of time  
-
-_dx dt_
-
-\= _A_ _ω_ cos _ωt_ − _B_ (2_ω_) sin2_ωt_
-
-_d x dt_
-
-2
-
-2 = − _ω_2 _(A_ sin _ωt+_ 4_B_ cos 2_ωt)_
-
-_d x dt_
-
-2
-
-2 ≠ − _ω_2_x_
-
-This differential equation is not like the differential equation of a SHM (equation 10.10). Therefore, x = A sin ωt + B cos 2ωt does not represent SHM. (iii) _x_ = _A_ _e_iωt
-
-_dx dt_
-
-\= _A_ i_ωe_iωt
-
-_d x dt_
-
-2
-
-2 =−_A_ _ω_2 _e_iωt=−ω2_x_ ( ∴ i2=–1)
-
-This differential equation is like the differential equation of SHM (equation 10.10). Therefore, x = A eiωt represents SHM. (iv) _x_ = _A_ _ln_ ω_t_
-
-_dx dt_
-
-\= _A t_
-
-_A t_ω
-
-ω 
-
-  
-
-  =
-
-_d x dt_
-
-2
-
-2 =- _A t_ 2 ⇒ _d x_
-
-_dt_
-
-2
-
-2 ≠−ω2_x_
-
-This differential equation is not like the differential equation of a SHM (equation 10.10). Therefore, x = A ln ωt does not represent SHM.
+This differential equation is not like the differential equation of a SHM (equation 10.10). 
+Therefore, x = A ln ωt does not represent SHM.
 
 **EXAMPLE 10.4**
 
 Consider a particle undergoing simple harmonic motion. The velocity of the particle at position _x_1 is _v_1 and velocity of the particle at position _x_2 is _v_2\. Show that the ratio of time period and amplitude is
 
-_T A_
+$$[ \frac{T}{A} = 2\pi \sqrt{\frac{x_2^2 - x_12}{v_12 x_2^2 - v_2^2 x_1^2}} ]$$
 
-_x x v x v x_
 
-\= − −
-
-2 2 2
-
-1 2
-
-1 2
-
-2 2
-
-2 2
-
-1 2π
-
-| aa = – ω  A sin ω t2 nv oacceleratio |T T2 |t |
-|------|------|------|
-
-| Figure 10.10 Variation of displacement, velocity and acceleration at dierent instant of time |
+| image 10.10 Variation of displacement, velocity and acceleration at dierent instant of time |
   
 
 **_Solution_**
 
 Using equation (10.8)
 
-_v_ \= ω _A x_2 2- ⇒_v_2 = ω2 (_A_2 − _x_2) Therefore, at position x1, _v A x_1
+$$[ v = \omega \sqrt{A^2 - x^2} \Rightarrow v^2 = \omega^2 (A^2 - x^2) ]$$
 
-2 2 2 2 1= −ω ( ) (1)
+Therefore, at position ( x_1 ):
 
-Similarly, at position _x_2, _v A x_2
+$$[ v_1^2 = \omega^2 (A^2 - x_1^2) \quad (1) ]$$
 
-2 2 2 2 2= −ω ( ) (2)
+Similarly, at position ( x_2 ):
 
-Subtrating (2) from (1), we get
+$$[ v_2^2 = \omega^2 (A^2 - x_2^2) \quad (2) ]$$
 
-_v v A x A x x x_1 2
+Subtracting (2) from (1), we get:
 
-2 2 2 2
+$$[ v_1^2 - v_2^2 = \omega^2 (x_2^2 - x_1^2) ]$$
 
-1 2 2 2
+$$[ \omega = \sqrt{\frac{v_1^2 - v_22}{x_22 - x_1^2}} ]$$
 
-2 2 2
-
-2 2
-
-1 2− = − − − = −ω ω ω( ) ( ) (
-
-_A x A x x x_2 1 2 2 2
-
-2 2 2
-
-2 2
-
-1 2− − − = −ω ω( ) ( ) ( )
-
-ω π= − −
-
-⇒ = − −
-
-_v v x x_
-
-_T x x v v_
-
-1 2
-
-2 2
-
-2 2
-
-1 2
-
-2 2
-
-1 2
-
-1 2
-
-2 22 (3)
-
-Dividing (1) and (2), we get
-
-_v v_
-
-_A x_
-
-_A x A v x v x_
-
-_v v_ 1 2
-
-2 2
-
-2 2 1 2
-
-2 2 2 2
-
-1 2
-
-2 2
-
-2 2
-
-1 2
-
-1 2
-
-2 2=
-
-−( ) −( )
-
-⇒ = − −
-
-ω
-
-ω (4)
-
-Dividing equation (3) and equation (4), we have
-
-_T A_
-
-_x x v x v x_
-
-\= − −
-
-2 2 2
-
-1 2
-
-1 2
-
-2 2
-
-2 2
-
-1 2π
 
 ## Time period, frequency, phase, phase difference and epoch in SHM.
 (i) **Time period** The time period is defined as the time taken by a particle to complete one oscillation. It is usually denoted by _T_. For one complete revolution, the time taken is _t_ = T, therefore
 
-ω_T_ \= 2π ⇒_T_ \= 2π ω
+$$[ \omega(T = 2\pi) \Rightarrow T = \frac{2\pi}{\omega} \quad (10.11) ]$$
 
-(10.11)
 
 Then, the displacement of a particle executing simple harmonic motion can be written either as sine function or cosine function.
 
-_y_(_t_)= _A_ sin 2π _T_
+$$[ y(t) = A \sin\left(\frac{2\pi}{T}t\right) ]$$
 
-_t_ or _y_(_t_) = _A_ cos 2π _T_
+$$[ y(t + T) = A \sin\left(\frac{2\pi}{T}(t + T)\right) ]$$
 
-_t_
-
-where _T_ represents the time period. Suppose the time _t_ is replaced by _t_ + _T_, then the function  
-
-)
-
-_y_(_t_ \+ _T_) = A sin 2π _T_
-
-(_t_ \+ _T_)
-
-\= _A_ sin( 2π _T_
-
-_t_ \+ 2π)
-
-\= _A_ sin 2π _T_
-
-_t_ = _y_(_t_)
+$$ [ y(t + T) = A \sin\left(\frac{2\pi}{T}t + 2\pi\right) = A \sin\left(\frac{2\pi}{T}t\right) = y(t) ]
+$$
 
 _y_(_t_ \+ _T_) = _y_(_t_) Thus, the function repeats after one time period. This y(t) is an example of periodic function.
 
-(ii) **Frequency and angular frequency** The number of oscillations produced by the particle per second is called frequency. It is denoted by _f_. SI unit for frequency is _s_−1 or hertz (In symbol, Hz). Mathematically, frequency is related to time period by
+(ii) **Frequency and angular frequency**
 
-_f T_
+ The number of oscillations produced by the particle per second is called frequency. It is denoted by _f_. SI unit for frequency is _s_−1 or hertz (In symbol, Hz). Mathematically, frequency is related to time period by
 
-\= 1 (10.12)
+$$ f = \frac{1}{T}(10.12)$$
 
 The number of cycles (or revolutions) per second is called angular frequency. It is usually denoted by the Greek small letter ‘omega’, ω. Comparing equation (10.11) and equation (10.12), angular frequency and frequency are related by
-
-ω = 2_πf_ (10.13)
+$$v = 2\pi f(10.13)$$
 
 SI unit for angular frequency is rad _s_−1. (read it as radian per second)
 
-(iii) **Phase** The phase of a vibrating particle at any instant completely specifies the state of the particle. It expresses the position and direction of motion of the particle at that instant with respect to its mean position (Figure 10.11).
+(iii) **Phase** 
 
-_y_ \= _A_ sin (ω_t_ \+ φ0) (10.14)
+The phase of a vibrating particle at any instant completely specifies the state of the particle. It expresses the position and direction of motion of the particle at that instant with respect to its mean position (image 10.11).
+
+$$y = A \sin(\omega t + \phi_0)(10.14)$$
 
 where ω_t_ \+ φ0 = φ _is called the phase of the vibrating particle. At time t_ = 0 _s (initial time), the phase_ φ = φ0 _is called epoch (initial phase) where_ φ0 _is called the angle of epoch. Phase difference: Consider two particles_ executing simple harmonic motions. Their
 equations are _y_1 = _A_ sin(ω_t_ + φ1) and _y2 = A sin(ωt + φ2), then the phase difference_ ∆φ= (ω_t_ + φ2) − (ω_t_ \+ φ1) = φ2 −φ1.
 
-A sin φ i
 
-+A **Amplitude** _x_
 
-**Phase at instant i**: φ(**t**i) = ω _t_i + φ i
-
-Phase at _t_ \= 0: φ i
-
-_A_
-
-_–A_
-
-_t_i
-
-ω
-
-_t_ 2π ω
-
-A sin φ (_t_i)
-
-ω π
-
-**Figure 10.11 The phase of vibrating** particle at two instant of time.
+**image 10.11 The phase of vibrating** particle at two instant of time.
 
 **EXAMPLE 10.5**
 
@@ -888,13 +345,8 @@ A nurse measured the average heart beats of a patient and reported to the doctor
 
 Let the number of heart beats measured be _f_. Since the time period is inversely proportional to the heart beat, then
 
-_f =_ 1 1 0 8
-
-1 25 1
-
-_T s_\= = −
-
-. .
+$$f = \frac{1}{T} = \frac{1}{0.8} = 1.25 \, \text{s}^{-1}
+$$
 
 One minute is 60 second,
 
@@ -924,17 +376,14 @@ Angular frequency ω = 40π rad s−1
 
 Frequency _f Hz_\= = = ω π
 
-π π2
+$$f = \frac{\theta}{2\pi} = \frac{40\pi}{2\pi} = 20 \, \text{Hz}
+$$
 
-40 2
+$$f = \frac{\theta}{2\pi} = \frac{40\pi}{2\pi} = 20 \, \text{Hz}
+$$
 
-20
-
-Time period _T f_
-
-_s_\= = = 1 1
-
-20 0 05.
+$$\phi_0 = 1.1 \, \text{rad}
+$$
 
 Initial phase is φ0 = 1.1 rad
 
@@ -946,58 +395,43 @@ Angular frequency ω = π rad s−1
 
 Frequency _f Hz_\= = = ω π
 
-π π2 2
+$$f = \frac{\omega}{2\pi} = \frac{\pi}{2\pi} = 0.5 \, \text{Hz}
+$$
 
-0 5.
+$$T = \frac{1}{f} = \frac{1}{0.5} = 2 \, \text{s}
+$$
 
-Time period _T f_
-
-_s_\= = = 1 1
-
-0 5 2
-
-.
-
-Initial phase is φ0 = 0 rad
-
+$$\phi_0 = 0 \, \text{rad}
+$$
 c. For the wave, _y_ = 3 sin(2πt + 1.5)
 
 Amplitude is _A_ = 3 unit
 
 Angular frequency ω = 2π rad s−1
 
-Frequency _f Hz_\= = = ω π
+$f = \frac{\omega}{2\pi} = \frac{2\pi}{2\pi} = 1 \, \text{Hz}
+$$
 
-π π2
+$$T = \frac{1}{f} = \frac{1}{1} = 1 \, \text{s}
+$$
 
-2 2
-
-1
-
-Time period _T f_
-
-_s_\= = = 1 1
-
-1 1
-
+$$\phi_0 = 1.5 \, \text{rad}
+$$
 Initial phase is φ0 = 1.5 rad
 
 **EXAMPLE 10.7**
 
-Show that for a simple harmonic motion, the phase difference between a. displacement and velocity is π
+Show that for a simple harmonic motion, the phase difference between
 
-2 radian
+ a. displacement and velocity is π/2
 
-or 90°. b. velocity and acceleration is π
+2 radianor 90°.
 
-2 radian
+ b. velocity and acceleration is π/2 radian
 
 or 90°.
 
-| φ (ti) A |+APhase at instant t : φ (t ) = ω t + φi i i  A i sin φi |
-|------|------|------|------|
   
-
 c. displacement and acceleration is π radian or 180°.
 
 **_Solution_**
@@ -1008,33 +442,24 @@ _y_ = _A_ sinω_t_
 
 Velocity of the particle is
 
-_v A t A t_\= = + 
+$$v = A(\theta) \cos(\omega t) = -A(\theta) \sin(\omega t + \frac{\pi}{2})
+$$
 
- 
+The phase difference between 
+displacement and velocity is π/2 . 
 
-
-
- ω ω ω ω πcos sin
-
-2
-
-The phase difference between displacement and velocity is π
-
-2 .
+The phase difference between displacement and velocity is π/2 .
 
 b. The velocity of the particle is
 
-_v_ \= _A_ ω cos ω_t_
+$$v = A \omega \cos(\omega t)$$
 
 Acceleration of the particle is
 
-_a A t A_\=− = + 
+$$a = -A \omega^{2} \sin(\omega t) = A \omega^{2} \cos\left(\omega t + \frac{\pi}{2}\right)
+$$
 
- 
 
-
-
- ω ω ω ω π2 2
 
 2 sin cos t
 
@@ -1046,7 +471,8 @@ c. The displacement of the particle is _y_ = _A_ sinω_t_
 
 Acceleration of the particle is
 
-_a_ = − _A_ ω2 sin ω_t_ = A ω2 sin(ω_t_ \+ π)
+$$a = -A \omega^{2} \sin(\alpha) = A \omega^{2} \sin(\alpha + \pi)
+$$
 
 The phase difference between displacement and acceleration is π radian.
 
@@ -1056,373 +482,171 @@ When a body is allowed to rotate freely about a given axis then the oscillation 
 
 at which the resultant torque acting on the body is taken to be zero is called mean position. If the body is displaced from the mean position, then the resultant torque acts such that it is proportional to the angular displacement and this torque has a tendency to bring the body towards the mean position. (Note: Torque is explained in unit 5) Let
 
-
+
 
 θ be the angular displacement of the body and the resultant torque τ acting on the body is
 
-τ θ  
+$$\bar{\tau} \propto \bar{\theta} \quad \text{(10.15)}
+(10.15)$$
 
-µ (10.15)
-
-τ κθ  
-
-\=− (10.16)
+$$(\bar{\tau} = -k \dot{\theta} \quad \text)(10.16)$$
 
 κ is the restoring torsion constant, which is torque per unit angular displacement. If _I_ is the moment of inertia of the body and α is the angular acceleration then
 
-τ α κθ    = =−_I_
+$$\tau = I \alpha = k \theta
+$$
 
-**Support**
-
-**Fiber**
-
-**\-θ max**
-
-**+θ max**
-
-**0**
-
-**Figure 10.12 A body (disc) allowed to rotate freely about an axis**
-But α θ  =
-
-_d dt_
-
-2
-
-2 and therefore,
-
-_d dt I_
-
-2
-
-2
-
-θ κ θ 
-
-
-
-\=− (10.17)
+$$\frac{d^2\theta}{dt^2} = -\frac{K}{I}\theta \quad (10.17)
+$$
 
 This differential equation resembles simple harmonic differential equation. So, comparing equation (10.17) with simple harmonic motion given in equation (10.10), we have
 
-ω κ = −
-
-_I rad s_ 1 (10.18)
+$$\theta = \sqrt{\frac{K}{I}} \ \text{rads}^{-1}
+(10.18)$$
 
 The frequency of the angular harmonic motion (from equation 10.13) is
 
-_f I_
-
-_Hz_\= 1
-
-2π κ (10.19)
+$$f = \frac{1}{2\pi} \sqrt{\frac{k}{m}} \quad \text{Hz}
+(10.19)$$
 
 The time period (from equation 10.12) is
 
 _T I_ \=2π
 
-κ second (10.20)
+$$T = 2\pi \sqrt{\frac{I}{k}} \ \text{second}
+(10.20)$$
 
-**Table 10.2** Comparision of simple harmon
-
-**S.No Simple Harmonic Motion**
-
-1\. The displacement of the particle measured in terms of linear displacemen _r_ 
-
-.
-
-2\. Acceleration of the particle is _a r_  
-
-\=−ω2
-
-3\. Force, _F m a_   = , where _m_ is called ma
-
-of the particle.
-
-4\. The restoring force F _kr_   =− , where _k_
-
-restoring force constant.
-
-5\. Angular frequency, ω= _k m_
-
-rad s-1  
-
-## Comparison of Simple Harmonic Motion and Angular Simple Harmonic Motion
-In linear simple harmonic motion, the displacement of the particle is measured in terms of linear displacement _r_
-
-
-
-The restoring force is _F kr_
-
-  =− , where _k_ is a
-
-spring constant or force constant which is force per unit displacement. In this case, the inertia factor is mass of the body executing simple harmonic motion. In angular simple harmonic motion, the displacement of the particle is measured in terms of angular displacement
-
-
-
-θ . Here, the spring factor stands for torque constant i.e., the moment of the couple to produce unit angular displacement or the restoring torque per unit angular displacement. In this case, the inertia factor stands for moment of inertia of the body executing angular simple harmonic oscillation.
-
-ic motion and angular harmonic motion
-
-**Angular Harmonic Motion**
-
-is t
-
-The displacement of the particle is measured in terms of angular displacement
-
-
-
-θ (also known as angle of twist).
-
-Angular acceleration of the particle is α ω θ   =− 2 .
-
-ss Torque, τ α   =_I_ , where _I_ is called moment
-
-of inertia of a body.
-
-is The restoring torque τ κθ  
-
-\=− , where the symbol κ (Greek alphabet is pronounced as ‘_kappa’_) is called restoring torsion constant. It depends on the property of a particular torsion fiber.
-
-Angular frequency, ω κ =
-
-_I_ rad s-1
 # LINEAR SIMPLE HARMONIC OSCILLATOR (LHO)
 ## Horizontal oscillations of a spring-mass system
-**Figure 10.13** Horizontal oscillation of a spring-mass system
+**image 10.13** Horizontal oscillation of a spring-mass system
 
-_y_
 
-_0 x_
-
-_k m_
-
-_x_o
-
-_y_
-
-_0 x_
-
-_k_
-
-_x_o
-
-_m_
-
-_y_
-
-_0 x_
-
-_k_
-
-_x_o
-
-_m_
-
-Consider a system containing a block of mass _m_ attached to a massless spring with stiffness constant or force constant or spring constant _k_ placed on a smooth horizontal surface (frictionless surface) as shown in Figure 10.13. Let _x_0 be the equilibrium position or mean position of mass m when it is left undisturbed. Suppose the mass is displaced through a small displacement _x_ towards right from its equilibrium position and then released, it will oscillate back and forth about its mean position _x_0\. Let _F_ be the restoring force (due to stretching of the spring) which is proportional to the amount of displacement of block. For  
+Consider a system containing a block of mass _m_ attached to a massless spring with stiffness constant or force constant or spring constant _k_ placed on a smooth horizontal surface (frictionless surface) as shown in image 10.13. Let _x_0 be the equilibrium position or mean position of mass m when it is left undisturbed. Suppose the mass is displaced through a small displacement _x_ towards right from its equilibrium position and then released, it will oscillate back and forth about its mean position _x_0\. Let _F_ be the restoring force (due to stretching of the spring) which is proportional to the amount of displacement of block. For  
 
 one dimensional motion, mathematically, we have
 
-F ∝ _x_ F = − _k x_
+$$F \propto x \\F = -kx$$
+
 
 where negative sign implies that the restoring force will always act opposite to the direction of the displacement. This equation is called Hooke’s law (refer to unit 7). Notice that, the restoring force is linear with the displacement (i.e., the exponent of force and displacement are unity). This is not always true; in case if we apply a very large stretching force, then the amplitude of oscillations becomes very large (which means, force is proportional to displacement containing higher powers of x) and therefore, the oscillation of the system is not linear and hence, it is called non-linear oscillation. We restrict ourselves only to linear oscillations throughout our discussions, which means Hooke’s law is valid (force and displacement have a linear relationship). From Newton’s second law, we can write the equation for the particle executing simple harmonic motion
 
-_m d x dt_
+$$m \frac{d^2 x}{dt^2} = -kx$$
 
-_k x_ 2
-
-2 =−
-
-_d x dt_
-
-_k m_
-
-_x_ 2
-
-2 =− (10.21)
+$$\frac{d^2 x}{dt^2} = -\frac{k}{m}x \quad (10.21)(10.21)$$
 
 Comparing the equation (10.21) with simple harmonic motion equation (10.10), we get
 
-ω2 = _k m_
+$$\dot{\Theta} = \frac{k}{m}$$
 
 which means the angular frequency or natural frequency of the oscillator is
 
-ω= _k m_
+$$\omega = \sqrt{\frac{k}{m}} \ \text{rad s}^{-1}
+$$
 
 rad _s_−1 (10.22)
 The frequency of the oscillation is
 
-_f k m_
-
-\= = ω π π2
-
-1 2
-
-Hertz (10.23)
 
 and the time period of the oscillation is
 
-_T f_
+$$f = \frac{\omega}{2\pi} = \frac{1}{2\pi} \sqrt{\frac{k}{m}} \quad \text{Hertz}
+$$
 
-_m k_
+$$T = \frac{1}{f} = 2\pi \sqrt{\frac{m}{k}} \text{ seconds}(10.24)
+$$
 
-\= = 1 2π seconds (10.24)
 
 Notice that **_in simple harmonic motion, the time period of oscillation is independent of amplitude. This is valid only if the amplitude_** of oscillation is small. The solution of the differential equation of a SHM may be written as
 
-_x_(_t_) = _A_ sin(ω_t_ +φ) (10.25)
+$$x(t) = A \cos(\omega t + \phi)
+(10.25)$$
 
 Or
 
-_x_(_t_) = _A_ cos(ω_t_ +φ) (10.26)
+$$x(t) = A \cos(\omega t + \phi)
+(10.26)$$
 
 where _A_, ω and ϕ are constants. General solution for differential equation 10.21 is _x_(_t_) = _A_ sin(ω_t_ +φ)+ _B_ cos(ω_t_ +φ) where A and B are contants.
 
+
 (a) Since, mass is inertial property and spring constant is an elastic property,
 
-Time period is Τ=2π _m k_
+$$\text{Time period is, } T = 2\pi \sqrt{\frac{\text{Inertial property}}{\text{Elastic property}}} = 2\pi \sqrt{\frac{m}{k}}$$
+
+**Note** 
 
 Τ= =2 2π π _Inertial property Elasticproperty_
 
 _displacement acceleration_
 
 (b) _Displacement acceleration_
+$$ \quad & \frac{\text{Displacement}}{\text{acceleration}} = \frac{x}{\frac{d^2x}{dt^2}} = \frac{m}{k}$$
+& \text{modulus value or magnitude is } \left| \frac{m}{k} \right| \\
+& \text{hence, time period } T = 2\pi\sqrt{\left|\frac{m}{k}\right|}
+\end{align*}$$
 
-_x d x dt_
+Let us consider a massless spring with stiffness constant or force constant k attached to a ceiling as shown in image 10.15. Let the length of the spring before loading mass _m_ be _L_. If the block of mass _m_ is attached to the other end of spring, then the spring elongates by a length _l_. Let F1 be the restoring force due to stretching of spring. Due to mass _m_, the gravitational force acts vertically downward. We can draw free-body diagram for this system as shown in image 10.15. When the system is under equilibrium,
 
-_m k_
-
-\= =−2
-
-2
-
-, whose
-
-modulus value or magnitude is _m k_
-
-hence, time period Τ=2π _m k_
-
-**Note**  
-
-## Vertical oscillations of a spring
-**Figure 10.14** Springs
-
-**Figure 10.15** A massless spring with stiffness constant k
-
-L L
-
-F1=–_kl_
-
-m
-
-Fg=_mgl_
-
-L + _l_
-
-y y=0
-
-m
-
-m
-
-Let us consider a massless spring with stiffness constant or force constant k attached to a ceiling as shown in Figure 10.15. Let the length of the spring before loading mass _m_ be _L_. If the block of mass _m_ is attached to the other end of spring, then the spring elongates by a length _l_. Let F1 be the restoring force due to stretching of spring. Due to mass _m_, the gravitational force acts vertically downward. We can draw free-body diagram for this system as shown in Figure 10.15. When the system is under equilibrium,
-
-F1 + mg = 0 (10.27)
+$$F_1 - mg = 0 \quad (10.27)$$
 
 But the spring elongates by small displacement _l_, therefore,
 
-| l |
-|------|------|------|------|
-| m |y |
-  
 
-F1 ∝ _l_ ⇒ F1 = − _k l_ (10.28)
+  $$F_c \propto l \Rightarrow F_c = -kl \quad (10.28)$$
 
 Substituting equation (10.28) in equation (10.27), we get
 
-– _k l_ + _mg_ = 0 mg = kl
+$$-k l + mg = 0 \tag{10.27}$$
 
 or
 
-_m k_
-
-_l g_
-
-\= (10.29)
+$$\frac{m}{k} = \frac{l}{g} \tag(10.29)$$
 
 Suppose we apply a very small external force on the mass such that the mass further displaces downward by a displacement _y_, then it will oscillate up and down. Now, the restoring force due to this stretching of spring (total extension of spring is _y_ + _l_ ) is
 
-F2 ∝ (_y_ + _l_) F2 = − _k_ (_y_ + _l_) = −_ky_−_kl_ (10.30)
+$$F_2 = -k(y + D) = -ky - kD \quad (10.30)
+(10.30)$$
 
-Since, the mass moves up and down with acceleration _d y_
-
-_dt_
-
+Since, the mass moves up and down with 
+acceleration d y
+dt
 2
+2 , by drawing the free body 
+diagram for this case, we get
 
-2 , by drawing the free body diagram for this case, we get
-
-− − + =_ky kl mg m d y dt_
-
-2
-
-2 (10.31)
+$$-kv - kt + mg = m \frac{d^2 y}{dt^2} \quad (10.31)$$
 
 The net force acting on the mass due to this stretching is
 
-_F_ = F2 +_mg_ _F_ _\=_ − _ky_−_kl_ +_mg_ (10.32)
+$$ ( F = F_2 + mg ) ( F = -ky - k_1 y + mg ) \quad (10.32)$$
 
 The gravitational force opposes the restoring force. Substituting equation (10.29) in equation (10.32), we get
 
-_F_ \= −_ky_ − _kl_ \+ _kl_ \= −_ky_
+ F = -ky - k_1 y + mg
 
 Applying Newton’s law, we get
 
-_m d y dt_
+$$[ m \frac{d^2 y}{dt^2} = -ky ]$$
 
-_k y_ 2
-
-2 =−
-
-_d y dt_
-
-_k m_
-
-_y_ 2
-
-2 =− (10.33)
+$$[ \frac{d^2 y}{dt^2} = -\frac{k}{m}y \quad (10.33) ]$$
 
 The above equation is in the form of simple harmonic differential equation. Therefore, we get the time period as  
 
 _T m k_
 
-\= 2π second (10.34)
-
-The time period obtained for horizontal oscillations of spring and for vertical
-
-oscillations of spring are found to be equal.
+$$ [T = 2\pi \sqrt{\frac{m}{k}} \text{ second} ]$$
 
 **Note**
 
+The time period obtained for horizontal oscillations of spring and for verticaloscillations of spring are found to be equal.
+
+
 The time period can be rewritten using equation (10.29)
 
-_T m k_
-
-_l g_
-
-\= =2 2π π second (10.35)
+$$ [ T = 2\pi \sqrt{\frac{m}{k}} = 2\pi \sqrt{\frac{l}{g}} \quad \text{(10.35)} ]$$
 
 The acceleration due to gravity g can be computed from the formula
-
-_g l T_
-
-\= 
-
-  
-
- 4 2
-
-2π m s−2 (10.36)
+$$ [ g = 4\pi^2 \left( \frac{l}{T^2} \right) , \text{m} , \text{s}^{-2} \quad \text{(10.36)} ]$$
 
 **EXAMPLE 10.8**
 
@@ -1432,37 +656,21 @@ A spring balance has a scale which ranges from 0 to 25 kg and the length of the 
 
 Let us first calculate the stiffness constant of the spring balance by using equation (10.29),
 
-_k mg l_
-
-_N m_\= = ×
-
-\= −25 11 5 0 25
-
-1150 1. .
+$$ [ k = \frac{mg}{l} = \frac{25 \times 11.5}{0.25} = 1150 , \text{N/m}^{-1} ]$$
 
 The time period of oscillations is given by
 
-Τ=2π _M k_
+$$[ T = 2\pi \sqrt{\frac{M}{k}} ]$$
 
 , where _M_ is the mass of the
 
 body. Since, _M_ is unknown, rearranging, we get
-_M kT kg_\= = = 2
-
-2
-
-2
-
-24 1150 0 5
-
-4 7 3
-
-π π ( )( . ) .
+$$[ M = \frac{kT2}{4\pi2} = \frac{(1150)(0.5)2}{4\pi2} = 7.3 , \text{kg} ]$$
 
 The gravitational force acting on the body is _W_ = _Mg_ \= 7.3 × 11.5 = 83.95 _N_ ≈ 84 _N_
 
 ## Combinations of springs
-**Figure 10.16** Combination of spring as a shock-absorber in the motor cycle
+**image 10.16** Combination of spring as a shock-absorber in the motor cycle
 
 Spring constant or force constant, also called as stiffness constant, is a measure of the stiffness of the spring.
 
@@ -1470,316 +678,120 @@ Larger the value of the spring constant, stiffer is the spring. This implies tha
 
 Springs can be connected in two ways. Either the springs can be connected end to end, also known as series connection, or alternatively, connected in parallel. In the following subsection, we compute the effective spring constant when
 
-a. Springs are connected in series b. Springs are connected in parallel
+a. Springs are connected in series 
 
-a. **Springs connected in series** When two or more springs are connected in series, we can replace (by  
+b. Springs are connected in parallel
 
-removing) all the springs in series with an equivalent spring (effective spring) whose net effect is the same as if all the springs are in series connection. Given the value of individual spring constants _k_1, _k_2, _k_3,... (known quantity), we can establish a mathematical relationship to find out an effective (or equivalent) spring constant _ks_ (unknown quantity). For simplicity, let us consider only two springs whose spring constant are _k_1 and _k_2 and which can be attached to a mass m as shown in Figure 10.17. The results thus obtained can be generalized for any number of springs in series.
+a. ***Springs connected in series*** When two or more springs are connected in series, we can replace (by  
 
-**Figure 10.17** Springs are connected in series
+removing) all the springs in series with an equivalent spring (effective spring) whose net effect is the same as if all the springs are in series connection. Given the value of individual spring constants _k_1, _k_2, _k_3,... (known quantity), we can establish a mathematical relationship to find out an effective (or equivalent) spring constant _ks_ (unknown quantity). For simplicity, let us consider only two springs whose spring constant are _k_1 and _k_2 and which can be attached to a mass m as shown in image 10.17. The results thus obtained can be generalized for any number of springs in series.
 
-_y_
 
-_0 x_
+Let _F_ be the applied force towards right as shown in image 10.18. Since the spring constants for different spring are different and the connection points between them is not rigidly fixed, the strings can stretch in different lengths. Let x1 and x2 be the elongation of springs from their equilibrium position (un-stretched position) due to the applied force F. Then, the net displacement of the mass point is
 
-_k1 k2 m_
-
-_x_o
-
-Let _F_ be the applied force towards right as shown in Figure 10.18. Since the spring constants for different spring are different and the connection points between them is not rigidly fixed, the strings can stretch in different lengths. Let x1 and x2 be the elongation of springs from their equilibrium position (un-stretched position) due to the applied force F. Then, the net displacement of the mass point is
-
-_x_ \= _x_1 + _x_2 (10.37)
+$$[ x = x_1 + x_2 \quad \text{(10.37)} ]$$
 
 From Hooke’s law, the net force
-_F_ \= − _ks_ (_x_1 + _x_2) ⇒ _x_1 + _x_2 =− _F ks_
 
-(10.38)
+$$ [ F = -k_s (x_1 + x_2) \Rightarrow x_1 + x_2 = -\frac{F}{k_s} \quad \text{(10.38)} ]
+
+$$
 
 For springs in series connection −_k_1_x_1 = −_k_2_x_2 = _F_
 
-⇒ =−_x F k_1
-
-1
-
-and _x F k_2
-
-2
-
-\=− (10.39)
+⇒  $$ [ x_1 = -\frac{F}{k_1} \quad \text{and} \quad x_2 = -\frac{F}{k_2} \quad \text{(10.39)} ]$$
 
 Therefore, substituting equation (10.39) in equation (10.38), the effective spring constant can be calculated as
 
-− − =− _F k_
+$$[ \frac{F}{k_1} = \frac{F}{k_2} = \frac{F}{k_3} ]$$
 
-_F k_
+$$[ \frac{1}{k_s} = \frac{1}{k_1} + \frac{1}{k_2} ]$$
 
-_F ks_1 2
+or
 
-1 1 1
+$$ [ k_s = \frac{k_1 k_2}{k_1 + k_2} \quad \text{Nm}^{-1} \quad \text{(10.40)} ] $$
 
-1 2_k k ks_
-
-\= +
-
-Or
-
-_k k k_
-
-_k ks_\= + 1 2
-
-1 2
-
-Nm−1 (10.40)
 
 Suppose we have “_n”_ springs connected in series, the effective spring constant in series is
 
-1 1 1 1 1 1
-
-1 2 3 1_k k k k k ks n ii_
-
-_n_
-
-\= + + + + = = ∑... (10.41)
+$$[ \frac{1}{k} + \frac{1}{k_1} + \frac{1}{k_2} + \ldots + \frac{1}{k_n} = \frac{1}{k} \sum_{j=1}^{n} \frac{1}{k_j} \quad \text{(10.41)} ]$$
 
 If all spring constants are identical i.e., _k_1 = _k_2 =... = _k_n = _k_ then
 
-1 _k_
+$$[ k_2 = \ldots = k_n = k \text{ then} ]$$
 
-_n k_
+$$[ \frac{1}{k} = \frac{n}{k} \implies k = \frac{n}{1} \quad \text{(10.42)} ]$$
 
-_k k ns_
+This means that the effective spring constant reduces by the factor “_n”_. Hence, for springs in series connection, the effective spring constant is lesser than the individual spring constants. From equation (10.39), we have,
 
-_s_\= ⇒ = (10.42)
-
-This means that the effective spring constant reduces by the factor “_n”_. Hence, for springs
-
-**Figure 10.18 Effective spring constant in seri**
-
-_y_
-
-_0 x_
-
-_Ek1 k2_
-
-_F →_
-
-_x_o
-
-_m_  
-
-in series connection, the effective spring constant is lesser than the individual spring constants. From equation (10.39), we have,
-
-_k_1_x_1 = _k_2_x_2
+$$[ k_1 x_1 = k_2 x_2 ]$$
 
 Then the ratio of compressed distance or elongated distance _x_1 and _x_2 is
 
-_x x_
-
-_k k_
-
-2
-
-1
-
-1
-
-2
-
-\= (10.43)
-
-The elastic potential energy stored in first and second springs are _U k x_1 1 1
+$$[ \frac{x_2}{x_1} = \frac{k_1}{k_2} \quad \text{(10.43)} ]$$
+The elastic potential energy stored in first and second springs are $$[ U_1 = \frac{1}{2} k_1 x_1^2 ]$$
 
 21 2
 
 \= and
 
-_U k x_2 2 2 21
+$$[ U_1 = \frac{1}{2} k_1 x_1^2 ]$$
 
-2 = respectively. Then, their ratio is
+$$[ U_2 = \frac{1}{2} k_2 x_2^2 ]$$
 
-_U U_
+$$respectively. Then, their ratio is
 
-_k x_
-
-_k x_
-
-_k k_
-
-_x x_
-
-_k k_
-
-1
-
-2
-
-1 1 2
-
-2 2 2
-
-1
-
-2
-
-1
-
-2
-
-2
-
-2
-
-1
-
-1 2 1 2
-
-\= = 
-
- 
-
-
-
-  = (10.44)
-
-The reciprocal of stiffness constant is called flexibility constant or compliance,
-
-denoted by C. It is measured in m N-1
-
-If n springs are connected in series :
-
-net compliance _C Cs i i_
-
-_n_
-
-\= = ∑
-
-1
-
-If n springs are connected in parallel : 1 1
-
-1_C Cp ii_
-
-_n_
-
-\= = ∑
+$$[ \frac{U_1}{U_2} = \frac{\frac{1}{2}k_1x_12}{\frac{1}{2}k_2x_22} = \left(\frac{k_1}{k_2}\right)^2 \left(\frac{x_1}{x_2}\right)^2 = \left(\frac{k_1x_1}{k_2x_2}\right)^2 \quad \text{(10.44)} ]$$ = (10.44)
 
 **Note**
 
-es connection
+The reciprocal of stiffness constant is called flexibility constant or compliance,
 
-_quivalent to_
+denoted by C. It is measured in m N^-1
 
-_y_
+If n springs are connected in series :
 
-_0 x_
+net compliance = $$[ e C_s = \sum_{i=1}^{n} C_i ]$$
 
-_ks m_
 
-_x_o
 
-_F →_
+If n springs are connected in parallel : $$[ \frac{1}{C_p} = \sum_{i=1}^{n} \frac{1}{C_i} ]$$
+
+
 **EXAMPLE 10.9**
 
 Consider two springs whose force constants are 1 N m−1 and 2 N m−1 which are connected in series. Calculate the effective spring constant (_ks_ ) and comment on _ks_ .
 
 **_Solution_**
-
-_k1_ = 1 N m−1, _k2_ = 2 N m−1
-
-_k k k_
-
-_k ks_\= + 1 2
-
-1 2
-
-N m−1
-
-_ks_\= × + =
-
-1 2 1 2
-
-2 3
-
-N m−1
-
-_ks_ < _k_1 and _ks_ < _k_2
+$$[ \frac{1}{C_p} = \sum_{i=1}^{n} \frac{1}{C_i} ]$$
 
 Therefore, the effective spring constant is lesser than both _k_1 and _k_2.
 
-b. **Springs connected in parallel** When two or more springs are connected in parallel, we can replace (by removing) all these springs with an equivalent spring (effective spring) whose net effect is same as if all the springs are in parallel connection. Given the values of individual spring constants to be _k_1,_k_2,_k_3, ... (known quantities), we can establish a mathematical relationship to find out an effective (or equivalent) spring constant _k_p (unknown quantity). For simplicity, let us consider only two springs of spring constants _k_1and _k_2 attached to a mass _m_ as shown in Figure 10.19. The results can be generalized to any number of springs in parallel.
+b. **Springs connected in parallel** When two or more springs are connected in parallel, we can replace (by removing) all these springs with an equivalent spring (effective spring) whose net effect is same as if all the springs are in parallel connection. Given the values of individual spring constants to be _k_1,_k_2,_k_3, ... (known quantities), we can establish a mathematical relationship to find out an effective (or equivalent) spring constant _k_p (unknown quantity). For simplicity, let us consider only two springs of spring constants _k_1and _k_2 attached to a mass _m_ as shown in image 10.19. The results can be generalized to any number of springs in parallel.
 
-**Figure 10.20 Effective spring constant in par**
 
-_y_
+Let the force _F_ be applied towards right as shown in image 10.20. In this case, both the springs elongate or compress by the same amount of displacement. Therefore, net force for the displacement of mass _m_ is
 
-_0 x_
-
-_k2_
-
-_k1_
-
-_m_
-
-_x_o
-
-_F →_
-
-_Equiv to_  
-
-**Figure 10.19** Springs connected in parallel
-
-_y_
-
-_0 x_
-
-_k2_
-
-_k1_
-
-_m_
-
-_x_o
-
-Let the force _F_ be applied towards right as shown in Figure 10.20. In this case, both the springs elongate or compress by the same amount of displacement. Therefore, net force for the displacement of mass _m_ is
-
-_F_ = −_k_p_x_ (10.45)
+$$[ F = -kx \quad \text{(10.45)} ]$$
 
 where kp is called effective spring constant. Let the first spring be elongated by a displacement _x_ due to force _F_1 and second spring be elongated by the same displacement _x_ due to force _F_2, then the net force
 
-_F_ = − _k_1_x_ – _k_2_x_ (10.46)
+$$[ F = -kx - k’x’ ]$$(10.46)
 
 Equating equations (10.46) and (10.45), we get
 
-_k_p = _k_1 + _k_2 (10.47)
+$$[ F = -kx - k’x’ ]$$(10.47)
 
 Generalizing, for n springs connected in parallel,
 
-_k kp i i_
 
-_n_
+$$[ F = -kx - k’x’ ]$$(10.48)
 
-\= = ∑
+a
 
-1
-
-(10.48)
-
-allel connection
-
-_y_
-
-_0 x_
-
-_kp m_
-
-_x_o
-
-_F →_
-
-_alent_
 If all spring constants are identical i.e., _k_1 = _k_2= ... = _kn_ = _k_ then
 
-_kp_ = _n_ _k_ (10.49)
+$$k_1 = k_2 = \ldots = k_n = k \text{ then } \frac{k}{p} = n$$ (10.49)
 
 This implies that the effective spring constant increases by a factor _n_. Hence, for the springs in parallel connection, the effective spring constant is greater than individual spring constant.
 
@@ -1795,7 +807,7 @@ _k k n_1
 
 second length is _k_2 = (_n_+1) _k_, where _k_ is the original spring constant before cutting into pieces.
 
-**Note**
+
 
 **EXAMPLE 10.10**
 
@@ -1803,13 +815,15 @@ Consider two springs with force constants 1 N m−1 and 2 N m−1 connected in p
 
 **_Solution_**
 
-_k1_ = 1 N m−1, _k2_ = 2 N m−1
+$$k_1 = 1\, \text{Nm}^{-1},\quad k_2 = 2\, \text{Nm}^{-1}$$
 
-_kp_ = _k_1 + _k_2 N m−1
+$$k_p = k_1 + k_2,\, \text{Nm}^{-1}$$
 
-_kp_ = 1 + 2 = 3 N m−1
+$$k_p = 1 + 2 = 3\, \text{Nm}^{-1}$$
 
-_kp_ > _k_1 and _kp_ > _k_2
+$$k_p > k_1\quad \text{and}\quad k_p > k_2$$
+
+
 
 Therefore, the effective spring constant is greater than both _k_1 and _k_2.  
 
@@ -1819,33 +833,17 @@ Calculate the equivalent spring constant for the following systems and also comp
 
 (a) (b)
 
-**_k1_**
-
-**_k1_**
-
-**_k2_**
-
-**_k2_**
-
-**_k4 k5_**
-
-**_k6_**
-
-**_k4k3_**
-
-**_k3m_**
-
-**_m_**
-
 **_Solution_**
 
-a. Since _k_1 and _k_2 are parallel, _k_u = _k_1 + _k_2
+a. Since _k_1 and _k_2 are parallel, $$k = k_1 + k_2
+$$
 
 Similarly, _k_3 and _k_4 are parallel, therefore, _k_d = _k_3 + _k_4
 
 But _k_u and _k_d are in series,
 
-therefore, _k k k_
+therefore, $$k_{eq} = \frac{k_u}{k_d} / (k_u + k_d)
+$$
 
 _k keq u d_
 
@@ -1888,6 +886,7 @@ which means, _k_A = 2_k_ and _k_B = 2_k_
 \= + + + =
 
 _k k eq_ \= 3
+
 **EXAMPLE 10.12**
 
 A mass _m_ moves with a speed _v_ on a horizontal smooth surface and collides with a nearly massless spring whose spring constant is k. If the mass stops after collision, compute the maximum compression of the spring.
@@ -1896,54 +895,13 @@ A mass _m_ moves with a speed _v_ on a horizontal smooth surface and collides wi
 
 When the mass collides with the spring, from the law of conservation of energy “the loss in kinetic energy of mass is gain in elastic potential energy by spring”. Let _x_ be the distance of compression of spring, then the law of conservation of energy
 
-1 2
+$$[ \frac{1}{2}mv^2 = \frac{1}{2}kx^2 \Rightarrow x = \sqrt{\frac{m}{k}} ]$$
 
-1 2
+A pendulum is a mechanical system which exhibits periodic motion. It has a bob with mass m suspended by a long string (assumed to be massless and inextensible string) and the other end is fixed on a stand as shown in image 10.21 (a). At equilibrium, the pendulum does not oscillate and hangs vertically downward. Such a position is known as mean position or equilibrium position. When a pendulum is displaced through a small displacement from its equilibrium position and released, the bob of the pendulum executes to and fro motion. Let _l_ be the length of the pendulum which is taken as the distance between the point of suspension and the centre of gravity of the bob. Two forces act on the bob of the pendulum at any displaced position, as shown in the image 10.21 (d),
 
-2 2_m v k x x v m k_
+(i) The gravitational force acting on the body (
 
-\= ⇒ =
-
-## Oscillations of a simple pendulum in SHM and laws of simple pendulum
-**Simple pendulum**
-
-o
-
-_l_
-
-Eq ui
-
-lib riu
-
-m
-
-(a) (b)
-
-(c) o
-
-T
-
-_l_
-
-(d)
-
-_m mg_sin 
-
-_mg_
-
-_mg_cos 
-
-
-
-
-
-**Figure 10.21** Simple pendulum  
-
-A pendulum is a mechanical system which exhibits periodic motion. It has a bob with mass m suspended by a long string (assumed to be massless and inextensible string) and the other end is fixed on a stand as shown in Figure 10.21 (a). At equilibrium, the pendulum does not oscillate and hangs vertically downward. Such a position is known as mean position or equilibrium position. When a pendulum is displaced through a small displacement from its equilibrium position and released, the bob of the pendulum executes to and fro motion. Let _l_ be the length of the pendulum which is taken as the distance between the point of suspension and the centre of gravity of the bob. Two forces act on the bob of the pendulum at any displaced position, as shown in the Figure 10.21 (d),
-
-(i) The gravitational force acting on the body ( _F m g_
-
-  = ) which acts vertically
+) which acts vertically
 
 downwards.
 
@@ -1959,20 +917,12 @@ b. Tangential component: The component perpendicular to the string i.e., along t
 
 Therefore, The normal component of the force is, along the string,
 
-_T F m v las_− = 2
+$$T - F_{\text{ds}} = \frac{m v^2}{l} \\
+\text{Here } v \text{ is speed of bob} \\
+T - mg \cos(\theta) = \frac{m v^2}{l} \quad (10.50)
+$$
 
-Here _v_ is speed of bob
 
-_T mg m v l_
-
-− =cosθ 2
-
-(10.50)
-
-| l |
-|------|------|
-| T |
-  
 
 From Newton’s 2nd law, 
 
@@ -1980,7 +930,7 @@ From Newton’s 2nd law, 
 
 In R.H.S, m _a_ is equivalent to the
 
-centripetal force = _mv l_
+centripetal force = _mv^2/l_
 
 2
 
@@ -1988,97 +938,46 @@ which makes the bob oscillate.
 
 **Note**
 
-From the Figure 10.21, we can observe that the tangential component _Wps_ of the gravitational force always points towards the equilibrium position i.e., the direction in which it always points opposite to the direction of displacement of the bob from the mean position. Hence, in this case, the tangential force is nothing but the restoring force. Applying Newton’s second law along tangential direction, we have
+From the image 10.21, we can observe that the tangential component _Wps_ of the gravitational force always points towards the equilibrium position i.e., the direction in which it always points opposite to the direction of displacement of the bob from the mean position. Hence, in this case, the tangential force is nothing but the restoring force. Applying Newton’s second law along tangential direction, we have
 
-_m d s dt_
+$$m \frac{d^2s}{dt^2} + F_{ps} = 0 \Rightarrow m \frac{d^2s}{dt^2} = - F_{ps} \\$$
 
-_F m d s dt_
-
-_Fps ps_
-
-2
-
-2
-
-2
-
-20+ = ⇒ =−
-
-_m d s dt_
-
-_mg_ 2
-
-2 =− sinθ (10.51)
+$$m \frac{d^2s}{dt^2} = - mg\sin(\theta) \quad (10.51)
+$$
 
 where, _s_ is the position of bob which is measured along the arc. Expressing arc length in terms of angular displacement i.e., _s_ = _l_ θ (10.52) then its acceleration,
 
-_d s dt_
+$$s = r\theta \quad (10.52) \\
 
-_l d dt_
-
-2
-
-2
-
-2
-
-2= θ (10.53)
+\frac{d^2s}{dt^2} = r\frac{d^2\theta}{dt^2} \quad (10.53)
+$$
 
 Substituting equation (10.53) in equation (10.51), we get
 
-_l d dt_
+$$\frac{d^2\theta}{dt^2} = -\frac{g}{l} \sin\theta \quad (10.53) \\
 
-_g_ 2
-
-2
-
-θ θ=− sin
-
-_d dt_
-
-_g l_
-
-2
-
-2
-
-θ θ=− sin (10.54)
+\frac{d^2\theta}{dt^2} = -\frac{g}{l} \sin\theta \quad (10.54)
+$$
 
 Because of the presence of sin _θ_ in the above differential equation, it is a non-linear differential equation (Here, homogeneous second order). Assume “the small oscillation approximation”, sin _θ_ ≈ _θ_, the above differential equation becomes linear differential equation.  
 
-_d dt_
-
-_g l_
-
-2
-
-2
-
-θ θ=− (10.55)
-
+$$\frac{d^2\theta}{dt^2} = -\frac{g}{l}\theta \quad (10.55)
+$$
 This is the well known oscillatory differential equation. Therefore, the angular frequency of this oscillator (natural frequency of this system) is
 
-ω2 = _g l_
+$$\omega^2 = \frac{g}{l} \quad (10.56) \\
 
-(10.56)
-
-⇒ ω = _g l_
-
-rad _s_−1 (10.57)
-
+\omega = \sqrt{\frac{g}{l}} \text{ rad s}^{-1} \quad (10.57)
+$$
 The frequency of oscillations is
 
-_f g l_
-
-\= 1
-
-2π Hz (10.58)
+$$f = \frac{1}{2\pi} \sqrt{\frac{g}{l}} \quad \text{Hz} \quad (10.58)
+$$
 
 and time period of oscillations is
 
-_T l g_
-
-\= 2π second (10.59)
+$$T = 2\pi \sqrt{\frac{l}{g}} \text{ second} \quad (10.59)
+$$
 
 **Laws of simple pendulum** The time period of a simple pendulum **a. Depends on the following laws**
 
@@ -2094,7 +993,8 @@ of a simple pendulum is inversely proportional to square root of acceleration du
 
 _T g_
 
-µ 1 (10.61)
+$$T \propto \frac{1}{\sqrt{g}} \quad (10.61)
+$$
 
 **b. Independent of the following factors (i) Mass of the bob**
 
@@ -2113,35 +1013,8 @@ approximation (angular displacement is very small), the time period is independe
 
 In simple pendulum experiment, we have used small angle approximation . Discuss the small angle approximation.
 
-**θ ( in degrees) θ( in radian) sin θ**
 
-0 0 0 5 0.087 0.087
-
-10 0.174 0.174 15 0.262 0.256 20 0.349 0.342 25 0.436 0.422 30 0.524 0.500 35 0.611 0.574 40 0.698 0.643 45 0.785 0.707
-
-For _θ_ in radian, sin _θ_ ≈ _θ_ for very small angles
-
-_18_ π
-
-_4_ π
-
-_2_ π
-
-_2_
-
-_y =_
-
-_3_π π θ **_(in radian)_**
-
-θ
-
-_y = sin_θ
-
-**_y_**
-
-**_0_**
-
-This means that “for θ as large as 10 degrees, sin _θ_ is nearly the same as _θ_ when _θ_ is expressed in radians”. As _θ_ increases in value sinθ gradually becomes different from _θ_  
+*This means that “for θ as large as 10 degrees, sin _θ_ is nearly the same as _θ_ when _θ_ is expressed in radians”. As _θ_ increases in value sinθ gradually becomes different from _θ_ *
 
 **Pendulum length due to effect of temperature**
 
@@ -2173,74 +1046,11 @@ _T T t T t_\= + ≈ +0
 
 01 1 1 2
 
-( ) ( )α α∆ ∆
-
-⇒ _T T_
-
-_T T T_
-
-_T T_
-
-_t_ 0
-
-0
-
-0 0
-
-1 1 2
-
-− = − = =
-
-∆ ∆α
-
 where ∆T is the change in time period due to the effect of temperature and T0 is the time period of the simple pendulum with original length _l_0.
 
-**EXAMPLE 10.14**
 
-If the length of the simple pendulum is increased by 44% from its original length, calculate the percentage increase in time period of the pendulum.
 
-**_Solution_**
-
-Since _T l_µ
-
-Therefore, _T_ \= constant _l_
-
-| EXAMPLE 1 0 . 1 3In sim ple p endulum exp eriment, w e h ave used sm all a ngle a pproximation . Di scussthe small angle approximation. θ ( in degrees) θ( in radian) sin θFoy |
-|------|------|------|------|------|------|------|
-| 0 0 05 0.087 0.08710 0.174 0.17415 0.262 0.25620 0.349 0.34225 0.436 0.42230 0.524 0.50035 0.611 0.57440 0.698 0.64345 0.785 0.707r θ in radian, sin θ ≈ θ for very small anglesy = sinθr θ a s lπarge a θs 10 (in radian )he s ame as  θ when  ans”. A s  θ in creases y b ecomes di erent |
-| y = θ |
-| 0 π π π 3πis m18 e4ans t h2at  “ fo2degrees, sin  θ is nearly tθ  is exp ressed in radiin va lue sin θ g raduallfrom θ |
-  
-
-_T T_
-
-_l l_
-
-_l f_
-
-_i_
-
-\= +
-
-\= =
-
-44 100 1 44 1 2. .
-
-Therefore, Tf = 1.2 Ti = Ti + 20% Ti
-
-**Oscillation of liquid in a U-tube:**
-
-**Figure 10.22** U-shaped glass tube
-
-**_0 0 y_**
-
-**_y 00_**
-
-**_h_**
-
-**_y 2y_**
-
-Consider a U-shaped glass tube which consists of two open arms with uniform cross- sectional area A. Let us pour a non-viscous uniform incompressible liquid of density ρ in the U-shaped tube to a _h_eight _h_ as shown in the Figure 10.22. If the liquid and tube are not disturbed then the liquid surface will be in equilibrium position _O._ It means the pressure as measured at any point on the liquid is the same and also at the surface on the arm (edge of the tube on either side), which balances with the atmospheric pressure. Due to this the level of liquid in each arm will be the same. By blowing air one can provide sufficient force in one arm, and the liquid gets disturbed from equilibrium position _O_, which means, the pressure at blown arm is higher than the other arm. This creates difference in pressure which will cause the liquid to oscillate for a very short duration of time about the mean or equilibrium position and finally comes to rest.
+Consider a U-shaped glass tube which consists of two open arms with uniform cross- sectional area A. Let us pour a non-viscous uniform incompressible liquid of density ρ in the U-shaped tube to a _h_eight _h_ as shown in the image 10.22. If the liquid and tube are not disturbed then the liquid surface will be in equilibrium position _O._ It means the pressure as measured at any point on the liquid is the same and also at the surface on the arm (edge of the tube on either side), which balances with the atmospheric pressure. Due to this the level of liquid in each arm will be the same. By blowing air one can provide sufficient force in one arm, and the liquid gets disturbed from equilibrium position _O_, which means, the pressure at blown arm is higher than the other arm. This creates difference in pressure which will cause the liquid to oscillate for a very short duration of time about the mean or equilibrium position and finally comes to rest.
 
 Time period of the oscillation is
 
@@ -2248,8 +1058,8 @@ _T l g_
 
 \= 2 2
 
-π second (10.62)
-
+$$T = 2\pi \sqrt{\frac{L}{2g}} \ \text{second} \quad (10.62)
+$$
 Where _l_ is the total length of liquid column in U- tube.  
 
 # ENERGY IN SIMPLE HARMONIC MOTION
@@ -2257,247 +1067,101 @@ Where _l_ is the total length of liquid column in U- tube.
 
 
 
-_F kr_\=−
+$$\vec{F} = -k\vec{r}$$
 
 Since force is a vector quantity, in three dimensions it has three components. Further, the force in the above equation is a conservative force field; such a force can be derived from a scalar function which has only one component. In one dimensional case
 
-_F_ = − _k x_ (10.63)
+
 
 As we have discussed in unit 4 of volume I, the work done by the conservative force field is independent of path. The potential energy U can be calculated from the following expression.
 
-_F dU dx_
-
+$$\vec{F} = -k\vec{r}$$
 \=− (10.64)
 
 Comparing (10.63) and (10.64), we get
+$$-\frac{dU}{dx} = -kx$$
 
-− =− _dU dx_
-
-_kx_
-
-_dU_ = _k_ _x_ _dx_
+$$dU = kx \, dx
+$$
 
 **Dummy variable** The integrating variable x' (read _x_' as “_x_ prime”)is a dummy variable
 
-_tdt xdx pdp yyyy_ \= = =∫∫∫
-
-2
+$$\int_{0}^{y} t \, dt = \int_{0}^{y} x \, dx = \int_{0}^{y} p \, dp = \frac{y^2}{2}
+$$
 
 000 2 Notice that the integrating variables like _t, x_ and _p_ are dummy variables because, in this integration, whether we put _t_ or _x_ or _p_ as variable for integration, we get the same answer.
 This work done by the force F during a small displacement _dx_ stores as potential energy
 
-_U x k x dx k x kx x_
 
-_x_
-
-( )= ′ ′= ′( ) =∫ 1
-
-2
-
-1
-
-20
-
-2
-
-0
-
-2 (10.65)
 
 From equation (10.22), we can substitute the value of force constant _k_ = _m_ ω2 in equation (10.65),
 
-_U x m x_( )=1 2
-
-2 2ω (10.66)
+$$U(x) = \int_0^x k \, dx = \frac{1}{2}k[x]^2_0 = \frac{1}{2}kx^2 \quad (10.65)
+$$
 
 where ω is the natural frequency of the oscillating system. For the particle executing simple harmonic motion from equation (10.6), we get
 
-_x_ = _A_ sin ω_t_
-
-_U m A t_(t) sin= 1 2
-
-2 2 2ω ω (10.67)
+$$U(x) = -\frac{1}{2} m \omega^2 x^2 \quad (10.66)
+$$
 
 This variation of U is shown below.
 
-**Figure 10.23** Variation of potential energy with time _t_
 
-**T 2**
-
-**O**
-
-**U(t)**
-
-**U(t) T**
-
-**_t_**
 
 **Question to think over** “If the potential energy is minimum then its second derivative is positive, why?”
 
 **b. Expression for Kinetic Energy** Kinetic energy
 
-_KE mv m dx dtx_\= = 
-
-  
-
- 
-
-1 2
-
-1 2
-
-2 2
-
-(10.68)
+$$\text{KE} = \frac{1}{2}mv^2 = \frac{1}{2}m\left(\frac{dx}{dt}\right)^2 \quad (10.68)
+$$
 
 Since the particle is executing simple harmonic motion, from equation (10.6)  
 
 _x_ = _A_ sin ω_t_ Therefore, velocity is
 
-_v dx dt_
+$$v_x = \frac{dx}{dt} = A\omega \cos(\omega t) \quad (10.69) \\
 
-_A tx_ \= = ω ωcos (10.69)
+v_x = A\omega\sqrt{1 - \left(\frac{x}{A}\right)^2} \\
 
-\= − 
-
-  
-
- _A x_
-
-_A_ ω 1
-
-2
-
-_v A xx_ \= −ω 2 2 (10.70)
+v_x = \omega\sqrt{A^2 - x^2} \quad (10.70)
+$$
 
 Hence,
+$$v_x = \frac{dx}{dt} = A\omega \cos(\omega t) \quad (10.69) \\
 
-_KE mv m A xx_\= = −( )1 2
+v_x = A\omega\sqrt{1 - \left(\frac{x}{A}\right)^2} \\
 
-1 2
-
-2 2 2 2ω (10.71)
-
-_KE m A t_\= 1 2
-
-2 2 2ω ωcos (10.72)
+v_x = \omega\sqrt{A^2 - x^2} \quad (10.70)
+$$
 
 This variation with time is shown below.
 
-**Figure 10.24** Variation of kinetic energy with time _t_.
 
-**T 2**
-
-**_o_**
-
-**KE(t) KE(t)**
-
-**T _t_**
-
-**c. Expression for Total Energy** Total energy is the sum of kinetic energy and potential energy _E_ = _KE_ + _U_ (10.73)
-
-_E m x m x_\= − + 1 2
-
-1 2
-
-2 2 2 2 2ω ω(A )
+**c. Expression for Total Energy** Total energy is the sum of kinetic energy and potential energy $$E = KE + U
+$$(10.73)
+$$E = \frac{1}{2}m\omega^2(A^2 - x^2) + \frac{1}{2}m\omega^2x^2
+$$
 
 Hence, cancelling _x_2 term,
 
-_E m A_\= = 1 2
-
-2 2ω constant (10.74)
+$$E = \frac{1}{2} m \omega^2 A^2 = \text{constant}
+$$
 
 Alternatively, from equation (10.67) and equation (10.72), we get the total energy as
+$$E = \frac{1}{2} m \omega^2 A^2 = \text{constant}$$
 
-_E m A t m A t_\= + 1 2
-
-1 2
-
-2 2 2 2 2 2ω ω ω ωsin cos
-
-\= + 1 2
-
-2 2 2 2_m A t_ω ω ω(sin t cos )
 From trigonometry identity, (sin2 ω_t_ + cos2 ω_t)_ = 1
 
-_E m A_\= 1 2
+$$E = -\frac{1}{2} \mu \omega^2 A^2 = \text{constant}
+$$
 
-2 2ω = constant
+which gives the law of conservation of total energy. This is depicted in image 10.26
 
-which gives the law of conservation of total energy. This is depicted in Figure 10.26
-
-**Figure 10.25** Both kinetic energy and potential energy vary but total energy is constant
-
-**T 2**
-
-**O**
-
-**E**
-
-**En er**
-
-**gy**
-
-**_K(t)_**
-
-**_U(t)_**
-
-**_U(t) + K(t)_**
-
-**T** _t_
 
 Thus the amplitude of simple harmonic oscillator, can be expressed in terms of total energy.
 
-_A E m_
-
-_E k_
-
-\= = 2 2
-
-2ω (10.75)
-
-**Figure 10.26** Conservation of energy – sprin
-
-**Energy Bar Charts for** Position A KE PE TE
-
-**A B**
-
-Position D KE PE TE
-
-**D E**
-
-**Energy Bar Charts for a si**
-
-TE - Total
-
-Equilibrium Equilibrium
-
-v = vmax
-
-v
-
-KE
-
-PE
-
-KE TE
-
-TE
-
-v
-
-v = 0
-
-PE
-
-KE
-
-PE
-
-TE
-
-TE  
+$$A = \sqrt{\frac{2E}{m\omega^2}} = \sqrt{\frac{2E}{k}} \quad (10.75)
+$$
 
 **EXAMPLE 10.15**
 
@@ -2507,112 +1171,41 @@ Write down the kinetic energy and total energy expressions in terms of linear mo
 
 Kinetic energy is _KE mvx_\= 1 2
 
-2
+$$\text{Kinetic energy is } KE = \frac{1}{2}mv^2
 
-Multiply numerator and denominator by _m_
+\text{Multiply numerator and denominator by } m:
 
-_KE m_
+KE = \frac{\frac{1}{2}mv^2}{1} = \frac{(mv)^2}{2m} = \frac{(1v)^2}{2m} = \frac{p^2}{2m}
 
-_m v m_
+\text{where } p_x \text{ is the linear momentum of the particle experiencing simple harmonic motion.}
 
-_v m_
+\text{Total energy can be written as sum of kinetic, from equation (10.73), and therefore from equation and potential energy, also from equation (10.75), we get:}
 
-_px x x_\= = = 1
+E=KE+U(x)=\frac{p_x^2}{2m} + \frac{1}{2}m\omega^2x^2
+$$
 
-2 1
 
-2 1
+**Note**
 
-2 2 2 2 2(m )
+Conservation of energy Both the kinetic energy and potential energy areperiodic functions, and repeat their
 
-where, _px_ is the linear momentum of the particle executing simple harmonic motion. Total energy can be written as sum of kinetic energy and potential energy, therefore, from equation (10.73) and also from equation (10.75), we get
+values after a time period . 
 
-_E KE U x m_
 
-_p m xx_\= + = + =( ) 1 2
-
-1 2
-
-2 2 2ω constant
-
-g mass system and simple pendulum system
-
-**a Mass on a Spring** Position B KE PE TE
-
-Position C KE PE TE
-
-**C**
-
-Position E KE PE TE
-
-KE - Kinetic Energy PE - Potential Energy TE - Total energy
-
-**mple Pendulum system**
-
-Energy
-
-Equilibrium
-
-v = vmax
-
-KE
-
-KE
-
-PE
-
-TE
-
-TE
-
-max
-
-v
-
-PE
-
-KE
-
-PE
-
-TE
-
-TE
-Conservation of energy Both the kinetic energy and potential energy are
-
-periodic functions, and repeat their
-
-values after a time period . But total
-
-energy is constant for all the values of x or t. The kinetic energy and the potential energy for a simple harmonic motion are always positive. Note that kinetic energy cannot take negative value because it is proportional to the square of velocity. The measurement of any physical quantity must be a real number. Therefore, if kinetic energy is negative then the numerical value of velocity becomes an imaginary number, which is physically not acceptable. At equilibrium, it is purely kinetic energy and at extreme positions it is purely potential energy.
+But total energy is constant for all the values of x or t. The kinetic energy and the potential energy for a simple harmonic motion are always positive. Note that kinetic energy cannot take negative value because it is proportional to the square of velocity. The measurement of any physical quantity must be a real number. Therefore, if kinetic energy is negative then the numerical value of velocity becomes an imaginary number, which is physically not acceptable. At equilibrium, it is purely kinetic energy and at extreme positions it is purely potential energy.
 
 _x_ = –_A x_ = _x_0 \= 0 _x_ = _A_
 
 _Energy_
 
-_Etotal =_
+$$U = \frac{1}{2}kx^2$$
+$$For Potential Energy (U):
 
-KE = _k_(_A_2 – _x_2)1 2
+U = \frac{1}{2}kx^2$$
+$$E_{total} = \frac{1}{2}kA^2$$
+$$For Total Energy (E_total):
 
-U =
-
-_x_
-
-U
-
-_U U U U_
-
-KE
-
-KE KE
-
-KE
-
-_kx_21 2
-
-_kA_21 2
-
-**Note**
+E_{total} = \frac{1}{2}kA^2$$
 
 **EXAMPLE 10.16**
 
@@ -2622,58 +1215,38 @@ Compute the position of an oscillating particle when its kinetic energy and pote
 
 Since the kinetic energy and potential energy of the oscillating particle are equal,
 
-1 2
+$$\frac{1}{2}m\omega^2(A^2 - x^2) = \frac{1}{2}m\omega^2x'^2$$
 
-1 2
-
-2 2 2 2 2_m x m x_ω ω(A )− =  
-
-_A_2 − _x_2 = _x_2
-
-2_x_2 = _A_2
-
-⇒ =±_x A_ 2
-
-**10.6**
-
-**TYPES OF OSCILLATIONS:**
+# TYPES OF OSCILLATIONS:
 
 ## Free oscillations
 When the oscillator is allowed to oscillate by displacing its position from equilibrium position, it oscillates with a frequency which is equal to the natural frequency of the oscillator. Such an oscillation or vibration is known as free oscillation or free vibration. In this case, the amplitude, frequency and the energy of the vibrating object remains constant.
 
-**Examples:** (i) Vibration of a tuning fork. (ii) Vibration in a stretched string. (iii) Oscillation of a simple pendulum. (iv) Oscillationsof a spring-mass system.
+**Examples:** 
+
+(i) Vibration of a tuning fork. 
+
+(ii) Vibration in a stretched string. 
+
+(iii) Oscillation of a simple pendulum. 
+
+(iv) Oscillationsof a spring-mass system.
 
 ## Damped oscillations
 During the oscillation of a simple pendulum (in previous case), we have assumed that the amplitude of the oscillation is constant and also the total energy of the oscillator is constant. But in reality, in a medium, due to the presence of friction and air drag, the amplitude of oscillation decreases as time progresses. It implies that the oscillation is not sustained and the energy of the SHM decreases gradually indicating the loss of energy. The energy lost is absorbed by the surrounding medium. This type of
 
-| KE = 12U = |k(A x )2 –  2 KE12 kx U2 |Etotal =  2 |
-|------|------|------|------|
+
+
   
 
 oscillatory motion is known as damped oscillation. In other words, if an oscillator moves in a resistive medium, its amplitude goes on decreasing and the energy of the oscillator is used to do work against the resistive medium. The motion of the oscillator is said to be damped and in this case, the resistive force (or damping force) is proportional to the velocity of the oscillator.
 
-**Figure 10.27** Damped harmonic oscillator – amplitude decreases as time increases.
+**image 10.27** Damped harmonic oscillator – amplitude decreases as time increases.
 
-_A_
 
-The object still oscillates sinusoidally ...
+**Examples** 
 
-... but the amplitude decreases within the “envelope” of a decaying exponential.
-
-_t_0
-
-D is
-
-pl ac
-
-em en
-
-t ( _x_)
-
-_–A_
-
-**Examples** (i) The oscillations of a pendulum
-
+(i) The oscillations of a pendulum
 (including air friction) or pendulum oscillating inside an oil filled container.
 
 (ii) Electromagnetic oscillations in a tank circuit.
@@ -2693,305 +1266,49 @@ Any oscillator driven by an external periodic agency to overcome the damping is 
 ## Resonance
 It is a special case of forced vibrations where the frequency of external periodic force (or driving force) matches with the natural frequency of the vibrating body (driven). As a result the oscillating body begins to vibrate such that its amplitude increases at each step and ultimately it has a large amplitude. Such a phenomenon is known as resonance and the corresponding vibrations are known as resonance vibrations.
 
-**Example** The breaking of glass due to sound
+**Example**
 
-The concept of resonance is used in Tuning of station (or channel) in a radio (or
-
-Television) circuits.
+ The breaking of glass due to sound
 
 **Note**
+The concept of resonance is used in Tuning of station (or channel) in a radio (or Television) circuits.
 
-| sinusoidally ...... but the amplitude decreases |
-|------|
+
   
 
-Extra: Pendulum in a lift: (i) Lift moving upwards with acceleration
+Extra: Pendulum in a lift:
+
+ (i) Lift moving upwards with acceleration
 
 Effective acceleration due to gravity is
 
-Then time period is T _l geff_
+$$g_{eff} = g + a$$
 
-\= =2 2π π
+$$T = 2\pi \sqrt{\frac{l}{g_{eff}}} = 2\pi \sqrt{\frac{l}{g + a}}$$
 
 Since the time period is inversely relat period will decrease when lift moves u
 
 (ii) Lift moving downwards with accelerat Effective acceleration due to gravity is
 
-Then time period is T _l geff_
+Then time period is $$T = 2\pi \sqrt{\frac{l}{g_{\text{eff}}}} = 2\pi \sqrt{\frac{l}{g - a}}$$
 
-\= =2 2π π
 
 Since the time period is inversely relat period will increase when lift moves do
 
-(iii) Lift falls with acceleration a > g: The effective acceleration is geff = a - g
+(iii) Lift falls with acceleration a > g: The effective acceleration is$$g_{\text{eff}} = a - g$$
+$$T = 2\pi \sqrt{\frac{l}{g_{\text{eff}}}} = 2\pi \sqrt{\frac{l}{a - g}}$$
 
-Then time period is T _l geff_
+in this case, the pendulum will turn upsi 
 
-\= =2 2π π
-
-in this case, the pendulum will turn upsi (iv) Lift falls with acceleration a = g:
+(iv) Lift falls with acceleration a = g:
 
 The effective acceleration is geff = g - g = Then time period is T → ∞ which means arrested.
 
-(v) If the simple pendulum is kept in a car w The effective acceleration is geff = g 2 +
+(v) If the simple pendulum is kept in a car w The effective acceleration is $$g_{\text{eff}} = \sqrt{g^2 + a^2}$$
 
-Time period is _T l_
+$$T = 2\pi \sqrt{\frac{l}{g_{\text{eff}}}} = 2\pi \sqrt{\frac{l}{\sqrt{g^2 + a^2}}}$$
 
-_g l_
 
-_geff_
-
-\= =2 2 2
-
-π π
-
-Soldiers are not allowed to march on a bridge. This is to avoid resonant vibration of the bridge.
-
-While crossing a bridge, if the period of stepping on the ground by marching soldiers equals the natural frequency of the bridge, it may result in resonance vibrations. This may be so large that the bridge may collapse.  
-
-_a_: geff = g + a
-
-_l g a_+( )
-
-ed to acceleration due to gravity, time pward.
-
-ion _a_: geff = g - a
-
-_l g a_−( )
-
-ed to acceleration due to gravity, time wnward.
-
-_l a g_−( )
-
-de down and will oscillate about higest point.
-
-0 pendulum does not oscillate and its motion is
-
-hich moves horizontally with acceleration _a_: _a_2
-
-_a_\+ 2
-� When an object or a particle moves bac point for some duration of time it is said
-
-� For a SHM, the acceleration or force on displacement from a fixed point and always
-
-_Fx_ = − where _k_ is a constant whose dimension
-
-constant. � In Simple harmonic motion, the displace � In Simple harmonic motion, the velocity,
-
-� In Simple harmonic motion, the accelera
-
-� The time period is defined as the time tak
-
-It is usually denoted by _T_. Time period _T_
-
-� The number of oscillations produced by th is denoted by _f_. SI unit for frequency is _S_−
-
-frequency is related to time period by _f_ \=
-
-� The frequency of the angular harmonic m
-
-� For n springs connected in series, the effe
-
-1 1 1 1 1 1
-
-1 2 3 0_k k k k k ks n ii_
-
-_n_
-
-\= + + + + = = ∑...
-
-� For _n_ springs connected in parallel, the e
-
-_k kp i_
-
-_n_
-
-_i_\= = ∑
-
-1
-
-� The time period for U-tube oscillation is
-
-� For a conservative system in one dimen scalar potential energy: _F dU_
-
-_dx_ \=− .
-
-� In a simple harmonic motion, potential e
-
-� In a simple harmonic motion, kinetic ene
-
-� Total energy for a simple harmonic moti
-
-� Types of oscillations – Free oscillations, D and Forced oscillations.
-
-� Resonance is a special case of forced osci
-
-**S U M M A R Y**  
-
-k and forth repeatedly about a reference to have Oscillatory (or vibratory) motion. the particle is directly proportional to its directed towards that fixed point. The force is _k x_ is force per unit length, called as force
-
-ment, _y_ = _A_ sin ω_t_. _v_ = A ω cos ωt = ω _A y_2 2- .
-
-tion, _a d y dt_
-
-_y_\= =− 2
-
-2 2ω .
-
-en by a particle to complete one oscillation.
-
-\= 2π ω
-
-.
-
-e particle per second is called frequency. It 1 or hertz (In symbol, Hz). Mathematically,
-
-_T_ 1 .
-
-otion is _f I_
-
-\= 1
-
-2π κ Hz
-
-ctive spring constant in series is
-
-ffective spring constant is
-
-_T l g_
-
-\=2 2
-
-π second.
-
-sion, the force field can be derived from a
-
-nergy is _U x m x_( )=1 2
-
-2 2ω .
-
-rgy is _KE mv m xx_\= = − 1 2
-
-1 2
-
-2 2 2 2ω (A ) .
-
-on is _E m A_\= = 1 2
-
-2 2ω constant.
-
-amped oscillations, Maintained oscillations
-
-llations.
-**Oscilla**
-
-**Simple Harmonic**
-
-_F_\=−_kx x_\=a= −ω2 A sinω t a= −ω2 _y_
-
-_dt_ 2 _d_ 2_x_ \+ ω
-
-_U_\= 2 1 _kx_ 2_F_ \= − _dx_
-
-_dU_
-
-_TE_ \= 2 1 _k A_2 _KE_ \= 2
-
-1 _mv_ 2
-
-**Simple Pendulum**
-
-**L**
-
-**T**
-
-**ms**
-
-**Ø**
-
-**Ø-mg sinØ**
-
-**Dierential equation:**
-
-**Time Period:**
-
-_T_ \= 2π _g l_
-
-_dt_ 2 _d_2 _i_ \= − _l_
-
-g _i_
-
-**(1**
-
-**(2**
-
-**Dierential equation:**
-
-**U - Tube**
-
-**Time Period:**
-
-_T_ \= 2π _2_g _l_
-
-_dt_ 2 _d_ 2_y_ \=_− l_
-
-2_g y_
-
-**C O N C E P**  
-
-**tion**
-
-**Motion (SHM)**
-
-V=Aω cosωt +A sinω_t_
-
-v = ω _A_2 − _y_ 2
-
-_T_ \= ω 2π
-
-2_x_ \= 0
-
-**Angular SHM**
-
-ω = _I_ κ
-
-**Linear SHM**
-
-ω = _m k_
-
-**Spring mass**
-
-**) Series:**
-
-**) Parallel:**
-
-**k**
-
-**c m**
-
-**k1**
-
-**k1**
-
-**k2 m**
-
-**m k2**
-
-**Combination of Springs**
-
-k _p_ \= k1 + _k_2
-
-k _s_ \= _k_1 + _k_2
-
-_k_1_k_2
-
-**T M A P**
-
-| Ø Ls |Tm |
-|------|------|
-
-| n Ø |Ø |
-  
 
 **I.** **Multiple Choice Questions**
 
@@ -3005,13 +1322,11 @@ a) 15 s b) 6 s c) 12 s d) 9 s
 
 3\. The length of a second’s pendulum on the surface of the Earth is 0.9 m. The length of the same pendulum on surface of planet X such that the acceleration of the planet X is n times greater than the Earth is
 
-a) 0.9_n_ b) 0 9.
+a) 0.9_n_ 
+b) 0 9 /n  m
 
-_n m_
-
-c) 0.9_n_2_m_ d) 0 9
-
-2
+c) 0.9 n^2 m^2 
+d) 0.9/n^2
 
 .
 
@@ -3019,13 +1334,13 @@ _n_ **4\.** A simple pendulum is suspended from
 
 the roof of a school bus which moves in a horizontal direction with an acceleration a, then the time period is
 
-a) _T_∝ 1
+a)$$ ( T \propto \frac{1}{g^2 + a^2} )$$
 
-2 2_g a_\+ b) _T_∝
+b)$$( T \propto \sqrt{\frac{1}{g^2 + a^2}} )$$
 
-1 2 2_g a_+
+c)$$( T \propto \sqrt{g^2 + a^2} )$$
 
-c) _T_∝ _g a_2 2+ d) _T_∝ (g a ) 2 2+
+d)$$( T \propto (g^2 + a^2) $$
 
 **5\.** Two bodies A and B whose masses are in the ratio 1:2 are suspended from two separate massless springs of force constants _kA_ and _kB_ respectively. If the two bodies oscillate vertically such that  
 
@@ -3033,33 +1348,23 @@ c) _T_∝ _g a_2 2+ d) _T_∝ (g a ) 2 2+
 
 their maximum velocities are in the ratio 1:2, the ratio of the amplitude A to that of B is
 
-a) _k k_
+a)$$( \sqrt{\frac{k_B}{2k_A}} )$$
 
-_B_
+b) $$( \sqrt{\frac{k_B}{8k_A}} )$$
 
-_A_2 b) _k_
+c) $$( \sqrt{\frac{2k_B}{k_A}} )$$
 
-_k B_
-
-_A_8
-
-c) 2_k k_
-
-_B_
-
-_A_
-
-d) 8_k k_
-
-_B_
-
-_A_
+d) $$( \sqrt{\frac{8k_B}{k_A}} )$$
 
 **6\.** A spring is connected to a mass m suspended from it and its time period for vertical oscillation is T. The spring is now cut into two equal halves and the same mass is suspended from one of the halves. The period of vertical oscillation is
 
-a) ′=_T T_2 b) ′=_T T_ 2
+a) $$( T’ = \sqrt{2}T )$$
 
-c) ′=_T T_2 d) ′=_T T_ 2
+b) $$( T’ = \frac{T}{\sqrt{2}} )$$
+
+c) $$( T’ = \sqrt{2T} )$$
+
+d) $$( T’ = \frac{\sqrt{T}}{2} )$$
 
 7\. The displacement of a simple harmonic motion is given by _y_(_t_) = _A sin_ (ω_t_ + ϕ) where _A_ is amplitude of the oscillation, ω is the angular frequency and ϕ is the phase. Let the amplitude of the oscillation be 8 cm and the time period of the oscillation is 24 s. If the displacement at initial time (_t_ = 0 s) is 4 cm, then the displacement at _t_ = 6 s is
 
@@ -3077,14 +1382,13 @@ _T_ 1 2
 2 2
 
 is (g = 10 m s−2) (IIT 2005)
+a) ( \frac{5}{6} )$$
 
-a) 5 6
+b)$$ ( \frac{11}{10} )$$
 
-b) 11 10
+c) $$( \frac{6}{5} )$$
 
-c) 6 5
-
-d) 5 4
+d) $$( -\frac{5}{4} )$$
 
 **9\.** An ideal spring of spring constant _k_, is suspended from the ceiling of a room and a block of mass _M_ is fastened to its lower end. If the block is released when the spring is un-stretched, then the maximum extension in the spring is (IIT 2002)
 
@@ -3123,11 +1427,13 @@ c) 32 cm d) 64 cm
 **14\.** A particle executes simple harmonic motion and displacement _y_ at time _t_0, 2_t_0 and 3_t_0 are _A, B_ and _C_, respectively. Then the value of ∙A + C
 
 2_B_ ∙ is
+$$a) ( \cos(\omega t_0) )$$
 
-(a) cos ω_t_0 (b) cos 2ω_t_0
+$$b) ( \cos(2\omega t_0) )$$
 
-(c) cos 3ω_t_0 (d) 1
+$$c) ( \cos(3\omega t_0) )$$
 
+d) 1
 **15\.** A mass of 3 kg is attached at the end of a spring moves with simple harmonic motion on a horizontal frictionless table with time period 2π and with amplitude of 2m, then the maximum fore exerted on the spring is
 
 (a) 1.5 N (b) 3 N
@@ -3214,21 +1520,7 @@ is _T m Ag_
 
 **4\.** Consider two simple harmonic motion along _x_ and _y_\-axis having same frequencies but different amplitudes as _x_ = A sin (ω_t_ + φ) (along _x_ axis) and _y =_ B sin ωt (along y axis). Then show that
 
-_x A_
-
-_y B_
-
-_xy AB_
-
-2
-
-2
-
-2
-
-2 22
-
-\+ − =cos sinϕ ϕ
+$$[ \frac{x2}{A2} + \frac{y2}{B2} - \frac{2xy}{AB}\cos\phi = \sin^2\phi ]$$
 
 and also discuss the special cases when
 
@@ -3242,7 +1534,7 @@ d. ϕ π =
 
 \= 4
 
-**Note:** _when a particle is subjected to two simple harmonic motion at right angle to each other the particle may move along different paths. Such paths are called Lissajous figures._ **Answer :**
+**Note:** _when a particle is subjected to two simple harmonic motion at right angle to each other the particle may move along different paths. Such paths are called Lissajous images._ **Answer :**
 
 a. _y B A_
 
@@ -3270,25 +1562,15 @@ center is origin. d. _x_2+_y_2 = _A_2, equation is a circle whose
 
 center is origin .
 
-e. _x A_
+a) $$( y = \frac{A}{x} )$$
 
-_y B_
+b) $$( y = -\frac{B}{x} )$$
 
-_xy AB_
+c)$$ ( \frac{x2}{A2} + \frac{y2}{B2} = 1 )$$
 
-2
+d) $$( x^2 + y^2 = A^2 )$$
 
-2
-
-2
-
-2
-
-2 1 2
-
-1 2
-
-\+ − = , equation is an
+e) $$( \frac{x2}{A2} - \frac{y2}{B2} = 1 - 2xy\sqrt{\frac{1}{AB}} - \frac{1}{A^{3/4}}\sqrt[5]{\frac{1}{AB}} + 2^{3/4} )$$
 
 ellipse (oblique ellipse which means tilted ellipse)  
 

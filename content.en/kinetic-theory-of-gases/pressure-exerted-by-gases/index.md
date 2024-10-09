@@ -4,7 +4,6 @@ weight: 2
 extensions:
     - katex
 ---
-# PRESSURE EXERTED BY A GAS
 [comment]: <> (katex Header)
 {{< katex display >}}{{< /katex >}}
  
@@ -12,7 +11,7 @@ extensions:
  
  
 Consider a monoatomic gas of N molecules each having a mass m inside a cubical container of side _l_ as shown in the Figure 9.1 (a).
-![Alt text](q2.png)
+![image](q2.png)
  
 **Figure 9.1** (a) Container of gas molecules  
  
@@ -91,8 +90,7 @@ $$[\overline{v_x^2}=\frac{1}{3} \overline{v^2}  ]$$
 Using this in equation (9.5), we get
  
 $$[ P = \frac{1}{3}nm \overline{v^2} ]$$
- 
- 
+
 or
  
 $$[ P = \frac{1}{3} \frac{Nm\overline{v^2}}{V} ]$$ (9.6)
@@ -111,8 +109,7 @@ The following inference can be made from the above equation. The pressure exerte
 For simplicity the cubical container is taken into consideration. The above result is true for any shape of the container as the area A does not appear in the final expression (9.6). Hence the pressure exerted by gas molecules on the wall is independent of area of the wall (A).
  
 ## Kinetic interpretation of temperature
- 
- 
+
 To understand the microscopic origin of temperature in the same way,
  
 Rewrite the equation (9.6)
@@ -120,9 +117,6 @@ $$[ P = \frac{1}{3}nm \overline{v^2} ]$$
  
  
 $$[ P = \frac{1}{3} {Nm\overline{v^2} }]$$
- 
- 
- 
 (9.7)
  
 Comparing the equation (9.7) with ideal gas equation _PV=NkT_,
@@ -130,9 +124,7 @@ Comparing the equation (9.7) with ideal gas equation _PV=NkT_,
 $$[ NkT=\frac{1}{3} {Nm\overline{v^2}} ]$$
  
 $$[ kT=\frac{1}{3} {m\overline{v^2}} ]$$
- 
- 
- (9.8)
+(9.8)
  
 Multiply the above equation by 3/2 on both sides,
  
@@ -231,10 +223,10 @@ $$ U = N∈ $$
 For a fixed temperature, the average translational kinetic energy ∈ will remain constant. It implies that
  
 $$[ PV = \frac{2}{3} N∈ ]$$
- 
+
 Thus,PV = is constant.
  
-Therefore, the pressure of a given gas is inversely proportional to its volume provided the temperature remains constant. This is Boyle's Law.
+  Therefore, the pressure of a given gas is inversely proportional to its volume provided the temperature remains constant. This is Boyle's Law.
  
 **Charles' law:**
  
@@ -246,12 +238,10 @@ $$ V \propto T \text{ or } \frac{V}{T} = constant$$
  
 This is Charles' Law.
  
- 
 **Avogadro's law:**
  
 This law states that at constant temperature and pressure, equal volumes of all gases contain the same number of molecules. For two different gases at the same temperature and pressure, according to kinetic theory of gases,  
- 
- 
+
 From equation (9.6),
  
 $$P = \frac{1}{3} \frac{N_1}{V} m_1 \overline{v_1^2} = \frac{1}{3} \frac{N_2}{V} m_2 \overline{v_2^2}
@@ -276,9 +266,9 @@ Root mean square speed \\(v_{rms}\\) is defined as the square root of the mean o
 
 Equation (9.8) can be rewritten as,
  
-Mean square speed \\(\overline{v^{2}}=\frac{3kT}{m}\\) (9.17)
- 
+Mean square speed \\(\overline{v^{2}}=\frac{3kT}{m}\\) (9.17) 
 root mean square speed,
+
  
 $$v_{rms} = \sqrt{\frac{3kT}{m}} = 1.73\sqrt{\frac{kT}{m}} $$ (9.18)
  
@@ -309,8 +299,6 @@ terms of rms speed \\(P = \frac{1}{3}nmv_{rms}^2\\) since \\(v_{rms}^2 = \overli
 **Note**
 
 Root mean square speed is not the same as average speed. Average speed is 0.92 times the root mean square speed.
- 
-
  
 Impact of \\(v_{rms}\\) in nature:
  
@@ -510,33 +498,10 @@ The exact integration is beyond the scope of
 the book. But we can infer the behavior of
 gas molecules from the graph.
 
-(i)		The area under the graph will give the total
-number of gas molecules in the system
+(i)		The area under the graph will give the totalnumber of gas molecules in the system
 
-(ii)    Figure 9.4 shows the speed distribution
-graph for two different temperatures.
-As temperature increases, the peak
-of the curve is shifted to the right.
-It implies that the average speed of
-each molecule will increase. But the
-area under each graph is same since
-it represents the total number of gas
-molecules.
+(ii)    Figure 9.4 shows the speed distribution graph for two different temperatures. As temperature increases, the peak of the curve is shifted to the right. It implies that the average speed of each molecule will increase. But the area under each graph is same since it represents the total number of gas molecules.
 
 **Note**
 
-Interestingly once the
-gas molecule attains
-equilibrium, the number of
-molecules in the given range
-of speeds are fixed. For example if a
-molecule initially moving with speed
-12 m s-1, collides with some other
-molecule and changes its speed to 9
-m s-1, then the other molecule initially
-moving with different speed reaches
-the speed 12 m s-1 due to another
-collision. So in general once the gas
-molecules attain equilibrium, the
-number of molecules that lie in the
-range of v to v+dv is always fixed. 
+Interestingly once the gas molecule attains equilibrium, the number of molecules in the given range of speeds are fixed. For example if a molecule initially moving with speed 12 m s-1, collides with some other molecule and changes its speed to 9 m s-1, then the other molecule initially moving with different speed reaches the speed 12 m s-1 due to another collision. So in general once the gas molecules attain equilibrium, the number of molecules that lie in the range of v to v+dv is always fixed. 

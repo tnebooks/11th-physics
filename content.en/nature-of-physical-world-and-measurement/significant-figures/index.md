@@ -1,5 +1,5 @@
 ---
-title: 'SIGNIFICANT FIGURES'
+title: 'significant figures'
 weight: 17
 ---
 

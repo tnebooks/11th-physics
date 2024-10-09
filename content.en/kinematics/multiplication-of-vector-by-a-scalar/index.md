@@ -1,5 +1,5 @@
 ---
-title: 'MULTIPLICATION OF VECTOR BY A SCALAR'
+title: 'multiplication of vector by a scalar'
 weight: 4
 ---
 

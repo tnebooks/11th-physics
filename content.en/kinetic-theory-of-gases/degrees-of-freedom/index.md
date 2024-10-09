@@ -1,5 +1,5 @@
 ---
-title: 'DEGREES OF FREEDOM'
+title: 'degrees of freedom'
 weight: 3
 ---
 [comment]: <> (katex Header)
@@ -118,7 +118,4 @@ total degrees of freedom, f = 6
  
 **Example:** Water, Sulphur dioxide.
  
-
- 
-
  

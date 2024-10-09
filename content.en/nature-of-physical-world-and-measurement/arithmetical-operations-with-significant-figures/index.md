@@ -1,5 +1,5 @@
 ---
-title: 'Arithmetical Operations with Significant Figures'
+title: 'arithmetical operations with significant figures'
 weight: 19
 ---
 

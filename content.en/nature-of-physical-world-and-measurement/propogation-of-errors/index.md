@@ -1,5 +1,5 @@
 ---
-title: 'Propagation of errors'
+title: 'propagation of errors'
 weight: 16
 extensions:
     - katex

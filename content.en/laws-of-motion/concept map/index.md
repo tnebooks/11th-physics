@@ -1,5 +1,5 @@
 ---
-title: 'CONCEPT MAP'
+title: 'concept map'
 weight: 9
 ---
 

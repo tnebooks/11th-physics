@@ -1,12 +1,7 @@
 ---
-title: 'INTRODUCTION'
+title: 'introduction'
 weight: 1
 ---
-**U N I T 6** 
-
-**GRAVITATION** 
-
- "The most remarkable discovery in all of astronomy is that the stars are made up of atoms of same kind as those in the Earth" - Richard Feynman
 
 **Learning Objectives**
 
@@ -23,7 +18,7 @@ In this unit, the student is exposed to
 - measurement of the radius of Earth using Eratosthenes method
 - recent developments in gravitation and astrophysics
 
-**6.1 INTRODUCTION**
+# INTRODUCTION
 
 We are amazed looking at the glittering sky; we wonder how the Sun rises in the East and sets in the West, why there are comets or why stars twinkle. The sky has been an object of curiosity for human beings from time immemorial. We have always wondered about the motion of stars, the Moon, and the planets. From Aristotle to Stephen Hawking, great minds have tried to understand the movement of celestial objects in space and what causes their motion.
 
@@ -35,7 +30,7 @@ The ‘Theory of Gravitation’ was developed by Newton in the late 17th century
 
 Around the same time, Galileo, a famous Italian physicist discovered that all objects close to Earth were accelerated towards the Earth at the same rate. Meanwhile, a noble man called Tycho Brahe (1546-1601) spent his entire lifetime in recording the observations of the stellar and planetary positions with his naked eye. The data that he compiled were analyzed later by his assistant Johannes Kepler (1571–1630) and eventually the analysis led to the deduction of the laws of the planetary motion. These laws are termed as ‘Kepler’s laws of planetary motion’.  
 
-**6.1.2 Kepler’s Laws of Planetary Motion**
+## Kepler’s Laws of Planetary Motion
 
 Kepler’s laws are stated as follows:
 
@@ -303,7 +298,7 @@ which is exactly what he got through his law of gravitation.
 **Note**
 The above calculation depends on knowing the distance between the Earth and the Moon and the radius of the Earth. The radius of the Earth was measured by Greek librarian Eratosthenes and distance between the Earth and the Moon was measured by Greek astronomer Hipparchrus 2400 years ago. It is very interesting to note that in order to measure these distances he used only high school geometry and trigonometry. These details are discussed in the astronomy section (6.5)
 
-***6.1.3 Gravitational Constant***
+*## Gravitational Constant*
 
 In the law of gravitation, the value of gravitational constant {{< katex diaplay >}}G{{< /katex >}} plays a very important role. The value of {{< katex diaplay >}}\mathrm{G}{{< /katex >}} explains why the gravitational force between the Earth and the Sun is so great while the same force between two small objects (for example between two human beings) is negligible.
 

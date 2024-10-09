@@ -1,5 +1,5 @@
 ---
-title: 'Moment-of-Inertia'
+title: 'moment-of-inertia'
 weight: 4
 ---
 

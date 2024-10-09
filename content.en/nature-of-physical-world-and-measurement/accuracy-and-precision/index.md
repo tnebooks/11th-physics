@@ -1,5 +1,5 @@
 ---
-title: 'Accuracy and Precision'
+title: 'accuracy and precision'
 weight: 12
 ---
 

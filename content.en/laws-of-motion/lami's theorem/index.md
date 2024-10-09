@@ -1,5 +1,5 @@
 ---
-title: 'LAMI’S THEOREM'
+title: 'lami’s theorem'
 weight: 4
 ---
 

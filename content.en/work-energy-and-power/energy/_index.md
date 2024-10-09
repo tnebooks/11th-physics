@@ -1,5 +1,5 @@
 ---
-title: 'Energy'
+title: 'energy'
 weight: 2
 ---
 

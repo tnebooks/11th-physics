@@ -1,9 +1,7 @@
 ---
-title: 'HEAT ENGINE'
+title: 'heat engine'
 weight: 9
 ---
-
-# HEAT ENGINE
 
 In the modern technological world, the role of automobile engines plays a vital role in for transportation. In motor bikes and cars there are engines which take in petrol or diesel as input, and do work by rotating wheels. Most of these automobile engines have efficiency not greater than 40%. The second law of thermodynamics puts a fundamental restriction on efficiency of engines. Therefore understanding heat engines is very important.
 
@@ -22,8 +20,8 @@ _Heat engine is a device which takes heat as input and converts this heat in to 
 
 A Schematic diagram for heat engine is given below in the figure 8.42.
 
-![Ramanujan](image_1.jpg)
-<!-- <img src="image_1.jpg" alt="Ramanujan" width="500" > -->
+![images](image_1.jpg)
+
 
 **Figure 8.42** Heat Engine
 
@@ -43,8 +41,8 @@ The efficiency of the heat engine is defined as the ratio of the work done (out 
 
 Let the working substance absorb heat _Q_H units from the source and reject _Q_L units to the sink after doing work W units, as shown in the Figure 8.43. 
 
-![Ramanujan](image_2.jpg)
-<!-- <img src="image_2.jpg" alt="Ramanujan" width="500" > -->
+![images](image_2.jpg)
+
 
 **Figure 8.43** Heat engine
 
@@ -72,13 +70,11 @@ We can state the heat engine statement of second law of thermodynamics. This is 
 **Kelvin-Planck statement:**
  _It is impossible to construct a heat engine that operates in a cycle, whose sole effect is to convert the heat completely into work. This implies that no heat engine in the universe can have 100% efficiency._
 
-<blockquote style="background-color:pink; padding:10px; border-radius:5px;">
+![images](image_5.png)
 
-![Ramanujan](image_5.png)
-<!-- <img src="image_5.png" alt="Ramanujan" width="30" > -->
 
 **Note**  According to first law of thermodynamics, in an isothermal process the given heat is completely converted into work (_Q = W_). Is it a violation of the second law of thermodynamics? No. For non-cyclic process like an isothermal expansion, the heat can be completely converted into work. But Second law of thermodynamics implies that ‘In a cyclic process only a portion of the heat absorbed is converted into work’. All heat engines operate in a cyclic process.
-</blockquote>
+
 
 
 **EXAMPLE 8.24**
@@ -111,12 +107,12 @@ iv. Working substance: It is an ideal gas enclosed in a cylinder with perfectly 
 
 The four parts are shown in the following Figure 8.44
 
-![Ramanujan](image_3.jpg)
-<!-- <img src="image_3.jpg" alt="Ramanujan" width="100" > -->
+![images](image_3.jpg)
 
 
-![Ramanujan](image_4.jpg)
-<!-- <img src="image_4.jpg" alt="Ramanujan" width="500" > -->
+
+![images](image_4.jpg)
+
 
 **Figure 8.44** Carnot engine
 
@@ -132,8 +128,8 @@ The cylinder is placed on the source. The heat (QH) flows from source to the wor
 
 W1 is the work done by the gas in expanding from volume _V1_ to volume _V2_ with a decrease of pressure from _P1_ to _P2_\. This is represented by the P-V diagram along the path AB as shown in the Figure 8.45.  
 
-![Ramanujan](image_6.jpg)
-<!-- <img src="image_6.jpg" alt="Ramanujan" width="500" > -->
+![images](image_6.jpg)
+
 
 **Figure 8.45** PV diagram for Carnot cycle
 
@@ -149,14 +145,14 @@ Since the process occurs quasi-statically, the gas is in equilibrium with the so
 
 
 This is shown in Figure 8.46 (a)
-![Ramanujan](image_7.jpg)
+![images](image_7.jpg)
 
-<!-- <img src="image_7.jpg" alt="Ramanujan" width="500" > -->
+
 
 **Figure 8.46** Work done in Carnot cycle
 
-![Ramanujan](image_8.jpg)
-<!-- <img src="image_8.jpg" alt="Ramanujan" width="1100" > -->
+![images](image_8.jpg)
+
 
 **Figure 8.47** Carnot cycle  
 
@@ -172,8 +168,8 @@ This is shown in Figure 8.46
 The cylinder is placed on the sink and the gas is isothermally compressed until the pressure and volume become _P4_ and _V4_ respectively. This is represented by the curve _CD_ in the PV diagram as shown in Figure 8.45. Let {{< katex display >}} W_{C \to D} {{< /katex >}}
 be the work done on the gas. According to first law of thermodynamics
 
-![Ramanujan](image_11.jpg)
-<!-- <img src="image_11.jpg" alt="Ramanujan" width="500" > -->
+![images](image_11.jpg)
+
 
 
 This is shown in Figure 8.46 (c) Here V3 is greater than V4. So the work done is negative, implying work is done on the gas. Step D→A: Quasi-static adiabatic compression from (_P4_,_V4_,_TL_) to (_P1_,_V1_,_TH)_: It is shown in the figure 8.47(d)  
@@ -196,8 +192,8 @@ Let ‘W’ be the net work done by the working substance in one cycle
 
 Equation (8.60) shows that the net work done by the working substance in one cycle is equal to the area (enclosed by ABCD) of the P-V diagram (Figure 8.48)
 
-![Ramanujan](image_9.jpg)
-<!-- <img src="image_9.jpg" alt="Ramanujan" width="500" > -->
+![images](image_9.jpg)
+
 
 **Figure 8.48** Net work done in Carnot cycle
 
@@ -216,14 +212,14 @@ From the first law of thermodynamics, W = _QH_ - _QL_
 
 Applying isothermal conditions, we get,
 
-![Ramanujan](image_12.jpg)
-<!-- <img src="image_12.jpg" alt="Ramanujan" width="500" > -->
+![images](image_12.jpg)
+
 
 Here we omit the negative sign. Since we are interested in only the amount of heat (QL) ejected into the sink, we have
 
-![Ramanujan](image_13.jpg)
+![images](image_13.jpg)
 
-<!-- <img src="image_13.jpg" alt="Ramanujan" width="500" > -->
+
 
 By applying adiabatic conditions, we get,
 {{< katex display >}} T_H V_2 \gamma^{-1}=T_H V_3 \gamma^{-1} {{< /katex >}}
@@ -284,8 +280,8 @@ Engine B has only 8% efficiency.
 
 Even though the differences between the temperature of hot and cold reservoirs in both engines is same, the efficiency is not same. The efficiency depends on the ratio of the two temperature and not on the difference in the temperature. The engine which operates in lower temperature has highest efficiency.
 
-![Ramanujan](image_10.jpg)
-<!-- <img src="image_10.jpg" alt="Ramanujan" width="30" >Diesel engines used in cars and petrol engines used in our motor bikes are all real heat engines. -->
+![images](image_10.jpg)
+
 The efficiency of diesel engines has maximum up to 44% and the efficiency of petrol engines are maximum up to 30%. Since these engines are not ideal heat engines (Carnot engine), their efficiency is limited by the second law of thermodynamics. Now a days typical bikes give a mileage of 50 km per Liter of petrol. This implies only 30% of 1 Liter of petrol is converted into mechanical work and the remaining 70% goes out as wasted heat and ejected into the surrounding atmosphere!
 
 ## Entropy and second law of thermodynamics

@@ -1,5 +1,5 @@
 ---
-title: 'DIMENSIONAL ANALYSIS'
+title: 'dimensional analysis'
 weight: 20
 extensions:
     - katex

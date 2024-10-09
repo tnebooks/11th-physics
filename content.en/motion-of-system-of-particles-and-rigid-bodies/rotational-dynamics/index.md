@@ -1,5 +1,5 @@
 ---
-title: 'Rotational-Dynamics'
+title: 'rotational-dynamics'
 weight: 5
 ---
 
@@ -151,7 +151,7 @@ Let us consider a rigid body rotating about a fixed axis. Figure 5.29 shows a po
 
 It produces a small displacement ds on the body. The work done (dw) by the force is,
 
-![Alt text](image-80.png)
+
 
 Figure 5.29 Work done by torque
 

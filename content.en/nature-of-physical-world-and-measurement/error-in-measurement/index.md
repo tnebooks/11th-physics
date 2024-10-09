@@ -1,5 +1,5 @@
 ---
-title: 'Errors in Measurement'
+title: 'errors in measurement'
 weight: 13
 ---
 # Errors in Measurement

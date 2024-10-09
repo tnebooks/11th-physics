@@ -1,5 +1,5 @@
 ---
-title: 'COMPONENTS OF A VECTOR'
+title: 'components of a vector'
 weight: 3
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: 'Physics'
+title: 'physics'
 weight: 1
 ---
 

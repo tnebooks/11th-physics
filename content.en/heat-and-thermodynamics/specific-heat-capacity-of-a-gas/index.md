@@ -1,20 +1,15 @@
 ---
-title: 'SPECIFIC HEAT CAPACITY OF A GAS'
+title: 'specific heat capacity of a gas'
 weight: 7
 ---
 
 
-# SPECIFIC HEAT CAPACITY OF A GAS
-
 Specific heat capacity of a given system plays a very important role in determining the structure and molecular nature of the system. Unlike solids and liquids, gases have two specific heats: specific heat capacity at constant pressure {{< katex display >}}(s_p){{< /katex >}}and specific heat capacity at constant volume {{< katex display >}}(s_v){{< /katex >}}.
-
-## Specific heat capacity
 
 
 **Specific heat capacity at constant pressure** (**_sp_**): 
 The amount of heat energy required to raise the temperature of one kg of a substance by 1 K or 1°C by keeping the pressure constant is called specific heat capacity of at constant pressure. When the heat energy is supplied to the gas, it expands to keep the pressure constant as shown in Figure 8.23
-![Ramanujan](image_2.jpg)
-<!-- <img src="image_2.jpg" alt="Ramanujan" width="500" > -->
+![images](image_2.jpg)
 
 **Figure 8.23** Specific heat capacity at constant pressure
 
@@ -27,8 +22,7 @@ The amount of heat energy required to raise the temperature of one kg of a subst
 
 If the volume is kept constant, then the supplied heat is used to increase only the internal energy. No work is done by the gas as shown in Figure 8.24.
 
-![Ramanujan](image_3.jpg)
-<!-- <img src="image_3.jpg" alt="Ramanujan" width="500" > -->
+![images](image_3.jpg)
 
 **Figure 8.24**  Specific heat capacity at constant volume
 

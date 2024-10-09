@@ -1,5 +1,5 @@
 ---
-title: 'VISCOSITY'
+title: 'viscosity'
 weight: 4
 extensions:
     - katex # Add This Extension On Top

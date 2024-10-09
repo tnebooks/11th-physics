@@ -1,4 +1,4 @@
 ---
-title: 'KINETIC THEORY OF GASES'
+title: 'kinetic theory of gases'
 weight: 9
 ---

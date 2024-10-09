@@ -1,5 +1,5 @@
 ---
-title: 'HEAT AND THERMODYNAMICS'
+title: 'heat and thermodynamics'
 weight: 8
 ---
 ![Ramanujan](image_72.jpg)
@@ -15,7 +15,7 @@ weight: 8
 **8.1**
 **HEAT AND TEMPERATURE**
 
-**8.1.1 Introduction**  
+## Introduction  
 <!-- ## 8.1.1 Introduction -->
 
 
@@ -38,7 +38,7 @@ _heory of universal content which I am convinced… will never be overthrown. �
 
 <!-- is a branch of physics which explains the phenomena of temperature, heat etc. The concepts presented in this chapter will help us to understand the terms ‘hot’ and ‘cold’ and also differentiate heat from temperature. In thermodynamics, heat and temperature are two different but closely related parameters. -->
 
-**8.1.2 Meaning of heat** 
+## Meaning of heat 
 <!-- ## Meaning of heat -->
 
 
@@ -65,7 +65,7 @@ from the cloud. Once the rain stops, the lake will have more water than before r
 
 b. When heated, a cup of coffee receives heat from the stove. Once the coffee is taken from the stove, the cup of coffee has more internal energy than before. ‘Heat’ is the energy in transit and which flows from an object at higher temperature to an object at lower temperature. Heat is not a quantity. So the statement ‘A hot cup of coffee has more heat’ is wrong, instead ‘coffee is hot’ will be appropriate.
 
-**8.1.2 Meaning of work**
+## Meaning of work
 
 
 
@@ -90,7 +90,7 @@ not a quantity and through the work energy is transferred to the system . So we 
 
 Either the system can transfer energy to the surrounding by doing work on surrounding or the surrounding may transfer energy to the system by doing work on the system. For the transfer of energy from one body to another body through the process of work, they need not be at different temperatures.
 
-**8.1.4 Meaning of temperature**
+## Meaning of temperature
 <!-- ## Meaning of temperature -->
 
 
@@ -119,12 +119,12 @@ Scale To Celsius From Celsius
 Fahrenheit °C=(°F − 32)÷1.8 °F = (1.8 × °C) + 32   -->
 
 <!-- **8.2** -->
-**8.2 THERMAL PROPERTIES OF MATTER**
+# THERMAL PROPERTIES OF MATTER
 <!-- # THERMAL PROPERTIES OF MATTER -->
 
 
 <!-- ## 8.2.1 Boyle’s law, Charles’ law and ideal gas law -->
-**8.2.1 Boyle’s law, Charles’ law and ideal gas law**
+## Boyle’s law, Charles’ law and ideal gas law
 
 
 For a given gas at low pressure (density) kept in a container of volume V, experiments revealed the following information.
@@ -367,7 +367,7 @@ The number of mole \[
 Air is the mixture of about 20% oxygen, 79% nitrogen and remaining one percent are argon, hydrogen, helium, and xenon. The molar mass of air is \[29 gmol^{-1}\]. So the total mass of air in the room \[ m = 4878 \times 29 \times 10^{-3} = 141.4 \, \text{kg} \]
 
 <!-- ## Heat capacity and specific heat capacity -->
-**8.2.2 Heat capacity and specific heat capacity**
+## Heat capacity and specific heat capacity
 
 
 Take equal amount of water and oil at temperature 27°C and heat both of them till they reach the temperature 50°C. Note down the time taken by the water and oil to reach the temperature 50°C. Obviously these times are not same. We can see that water takes more time to reach 50°C than oil. It implies that water requires more heat energy to raise its temperature than oil. Now take twice the amount of water at 27°C and heat it up to 50°C , note the time taken for this rise in temperature. The time taken by the water is now twice compared to the previous case.
@@ -467,7 +467,7 @@ The SI unit for molar specific heat capacity is J mol–1 K–1 . It is also a p
   
 
 <!-- ## Thermal expansion of solids, liquids and gases -->
-**8.2.3 Thermal expansion of solids, liquids and gases**
+## Thermal expansion of solids, liquids and gases
 
 
 _Thermal expansion is the tendency of matter to change in shape, area, and volume due to a change in temperature._
@@ -634,7 +634,7 @@ For a given specimen,
 **Note**
 
 <!-- ## Anomalous expansion of water -->
-**8.2.4 Anomalous expansion of water**
+## Anomalous expansion of water
 
 
 

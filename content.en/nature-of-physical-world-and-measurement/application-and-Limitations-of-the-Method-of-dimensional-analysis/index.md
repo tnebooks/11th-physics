@@ -1,5 +1,5 @@
 ---
-title: ' Application and Limitations of the Method of Dimensional Analysis.'
+title: ' application and limitations of the method of dimensional analysis.'
 weight: 22
 extensions:
     - katex

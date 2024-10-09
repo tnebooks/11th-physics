@@ -19,78 +19,13 @@ According to kinetic theory, any particle suspended in a liquid or gas is contin
  
 2. Brownian motion decreases with bigger particle size, high viscosity, and density of the liquid (or) gas.
  
-**EXAMPLE 9.6**
- 
-An oxygen molecule is traveling in air at 300 K and 1 atm, and the diameter of the oxygen molecule $$ (1.2 \times 10^{-10}) m. $$ Calculate the mean free path of the oxygen molecule.
- 
-**Solution:**
-From equation (9.26), $$(lambda = \frac{2\pi d}{N})$$.
- 
-We have to find the number density \(n\). By using the ideal gas law,
- 
-$$
-n = \frac{N}{V} = \frac{P}{kT}
-$$
- 
-$$
-n = \frac{101.31 \times 10^3}{1.381 \times 10^{-23} \times 300}
-$$
- 
-$$
-n \approx 2.449 \times 10^{25} \text{ molecules/m}^3
-$$
- 
-$$
-\lambda = \frac{2 \times \pi \times 1.2 \times 10^{-10}}{2.449 \times 10^{25}}
-$$
- 
-$$
-\lambda \approx 0.63 \times 10^{-6} \, \text{m}
-$$
- 
----
- 
-| Figure 9.9 Particles in Brownian motion |
- 
-- Kinetic theory explains the microscopic behavior of gases in terms of temperature, pressure.
- 
-- The pressure exerted on the walls of a gas container is due to the collisions of gas molecules on the walls.
- 
-$$
-P = \frac{1}{3} \cdot n \cdot m \cdot \overline{v^2}
-$$
- 
-The pressure is related to the mass of the molecule and the mean square speed.
- 
-- The temperature of a gas is a measure of the average kinetic energy of a molecule of the gas. The average kinetic energy is directly proportional to absolute temperature of gas and independent of the nature of molecules.
- 
-- The pressure is also equal to $$( \frac{2}{3} )$$ of the internal kinetic energy per unit volume.
- 
-- The rms speed of gas molecules: $$(v_{\text{rms}} = \sqrt{\frac{3kT}{m}})$$
- 
-- The average speed of gas molecules: $$( \overline{v} = \frac{8}{\pi} \sqrt{\frac{kT}{m}} )$$
- 
-- The most probable speed of gas molecules: $$(v_{\text{mp}} = \sqrt{\frac{2kT}{m}})$$
- 
-- Among the speeds, $$(v_{\text{rms}}) $$is the largest and $$(v_{\text{mp}})$$is the least.
- 
-- The number of gas molecules in the range $$(v)$$ to $$(v + dv)$$ follows the Boltzmann distribution:
- 
-$$
-N(v) \, dv = 4 \pi \left( \frac{m}{2 \pi kT} \right)^{3/2} v^2 e^{-\frac{mv^2}{2kT}} \, dv
-$$
- 
-- The minimum number of independent coordinates needed to specify the state and configuration of a thermodynamic system is known as the degrees of freedom of the system. If a sample of gas has $$(N)$$ molecules, then the total number of degrees of freedom $$(f)$$ is given by $$(f = 3N)$$. If there are $$(q)$$ number of constraints, then $$(f = 3N-q)$$.
- 
-- For a monoatomic molecule, $$(f = 3)$$. For a diatomic molecule (at normal temperatures), $$(f = 5)$$.
- 
- 
- 
-**S U M M A R Y**
- 
-The experimental verification of Brownian motion was conducted by Jean Perrin in the year 1908. This motion provided direct evidence of the existence of atoms and molecules.
- 
+
 **Note:**
+
+The experimental verification of Brownian motion was conducted by Jean Perrin in the year 1908. This motion provided direct evidence of the existence of atoms and molecules.
+
+**S U M M A R Y**
+
 The microscopic origin of macroscopic parameters like pressure and temperature is explained by kinetic theory.
  
 - The pressure in a gas container is due to the momentum imparted by gas molecules on the walls, directly proportional to the number density, average translational kinetic energy per molecule, and independent of the nature of molecules.
@@ -188,6 +123,71 @@ The microscopic origin of macroscopic parameters like pressure and temperature i
   - Observe the movement of particles and explore variants like energy, size ratio.
   - Understand Brownian motion's microscopic behavior.
  
-\* Pictures are indicative only.
-\* If the browser requires, allow Flash Player or Java Script.
+- Kinetic theory explains the microscopic origin of macroscopic parameters like
+temperature, pressure.
+
+- The pressure exerted on the walls of gas container is due to the momentum imparted
+by the gas molecules on the walls.
  
+- The pressure \\(P = \frac{1}{3}nm\overline{v^2}\\). The pressure is directly proportional to the number density,
+mass of molecule and mean square speed.
+
+- The temperature of a gas is a measure of the average translational kinetic energy per
+molecule of the gas. The average kinetic energy per molecule is directly proportional
+to absolute temperature of gas and independent of nature of molecules.
+
+- The pressure is also equal to 2/3 of internal energy per unit volume.
+
+- The rms speed of gas molecules = \\(v_{rms} = \sqrt{\frac{3kT}{m}} = 1.73\sqrt{\frac{kT}{m}}\\)
+
+- The average speed of gas molecules \\(\overline{v} = \sqrt{\frac{8kT}{\pi m}} = 1.60\sqrt{\frac{kT}{m}}\\)
+
+- The most probable speed of gas molecules \\(v_{mp} = \sqrt{\frac{2kT}{m}} = 1.41\sqrt{\frac{kT}{m}}\\)
+
+- Among the speeds \\(v_{rms}\\) is the largest and \\(v_{mp}\\) is the least
+
+$$v_{rms} > \overline{v} > v_{mp}$$
+
+- The number of gas molecules in the range of speed v to v+dv is given by MaxwellBoltzmann distribution 
+
+$$N d\nu = 4\pi N \left(\frac{m}{2\pi kT}\right)^{\frac{3}{2}} v^2 e^{-\frac{mv^2}{2kT}} dv$$
+
+- The minimum number of independent coordinates needed to specify the position
+and configuration of a thermodynamical system in space is called the degrees of
+freedom of the system. If a sample of gas has N molecules, then the total degrees of
+freedom f = 3N. If there are q number of constraints then total degrees of freedom
+f = 3N-q.
+
+- For a monoatomic molecule, f = 3
+    
+    For a diatomic molecule (at normal temperature), f = 5
+
+    For a diatomic molecule (at high temperature), f = 7
+
+    For a triatomic molecule (linear type), f = 7
+    
+    For a triatomic molecule (non-linear type), f = 6
+
+- The average kinetic energy of sample of gas is equally distributed to all the degrees of
+freedom. It is called law of equipartition of energy. Each degree of freedom will get 1/2 kT energy.
+
+- The ratio of molar specific heat at constant pressure and constant volume of a gas
+
+$$\gamma = \left[\frac{C_p}{C_v}\right]$$
+
+For Monoatomic molecule: 1.67
+
+Diatomic molecule (Normal temperature) : 1.40
+
+Diatomic molecule (High temperature): 1.28
+
+Triatomic molecule (Linear type): 1.28.
+
+Triatomic molecule (Non-linear type): 1.33
+
+- The mean free path \\(\lambda = \frac{kT}{\sqrt{2}\pi d^{2}P}\\).The mean free path is directly proportional to
+temperature and inversely proportional to size of the molecule and pressure of the
+molecule
+
+- The Brownian motion explained by Albert Einstein is based on kinetic theory. It
+proves the reality of atoms and molecules.

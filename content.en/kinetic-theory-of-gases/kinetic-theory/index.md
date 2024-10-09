@@ -1,29 +1,42 @@
 ---
 title: 'kinetic theory'
 weight: 1
+extensions:
+    - katex
 ---
+
+{{< katex diaplay >}}  {{< /katex >}}
+
+**9.1**
+**Learning Objectives**
+**In this unit, the student is exposed to**
+
+• necessity of kinetic theory of gases
+
+• the microscopic origin of pressure and temper
+
+• correlate the internal energy of the gas and translational kinetic energy of gas molecules
+
+• meaning of degrees of freedom
+
+• calculate the total degrees of freedom for mono atomic, diatomic and triatomic molecules
+
+• law of equipartition of energy
+
+• calculation of the ratio of CP and CV
+
+• mean free path and its dependence with pressure, temperature and number density
+
+• Brownian motion and its microscopic origin
  
+# KINETIC THEORY
+ 
+## Introduction
+
 Thermodynamics is basically a macroscopic science. We discussed macroscopic parameters like pressure, temperature and volume of thermodynamical systems in unit 8. In this unit we discuss the microscopic origin of pressure and temperature by considering a thermodynamic system as collection of particles or molecules. Kinetic theory relates pressure and temperature to molecular motion of sample of a gas and it is a bridge between Newtonian mechanics and thermodynamics. The present chapter introduces the kinetic nature of gas molecules.
- 
- 
- 
- 
- 
-_“With thermodynamics one can calculate alm calculate fe_  
- 
-ature slational kinetic energy of gas molecules
- 
-atomic, diatomic and triatomic molecules
- 
-re, temperature and number density
- 
-**C THEORY OF GASES**
- 
-_ost everything crudely; with kinetic theory, one can wer things, but more accurately.”_ \- Eugene Wigner
- 
+
 ### Postulates of kinetic theory of gases
- 
- 
+
 Kinetic theory is based on certain assumptions which makes the mathematical treatment simple. None of these assumptions are strictly true yet the model based on these assumptions can be applied to all gases.
  
 1\. All the molecules of a gas are identical, elastic spheres.
@@ -35,13 +48,6 @@ Kinetic theory is based on certain assumptions which makes the mathematical trea
 4\. The molecules of a gas are in a state of continuous random motion.
  
 5\. The molecules collide with one another and also with the walls of the container.
- 
- 
- 
- 
- 
- 
-**9.2**
  
 6\. These collisions are perfectly elastic so that there is no loss of kinetic energy during collisions.
  

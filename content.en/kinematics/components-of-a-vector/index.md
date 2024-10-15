@@ -9,9 +9,9 @@ In the Cartesian coordinate system, any vector {{< katex >}}\vec{A}{{< /katex >}
 
 Consider a 3-dimensional coordinate system. With respect to this, a vector can be written in component form as
 
-{{< katex >}}
+$$
 \vec{A}=A_{x} \hat{i}+A_{y} \hat{j}+A_{z} \hat{k}
-{{< /katex >}}
+$$
 
 ![Alt text](<./fig-2.20.png>)
 
@@ -22,9 +22,8 @@ Here {{< katex >}}\vec{A}_{x}{{< /katex >}} is the {{< katex >}}x{{< /katex >}}-
 In a 2-dimensional Cartesian coordinate system (which is shown in Figure 2.20) the vector 
 {{< katex >}}\vec{A}{{< /katex >}} is given by
 
-{{< katex >}}
-\vec{A}=A_{x} \hat{i}+A_{y} \hat{j}
-{{< /katex >}}
+\\(\vec{A}=A_{x} \hat{i}+A_{y} \hat{j}\\)
+
 
 If {{< katex >}}\vec{A}{{< /katex >}} makes an angle {{< katex >}}\theta{{< /katex >}} with {{< katex >}}\mathrm{x}{{< /katex >}} axis, and {{< katex >}}A_{x}{{< /katex >}} and {{< katex >}}A_{y}{{< /katex >}} are the components of {{< katex >}}\vec{A}{{< /katex >}} along {{< katex >}}x{{< /katex >}}-axis and {{< katex >}}y{{< /katex >}}-axis respectively, then as shown in Figure 2.21,
 

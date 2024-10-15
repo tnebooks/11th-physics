@@ -7,7 +7,7 @@ weight: 1
 
 The concept of rest and motion can be well understood by the following elucidation (Figure 2.1). A person sitting in a moving bus is at rest with respect to a fellow passenger but is in motion with respect to a person outside the bus. The concepts of rest and motion have meaning only with respect to some reference frame. To understand rest or motion we need a convenient fixed reference frame.
 
-![Alt text](./image-5.png)
+![alt text](image.png)
 
 **Figure 2.1** Frame of Reference
 

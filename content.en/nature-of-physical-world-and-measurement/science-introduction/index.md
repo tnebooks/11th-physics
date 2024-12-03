@@ -5,7 +5,7 @@ weight: 1
 
 
 
-## SCIENCE—INTRODUCTION
+## SCIENCE HISTORY
 
 The word **‘science’** has its root in the Latin verb **_scientia_**, meaning **_“to know”_**. In Tamil language, it is ‘அறிவியல்’ (Ariviyal) meaning **‘knowing the truth’**. The human mind is always curious to know and understand different phenomena like the bright celestial objects in nature, cyclic changes in the seasons, occurrence of rainbow, etc. The inquisitive mind looks for meaningful patterns and relations in such phenomena. Today’s modern science and technology is an offshoot of the understanding of nature. Science is the systematic organization of knowledge gained through observation, experimentation and logical reasoning. The knowledge of science dealing with non-living things is physical science (Physics and Chemistry), and that dealing with living things is biological science (Botany, Zoology etc.).
 

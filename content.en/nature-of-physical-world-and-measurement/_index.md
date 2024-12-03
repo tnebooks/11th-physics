@@ -2,7 +2,7 @@
 title: 'nature of physical world  and measurement'
 weight: 1
 ---
-# UNIT 1
+
 
 
 **Learning Objectives**
@@ -17,4 +17,3 @@ weight: 1
 - usage of dimensions to check the homogeneity of physical quantities
 
 
----

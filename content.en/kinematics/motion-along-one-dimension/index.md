@@ -2,7 +2,8 @@
 title: 'motion along one dimension'
 weight: 9
 ---
-
+{{< katex >}}
+{{< /katex >}}
 # MOTION ALONG ONE  DIMENSION
 
 ## Average velocity

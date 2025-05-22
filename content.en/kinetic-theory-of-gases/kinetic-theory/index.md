@@ -1,5 +1,9 @@
 ---
+<<<<<<< HEAD
 title: 'Kinetic Theory'
+=======
+title: 'kinetic theory'
+>>>>>>> 9468d8de506ee3fe7a32ff32aec5f0ee5a849f86
 weight: 1
 extensions:
     - katex
@@ -9,9 +13,7 @@ extensions:
 
 **9.1**
 **Learning Objectives**
-<!-- ![Alt text](intro1.png) -->
 **In this unit, the student is exposed to**
-
 
 • necessity of kinetic theory of gases
 
@@ -34,13 +36,11 @@ extensions:
 # KINETIC THEORY
  
 ## Introduction
- 
- 
+
 Thermodynamics is basically a macroscopic science. We discussed macroscopic parameters like pressure, temperature and volume of thermodynamical systems in unit 8. In this unit we discuss the microscopic origin of pressure and temperature by considering a thermodynamic system as collection of particles or molecules. Kinetic theory relates pressure and temperature to molecular motion of sample of a gas and it is a bridge between Newtonian mechanics and thermodynamics. The present chapter introduces the kinetic nature of gas molecules.
- 
+
 ### Postulates of kinetic theory of gases
- 
- 
+
 Kinetic theory is based on certain assumptions which makes the mathematical treatment simple. None of these assumptions are strictly true yet the model based on these assumptions can be applied to all gases.
  
 1\. All the molecules of a gas are identical, elastic spheres.

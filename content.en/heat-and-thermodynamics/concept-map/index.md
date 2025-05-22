@@ -1,12 +1,12 @@
 ---
+<<<<<<< HEAD
 title: 'Concept Map'
+=======
+title: 'concept map'
+>>>>>>> 9468d8de506ee3fe7a32ff32aec5f0ee5a849f86
 weight: 12
 ---
-<blockquote style="background-color:pink; padding:10px; border-radius:5px;">
-
-# Concept Map
 
 </blockquote>
 
-![Ramanujan](image_1.jpg)
-<!-- <img src="image_1.jpg" alt="Ramanujan" width="1100" > -->
+![images](image_1.jpg)

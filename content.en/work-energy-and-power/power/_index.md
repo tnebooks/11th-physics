@@ -1,5 +1,5 @@
 ---
-title: 'Power'
+title: 'power'
 weight: 3
 ---
 

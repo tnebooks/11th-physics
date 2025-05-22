@@ -1,5 +1,5 @@
 ---
-title: 'Measurement Of Time Intervals'
+title: 'measurement of time intervals'
 weight: 10
 extensions:
     - katex

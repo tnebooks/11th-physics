@@ -1,5 +1,9 @@
 ---
+<<<<<<< HEAD:content.en/laws-of-motion/books for Reference/imdex.md
 title: 'Books For Reference'
+=======
+title: 'books for reference'
+>>>>>>> 9468d8de506ee3fe7a32ff32aec5f0ee5a849f86:content.en/laws-of-motion/books for Reference/index.md
 weight: 11
 ---
 

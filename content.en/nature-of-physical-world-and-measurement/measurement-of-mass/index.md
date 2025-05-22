@@ -1,5 +1,5 @@
 ---
-title: 'Measurement Of Mass'
+title: 'measurement of mass'
 weight: 9
 extensions:
     - katex

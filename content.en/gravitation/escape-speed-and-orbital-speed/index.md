@@ -1,8 +1,12 @@
 ---
+<<<<<<< HEAD
 title: 'Escape Speed And Orbital Speed'
+=======
+title: 'escape speed and orbital speed'
+>>>>>>> 9468d8de506ee3fe7a32ff32aec5f0ee5a849f86
 weight: 4
 ---
-**6.4 ESCAPE SPEED AND ORBITAL SPEED**
+# ESCAPE SPEED AND ORBITAL SPEED
 
 Hydrogen and helium are the most abundant elements in the universe but Earth's atmosphere consists mainly of nitrogen and oxygen. The following discussion brings forth the reason why hydrogen and helium are not found in abundance on the Earth's atmosphere. When an object is thrown up with some initial speed it will reach a certain height after which it will fall back to Earth. If the same object is thrown again with a higher speed, it reaches a greater height than the previous one and falls back to Earth. This leads to the question of what should be the speed of an object thrown vertically up such that it escapes the Earth's gravity and would never come back. This speed is called "Escape speed" and it is defined as "the minimum speed required for a body to escape from the earth's gravitational pull”.
 
@@ -63,7 +67,7 @@ From equation (6.56) the escape speed depends on two factors: acceleration due t
 
 Lighter molecules such as hydrogen and helium have enough speed to escape from the Earth, unlike the heavier ones such as nitrogen and oxygen. (The average speed of hydrogen and helium atoms compaired with the escape speed of the Earth,is presented in the kinetic theory of gases, unit 9).
 
-**6.4.1 Satellites, orbital speed and time period**
+## Satellites, orbital speed and time period
 
 We are living in a modern world with sophisticated technological gadgets and are able to communicate to any place on Earth. This advancement was made possible because of our understanding of solar system. Communication mainly depends on the satellites that orbit the Earth (Figure 6.20). Satellites revolve around the Earth just like the planets revolve around the Sun. Kepler's laws are applicable to man made satellites also.
 
@@ -164,7 +168,7 @@ R_{E}-\text { radius of the Earth }=6.4 \times 10^{6} \mathrm{~m}
 
 By substituting these values, the distance to the Moon from the surface of the Earth is calculated to be {{< katex diaplay >}}3.77 \times 10^{5} \mathrm{~km}{{< /katex >}}.
 
-**6.4.2 Energy of an Orbiting Satellite**
+## Energy of an Orbiting Satellite
 
 The total energy of a satellite orbiting the Earth at a distance $h$ from the surface of Earth is calculated as follows; The total energy of the satellite is the sum of its kinetic energy and the gravitational potential energy. The potential energy of the satellite is,
 
@@ -236,7 +240,7 @@ The negative energy implies that the Moon is bound to the Earth.
 Same method can be used to prove that the energy of the Earth is also negative.
 
 
-**6.4.3 Geo-stationary and polar satellite**
+## Geo-stationary and polar satellite
 
 The satellites orbiting the Earth have different time periods corresponding to different orbital radii. Can we calculate the orbital radius of a satellite if its time period is 24 hours?
 
@@ -264,7 +268,7 @@ of 500 to {{< katex diaplay >}}800 \mathrm{~km}{{< /katex >}} from the surface o
 
 **Figure 6.22 Strip of communication region, covered by a polar satellite**
 
-**6.4.4 Weightlessness Weight of an object**
+## Weightlessness Weight of an object
 
 Objects on Earth experience the gravitational force of Earth. The gravitational force acting on an object of mass {{< katex diaplay >}}\mathrm{m}{{< /katex >}} is {{< katex diaplay >}}\mathrm{mg}{{< /katex >}}. This force always acts downwards towards the center of the Earth. When we stand on the floor, there are two forces acting on us. One is the gravitational force, acting downwards and the other is the normal force exerted by the floor upwards on us to keep us at rest. The weight of an object {{< katex diaplay >}}\vec{W}{{< /katex >}} is defined as the downward force whose magnitude {{< katex diaplay >}}\mathrm{W}{{< /katex >}} is equal to that of upward force that must be applied to the object to hold it at rest or at constant velocity relative to the earth. The direction of weight is in the direction of gravitational force. So the magnitude of
 weight of an object is denoted as, {{< katex diaplay >}}\mathrm{W}=\mathrm{N}=\mathrm{mg}{{< /katex >}}. Note that even though magnitude of weight is equal to {{< katex diaplay >}}\mathrm{mg}{{< /katex >}}, it is not same as gravitational force acting on the object.

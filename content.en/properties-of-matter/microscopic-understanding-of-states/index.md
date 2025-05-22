@@ -1,5 +1,9 @@
 ---
+<<<<<<< HEAD
 title: 'Microscopic Understanding Of Various States Of Matter'
+=======
+title: 'microscopic understanding of various states of matter'
+>>>>>>> 9468d8de506ee3fe7a32ff32aec5f0ee5a849f86
 weight: 2
 extensions:
     - katex # Add This Extension On Top

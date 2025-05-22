@@ -1,5 +1,9 @@
 ---
+<<<<<<< HEAD
 title: 'Properties Of Matter'
+=======
+title: 'properties of matter'
+>>>>>>> 9468d8de506ee3fe7a32ff32aec5f0ee5a849f86
 weight: 7
 ---
 
@@ -774,7 +778,7 @@ For the best understanding, the elastic coefficients of some of the important ma
 
 <!-- ials **ulk modulus (K)**
 
-**1010 N m–2) Shear modulus (ηR) (1010 N m–2)**
+# N m–2) Shear modulus (ηR) (1010 N m–2)
 
 5.8 8.0
 

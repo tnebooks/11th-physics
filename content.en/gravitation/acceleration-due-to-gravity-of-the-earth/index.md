@@ -1,8 +1,12 @@
 ---
+<<<<<<< HEAD
 title: 'Acceleration Due To Gravity Of The Earth'
+=======
+title: 'acceleration due to gravity of the earth'
+>>>>>>> 9468d8de506ee3fe7a32ff32aec5f0ee5a849f86
 weight: 3
 ---
-**6.3 ACCELERATION DUE TO GRAVITY OF THE EARTH**
+# ACCELERATION DUE TO GRAVITY OF THE EARTH
 
 When objects fall on the Earth, the acceleration of the object is towards the Earth. From Newton's second law, an object is accelerated only under the action of a force. In the case of Earth, this force is the gravitational pull of Earth. This force produces a constant acceleration near the Earth's surface in all bodies, irrespective of their masses. The gravitational force exerted by Earth on the mass {{< katex diaplay >}}m{{< /katex >}} near the surface of the Earth is given by
 
@@ -31,7 +35,7 @@ The acceleration experienced by the object near the surface of the Earth due to 
 
 It is to be noted that the acceleration experienced by any object is independent of its mass. The value of {{< katex diaplay >}}g{{< /katex >}}  depends only on the mass and radius of the Earth. Infact, Galileo arrived at the same conclusion 400 years ago that all objects fall towards the Earth with the same acceleration through various quantitative experiments. The acceleration due to gravity {{< katex diaplay >}}\mathrm{g}{{< /katex >}} is found to be {{< katex diaplay >}}9.8 \mathrm{~m} \mathrm{~s}^{-2}{{< /katex >}} on the surface of the Earth near the equator.
 
-**6.3.1 Variation of {{< katex diaplay >}}g{{< /katex >}} with altitude, depth and latitude**
+## Variation of {{< katex diaplay >}}g{{< /katex >}} with altitude, depth and latitude
 
 Consider an object of mass {{< katex diaplay >}}\mathrm{m}{{< /katex >}} at a height {{< katex diaplay >}}\mathrm{h}{{< /katex >}} from the surface of the Earth. Acceleration experienced by the object due to Earth is
 

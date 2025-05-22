@@ -1,5 +1,5 @@
 ---
-title: 'Theory Of Errors'
+title: 'theory of errors'
 weight: 11
 ---
 

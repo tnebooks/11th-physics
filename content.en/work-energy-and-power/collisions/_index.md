@@ -1,5 +1,5 @@
 ---
-title: 'Collisions'
+title: 'collisions'
 weight: 4
 ---
 

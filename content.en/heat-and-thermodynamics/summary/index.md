@@ -1,11 +1,11 @@
 ---
+<<<<<<< HEAD
 title: 'Summary'
+=======
+title: 'summary'
+>>>>>>> 9468d8de506ee3fe7a32ff32aec5f0ee5a849f86
 weight: 11
 ---
-<blockquote style="background-color:pink; padding:10px; border-radius:5px;">
-
-# SUMMARY
-</blockquote>
 
  Heat is energy in transit which flows from hot object to cold object. However it is not a quantity.
 

@@ -1,5 +1,5 @@
 ---
-title: 'HEAT AND TEMPERATURE'
+title: 'Heat And Temperature'
 weight: 1
 ---
 

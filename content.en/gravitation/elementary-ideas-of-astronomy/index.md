@@ -1,5 +1,5 @@
 ---
-title: 'ELEMENTARY IDEAS OF ASTRONOMY'
+title: 'Elementary Ideas Of Astronomy'
 weight: 5
 ---
 

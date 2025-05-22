@@ -1,5 +1,5 @@
 ---
-title: 'MEASUREMENT'
+title: 'Measurement'
 weight: 7
 extensions: -katex
 ---

@@ -1,5 +1,5 @@
 ---
-title: 'THERMAL PROPERTIES OF MATTER'
+title: 'Thermal Properties Of Matter'
 weight: 2
 ---
 # THERMAL PROPERTIES OF MATTER

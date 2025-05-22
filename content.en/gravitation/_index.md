@@ -1,5 +1,5 @@
 ---
-title: 'GRAVITATION'
+title: 'Gravitation'
 weight: 6
 ---
 

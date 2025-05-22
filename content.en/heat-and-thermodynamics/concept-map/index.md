@@ -1,5 +1,5 @@
 ---
-title: 'CONCEPT MAP'
+title: 'Concept Map'
 weight: 12
 ---
 <blockquote style="background-color:pink; padding:10px; border-radius:5px;">

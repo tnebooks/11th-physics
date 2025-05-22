@@ -1,5 +1,5 @@
 ---
-title: 'KINEMATICS'
+title: 'Kinematics'
 weight: 2
 ---
 

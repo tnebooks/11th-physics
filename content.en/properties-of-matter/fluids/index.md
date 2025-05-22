@@ -1,5 +1,5 @@
 ---
-title: 'FLUIDS'
+title: 'Fluids'
 weight: 3
 extensions:
     - katex # Add This Extension On Top

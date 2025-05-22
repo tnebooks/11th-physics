@@ -1,5 +1,5 @@
 ---
-title: 'DIFFERENTIAL CALCULUS'
+title: 'Differential Calculus'
 weight: 7
 ---
 

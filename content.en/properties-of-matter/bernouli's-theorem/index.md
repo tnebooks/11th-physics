@@ -1,5 +1,5 @@
 ---
-title: ' BERNOULLI’S THEOREM'
+title: ' Bernoulli’S Theorem'
 weight: 6
 ---
 

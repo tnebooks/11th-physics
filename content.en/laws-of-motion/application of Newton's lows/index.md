@@ -1,5 +1,5 @@
 ---
-title: 'APPLICATION OF NEWTON’S LAWS'
+title: 'Application Of Newton’S Laws'
 weight: 3
 ---
 

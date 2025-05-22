@@ -1,5 +1,5 @@
 ---
-title: 'HEAT AND THERMODYNAMICS'
+title: 'Heat And Thermodynamics'
 weight: 8
 ---
 ![Ramanujan](image_72.jpg)

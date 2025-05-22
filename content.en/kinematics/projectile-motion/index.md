@@ -1,5 +1,5 @@
 ---
-title: 'PROJECTILE MOTION'
+title: 'Projectile Motion'
 weight: 10
 ---
 

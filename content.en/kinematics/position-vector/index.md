@@ -1,5 +1,5 @@
 ---
-title: 'POSITION VECTOR'
+title: 'Position Vector'
 weight: 5
 ---
 

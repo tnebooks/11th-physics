@@ -1,5 +1,5 @@
 ---
-title: 'PHYSICS-INTRODUCTION'
+title: 'Physics-Introduction'
 weight: 3
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: 'INTERNAL ENERGY'
+title: 'Internal Energy'
 weight: 6
 ---
 

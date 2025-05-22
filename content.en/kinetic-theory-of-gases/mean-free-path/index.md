@@ -1,5 +1,5 @@
 ---
-title: 'MEAN FREE PATH'
+title: 'Mean Free Path'
 weight: 5
 ---
 [comment]: <> (katex Header)

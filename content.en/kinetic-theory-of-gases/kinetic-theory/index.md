@@ -1,5 +1,5 @@
 ---
-title: 'KINETIC THEORY'
+title: 'Kinetic Theory'
 weight: 1
 extensions:
     - katex

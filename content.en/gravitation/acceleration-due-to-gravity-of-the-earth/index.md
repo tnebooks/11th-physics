@@ -1,5 +1,5 @@
 ---
-title: 'ACCELERATION DUE TO GRAVITY OF THE EARTH'
+title: 'Acceleration Due To Gravity Of The Earth'
 weight: 3
 ---
 **6.3 ACCELERATION DUE TO GRAVITY OF THE EARTH**

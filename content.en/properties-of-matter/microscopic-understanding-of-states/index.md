@@ -1,5 +1,5 @@
 ---
-title: 'MICROSCOPIC UNDERSTANDING OF VARIOUS STATES OF MATTER'
+title: 'Microscopic Understanding Of Various States Of Matter'
 weight: 2
 extensions:
     - katex # Add This Extension On Top

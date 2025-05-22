@@ -1,5 +1,5 @@
 ---
-title: 'OSCILLATIONS'
+title: 'Oscillations'
 weight: 10
 ---
 

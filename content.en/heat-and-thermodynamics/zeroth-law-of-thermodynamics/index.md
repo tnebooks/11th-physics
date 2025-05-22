@@ -1,5 +1,5 @@
 ---
-title: 'ZEROTH LAW OF THERMODYNAMICS'
+title: 'Zeroth Law Of Thermodynamics'
 weight: 5
 ---
 **ZEROTH LAW OF THERMODYNAMICS**

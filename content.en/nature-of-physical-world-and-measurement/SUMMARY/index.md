@@ -1,5 +1,5 @@
 ---
-title: 'SUMMARY'
+title: 'Summary'
 weight: 23
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: 'CONCEPT OF REST AND MOTION'
+title: 'Concept Of Rest And Motion'
 weight: 1
 ---
 

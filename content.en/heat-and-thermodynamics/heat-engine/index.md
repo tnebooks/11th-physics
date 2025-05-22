@@ -1,5 +1,5 @@
 ---
-title: 'HEAT ENGINE'
+title: 'Heat Engine'
 weight: 9
 ---
 

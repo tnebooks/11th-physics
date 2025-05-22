@@ -1,5 +1,5 @@
 ---
-title: 'FRICTION'
+title: 'Friction'
 weight: 6
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: 'REFRIGERATOR'
+title: 'Refrigerator'
 weight: 10
 ---
 A refrigerator is a Carnot’s engine working in the reverse order. It is shown in the figure 8.49.

@@ -1,5 +1,5 @@
 ---
-title: 'MEASUREMENT OF BASIC QUANTITIES'
+title: 'Measurement Of Basic Quantities'
 weight: 8
 extensions:
     - katex

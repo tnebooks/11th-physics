@@ -1,5 +1,5 @@
 ---
-title: 'LAW OF EQUIPARTITION OF ENERGY'
+title: 'Law Of Equipartition Of Energy'
 weight: 4
 ---
 [comment]: <> (katex Header)

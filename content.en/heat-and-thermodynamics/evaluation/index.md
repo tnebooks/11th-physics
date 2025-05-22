@@ -1,5 +1,5 @@
 ---
-title: 'EVALUATION'
+title: 'Evaluation'
 weight: 13
 ---
 <blockquote style="background-color:pink; padding:10px; border-radius:5px;">

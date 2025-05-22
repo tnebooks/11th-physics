@@ -1,5 +1,5 @@
 ---
-title: 'BROWNIAN MOTION'
+title: 'Brownian Motion'
 weight: 6
 ---
 [comment]: <> (katex Header)

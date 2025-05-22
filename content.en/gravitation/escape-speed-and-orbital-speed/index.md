@@ -1,5 +1,5 @@
 ---
-title: 'ESCAPE SPEED AND ORBITAL SPEED'
+title: 'Escape Speed And Orbital Speed'
 weight: 4
 ---
 **6.4 ESCAPE SPEED AND ORBITAL SPEED**

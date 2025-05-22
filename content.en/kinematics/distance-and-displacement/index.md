@@ -1,5 +1,5 @@
 ---
-title: 'DISTANCE AND DISPLACEMENT'
+title: 'Distance And Displacement'
 weight: 6
 ---
 

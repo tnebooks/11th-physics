@@ -1,5 +1,5 @@
 ---
-title: 'ELEMENTARY CONCEPTS OF VECTOR ALGEBRA'
+title: 'Elementary Concepts Of Vector Algebra'
 weight: 2
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: 'EVALUATION'
+title: 'Evaluation'
 weight: 10
 ---
 

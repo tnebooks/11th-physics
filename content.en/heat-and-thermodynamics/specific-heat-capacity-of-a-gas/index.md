@@ -1,9 +1,5 @@
 ---
-<<<<<<< HEAD
 title: 'Specific Heat Capacity Of A Gas'
-=======
-title: 'specific heat capacity of a gas'
->>>>>>> 9468d8de506ee3fe7a32ff32aec5f0ee5a849f86
 weight: 7
 ---
 

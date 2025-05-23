@@ -1,5 +1,9 @@
 ---
+<<<<<<< HEAD
+title: 'Motion Of System Of Particles And Rigid Bodies'
+=======
 title: 'motion of system of particles and rigid bodies'
+>>>>>>> 9468d8de506ee3fe7a32ff32aec5f0ee5a849f86
 weight: 5
 ---
 

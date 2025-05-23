@@ -1,5 +1,5 @@
 ---
-title: 'PRESSURE EXERTED BY A GAS'
+title: 'Pressure Exerted By A Gas'
 weight: 2
 extensions:
     - katex

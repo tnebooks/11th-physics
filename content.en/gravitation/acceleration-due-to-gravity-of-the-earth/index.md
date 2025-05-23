@@ -1,9 +1,5 @@
 ---
-<<<<<<< HEAD
 title: 'Acceleration Due To Gravity Of The Earth'
-=======
-title: 'acceleration due to gravity of the earth'
->>>>>>> 9468d8de506ee3fe7a32ff32aec5f0ee5a849f86
 weight: 3
 ---
 # ACCELERATION DUE TO GRAVITY OF THE EARTH

@@ -1,2 +1,5 @@
-# 11th-physics
-11th Standard Physics Materials
+## 11-Physics
+
+```sh
+hugo server --themesDir ../
+```

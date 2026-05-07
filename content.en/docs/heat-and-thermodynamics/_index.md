@@ -4,12 +4,7 @@ weight: 8
 ---
 
 
-Here is the Markdown content converted to clean LaTeX format for KaTeX and Hugo Goldmark, with all requested rules applied. Note: I have kept the original Tamil translation you provided earlier, as the image file names and specific figure references remain unchanged.
-
-```markdown
-![Ramanujan](image_72.jpg)
-
-<img src="image_72.JPG" alt="Ramanujan" width="1200" height="400">
+<!-- ![Ramanujan](image_72.jpg) -->
 
 **8.1**
 **HEAT AND TEMPERATURE**

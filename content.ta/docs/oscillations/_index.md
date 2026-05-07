@@ -3,9 +3,6 @@ title: 'அலைவுகள்'
 weight: 10
 ---
 
-Here is the complete Markdown content converted into Tamil, with LaTeX formatted for KaTeX and Hugo Goldmark passthrough, following all your rules.
-
-```markdown
 **10.1**
 
 **கற்றல் நோக்கங்கள்**

@@ -1,6 +1,6 @@
 ---
 title: 'work, energy and power'
-weight: 12
+weight: 4
 ---
 
 

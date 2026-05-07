@@ -5,9 +5,7 @@ weight: 8
 
 
 
-![Ramanujan](image_72.jpg)
-
-<img src="image_72.JPG" alt="Ramanujan" width="1200" height="400">
+<!-- ![Ramanujan](image_72.jpg) -->
 
 **8.1**
 **வெப்பமும் வெப்பநிலையும்**

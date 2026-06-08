@@ -1,4 +1,4 @@
-## 11th Physics
+## 11th  Physics
 
 ```sh
 git clone https://github.com/gurukulams/design-system ../design-system
@@ -12,7 +12,7 @@ export PUBLIC_FOLDER="$PWD/public"
 npm run watch --prefix ../design-system
 ```
 
-in Windows   `Cmd`
+in Windows     `Cmd`
 
 ```bash
 set QUESTIONS_FOLDER=%cd%\questions

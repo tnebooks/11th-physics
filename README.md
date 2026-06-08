@@ -12,7 +12,7 @@ export PUBLIC_FOLDER="$PWD/public"
 npm run watch --prefix ../design-system
 ```
 
-in Windows `Cmd`
+in Windows   `Cmd`
 
 ```bash
 set QUESTIONS_FOLDER=%cd%\questions
@@ -21,6 +21,7 @@ cd ..\design-system
 npm i
 npm run watch
 ```
+
 
 ```bash
 hugo server  --themesDir ../ --disableFastRender

@@ -1,0 +1,22 @@
+name: Restrict Main PRs
+
+on:
+  pull_request:
+    branches:
+      - main
+
+jobs:
+  validate-source-branch:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check source branch
+        run: |
+          echo "Source branch: ${{ github.event.pull_request.head.ref }}"
+
+          if [ "${{ github.event.pull_request.head.ref }}" != "develop" ]; then
+            echo "Only PRs from develop to main are allowed."
+            exit 1
+          fi
+
+          echo "PR from develop to main is allowed."

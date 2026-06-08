@@ -7,6 +7,18 @@ on:
     branches: ["main"]
 
 jobs:
+  validate-source-branch:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check source branch
+        run: |
+          echo "Source branch: ${{ github.head_ref }}"
+
+          if [ "${{ github.head_ref }}" != "develop" ]; then
+            echo "Only PRs from develop to main are allowed."
+            exit 1
+          fi
   call-workflow:
     # You must add these permissions so the called workflow can deploy
     permissions:

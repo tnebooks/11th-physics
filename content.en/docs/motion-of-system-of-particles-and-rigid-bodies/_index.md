@@ -33,6 +33,8 @@ When a rigid body moves, all particles that constitute the body need not take th
 
 When a bulk object (say a bat) is thrown at an angle in air as shown in Figure 5.1; do all the points of the body take a parabolic path? Actually, only one point takes the parabolic path and all the other points take different paths.
 
+![](image.png)
+
 **Figure 5.1 Centre of mass tracing the path of a parabola**
 
 The one point that takes the parabolic path is a very special point called centre of mass (CM) of the body. Its motion is like the motion of a single point that is thrown. The centre of mass of a body is defined as a point where the entire mass of the body appears to be concentrated. Therefore, this point can represent the entire body.
@@ -42,6 +44,8 @@ For bodies of regular shape and uniform mass distribution, the centre of mass is
 #### 5.1.3 Centre of Mass for Distributed Point Masses
 
 A point mass is a hypothetical point particle which has nonzero mass and no size or shape. To find the centre of mass for a collection of n point masses, say, \( \mathbf{m}_1,\mathbf{m}_2,\mathbf{m}_3\ldots \mathbf{m}_n \) we have to first choose an origin and an appropriate coordinate system as shown in Figure 5.2. Let, \( \mathbf{x}_1,\mathbf{x}_2,\mathbf{x}_3\ldots \mathbf{x}_n \) be the X-coordinates of the positions of these point masses in the X direction from the origin.
+
+![](image-1.png)
 
 **Figure 5.2 Centre of mass for distributed point masses**
 
@@ -102,6 +106,7 @@ With the equations for centre of mass, let us find the centre of mass of two poi
 
 The equation given above is known as principle of moments. We will learn more about this in Section 5.3.3.
 
+![](image-2.png)
 **Figure 5.3 Centre of mass of two point masses determined by shifting the origin**
 (a) When the masses are on positive X axis
 (b) When the origin coincides with any one of the masses
@@ -117,6 +122,7 @@ Let us take, \( \mathbf{m}_1 = 3 \, \text{kg} \) and \( \mathbf{m}_2 = 5 \, \tex
 
 (i) To find centre of mass from the origin: The point masses are at positions, \( x_1 = 4 \, \text{m} \), \( x_2 = 8 \, \text{m} \) from the origin along X axis.
 
+![](image-3.png)
 The centre of mass \( x_{\mathrm{CM}} \) can be obtained using the equation.
 
 \[

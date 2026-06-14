@@ -4,111 +4,114 @@ weight: 2
 ---
 
 
-# Kinematics
+> All the laws of nature are written in the language of mathematics- Galileo
 
-All the laws of nature are written in the language of mathematics- Galileo
 
-## LEARNING OBJECTIVES
-
-## In this unit, the student is exposed to
-
-different types of motions (linear, rotational and oscillatory) the necessity for reference frames to explain the motion of objects the meaning of vectors, scalars and their properties the role of scalar and vector products in physics the basics of differentiation and integration the notions of displacement and distance and their variation with time the notions of speed, velocity, acceleration and their graphs. the notion of relative velocity kinematic equations of motion for constant acceleration analysis of various types of motion of objects under gravitational force radians and degrees uniform circular motion, centripetal acceleration and centripetal force.
-
-image[[718, 298, 835, 384]]
-
-### 2.1 INTRODUCTION
+### INTRODUCTION
 
 Physics is basically an experimental science and rests on two pillars- Experiments and mathematics. Two thousand three hundred years ago the Greek librarian Eratosthenes measured the radius of the Earth. The size of the atom was measured much later, only in the beginning of the 20th century. The central aspect in physics is motion. Motion is found at all levels- from microscopic level (within the atom) to macroscopic and galactic level (planetary system and beyond). In short the entire Universe is governed by various types of motion. The study of various types of motion is expressed using the language of mathematics.
 
-of motion is expressed using the language of mathematics.
-
 How do objects move? How fast or slow do they move? For example, when ten athletes run in a race, all of them do not run in the same manner. Their performance cannot be qualitatively recorded by usage of words like 'fastest', 'faster', 'average', 'slower' or 'slowest'. It has to be quantified. Quantifying means assigning numbers to each athlete's motion. Comparing these numbers, one can analyse how fast or slow each athlete runs when compared to others. In this unit, the basic mathematics needed for analyzing motion in terms of its direction and magnitude is covered.
 
-2.2 CONCEPT OF REST AND MOTION
+### CONCEPT OF REST AND MOTION
 
 The concept of rest and motion can be well understood by the following elucidation (Figure 2.1). A person sitting in a moving bus is at rest with respect to a fellow passenger but is in motion with respect to a person outside the bus. The concepts of rest and motion have meaning only with respect to some reference frame. To understand rest or motion we need a convenient fixed reference frame.
 
-<center>Figure 2.1 Frame of Reference </center>
+![](image-5.png)
 
 ## Frame of Reference:
 
 If we imagine a coordinate system and the position of an object is described relative to it, then such a coordinate system is called frame of reference.
 
-At any given instant of time, the frame of reference with respect to which the position of the object is described in terms of position coordinates (x, y, z) (i.e., distances of the given position of an object along the x, y, and z- axes.) is called
-
-Cartesian coordinate system" as shown in Figure 2.2
-
+At any given instant of time, the frame of reference with respect to which the position of the object is described in terms of position coordinates (x, y, z) (i.e., distances of the given position of an object along the x, y, and z- axes.) is called Cartesian coordinate system" as shown in Figure 2.2
+![](fig-2.2.png)
 <center>Figure 2.2 Cartesian coordinate system </center>
 
 It is to be noted that if the \(x,y\) and \(z\) axes are drawn in anticlockwise direction then the coordinate system is called as "right- handed Cartesian coordinate system". Though other coordinate systems do exist, in physics we conventionally follow the right- handed coordinate system as shown in Figure 2.3.
 
 <center>Place your fingers in the direction of the positive x-axis and rotate them towards the direction of y-axis. Your thumb will point in the direction of positive z-axis </center>
 
+![](fig-2.3.png)
+
 <center>Figure 2.3 Right handed coordinate system </center>
 
 The following Figure 2.4 illustrates the difference between left and right handed coordinate systems.
+
+![](fig-2.4.png)
 
 图2.4 Right and left handed coordinate systems
 
 ## Point mass
 
-To explain the motion of an object which has finite mass, the concept of "point mass" is required and is very useful. Let the mass of any object be assumed to be concentrated at a point. Then this
-
-idealized mass is called "point mass". It has no internal structure like shape and size. Mathematically a point mass has finite mass with zero dimension. Even though in reality a point mass does not exist, it often simplifies our calculations. It is to be noted that the term "point mass" is a relative term. It has meaning only with respect to a reference frame and with respect to the kind of motion that we analyse.
+To explain the motion of an object which has finite mass, the concept of "point mass" is required and is very useful. Let the mass of any object be assumed to be concentrated at a point. Then this idealized mass is called "point mass". It has no internal structure like shape and size. Mathematically a point mass has finite mass with zero dimension. Even though in reality a point mass does not exist, it often simplifies our calculations. It is to be noted that the term "point mass" is a relative term. It has meaning only with respect to a reference frame and with respect to the kind of motion that we analyse.
 
 ## Examples
 
-To analyse the motion of Earth with respect to Sun, Earth can be treated as a point mass. This is because the distance between the Sun and Earth is very large compared to the size of the Earth. If we throw an irregular object like a small stone in the air, to analyse its motion it is simpler to consider the stone as a point mass as it moves in space. The size of the stone is very much smaller than the distance through which it travels.
+- To analyse the motion of Earth with respect to Sun, Earth can be treated as a point mass. This is because the distance between the Sun and Earth is very large compared to the size of the Earth. 
+
+* If we throw an irregular object like a small stone in the air, to analyse its motion it is simpler to consider the stone as a point mass as it moves in space. The size of the stone is very much smaller than the distance through which it travels.
 
 ## Types of motion
 
 In our day- to- day life the following kinds of motion are observed:
 
-## a) Linear motion
+### a) Linear motion
 
 An object is said to be in linear motion if it moves in a straight line.
 
-## Examples
+### Examples
 
-An athlete running on a straight track A particle falling vertically downwards to the Earth.
+* An athlete running on a straight track.
+-  A particle falling vertically downwards to the Earth.
 
-## b) Circular motion
+### b) Circular motion
 
 Circular motion is defined as a motion described by an object traversing a circular path.
 
-## Examples
+### Examples
 
-The whirling motion of a stone attached to a string
+* The whirling motion of a stone attached to a string
 
-1 The motion of a satellite around the Earth These two circular motions are shown in Figure 2.5
+- The motion of a satellite around the Earth.
+   These two circular motions are shown in Figure 2.5
+
+![](image-9.png)
 
 <center>Figure 2.5 Examples of circular motion </center>
 
-## c) Rotational motion
+### c) Rotational motion
 
 If any object moves in a rotational motion about an axis, the motion is called 'rotation'. During rotation every point in the object transverses a circular path about an axis, (except the points located on the axis).
 
-## Examples
+### Examples
 
-Rotation of a disc about an axis through its centre Spinning of the Earth about its own axis.
+* Rotation of a disc about an axis through its centre.
+- Spinning of the Earth about its own axis.
 
 These two rotational motions are shown in Figure 2.6.
 
+![](image-6.png)
+
 <center>Figure 2.6 Examples of Rotational motion </center>
 
-## d) Vibratory motion
+
+### d) Vibratory motion
 
 If an object or particle executes a to- and- fro motion about a fixed point, it is said to be in vibratory motion. This is sometimes also called oscillatory motion.
 
-## Examples
+### Examples
 
-Vibration of a string on a guitar Movement of a swing
+* Vibration of a string on a guitar.
+- Movement of a swing
 
 These motions are shown in Figure 2.7
 
+![](image-7.png)
+
+![](image-8.png)
+
 <center>Figure 2.7 Examples of Vibratory motion </center>
 
-图
 
 Other types of motion like elliptical motion and helical motion are also possible.
 
@@ -124,13 +127,16 @@ In this motion, only one of the three rectangular coordinates specifying the pos
 
 For example, if a car moves from position A to position B along \(x\) - direction, as shown in Figure 2.8, then a variation in \(x\) - coordinate alone is noticed.
 
+![](image-10.png)
+
 <center>Figure 2.8 Motion of a particle along one dimension </center>
 
-## Examples
+### Examples
 
-Motion of a train along a straight railway track. An object falling freely under gravity close to Earth.
+* Motion of a train along a straight railway track.
+- An object falling freely under gravity close to Earth.
 
-## (ii) Motion in two dimensions
+### (ii) Motion in two dimensions
 
 If a particle is moving along a curved path in a plane, then it is said to be in two dimensional motion.
 
@@ -138,73 +144,100 @@ In this motion, two of the three rectangular coordinates specifying the position
 
 For instance, when a particle is moving in the \(y - z\) plane, \(x\) does not vary, but \(y\) and \(z\) vary as shown in Figure 2.9
 
+![](fig-2.6.png)
+
 <center>Figure 2.9 Motion of a particle along two dimensions </center>
 
-## Examples
+### Examples
 
-Motion of a coin on a carrom board. An insect crawling over the floor of a room.
+* Motion of a coin on a carrom board. 
+- An insect crawling over the floor of a room.
 
-## (iii) Motion in three dimensions
+### (iii) Motion in three dimensions
 
 A particle moving in usual three dimensional space has three dimensional motion.
 
 In this motion, all the three coordinates specifying the position of an object change with respect to time. When a particle moves in three dimensions, all the three coordinates \(x,y\) and \(z\) will vary.
 
-2.3 ELEMENTARY CONCEPTS OF VECTOR ALGEBRA
+### Examples
+
+* A bird flying in the sky.
+* Random motion of a gas molecule.
+* Flying of a kite on a windy day.
+
+## ELEMENTARY CONCEPTS OF VECTOR ALGEBRA
 
 In physics, some quantities possess only magnitude and some quantities possess both magnitude and direction. To understand these physical quantities, it is very important to know the properties of vectors and scalars.
 
-## Scalar
+### Scalar
 
 It is a property which can be described only by magnitude. In physics a number of quantities can be described by scalars.
 
-## Examples
+### Examples
 
 Distance, mass, temperature, speed and energy.
 
-## Vector
+### Vector
 
 It is a quantity which is described by both magnitude and direction. Geometrically a vector is a directed line segment which is shown in Figure 2.10. In physics certain quantities can be described only by vectors.
 
+![](fig-2.10.png)
+
 <center>Figure 2.10 Geometrical representation of a vector </center>
 
-## Examples
+### Examples
 
 Force, velocity, displacement, position vector, acceleration, linear momentum and angular momentum.
 
-### 2.3.1 Magnitude of a Vector
+## Magnitude of a Vector
 
 The length of a vector is called magnitude of the vector. It is always a positive quantity. Sometimes the magnitude of a vector is also called 'norm' of the vector. For a vector \(\vec{A}\) , the magnitude or norm is denoted by \(\left|\vec{A}\right|\) or simply 'A' (Figure 2.11).
 
+![](fig-2.11.png)
+
 <center>Figure 2.11 Magnitude of a vector </center>
 
-### 2.3.2 Different types of Vectors
+### Different types of Vectors
 
-1. Equal vectors: Two vectors \(\vec{A}\) and \(\vec{B}\) are said to be equal when they have equal magnitude and same direction and represent the same physical quantity (Figure 2.12).
+1. **Equal vectors:** Two vectors \(\vec{A}\) and \(\vec{B}\) are said to be equal when they have equal magnitude and same direction and represent the same physical quantity (Figure 2.12).
+
+![](fig-2.12.png)
 
 <center>Figure 2.12 Geometrical representation of equal vectors </center>
 
-(a) Collinear vectors: Collinear vectors are those which act along the same line. The angle between them can be \(0^{\circ}\) or \(180^{\circ}\) .
+(a) **Collinear vectors:** Collinear vectors are those which act along the same line. The angle between them can be \(0^{\circ}\) or \(180^{\circ}\) .
 
-(i) Parallel Vectors: If two vectors \(\vec{A}\) and \(\vec{B}\) act in the same direction along the same line or on parallel lines, then the angle between them is \(0^{\circ}\) (Figure 2.13).
+(i) **Parallel Vectors:** If two vectors \(\vec{A}\) and \(\vec{B}\) act in the same direction along the same line or on parallel lines, then the angle between them is \(0^{\circ}\) (Figure 2.13).
+
+![](fig-2.13.png)
+
+(ii) **Anti-parallel vectors:** Two vectors \(\vec{A}\) and \(\vec{B}\) are said to be anti-parallel when they are in the opposite direction along the same line are on parallel lines.Then the angle between them is \(180^{\circ}\) (Figure 2.14).
+
+![](fig-2.14.png)
 
 2. Unit vector: A vector divided by its magnitude is a unit vector. The unit vector for \(\vec{A}\) is denoted by \(\hat{A}\) (read as A cap or A hat). It has a magnitude equal to unity or one.
 
+Since, $\hat{A}=\frac{\vec{A}}{A}$ we can write $\vec{A}=A\hat{A}$
+
 Thus, we can say that the unit vector specifies only the direction of the vector quantity.
 
-3. Orthogonal unit vectors: Let \(\hat{i}, \hat{j}\) and \(\hat{k}\) be three unit vectors which specify the directions along positive \(x\) -axis, positive
+1. Orthogonal unit vectors: Let \(\hat{i}, \hat{j}\) and \(\hat{k}\) be three unit vectors which specify the directions along positive \(x\) -axis, positive
 
 \(y\) - axis and positive \(z\) - axis respectively. These three unit vectors are directed perpendicular to each other, the angle between any two of them is \(90^{\circ}\) . \(\hat{i}, \hat{j}\) and \(\hat{k}\) are examples of orthogonal vectors. Two vectors which are perpendicular to each other are called orthogonal vectors as is shown in the Figure 2.15
 
+![](fig-2.15.png)
+
 <center>Figure 2.15 Orthogonal unit vectors </center>
 
-### 2.3.3 Addition of Vectors
+## Addition of Vectors
 
 Since vectors have both magnitude and direction they cannot be added by the method of ordinary algebra. Thus, vectors can be added geometrically or analytically using certain rules called 'vector algebra'. In order to find the sum (resultant) of two vectors, which are inclined to each other, we use (i) Triangular law of addition method or (ii) Parallelogram law of vectors.
 
-## Triangular Law of addition method
+### Triangular Law of addition method
 
 Let us consider two vectors \(\vec{A}\) and \(\vec{B}\) as shown in Figure 2.16.
+
+![](fig-2.16.png)
 
 <center>Figure 2.16 Head and tail of vectors </center>
 
@@ -214,13 +247,15 @@ To find the resultant of the two vectors we apply the triangular law of addition
 
 Represent the vectors \(\vec{A}\) and \(\vec{B}\) by the two adjacent sides of a triangle taken in the same order. Then the resultant is given by the third side of the triangle taken in the reverse order as shown in Figure 2.17.
 
+![](fig-2.17.png)
+
 <center>Figure 2.17 Triangle law of addition </center>
 
 To explain further, the head of the first vector \(\vec{A}\) is connected to the tail of the second vector \(\vec{B}\) . Let \(\theta\) be the angle between \(\vec{A}\) and \(\vec{B}\) . Then \(\vec{R}\) is the resultant vector connecting the tail of the first vector \(\vec{A}\) to the head of the second vector \(\vec{B}\) . The magnitude of \(\vec{R}\) (resultant) is given geometrically by the length of \(\vec{R}\) (OQ) and the direction of the resultant vector is the angle between \(\vec{R}\) and \(\vec{A}\) . Thus we write \(\vec{R} = \vec{A} +\vec{B}\) .
 
 \[\overline{OQ} = \overline{OP} +\overline{PQ}\]
 
-## (1) Magnitude of resultant vector
+### (1) Magnitude of resultant vector
 
 The magnitude and angle of the resultant vector are determined as follows.
 
@@ -246,19 +281,23 @@ If \(\vec{R}\) makes an angle \(\alpha\) with \(\vec{A}\) , then in \(\Delta OBN
 
 \[\tan \alpha = \frac{BN}{ON} = \frac{BN}{OA + AN}\] \[\tan \alpha = \frac{B\sin\theta}{A + B\cos\theta}\] \[\Rightarrow \alpha = \tan^{-1}\left(\frac{B\sin\theta}{A + B\cos\theta}\right)\]
 
-7xsin60° 7√3 7√3 tanα= 5+7cos60° 10+7 17 17 17 17 17 17 17 17 17 17 7 17 17 17 17 17 17 17 17 17
+## Example 2.1
 
-image[[220, 233, 395, 364]]
+Two vectors \(\vec{A}\) and \(\vec{B}\) of magnitude 5 units
+and 7 units respectively make an angle 60°
+with each other as shown below. Find the
+magnitude of the resultant vector and its
+direction with respect to the vector \(\vec{A}\).
+
+![](eg-1.1.png)
 
 ## Solution
 
 By following the law of triangular addition, the resultant vector is given by
 
-image[[137, 455, 476, 497]]
+![](dia-2.1.png)~~~~
 
 as illustrated below
-
-image[[157, 515, 450, 649]]
 
 The magnitude of the resultant vector \(\bar{R}\) is given by
 
@@ -268,19 +307,22 @@ The angle \(\alpha\) between \(\bar{R}\) and \(\bar{A}\) is given by
 
 \[\tan \alpha = \frac{B\sin\theta}{A + B\cos\theta} \quad (2.2)\]
 
-image[[564, 177, 773, 296]]
+![](image.png)
+
+**Note:**
 
 Another method to determine the resultant and angle of resultant of two vectors is the Parallelogram Law of vector addition method. It is given in appendix 2.1
 
-### 2.3.4 Subtraction of vectors
+### Subtraction of vectors
 
 Since vectors have both magnitude and direction two vectors cannot be subtracted from each other by the method of ordinary algebra. Thus, this subtraction can be done either geometrically or analytically. We shall now discuss subtraction of two vectors geometrically using the Figure 2.19
 
 For two non- zero vectors \(\bar{A}\) and \(\bar{B}\) which are inclined to each other at an angle \(\theta\) , the difference \(\bar{A} - \bar{B}\) is obtained as follows. First obtain \(-\bar{B}\) as in Figure 2.19. The angle between \(\bar{A}\) and \(-\bar{B}\) is \(180 - \theta\) .
 
+![](fig-2.19.png)
+
 <center>Figure 2.19 Subtraction of vectors </center>
 
-1
 
 The difference \(\vec{A} - \vec{B}\) is the same as the resultant of \(\vec{A}\) and \(- \vec{B}\) .
 
@@ -316,8 +358,6 @@ The angle that \(\vec{A} - \vec{B}\) makes with the vector \(\vec{A}\) is given 
 
 \[\tan \alpha_{2} = \frac{7\sin 60^{\circ}}{5 - 7\cos 60^{\circ}} = \frac{7\sqrt{3}}{10 - 7} = \frac{7}{\sqrt{3}} = 4.041\] \[\alpha_{2} = \tan^{-1}\left(4.041\right)\equiv 76^{\circ}\]
 
-## 2.4
-
 ## COMPONENTS OF A VECTOR
 
 In the Cartesian coordinate system any vector \(\vec{A}\) can be resolved into three components along \(x\) , \(y\) and \(z\) directions. This is shown in Figure 2.20.
@@ -326,7 +366,7 @@ Consider a 3- dimensional coordinate system. With respect to this a vector can b
 
 \[\vec{A} = A_{x}\hat{i} +A_{y}\hat{j} +A_{z}\hat{k}\]
 
-<center>A two-dimensional Cartesian coordinate system </center>
+![](fig-2.20.png)
 
 <center>Figure 2.20 Components of a vector in 2 dimensions and 3 dimensions </center>
 
@@ -342,6 +382,8 @@ If \(\vec{A}\) makes an angle \(\theta\) with \(x\) axis, and \(A_{x}\) and \(A_
 
 where \(A\) is the magnitude (length) of the vector \(\vec{A}\) , \(A = \sqrt{A_{x}^{2} + A_{y}^{2}}\)
 
+![](fig-2.21.png)
+
 <center>Figure 2.21 Resolution of a vector </center>
 
 ## EXAMPLE 2.3
@@ -352,7 +394,7 @@ What are the unit vectors along the negative \(x\) - direction, negative \(y\) -
 
 The unit vectors along the negative directions can be shown as in the following figure.
 
-image[[600, 97, 819, 252]]
+![](fig-2.23.png)
 
 Then we have:
 
@@ -362,7 +404,7 @@ The unit vector along the negative \(y\) direction \(= - \hat{j}\)
 
 The unit vector along the negative \(z\) direction \(= - \hat{k}\)
 
-### 2.4.1 Vector addition using components
+### Vector addition using components
 
 In the previous section we have learnt about addition and subtraction of two vectors using geometric methods. But once we choose a coordinate system, the addition and subtraction of vectors becomes much easier to perform.
 
@@ -376,7 +418,7 @@ Then the addition of two vectors is equivalent to adding their corresponding \(x
 
 Similarly the subtraction of two vectors is equivalent to subtracting the corresponding \(x\) , \(y\) and \(z\) components.
 
-2.5 MULTIPLICATION OF VECTOR BY A SCALAR
+
 
 The above rules form an analytical way of adding and subtracting two vectors.
 
@@ -390,31 +432,36 @@ Two vectors \(\vec{A}\) and \(\vec{B}\) are given in the component form as \(\ve
 
 Note that the vectors \(\vec{A} +\vec{B}\) and \(\vec{B} +\vec{A}\) are same and the vectors \(\vec{A} -\vec{B}\) and \(\vec{B} -\vec{A}\) are opposite to each other.
 
+**Note:**
+
 The addition of two vectors using components depends on the choice of the coordinate system. But the geometric way of adding and subtracting two vectors is independent of the coordinate system used.
+
+## MULTIPLICATION OF VECTOR BY A SCALAR
 
 A vector \(\vec{A}\) multiplied by a scalar \(\lambda\) results in another vector, \(\lambda \vec{A}\) . If \(\lambda\) is a positive number then \(\lambda \vec{A}\) is also in the direction of \(\vec{A}\) . If \(\lambda\) is a negative number, \(\lambda \vec{A}\) is in the opposite direction to the vector \(\vec{A}\) .
 
-## EXAMPLE 2.5
+
+### EXAMPLE 2.5
 
 Given the vector \(\vec{A} = 2\vec{i} +3\vec{j}\) , what is \(3\vec{A}\) ?
 
-## Solution
+### Solution
 
 \[3\vec{A} = 3(2\vec{i} +3\vec{j}) = 6\vec{i} +9\vec{j}\]
 
 The vector \(3\vec{A}\) is in the same direction as vector \(\vec{A}\) .
 
-## EXAMPLE 2.6
+### EXAMPLE 2.6
 
 A vector \(\vec{A}\) is given as in the following Figure. Find \(4\vec{A}\) and \(- 4\vec{A}\)
 
-## Solution
+### Solution
 
-image[[589, 624, 805, 739]]
+![](eg-2.6.png)
 
 In physics, certain vector quantities can be defined as a scalar times another vector quantity.
 
-## For example
+### For example
 
 1) Force \(\vec{F} = m\vec{a}\) . Here mass 'm' is a scalar, and \(\vec{a}\) is the acceleration. Since 'm' is always a positive scalar, the direction
 
@@ -465,8 +512,6 @@ The magnitude of vector \(\left|\vec{A}\right|\) is given by
 
 \[\left|\vec{A}\right| = A = \sqrt{A_{x}^{2} + A_{y}^{2} + A_{z}^{2}}\]
 
-54 UNIT 2 KINEMATICS
-
 ## EXAMPLE 2.7
 
 Given two vectors \(\vec{A} = 2\vec{i} +4\vec{j} +5\vec{k}\) and \(\vec{B} =\) \(\vec{i} +3\vec{j} +6\vec{k}\) Find the product \(\vec{A}\cdot\vec{B}\) and the magnitudes of \(\vec{A}\) and \(\vec{B}\) .What is the angle between them?
@@ -483,19 +528,15 @@ The angle between the two vectors is given by
 
 \[\theta = \cos^{-1}\left(\frac{\vec{A}\cdot\vec{B}}{AB}\right)\] \[= \cos^{-1}\left(\frac{44}{\sqrt{45\times 46}}\right) = \cos^{-1}\left(\frac{44}{45.49}\right)\] \[= \cos^{-1}(0.967)\] \[\therefore \theta \cong 15^{\circ}\]
 
-Hence, \(\vec{C}\) and \(\vec{D}\) are orthogonal to each other.
 
-It is also possible to geometrically show that the vectors \(\vec{C}\) and \(\vec{D}\) are orthogonal to each other. This is shown in the following Figure.
-
-image[[568, 183, 817, 522]]
-
-In physics, the work done by a force \(\vec{F}\) to move an object through a small displacement \(d\vec{r}\) is defined as,
 
 ## EXAMPLE 2.8
 
 Check whether the following vectors are orthogonal.
 
 \[\text{i) }\vec{A} = 2\vec{i} +3\vec{j} \text{ and } \vec{B} = 4\vec{i} -5\vec{j}\] \[\text{ii) }\vec{C} = 5\vec{i} +2\vec{j} \text{ and } \vec{D} = 2\vec{i} -5\vec{j}\]
+
+
 
 ## Solution
 
@@ -505,13 +546,21 @@ Hence \(\vec{A}\) and \(\vec{B}\) are not orthogonal to each other.
 
 \[\vec{C}\cdot\vec{D} = 10 - 10 = 0\]
 
+Hence, \(\vec{C}\) and \(\vec{D}\) are orthogonal to each other.
+
+It is also possible to geometrically show that the vectors \(\vec{C}\) and \(\vec{D}\) are orthogonal to each other. This is shown in the following Figure.
+
+![](fig-2.22.png)
+
+In physics, the work done by a force \(\vec{F}\) to move an object through a small displacement \(d\vec{r}\) is defined as,
+
 \[W = \vec{F}\cdot d\vec{r}\] \[W = F \, dr \cos \theta\]
 
 The work done is basically a scalar product between the force vector and the displacement vector. Apart from work done, there are other physical quantities which are also defined through scalar products.
 
-2.5.2 The Vector Product of Two Vectors
+### The Vector Product of Two Vectors
 
-## Definition
+### Definition
 
 The vector product or cross product of two vectors is defined as another vector having a magnitude equal to the product of the magnitudes of two vectors and the sine of the angle between them. The direction of the product vector is perpendicular to the plane containing the two vectors, in accordance with the right hand screw rule or right hand thumb rule (Figure 2.22).
 
@@ -523,19 +572,14 @@ The direction \(\hat{\mathbf{n}}\) of \(\bar{\mathbf{A}}\times \bar{\mathbf{B}}\
 
 the vectors \(\bar{\mathbf{A}}\) and \(\bar{\mathbf{B}}\) and is in the sense of advancement of a right handed screw rotated from \(\bar{\mathbf{A}}\) (first vector) to \(\bar{\mathbf{B}}\) (second vector) through the smaller angle between them. Thus, if a right- handed screw whose axis is perpendicular to the plane formed by \(\bar{\mathbf{A}}\) and \(\bar{\mathbf{B}}\) , is rotated from \(\bar{\mathbf{A}}\) to \(\bar{\mathbf{B}}\) through the smaller angle between them, then the direction of advancement of the screw gives the direction of \(\bar{\mathbf{A}}\times \bar{\mathbf{B}}\) i.e. \(\bar{\mathbf{C}}\) which is illustrated in Figure 2.22.
 
+![](fig-2.22.1.png)
+
+<center>Figure 2.22 Vector product of two vectors</center>
+
+**Note:**
+
 According to Right Hand Rule, if the curvature of the fingers of the right hand represents the sense of rotation of the object, then the thumb, held perpendicular to the curvature of the fingers, represents the direction of the resultant \(\bar{\mathbf{C}}\) .
 
-## VECTOR PRODUCT ("CROSS" PRODUCT)
-
-The vector product of \(\bar{\mathbf{A}}\) and \(\bar{\mathbf{B}}\) , written as \(\bar{\mathbf{A}}\times \bar{\mathbf{B}}\) , produces a third vector \(\bar{\mathbf{C}}\)
-
-image[[274, 642, 745, 835]]
-
-\[\bar{\mathbf{A}}\times \bar{\mathbf{B}} = -(\bar{\mathbf{B}}\times \bar{\mathbf{A}})\]
-
-Figure 2.22 Vector product of two vectors
-
-1
 
 ## Properties of vector (cross) product.
 
@@ -567,7 +611,7 @@ In physics the null vector \(\vec{0}\) is simply denoted as zero.
 
 \[\hat{i} \times \hat{j} = \hat{k}, \quad \hat{j} \times \hat{k} = \hat{i}, \quad \hat{k} \times \hat{i} = \hat{j}\]
 
-image[[562, 515, 870, 622]]
+![](image-2.png)
 
 Also, since the cross product is not commutative,
 
@@ -575,23 +619,32 @@ Also, since the cross product is not commutative,
 
 (viii) In terms of components, the vector product of two vectors \(\vec{A}\) and \(\vec{B}\) is
 
+
 \[\vec{A} \times \vec{B} = (A_y B_z - A_z B_y)\hat{i} + (A_z B_x - A_x B_z)\hat{j} + (A_x B_y - A_y B_x)\hat{k}\]
 
 Note that in the \(\hat{j}^{th}\) component the order of multiplication is different than \(\hat{i}^{th}\) and \(\hat{k}^{th}\) components.
 
 (ix) If two vectors \(\vec{A}\) and \(\vec{B}\) form adjacent sides in a parallelogram, then the magnitude of \(\vec{A}\times \vec{B}\) will give the area of the parallelogram as represented graphically in Figure 2.23.
 
+![](fig-2.23.1.png)
+
 <center>Figure 2.23 Area of parallelogram </center>
 
 (x) Since we can divide a parallelogram into two equal triangles as shown in the Figure 2.24, the area of a triangle with \(\vec{A}\) and \(\vec{B}\) as sides is \(\frac{1}{2} |\vec{A}\times \vec{B}|\) . This is shown in the Figure 2.24. (This fact will be used when we study Kepler's laws in unit 6)
+
+![](fig-2.24.png)
 
 <center>Figure 2.24 Area of triangle </center>
 
 A number of quantities used in Physics are defined through vector products. Particularly physical quantities representing rotational effects like torque, angular momentum, are defined through vector products.
 
-## Examples
+### Examples
 
-(i) Torque \(\vec{\tau} = \vec{r}\times \vec{F}\) . where \(\vec{F}\) is Force and \(\vec{r}\) is position vector of a particle (ii) Angular momentum \(\vec{L} = \vec{r}\times \vec{p}\) where \(\vec{p}\) is the linear momentum (iii) Linear Velocity \(\vec{v} = \vec{\omega}\times \vec{r}\) where \(\vec{\omega}\) is angular velocity
+(i) Torque \(\vec{\tau} = \vec{r}\times \vec{F}\) . where \(\vec{F}\) is Force and \(\vec{r}\) is position vector of a particle 
+
+(ii) Angular momentum \(\vec{L} = \vec{r}\times \vec{p}\) where \(\vec{p}\) is the linear momentum 
+
+(iii) Linear Velocity \(\vec{v} = \vec{\omega}\times \vec{r}\) where \(\vec{\omega}\) is angular velocity
 
 ## EXAMPLE 2.9
 
@@ -601,19 +654,19 @@ Two vectors are given as \(\vec{r} = 2\hat{i} +3\hat{j} +5\hat{k}\) and \(\vec{F
 
 \[\vec{\tau} = \vec{r}\times \vec{F} = \begin{vmatrix} \hat{i} & \hat{j} & \hat{k}\\ 2 & 3 & 5\\ 3 & -2 & 4 \end{vmatrix}\] \[\vec{\tau} = (12 - (-10))\hat{i} + (15 - 8)\hat{j} + (-4 - 9)\hat{k}\] \[\vec{\tau} = 22\hat{i} +7\hat{j} -13\hat{k}\]
 
-#### 2.5.3 Properties of the components of vectors
+### Properties of the components of vectors
 
 If two vectors \(\vec{A}\) and \(\vec{B}\) are equal, then their individual components are also equal.
 
 \[\text{Let } \vec{A} = \vec{B}\] \[\text{Then } A_{x}\hat{i} +A_{y}\hat{j} +A_{z}\hat{k} = B_{x}\hat{i} +B_{y}\hat{j} +B_{z}\hat{k}\] \[\text{i.e., } A_{x} = B_{x},\quad A_{y} = B_{y},\quad A_{z} = B_{z}\]
 
-1
-
 ## EXAMPLE 2.10
 
 Compare the components for the following vector equations
 
-a) \(\vec{F} = m\vec{a}\) Here m is positive number b) \(\vec{p} = 0\)
+a) \(\vec{F} = m\vec{a}\) Here m is positive number 
+
+b) \(\vec{p} = 0\)
 
 ## Solution
 
@@ -637,7 +690,28 @@ By comparing the components, we get
 
 \[p_{x} = 0,\quad p_{y} = 0,\quad p_{z} = 0\]
 
+## EXAMPLE 2.11
+
+Determine the value of the T from the given vector equation.
+
+<center>\[5\hat{j} - T\hat{j} = 6\hat{j} + 3T\hat{j}\]</center>
+
+## Solution
+
+By comparing the components both sides,
+we can write
+
+\[
+\begin{aligned}
+5 - 6 &= 3T + T \\
+-1 &= 4T \\
+T &= -\frac{1}{4}
+\end{aligned}
+\]
+
 ## EXAMPLE 2.12
+
+
 
 Compare the components of vector equation \(\vec{F}_{1} + \vec{F}_{2} + \vec{F}_{3} = \vec{F}_{4}\)
 
@@ -649,8 +723,6 @@ Once we resolve the components we can separately equate the \(x\) components on 
 
 \[F_{1x} + F_{2x} + F_{3x} = F_{4x}\] \[F_{1y} + F_{2y} + F_{3y} = F_{4y}\] \[F_{1z} + F_{2z} + F_{3z} = F_{4z}\]
 
-## 2.6
-
 ## POSITION VECTOR
 
 It is a vector which denotes the position of a particle at any instant of time, with respect to some reference frame or coordinate system.
@@ -661,13 +733,15 @@ The position vector \(\vec{r}\) of the particle at a point P is given by
 
 where x, y and z are components of \(\vec{r}\) Figure 2.25 shows the position vector \(\vec{r}\) .
 
+![](fig-2.25.png)
+
 <center>Figure 2.25 Position vector in Cartesian coordinate system </center>
 
 ## EXAMPLE 2.13
 
 Determine the position vectors for the following particles which are located at points P, Q, R, S.
 
-image[[172, 603, 440, 792]]
+![](eg-2.15.png)
 
 ## Solution
 
@@ -695,7 +769,7 @@ A person initially at rest starts to walk 2 m towards north, then 1 m towards ea
 
 As shown in the Figure, the positive x axis is taken as east direction, positive y direction is taken as north.
 
-image[[571, 563, 837, 752]]
+![](eg-2.14.png)
 
 After the trip, the person reaches the point P whose position vector given by
 
@@ -703,11 +777,14 @@ After the trip, the person reaches the point P whose position vector given by
 
 The displacement direction is south west.
 
-2.7 DISTANCE AND DISPLACEMENT
+
+## 2.7 DISTANCE AND DISPLACEMENT
 
 Distance is the actual path length travelled by an object in the given interval of time during the motion. It is a positive scalar quantity.
 
 Displacement is the difference between the final and initial positions of the object in a given interval of time. It can also be defined as the shortest distance between these two positions of the object and its direction is from the initial to final position of the object, during the given interval of time. It is a vector quantity. Figure 2.26 illustrates the difference between displacement and distance.
+
+![](fig-2.26.png)
 
 <center>Figure 2.26 Distance and displacement </center>
 
@@ -717,7 +794,7 @@ Assume your school is located \(2 \, \text{km}\) away from your home. In the mor
 
 ## Solution
 
-image[[148, 856, 465, 900]]
+![](eg-2.15.1.png)
 
 The displacement covered is zero. It is because your initial and final positions are the same.
 
@@ -729,7 +806,7 @@ An athlete covers 3 rounds on a circular track of radius \(50 \, \text{m}\) . Ca
 
 ## Solution
 
-image[[576, 334, 801, 507]]
+![](eg-2.16.png)
 
 The total distance the athlete covered \(= 3 \times\) circumference of track
 
@@ -737,7 +814,7 @@ The total distance the athlete covered \(= 3 \times\) circumference of track
 
 The displacement is zero, since the athlete reaches the same point A after three rounds from where he started.
 
-### 2.7.1 Displacement Vector in Cartesian Coordinate System
+### Displacement Vector in Cartesian Coordinate System
 
 In terms of position vector, the displacement vector is given as follows. Let us consider a particle moving from a point \(\mathrm{P}_{1}\) having position vector \(\vec{r}_{1} = x_{1}\hat{i} +y_{1}\hat{j} +z_{1}\hat{k}\) to a
 
@@ -749,13 +826,15 @@ The displacement vector is given by
 
 This displacement is also shown in Figure 2.27.
 
+![](eg-2.17.png)
+
 <center>Figure 2.27 Displacement vector </center>
 
 ## EXAMPLE 2.17
 
 Calculate the displacement vector for a particle moving from a point \(\mathrm{P}\) to \(\mathrm{Q}\) as shown below. Calculate the magnitude of displacement.
 
-image[[187, 677, 424, 829]]
+![](eg-2.17.1.png)
 
 ## Solution
 
@@ -765,6 +844,8 @@ The displacement vector \(\Delta \vec{r} = \vec{r}_{2} - \vec{r}_{1}\) , with
 
 The magnitude of the displacement vector \(\Delta r = \sqrt{3^{2} + 1^{2}} = \sqrt{10}\) unit.
 
+**Note:**
+
 (1) The Distance travelled by an object in motion in a given time is never negative or zero, it is always positive.
 
 (2) The displacement of an object, in a given time can be positive, zero or negative.
@@ -773,15 +854,11 @@ The magnitude of the displacement vector \(\Delta r = \sqrt{3^{2} + 1^{2}} = \sq
 
 (4) The distance covered by an object between two positions can have many values, but the displacement between them has only one value (in magnitude).
 
-### 2.8
-
 ## DIFFERENTIAL CALCULUS
 
-## The Concept of a function
+### The Concept of a function
 
-1) Any physical quantity is represented by a "function" in mathematics. Take the example of temperature T. We know that the temperature of the surroundings is changing throughout the day. It increases till noon and decreases in the evening. At any
-
-time "t" the temperature T has a unique value. Mathematically this variation can be represented by the notation 'T(t)' and it should be called "temperature as a function of time". It implies that if the value of 't' is given, then the function "T(t)" will give the value of the temperature at that time 't'. Similarly, the position of a bus in motion along the x direction can be represented by x(t) and this is called 'x' as a function of time. Here 'x' denotes the x coordinate.
+1) Any physical quantity is represented by a "function" in mathematics. Take the example of temperature T. We know that the temperature of the surroundings is changing throughout the day. It increases till noon and decreases in the evening. At any time "t" the temperature T has a unique value. Mathematically this variation can be represented by the notation 'T(t)' and it should be called "temperature as a function of time". It implies that if the value of 't' is given, then the function "T(t)" will give the value of the temperature at that time 't'. Similarly, the position of a bus in motion along the x direction can be represented by x(t) and this is called 'x' as a function of time. Here 'x' denotes the x coordinate.
 
 ## Example
 
@@ -796,6 +873,8 @@ Mathematically the derivative \(dy/dx\) is defined as follows
 \(\frac{dy}{dx}\) represents the limit that the quantity \(\frac{\Delta y}{\Delta x}\) attains, as \(\Delta x\) tends to zero.
 
 Graphically this is represented as shown in Figure 2.28.
+
+![](fig-2.28.png)
 
 <center>Figure 2.28 Derivative of a function </center>
 
@@ -846,7 +925,9 @@ These results are tabulated as shown below:
 
 From the above table, the following inferences can be made.
 
-As \(\Delta x\) tends to zero, \(\frac{\Delta y}{\Delta x}\) approaches the limit given by the number 4. At a point \(x = 2\) , the derivative \(\frac{dy}{dx} = 4\) . It should also be mentioned here that \(\Delta x \rightarrow 0\) does not mean that \(\Delta x = 0\) .
+* As \(\Delta x\) tends to zero, \(\frac{\Delta y}{\Delta x}\) approaches the limit given by the number 4.
+* At a point \(x = 2\) , the derivative \(\frac{dy}{dx} = 4\).
+* It should also be mentioned here that \(\Delta x \rightarrow 0\) does not mean that \(\Delta x = 0\) .
 
 This is because, if we substitute \(\Delta x = 0\) , \(\frac{\Delta y}{\Delta x}\) becomes indeterminate.
 
@@ -866,6 +947,7 @@ The table below shows the derivatives of some common functions used in physics
 | \(y = \sin x\) | \(dy/dx = \cos x\) |
 | \(y = \cos x\) | \(dy/dx = -\sin x\) |
 | \(y = \text{constant}\) | \(dy/dx = 0\) |
+| \(y=AB\)| \(dy/dx = A(dB/dx) + (dA/dx)B\)|
 
 In physics, velocity, speed and acceleration are all derivatives with respect to time 't'. This will be dealt with in the next section.
 
@@ -879,15 +961,20 @@ Note that here the independent variable is 't' and the dependent variable is 'x'
 
 \[\frac{dx}{dt} = A_1 + 2A_2 t\]
 
-2.9 INTEGRAL CALCULUS
+The required derivative is \( \frac{dx}{dt} = A_1 + 2A_2 t \)
+
+The second derivative is \( \frac{d^2x}{dt^2} = 2A_2 \)
+
+## INTEGRAL CALCULUS
 
 Integration is an area finding process. For certain geometric shapes we can directly find the area. But for irregular shapes the process of integration is used. Consider for example the areas of a rectangle and an irregularly shaped curve, as shown in Figure 2.29.
 
 The area of the rectangle is simply given by \(A = \text{length} \times \text{breadth} = (b - a)c\)
 
-image[[186, 449, 409, 594]]
+![](fig-2.29.png)
 
 <center>Figure 2.29 Area of rectangular and irregular shape </center>
+
 
 But to find the area of the irregular shaped curve given by \(f(x)\) , we divide the area into rectangular strips as shown in the Figure 2.30.
 
@@ -895,11 +982,14 @@ The area under the curve is approximately equal to sum of areas of each rectangu
 
 This is given by \(A \approx f(a)\Delta x + f(x_1)\Delta x + f(x_2)\Delta x + f(x_3)\Delta x\)
 
+![](fig-2.30.png)
+
 <center>Figure 2.30 Area under the curve using rectangular strip </center>
 
 Where \(f(a)\) is the value of the function \(f(x)\) at \(x = a\) \(f(x_1)\) is the value of \(f(x)\) for \(x = x_1\) and so on.
 
-As we increase the number of strips, the area evaluated becomes more accurate. If the area under the curve is divided into N strips, the area under the curve is given by \(A = \sum_{m=1}^{N} f(x_m) \Delta x\)
+As we increase the number of strips, the area evaluated becomes more accurate. If the area under the curve is divided into N strips, the area under the curve is given by 
+<center>\(A = \sum_{m=1}^{N} f(x_m) \Delta x\)</center>
 
 As the number of strips goes to infinity, \(N \rightarrow \infty\) , the sum becomes an integral,
 
@@ -907,7 +997,9 @@ As the number of strips goes to infinity, \(N \rightarrow \infty\) , the sum bec
 
 The integration will give the total area under the curve f(x). This is shown in Figure 2.31.
 
-图2.31 Relation between summation and integration
+![](fig-2.31.png)
+
+<center>figure 2.31 Relation between summation and integration</center>
 
 ## Examples
 
@@ -919,6 +1011,8 @@ In physics the work done by a force \(F(x)\) on an object to move it from point 
 
 1) The work done is the area under the force displacement graph as shown in Figure 2.32
 
+![](fig-2.32.png)
+
 <center>Figure 2.32 Work done by the force </center>
 
 2) The impulse given by the force in an interval of time is calculated between
@@ -929,13 +1023,13 @@ the interval from time \(t = 0\) to time \(t = t_1\) as
 
 The impulse is the area under the force function \(F(t)\) - t graph as shown in Figure 2.33.
 
+![](fig-2.33.png)
+
 <center>Figure 2.33 Impulse of a force </center>
 
-## Average velocity
+### Average velocity
 
 Consider a particle located initially at point \(\mathrm{P}\) having position vector \(\vec{r}_1\) . In a time interval \(\Delta t\) the particle is moved to the point \(\mathrm{Q}\) having position vector \(\vec{r}_2\) . The displacement vector is \(\Delta \vec{r} = \vec{r}_2 - \vec{r}_1\) . This is shown in Figure 2.34.
-
-1
 
 The average velocity is defined as ratio of the displacement vector to the corresponding time interval
 
@@ -945,23 +1039,27 @@ It is a vector quantity. The direction of average velocity is in the direction o
 
 This is also shown in Figure 2.34.
 
+![](fig-2.34.png)
+
 <center>Figure 2.34 Average velocity </center>
 
-## Average speed
+### Average speed
 
 The average speed is defined as the ratio of total path length travelled by the particle in a time interval.
 
-Average speed = total path length / total time
+##### <center>Average speed = total path length / total time</center>
 
 ## EXAMPLE 2.20
 
 Consider an object travelling in a semicircular path from point O to point P in 5 second, as shown in the Figure given below. Calculate the average velocity and average speed.
 
-image[[194, 778, 408, 891]]
+![](eg-2.20.png)
 
 ## Solution
 
-Average velocity \(\vec{v}_{avg} = \frac{\vec{r}_p - \vec{r}_o}{\Delta t}\)
+Average velocity 
+
+#### <center>\(\vec{v}_{avg} = \frac{\vec{r}_p - \vec{r}_o}{\Delta t}\)</center>
 
 \[\text{Here } \Delta t = 5 \, \text{s}\]
 
@@ -977,7 +1075,9 @@ The average speed = total path length / time taken (the path is semi-circular)
 
 Note that the average speed is greater than the magnitude of the average velocity.
 
-## Instantaneous velocity or velocity
+### Instantaneous velocity or velocity
+
+
 
 The instantaneous velocity at an instant \(t\) or simply 'velocity' at an instant \(t\) is defined as limiting value of the average velocity as \(\Delta t \rightarrow 0\) evaluated at time \(t\)
 
@@ -989,11 +1089,11 @@ In component form, this velocity is
 
 \[\vec{v} = \frac{d\vec{r}}{dt} = \frac{d}{dt} (x\hat{i} + y\hat{j} + z\hat{k})\] \[= \frac{dx}{dt} \hat{i} + \frac{dy}{dt} \hat{j} + \frac{dz}{dt} \hat{k}.\]
 
-Here \(\frac{dx}{dt} = v_x = x-\) component of velocity
+Here 
+\[\frac{dx}{dt} = v_x = x- \text{component of velocity}\]
 
-1
-
-\[\frac{dy}{dt} = v_y = y - \text{component of velocity}\] \[\frac{dz}{dt} = v_z = z - \text{component of velocity}\]
+\[\frac{dy}{dt} = v_y = y - \text{component of velocity}\] 
+\[\frac{dz}{dt} = v_z = z - \text{component of velocity}\]
 
 The magnitude of velocity \(v\) is called speed and is given by
 
@@ -1005,7 +1105,9 @@ Speed is always a positive scalar. The unit of speed is also meter per second.
 
 The position vector of a particle is given \(\vec{r} = 2t\hat{i} + 3t^2 \hat{j} - 5\hat{k}\) .
 
-a) Calculate the velocity and speed of the particle at any instant \(t\) b) Calculate the velocity and speed of the particle at time \(t = 2 \, \text{s}\)
+a) Calculate the velocity and speed of the particle at any instant \(t\) 
+
+b) Calculate the velocity and speed of the particle at time \(t = 2 \, \text{s}\)
 
 ## Solution
 
@@ -1013,13 +1115,13 @@ The velocity \(\vec{v} = \frac{d\vec{r}}{dt} = 2\hat{i} + 6t\hat{j}\)
 
 The speed \(v(t) = \sqrt{2^2 + (6t)^2} \, \text{m} \, \text{s}^{-1}\)
 
-The velocity of the particle at \(t = 2 \, \text{s}\)
+The velocity of the particle at \(t = 2 \, \text{ s}\)
 
-\[\vec{v} (2 \, \text{s}) = 2\hat{i} + 12\hat{j}\]
+\[\vec{v} (2 \, \text{sec}) = 2\hat{i} + 12\hat{j}\]
 
-The speed of the particle at \(t = 2 \, \text{s}\)
+The speed of the particle at \(t = 2 \, \text{ s}\)
 
-\[v(2) = \sqrt{2^2 + 12^2} = \sqrt{4 + 144} = \sqrt{148} \approx 12.17 \, \text{m} \, \text{s}^{-1}\]
+\[v(2 s) = \sqrt{2^2 + 12^2} = \sqrt{4 + 144} = \sqrt{148} \approx 12.17 \, \text{m} \, \text{s}^{-1}\]
 
 Note that the particle has velocity components along \(x\) and \(y\) direction. Along the \(z\) direction the position has constant value \((-5)\) which is independent of time. Hence there is no \(z\) - component for the velocity.
 
@@ -1049,15 +1151,13 @@ Two cars are travelling with respective velocities \(\vec{v}_1 = 10 \, \text{m} 
 
 ## Solution
 
-Both cars have the same magnitude of velocity. This implies that both cars travel at the same speed even though they have
+Both cars have the same magnitude of velocity. This implies that both cars travel at the same speed even though they have velocities in different directions. Speed will not give the direction of motion.
 
-velocities in different directions. Speed will not give the direction of motion.
+![](motion.png)
 
-<center>Speedometer </center>
+### Momentum
 
-## Momentum
-
-The linear momentum or simply momentum of a particle is defined as product of mass with velocity. It is denoted as \(\vec{p}\) . Momentum is also a vector quantity.
+The linear momentum or simply momentum of a particle is defined as product of mass with velocity. It is denoted as '\(\vec{p}\) ' . Momentum is also a vector quantity.
 
 \[\vec{p} = m\vec{v}.\]
 
@@ -1099,23 +1199,20 @@ For the mass of \(1 \, \text{kg}\)
 
 Thus even though both the masses have the same speed, the momentum of the heavier mass is 100 times greater than that of the lighter mass.
 
-## 2.10
+## MOTION ALONG ONE DIMENSION
 
-# MOTION ALONG ONE DIMENSION
-
-### 2.10.1 Average velocity
+### Average velocity
 
 If a particle moves in one dimension, say for example along the \(x\) direction, then
 
 \[\text{The average velocity} = \frac{\Delta x}{\Delta t} = \frac{x_2 - x_1}{t_2 - t_1}.\]
 
-1
 
 The average velocity is also a vector quantity. But in one dimension we have only two directions (positive and negative \(x\) direction), hence we use positive and negative signs to denote the direction.
 
-The instantaneous velocity or velocity is
+The instantaneous velocity or velocity is defined as 
 
-defined as \(\quad v = \lim_{\Delta t \to 0} \frac{\Delta x}{\Delta t} = \frac{dx}{dt}\)
+\(\quad v = \lim_{\Delta t \to 0} \frac{\Delta x}{\Delta t} = \frac{dx}{dt}\)
 
 Graphically the slope of the position- time graph will give the velocity of the particle. At the same time, if velocity time graph is given, the distance and displacement are determined by calculating the area under the curve. This is explained below.
 
@@ -1131,6 +1228,9 @@ Since the left hand side of the integration represents the displacement travelle
 
 velocity time graph will give the displacement of the particle. If the area is negative, it means that displacement is negative, so the particle has travelled in the negative direction. This is shown in the Figure 2.35 below.
 
+![](fig-2.35.png)
+<center>Figure 2.35 Displacement in the velocity-time graph </center>
+
 ## EXAMPLE 2.25
 
 A particle moves along the \(x\) - axis in such a way that its coordinates \(x\) varies with time 't' according to the equation \(x = 2 - 5t + 6t^2\) . What is the initial velocity of the particle?
@@ -1141,15 +1241,15 @@ A particle moves along the \(x\) - axis in such a way that its coordinates \(x\)
 
 The negative sign implies that at \(t = 0\) the velocity of the particle is along negative \(x\) direction.
 
-Average speed = total path length / total time period
+> #### Average speed = total path length / total time period
 
-<center>Figure 2.35 Displacement in the velocity-time graph </center>
 
-2.10.2 Relative Velocity in One and Two Dimensional Motion
+
+### Relative Velocity in One and Two Dimensional Motion
 
 When two objects A and B are moving with different velocities, then the velocity of one object A with respect to another object B is called relative velocity of object A with respect to B.
 
-## Case 1
+#### Case 1
 
 Consider two objects A and B moving with uniform velocities \(\vec{V}_A\) and \(\vec{V}_B\) as shown, along straight tracks in the same direction \(\vec{V}_A\) \(\vec{V}_B\) with respect to ground.
 
@@ -1163,7 +1263,7 @@ Thus, if two objects are moving in the same direction, the magnitude of relative
 
 Suppose two cars A and B are moving with uniform velocities with respect to ground along parallel tracks and in the same direction. Let the velocities of A and B be \(35 \, \text{km} \, \text{h}^{-1}\) due east and \(40 \, \text{km} \, \text{h}^{-1}\) due east respectively. What is the relative velocity of car B with respect to A?
 
-image[[158, 746, 447, 899]]
+![](eg-2.26.png)
 
 ## Solution
 
@@ -1173,7 +1273,7 @@ Similarly, the relative velocity of A with respect to B i.e., \(\vec{v}_{AB} = \
 
 To a passenger in the car A, the car B will appear to be moving east with a velocity \(5 \, \text{km} \, \text{h}^{-1}\) . To a passenger in car B, the car A will appear to move westwards with a velocity of \(5 \, \text{km} \, \text{h}^{-1}\)
 
-## Case 2
+#### Case 2
 
 Consider two objects A and B moving with uniform velocities \(\vec{V}_A\) and \(\vec{V}_B\) along the same straight tracks but opposite in direction
 
@@ -1189,7 +1289,7 @@ The relative velocity of object B with respect to object A is
 
 Thus, if two objects are moving in opposite directions, the magnitude of relative velocity of one object with respect to other is equal to the sum of magnitude of their velocities.
 
-## Case 3
+#### Case 3
 
 Consider the velocities \(\vec{v}_A\) and \(\vec{v}_B\) at an angle \(\theta\) between their directions.
 
@@ -1208,6 +1308,8 @@ Similarly, \(v_{BA} = (v_B + v_A)\) in the direction of \(\vec{v}_B\) .
 (iii) If the two bodies are moving at right angles to each other, then \(\theta = 90^{\circ}\) . The magnitude of the relative velocity of A with respect to \(B = v_{AB} = \sqrt{v_A^2 + v_B^2}\) .
 
 (iv) Consider a person moving horizontally with velocity \(\vec{v}_M\) . Let rain fall vertically with velocity \(\vec{v}_R\) . An umbrella is held to avoid the rain. Then the relative velocity of the rain with respect to the person is, (Figure 2.36)
+
+![](fig-2.36.png)
 
 <center>Figure 2.36 Angle of umbrella with respect to rain </center>
 
@@ -1231,7 +1333,7 @@ Relative velocity of A with respect to B, \(v_{AB} = 80 \, \text{km} \, \text{h}
 
 Thus to a passenger in train B, the train A will appear to move east with a velocity of \(80 \, \text{km} \, \text{h}^{-1}\)
 
-1 The relative velocity of B with respect to A, \(v_{BA} = 80 \, \text{km} \, \text{h}^{-1}\) due west
+1 The relative velocity of B with respect to A, \(v_{BA} = 8`  `` ` \, \text{km} \, \text{h}^{-1}\) due west
 
 To a passenger in train A, the train B will appear to move westwards with a velocity of \(80 \, \text{km} \, \text{h}^{-1}\)
 
@@ -1279,13 +1381,13 @@ From Equation (1),
 
 When the river flow and swimmer move in the same direction, the net velocity of swimmer is \(12 \, \text{km} \, \text{h}^{-1}\) .
 
-## Accelerated Motion
+### Accelerated Motion
 
 During non- uniform motion of an object, the velocity of the object changes from instant to instant i.e., the velocity of the object is no more constant but changes
 
 1) In accelerated motion, if the change in velocity of an object per unit time is same (constant) then the object is said to be moving with uniformly accelerated motion. ii) On the other hand, if the change in velocity per unit time is different at different times, then the object is said to be moving with non- uniform accelerated motion.
 
-## Average acceleration
+### Average acceleration
 
 If an object changes its velocity from \(\vec{v}_1\) to \(\vec{v}_2\) in a time interval \(\Delta t = t_2 - t_1\) , then the average acceleration is defined as the ratio of change in velocity over the time interval \(\Delta t = t_2 - t_1\)
 
@@ -1293,7 +1395,7 @@ If an object changes its velocity from \(\vec{v}_1\) to \(\vec{v}_2\) in a time 
 
 Average acceleration is a vector quantity in the same direction as the vector \(\Delta \vec{v}\) .
 
-## Instantaneous acceleration
+### Instantaneous acceleration
 
 Usually, the average acceleration will give the change in velocity only over the entire time interval. It will not give value of the acceleration at any instant time t.
 
@@ -1329,39 +1431,38 @@ From \(\frac{dv}{dt} = a\) , we have \(dv = a \, dt\) ; hence
 
 For an initial time \(t_1\) and final time \(t_2\)
 
-1
 
 ## EXAMPLE 2.31
 
 A velocity- time graph is given for a particle moving in \(x\) direction, as below
 
-image[[131, 176, 478, 342]]
+![](eg-2.31.png)
 
 a) Describe the motion qualitatively in the interval 0 to 55 s.
+
 b) Find the distance and displacement travelled from 0 s to 40 s.
+
 c) Find the acceleration at \(t = 5\) s and at \(t = 20\) s
 
 ## Solution
 
-a) From O to A: (0 s to 10 s)
+a) **From O to A: (0 s to 10 s)**
 
 At \(t = 0\) s the particle has zero velocity. At \(t > 0\) , particle has positive velocity and moves in the positive \(x\) direction. From 0 s to 10 s the slope \(\left(\frac{dv}{dt}\right)\) is positive, implying the particle is accelerating. Thus the velocity increases during this time interval.
 
-## From A to B: (10 s to 15 s)
+**From A to B: (10 s to 15 s)**
 
 From 10 s to 15 s the velocity stays constant at \(60 \, \text{m} \, \text{s}^{-1}\) . The acceleration is 0 during this period. But the particle continues to travel in the positive \(x\) - direction.
 
-## From B to C: (15 s to 30 s)
+**From B to C: (15 s to 30 s)**
 
-From the 15 s to 30 s the slope is negative, implying the velocity is decreasing. But the particle is moving
+From the 15 s to 30 s the slope is negative, implying the velocity is decreasing. But the particle is moving in the positive \(x\) direction. At \(t = 30\) s the velocity becomes zero, and the particle comes to rest momentarily at \(t = 30\) s.
 
-in the positive \(x\) direction. At \(t = 30\) s the velocity becomes zero, and the particle comes to rest momentarily at \(t = 30\) s.
-
-## From C to D: (30 s to 40 s)
+**From C to D: (30 s to 40 s)**
 
 From 30 s to 40 s the velocity is negative. It implies that the particle starts to move in the negative \(x\) direction. The magnitude of velocity increases to a maximum \(40 \, \text{m} \, \text{s}^{-1}\)
 
-## From D to E: (40 s to 55 s)
+**From D to E: (40 s to 55 s)**
 
 From 40 s to 55 s the velocity is still negative, but starts increasing from \(-40 \, \text{m} \, \text{s}^{-1}\) At \(t = 55\) s the velocity of the particle is zero and particle comes to rest.
 
@@ -1374,8 +1475,6 @@ The displacement travelled from 10 s to \(15 \, \text{s} = 60 \times 5 = 300 \, 
 The displacement travelled from 15 s to \(30 \, \text{s} = \frac{1}{2} \times 15 \times 60 = 450 \, \text{m}\)
 
 The displacement travelled from \(30 \, \text{s}\) to \(40 \, \text{s} = \frac{1}{2} \times 10 \times (-40) = -200 \, \text{m}\) Here the negative sign implies that the particle travels \(200 \, \text{m}\) in the negative \(x\) direction.
-
-1
 
 The total displacement from 0 s to 40 s is given by
 
@@ -1397,7 +1496,7 @@ If the position vector of the particle is given by \(\vec{r} = 3t^2 \hat{i} + 5t
 
 a) The velocity of the particle at \(t = 3 \, \text{s}\) b) Speed of the particle at \(t = 3 \, \text{s}\) c) acceleration of the particle at time \(t = 3 \, \text{s}\)
 
-## Solution
+### Solution
 
 (a) The velocity \(\vec{v} = \frac{d\vec{r}}{dt} = \frac{dx}{dt} \hat{i} + \frac{dy}{dt} \hat{j} + \frac{dz}{dt} \hat{k}\)
 
@@ -1417,9 +1516,11 @@ The acceleration has only the \(x\) - component. Note that acceleration here is 
 
 An object is thrown vertically downward. What is the acceleration experienced by the object?
 
-## Solution
+###  Solution
 
 We know that when the object falls towards the Earth, it experiences acceleration due to gravity \(g = 9.8 \, \text{m} \, \text{s}^{-2}\) downward. We can choose the coordinate system as shown in the figure.
+
+![](eg-2.33.png)
 
 2.10.3 Equations of Uniformly Accelerated Motion by Calculus Method
 
@@ -1427,15 +1528,17 @@ The acceleration is along the negative y direction.
 
 \[\vec{a} = g(-\vec{j}) = -\vec{g}\]
 
+**Note:**
+
 For convenience, sometimes we take the downward direction as positive Y- axis. As a vertically falling body accelerates downwards, g is taken as positive in this direction. \((a = g)\)
 
-### 2.10.3 Equations of Uniformly Accelerated Motion by Calculus Method
+### Equations of Uniformly Accelerated Motion by Calculus Method
 
 Consider an object moving in a straight line with uniform or constant acceleration a.
 
 Let u be the velocity of the object at time \(t = 0\) and v be velocity of the body at a later time t.
 
-## Velocity-time relation
+### Velocity-time relation
 
 (i) The acceleration of the body at any instant is given by the first derivative of the velocity with respect to time,
 
@@ -1447,7 +1550,7 @@ Integrating both sides with the condition that as time changes from 0 to t, the 
 
 If a is dependent on time t, a cannot be brought outside the time integral.
 
-## Displacement-time relation
+### Displacement-time relation
 
 (ii) The velocity of the body is given by the first derivative of the displacement with respect to time.
 
@@ -1461,7 +1564,7 @@ Assume that initially at time \(t = 0\) the particle started from the origin. At
 
 \[\int_{0}^{s} ds = \int_{0}^{t} u \, dt + \int_{0}^{t} at \, dt \quad (\text{or}) \quad s = ut + \frac{1}{2} at^2 \quad (2.8)\]
 
-## Velocity-displacement relation
+### Velocity-displacement relation
 
 (iii) The acceleration is given by the first derivative of velocity with respect to time.
 
@@ -1489,7 +1592,7 @@ Substitute this in equation (2.8), we get
 
 The equations (2.7), (2.8), (2.9) and (2.10) are called kinematic equations of motion, and have a wide variety of practical applications.
 
-## Kinematic equations
+### Kinematic equations
 
 \[v = u + at\] \[s = ut + \frac{1}{2} at^2\] \[v^2 = u^2 + 2as\] \[s = \frac{(u+v)t}{2}\]
 
@@ -1500,6 +1603,8 @@ It is to be noted that all these kinematic equations are valid only if the motio
 A practical example of a straight line motion with constant acceleration is the motion of an object near the surface of the Earth. We know that near the surface of the Earth, the acceleration due to gravity 'g' is constant. All straight line motions under this acceleration can be well understood using the kinematic equations given earlier.
 
 Case (i): A body falling from a height h
+
+![](fig-2.37.png)
 
 <center>Figure 2.37 An object in free fall </center>
 
@@ -1513,11 +1618,9 @@ By comparing the components, we get
 
 Let us take for simplicity, \(a_y = a = g\)
 
-1
-
 If the particle is thrown with initial velocity 'u' downward which is in negative y axis, then velocity and position at of the particle any time t is given by
 
-\[\begin{aligned} v &= u + gt \\ y &= ut + \frac{1}{2} gt^2 \end{aligned} \quad (2.11)\]
+\[\begin{aligned} v &= u + gt  \quad \quad (2.11)\\ y &= ut + \frac{1}{2} gt^2 \quad (2.12) \end{aligned} \]
 
 The square of the speed of the particle when it is at a distance y from the hill- top, is
 
@@ -1529,11 +1632,11 @@ Then \(u = 0\)
 
 Then the velocity v, the position of the particle and \(v^2\) at any time t are given by (for a point y from the hill- top)
 
-\[\begin{aligned} v &= gt \\ y &= \frac{1}{2} gt^2 \\ v^2 &= 2gy \end{aligned} \quad (2.16)\]
+\[\begin{aligned} v &= gt \quad (2.14)\\ y &= \frac{1}{2} gt^2 \quad (2.15)\\ v^2 &= 2gy \quad (2.16) \end{aligned} \]
 
-The time \(t = T\) taken by the particle to reach the ground (for which \(y = h\) ), is given by using equation (2.15),
+The time \((t = T)\) taken by the particle to reach the ground (for which \(y = h\) ), is given by using equation (2.15),
 
-\[\begin{aligned} h &= \frac{1}{2} gT^2 \\ T &= \sqrt{\frac{2h}{g}} \end{aligned} \quad (2.17)\]
+\[\begin{aligned} h &= \frac{1}{2} gT^2 \quad (2.17) \\ T &= \sqrt{\frac{2h}{g}} \quad (2.18)\end{aligned}\]
 
 The equation (2.18) implies that greater the height \((h)\) , particle takes more time \((T)\) to reach the ground. For lesser height \((h)\) , it takes lesser time to reach the ground.
 
@@ -1550,9 +1653,10 @@ The motion of a body falling towards the Earth from a small altitude \((h \ll R)
 An iron ball and a feather are both falling from a height of \(10 \, \text{m}\) .
 
 a) What are the time taken by the iron ball and feather to reach the ground?
+
 b) What are the velocities of iron ball and feather when they reach the ground? (Ignore air resistance and take \(g = 10 \, \text{m} \, \text{s}^{-2}\) )
 
-## Solution
+### Solution
 
 Since kinematic equations are independent of mass of the object, according to equation (2.8) the time taken by both iron ball and feather to reach the ground are the same. This is given by
 
@@ -1560,15 +1664,13 @@ Since kinematic equations are independent of mass of the object, according to eq
 
 Thus, both feather and iron ball reach ground at the same time.
 
-1
-
 By following equation (2.19) both iron ball and feather reach the Earth with the same speed. It is given by
 
 \[v = \sqrt{2gh} = \sqrt{2 \times 10 \times 10}\] \[= \sqrt{200} \, \text{m} \, \text{s}^{-1} \approx 14.14 \, \text{m} \, \text{s}^{-1}\]
 
 Galileo concluded that in vacuum all objects fall with the same acceleration \(g\) and reach the ground at the same time.
 
-image[[300, 319, 695, 519]]
+![](eg-2.35.png)
 
 https://www.youtube.com/watch?v=E43- CfukEgs&t=5s
 
@@ -1576,11 +1678,9 @@ https://www.youtube.com/watch?v=E43- CfukEgs&t=5s
 
 Is it possible to measure the depth of a well using kinematic equations?
 
-image[[136, 679, 477, 841]]
+![](eg-2.35.1.png)
 
-Consider a well without water, of some depth \(d\) . Take a small object (for example lemon) and a stopwatch. When you drop the
-
-lemon, start the stop watch. As soon as the lemon touches the bottom of the well, stop the watch. Note the time taken by the lemon to reach the bottom and denote the time as \(t\) .
+Consider a well without water, of some depth \(d\) . Take a small object (for example lemon) and a stopwatch. When you drop the lemon, start the stop watch. As soon as the lemon touches the bottom of the well, stop the watch. Note the time taken by the lemon to reach the bottom and denote the time as \(t\) .
 
 Since the initial velocity of lemon \(u = 0\) and the acceleration due to gravity \(g\) is constant over the well, we can use the equations of motion for constant acceleration.
 
@@ -1592,7 +1692,7 @@ Since \(u = 0, s = d, a = g\) (Since we choose the y axis downwards), Then
 
 Substituting \(g = 9.8 \, \text{m} \, \text{s}^{-2}\) we get the depth of the well.
 
-image[[137, 197, 479, 369]]
+![](eg-2.3.png)
 
 To estimate the error in our calculation we can use another method to measure the depth of the well. Take a long rope and hang the rope inside the well till it touches the bottom. Measure the length of the rope which is the correct depth of the well \((d_{\text{correct}})\) . Then
 
@@ -1608,13 +1708,15 @@ What would be the reason for an error, if any?
 
 Repeat the experiment for different masses and compare the result with \(d_{\text{correct}}\) every time.
 
-image[[143, 794, 206, 851]]
+**Note:**
 
 If there is water in the well, this method can be used to measure depth of the well till the surface of the water.
 
-## Case (ii): A body thrown vertically upwards
+### Case (ii): A body thrown vertically upwards
 
 Consider an object of mass \(m\) thrown vertically upwards with an initial velocity \(u\) . Let us neglect the air friction. In this case we choose the vertical direction as positive \(y\) axis as shown in the Figure 2.38, then the acceleration \(a = -g\) (neglect air friction) and \(g\) points towards the negative \(y\) axis. The kinematic equations for this motion are,
+
+![](fig-2.38.PNG)
 
 <center>Figure 2.38. An object thrown vertically </center>
 
@@ -1625,14 +1727,13 @@ The velocity and position of the object at any time t are,
 The velocity of the object at any position \(y\) (from the point where the object is thrown) is
 
 \[v^2 = u^2 - 2gy \quad (2.22)\]
-
-2. A bullet fired from a rifle. 3. A ball thrown in any direction. 4. A javelin or shot put thrown by an athlete. 5. A jet of water issuing from a hole near the bottom of a water tank.
+.
 
 ## EXAMPLE 2.36
 
 A train was moving at the rate of \(54 \, \text{km} \, \text{h}^{-1}\) when brakes were applied. It came to rest within a distance of \(225 \, \text{m}\) . Calculate the retardation produced in the train.
 
-## Solution
+### Solution
 
 The final velocity of the particle \(v = 0\) The initial velocity of the particle
 
@@ -1646,9 +1747,28 @@ Retardation is always against the velocity of the particle.
 
 Hence, retardation \(= 0.5 \, \text{m} \, \text{s}^{-2}\)
 
+
+
+## PROJECTILE MOTION
+
+### Introduction
+
+When an object is thrown in the air with some initial velocity (NOT just upwards), and then allowed to move under the action of gravity alone, the object is known as a projectile. The path followed by the particle is called its trajectory.
+
+#### Examples of projectile are
+
+1. An object dropped from window of a moving train.
+2. A bullet fired from a rifle. 
+3. A ball thrown in any direction. 
+4. A javelin or shot put thrown by an athlete.
+5. A jet of water issuing from a hole near the bottom of a water tank
+
+
 It is found that a projectile moves under the combined effect of two velocities.
 
-i) A uniform velocity in the horizontal direction, which will not change provided there is no air resistance. ii) A uniformly changing velocity (i.e., increasing or decreasing) in the vertical direction.
+i) A uniform velocity in the horizontal direction, which will not change provided there is no air resistance. 
+
+ii) A uniformly changing velocity (i.e., increasing or decreasing) in the vertical direction.
 
 There are two types of projectile motion:
 
@@ -1656,33 +1776,26 @@ There are two types of projectile motion:
 
 To study the motion of a projectile, let us assume that,
 
-i) Air resistance is neglected. ii) The effect due to rotation of Earth and curvature of Earth is negligible. iii) The acceleration due to gravity is constant in magnitude and direction at all points of the motion of the projectile.
+i) Air resistance is neglected. 
 
-## 2.11
+ii) The effect due to rotation of Earth and curvature of Earth is negligible.
 
-## PROJECTILE MOTION
-
-#### 2.11.1 Introduction
-
-When an object is thrown in the air with some initial velocity (NOT just upwards), and then allowed to move under the action of gravity alone, the object is known as a projectile. The path followed by the particle is called its trajectory.
-
-## Examples of projectile are
-
-1. An object dropped from window of a moving train.
-
-### 2.11.2 Projectile in horizontal projection
+ iii) The acceleration due to gravity is constant in magnitude and direction at all points of the motion of the projectile.
+### Projectile in horizontal projection
 
 Consider a projectile, say a ball, thrown horizontally with an initial velocity \(\vec{u}\) from the top of a tower of height \(h\) (Figure 2.39).
 
-As the ball moves, it covers a horizontal distance due to its uniform horizontal
+
+
+![](fig-2.39.png)
 
 <center>Figure 2.39 Horizontal Projection. </center>
-
+As the ball moves, it covers a horizontal distance due to its uniform horizontal
 velocity \(u\) and a vertical downward distance because of constant acceleration due to gravity \(g\) . Thus, under the combined effect the ball moves along the path OPA. The motion is in a 2- dimensional plane. Let the ball take time \(t\) to reach the ground at point A, Then the horizontal distance travelled by the ball is \(x(t) = x\) and the vertical distance travelled is \(y(t) = y\)
 
 We can apply the kinematic equations along the \(x\) direction and \(y\) direction separately. Since this is two- dimensional motion, the velocity will have both horizontal component \(u_x\) and vertical component \(u_y\) .
 
-## Motion along horizontal direction
+### Motion along horizontal direction
 
 The particle has zero acceleration along \(x\) direction. So, the initial velocity \(u_x\) remains constant throughout the motion.
 
@@ -1690,7 +1803,7 @@ The distance traveled by the projectile at a time \(t\) is given by the equation
 
 \[x = u_x t \quad (2.23)\]
 
-## Motion along downward direction
+### Motion along downward direction
 
 Here \(u_y = 0\) (initial velocity has no downward component), \(a = g\) (we choose the \(+\)ve y- axis in downward direction), and distance \(y\) at time t
 
@@ -1708,35 +1821,38 @@ where \(K = \frac{g}{2u_x^2}\) is constant
 
 Equation (2.25) is the equation of a parabola. Thus, the path followed by the projectile is a parabola (curve OPA in the Figure 2.39).
 
-(1) Time of Flight: The time taken for the projectile to complete its trajectory or time taken by the projectile to hit the ground is called time of flight.
+(1) **Time of Flight:** The time taken for the projectile to complete its trajectory or time taken by the projectile to hit the ground is called time of flight.
 
 Consider the example of a tower and projectile. Let h be the height of a tower. Let T be the time taken by the projectile to hit the ground, after being thrown horizontally from the tower.
 
-Unit 2 Kinematics
-83
 We know that \(s_y = u_y t + \frac{1}{2} a t^2\) for vertical 
 motion. Here \(s_y = h\), \(t = T\), \(u_y = 0\) (i.e., no 
 initial vertical velocity). Then
-\(h = \frac{1}{2} g T^2\)
+
+<center>\(h = \frac{1}{2} g T^2\)
 or
-\(T = \sqrt{\frac{2h}{g}}\)
-Thus, the time of flight for projectile 
-motion depends on the height of the tower, 
-but is independent of the horizontal velocity 
-of projection. If one ball falls vertically and 
-another ball is projected horizontally with 
-some velocity, both the balls will reach the 
-bottom at the same time. This is illustrated 
-in the Figure 2.40.
+\(T = \sqrt{\frac{2h}{g}}\)</center>
+
+
+Thus, the time of flight for projectile motion depends on the height of the tower, 
+but is independent of the horizontal velocity of projection. If one ball falls vertically and another ball is projected horizontally with 
+some velocity, both the balls will reach the bottom at the same time. This is illustrated in the Figure 2.40.
+
+![](fig-2.40.png)
+
 Figure 2.40 Vertical distance covered by 
 the two particles is same in equal intervals.
-(2) Horizontal range: The horizontal 
+
+
+(2)** Horizontal range: **The horizontal 
 distance covered by the projectile from the foot 
 of the tower to the point where the projectile 
 hits the ground is called horizontal range.
 For horizontal motion, we have 
  
-\(s_x = u_x t + \frac{1}{2} a t^2\).
+><center>\(s_x = u_x t + \frac{1}{2} a t^2\).</center>
+
+
 Here, \(s_x = R\) (range), \(u_x = u\), \(a = 0\) (no 
 horizontal acceleration) T is time of flight. 
 Then horizontal range = uT.
@@ -1747,6 +1863,8 @@ The above equation implies that the
 range R is directly proportional to the initial 
 velocity u and inversely proportional to 
 acceleration due to gravity g.
+
+
 (3) Resultant Velocity (Velocity of 
 projectile at any time): At any instant t, the 
 projectile has velocity components along 
@@ -1754,23 +1872,23 @@ both x-axis and y-axis. The resultant of
 these two components gives the velocity of 
 the projectile at that instant t, as shown in 
 Figure 2.41.
-u
-O
-P
-A
-vy
-vx
-v(t)
-β
+<center>
+
+![](fig-2.41.png)
+
 Figure 2.41. Velocity 
-resolved into two components
+resolved into two components</center>
 
 The velocity component at any t along 
 horizontal (x-axis) is \(v_x = u_x + a_x t\)
+
+
 Since, \(u_x = u\), \(a_x = 0\), we get
- 
+ <center>
 \(v_x = u\) 
 → (2.26)
+</center>
+
 
 The component of velocity along vertical direction \((y\) - axis) is \(v_y = u_y + a_y t\)
 
@@ -1783,6 +1901,8 @@ Hence the velocity of the particle at any instant is
 \[\bar{v} = u \hat{i} + g t \hat{j}\]
 
 The speed of the particle at any instant \(t\) is given by
+
+\[v = \sqrt{v^2_x + v^2_y}\]
 
 \[v = \sqrt{u^2 + g^2 t^2}\]
 
@@ -1800,7 +1920,7 @@ The speed of the particle when it reaches the ground is
 
 \[v = \sqrt{u^2 + 2gh}\]
 
-#### 2.11.3 Projectile under an angular projection
+#### Projectile under an angular projection
 
 This projectile motion takes place when the initial velocity is not horizontal, but at some angle with the vertical, as shown in Figure 2.42.
 
@@ -1808,15 +1928,14 @@ This projectile motion takes place when the initial velocity is not horizontal, 
 
 Examples:
 
-Water ejected out of a hose pipe held obliquely.
+* Water ejected out of a hose pipe held obliquely.
+- Cannon fired in a battle ground.
 
-Cannon fired in a battle ground.
+![](fig-2.42.png)
 
 <center>(a) Water is ejected out of a pipe held obliquely </center>
 
 <center>Figure 2.42. Projectile motion </center>
-
-1
 
 Consider an object thrown with initial velocity \(\vec{u}\) at an angle \(\theta\) with the horizontal. Refer Figures 2.42 and 2.43.
 
@@ -1833,6 +1952,8 @@ Hence after the time t, the velocity along horizontal motion \(v_x = u_x + a_x t
 The horizontal distance travelled by projectile in time t is \(s_x = u_x t + \frac{1}{2} a_x t^2\)
 
 Here, \(s_x = x\), \(u_x = u \cos \theta\), \(a_x = 0\)
+
+![](fig-2.43.png)
 
 <center>Figure 2.43. Initial velocity resolved into components </center>
 
@@ -1854,7 +1975,7 @@ Substitute the value of \(t\) from equation (2.28) in equation (2.30), we have
 
 Thus the path followed by the projectile is an inverted parabola.
 
-## Maximum height \((h_{\text{max}})\)
+#### Maximum height \((h_{\text{max}})\)
 
 The maximum vertical distance travelled by the projectile during its journey is called maximum height. This is determined as follows:
 
@@ -1866,7 +1987,7 @@ Here, \(u_y = u \sin \theta\), \(a_y = -g\), \(s = h_{\text{max}}\) and at the m
 
 \[0 = u^2 \sin^2 \theta - 2 g h_{\text{max}} \quad \text{Or} \quad h_{\text{max}} = \frac{u^2 \sin^2 \theta}{2g}\]
 
-## Time of flight \((T_f)\)
+#### Time of flight \((T_f)\)
 
 The total time taken by the projectile from the point of projection till it hits the horizontal plane is called time of flight.
 
@@ -1880,7 +2001,7 @@ Here, \(s_y = y = 0\) (net displacement in \(y\) - direction is zero), \(u_y = u
 
 \[T_f = \frac{2u \sin \theta}{g}\]
 
-## Horizontal range (R)
+#### Horizontal range (R)
 
 The maximum horizontal distance between the point of projection and the point on the horizontal plane where the projectile hits the ground is called horizontal range (R). This is found easily since the horizontal component of initial velocity remains the same. We can write
 
@@ -1898,17 +2019,18 @@ This means that if the particle is projected at 45 degrees with respect to horiz
 
 \[R_{\text{max}} = \frac{u^2}{g} \quad (2.34)\]
 
-image[[519, 444, 868, 664]]
+![](projection.png)
 
 In Tamil Nadu there is an interesting traditional game 'kitti pull'. When the 'pull' is hit by the kitti, the path followed by the pull is 'parabolic'.
 
-1
+https://elearn.tnschools.gov.in/etb/GLN42
 
-## EXAMPLE 2.37
+
+### EXAMPLE 2.37
 
 Suppose an object is thrown with initial speed \(10 \, \text{m} \, \text{s}^{-1}\) at an angle \(\pi/4\) with the horizontal, what is the range covered? Suppose the same object is thrown similarly in the Moon, will there be any change in the range? If yes, what is the change? (The acceleration due to gravity in the Moon \(g_{\text{moon}} = \frac{1}{6} g\) )
 
-## Solution
+### Solution
 
 In projectile motion, the range of particle is given by,
 
@@ -1920,13 +2042,13 @@ If the same object is thrown in the Moon, the range will increase because in the
 
 The range attained on the Moon is approximately six times that on Earth.
 
-## EXAMPLE 2.38
+### EXAMPLE 2.38
 
 In the cricket game, a batsman strikes the ball such that it moves with the speed \(30 \, \text{m} \, \text{s}^{-1}\) at an angle \(30^{\circ}\) with the horizontal as shown in the figure. The boundary line of the cricket ground is located at a distance of \(75 \, \text{m}\) from the batsman? Will the ball go for a six? (Neglect the air resistance and take acceleration due to gravity \(g = 10 \, \text{m} \, \text{s}^{-2}\) ).
 
-image[[529, 287, 868, 641]]
+![](eg-2.38.png)
 
-## Solution
+### Solution
 
 The motion of the cricket ball in air is essentially a projectile motion. As we have already seen, the range (horizontal distance) of the projectile motion is given by
 
@@ -1940,11 +2062,13 @@ The horizontal distance travelled by the cricket ball
 
 This distance is greater than the distance of the boundary line. Hence the ball will cross this line and go for a six.
 
-### 2.11.4 Introduction to Degrees and Radians
+### Introduction to Degrees and Radians
 
 In measuring angles, there are several possible units used, but the most common units are degrees and radians. Radians are used in measuring area, volume, and circumference of circles and surface area of spheres.
 
 Radian describes the planar angle subtended by a circular arc at the centre of a circle. It is defined as the length of the arc divided by the radius of the arc. One radian is the angle subtended at the centre of a circle by an arc that is equal in length to the radius of the circle. This is shown in the Figure 2.44.
+
+![](fig-2.44.png)
 
 <center>Figure 2.44 One radian (shown in yellow color) </center>
 
@@ -1954,13 +2078,13 @@ a circle, the total angle covered is equivalent to \(360^{\circ}\) . Thus, a cir
 
 Hence we write \(360^{\circ} = 2\pi\) radians or 1 radians \(= \frac{180}{\pi}\) degrees which means 1 rad \(\cong 57.27^{\circ}\)
 
-## EXAMPLE 2.39
+### EXAMPLE 2.39
 
 Calculate the angle \(\theta\) subtended by the two adjacent wooden spokes of a bullock cart wheel is shown in the figure. Express the angle in both radian and degree.
 
-image[[529, 415, 864, 617]]
+![](ex-2.39.png)
 
-## Solution
+### Solution
 
 The full wheel subtends \(2\pi\) radians at the centre of the wheel. The wheel is divided into 12 parts (arcs).
 
@@ -1970,7 +2094,27 @@ Since, \(\pi\) rad \(= 180^{\circ}\) \(\frac{\pi}{6}\) radian is equal to 30 deg
 
 The angle subtended by two adjacent wooden spokes is 30 degree at the centre.
 
-2.11.5 Angular displacementConsider a particle revolving around a point O in a circle of radius r (Figure 2.45). Let the position of the particle at time \(t = 0\) be A and after time \(t\) , its position is B.
+**Note:**
+
+The number π plays a very
+important role in both
+physics and mathematics. It
+is an irrational number which cannot
+be expressed in finite decimal form.
+However, we can approximate π as ≈ 3.14
+or
+22/
+7
+. But we should not forget that
+3.14 or 22/7
+is only an approximation to π
+and not equal to π.
+
+### Angular displacement
+
+Consider a particle revolving around a point O in a circle of radius r (Figure 2.45). Let the position of the particle at time \(t = 0\) be A and after time \(t\) , its position is B.
+
+![](fig-2.45.png)
 
 <center>Figure 2.45 Angular displacement </center>
 
@@ -1986,7 +2130,7 @@ The angular displacement \((\theta)\) in radian is related to arc length S (AB) 
 
 \[\theta = \frac{S}{r}, \quad \text{or} \quad S = r \theta\]
 
-## Angular velocity \((\bar{\omega})\)
+### Angular velocity \((\bar{\omega})\)
 
 The rate of change of angular displacement is called angular velocity.
 
@@ -1996,19 +2140,24 @@ If \(\theta\) is the angular displacement in time t, then the angular velocity \
 
 The unit of angular velocity is radian per second (rad \(\text{s}^{-1}\) ). The direction of angular velocity is along the axis of rotation following the right hand rule. This is shown in Figure 2.46.
 
+![](fig-2.46.png)
+
 <center>Figure 2.46 Direction of angular velocity </center>
 
-i) Angular acceleration (\(\alpha\)) The rate of change of angular velocity is called angular acceleration.
+**i) Angular acceleration (\(\alpha\))**
+
+ The rate of change of angular velocity is called angular acceleration.
 
 \[\bar{\alpha} = \frac{d\bar{\omega}}{dt}\]
 
 The angular acceleration is also a vector quantity which need not be in the same direction as angular velocity.
 
-1
 
-## Tangential acceleration
+**Tangential acceleration**
 
 Consider an object moving along a circle of radius r. In a time \(\Delta t\) , the object travels an arc distance \(\Delta s\) as shown in Figure 2.47. The corresponding angle subtended is \(\Delta \theta\)
+
+![](fig-2.47.png)
 
 <center>Figure 2.47 Circular motion </center>
 
@@ -2030,11 +2179,19 @@ Here \(\frac{ds}{dt}\) is linear speed \((v)\) which is tangential to the circle
 
 which gives the relation between linear speed and angular speed.
 
-image[[518, 152, 863, 319]]
+**Note:**
+
+The direction of linear
+velocity \(\vec{v}\) is tangential to the
+circle, whereas the direction
+of angular velocity \(\vec{ω}\) is along the axis of
+rotation. The radius is also represented
+as a vector \(\vec{r}\) directed radially from the
+centre of the circle.
 
 Equation (2.38) is true only for circular motion. In general the relation between linear and angular velocity is given by
 
-\[\bar{v} = \bar{\omega} \times \bar{r} \quad (2.39)\]
+\[\vec{v} = \vec{\omega} \times \vec{r} \quad (2.39)\]
 
 For circular motion equation (2.39) reduces to equation (2.38) since \(\bar{\omega}\) and \(\bar{r}\) are perpendicular to each other.
 
@@ -2052,9 +2209,11 @@ The tangential acceleration \(a_t\) experienced by an object in circular motion 
 
 Note that the tangential acceleration is in the direction of linear velocity.
 
-### 2.11.6 Circular Motion
+### Circular Motion
 
 When a point object is moving on a circular path with a constant speed, it covers equal distances on the circumference of the circle in equal intervals of time. Then the object is said to be in uniform circular motion. This is shown in Figure 2.49.
+
+![](fig-2.49.png)
 
 <center>Figure 2.49 Uniform circular motion </center>
 
@@ -2062,17 +2221,23 @@ In uniform circular motion, the velocity is always changing but speed remains th
 
 If the velocity changes in both speed and direction during the circular motion, we get non uniform circular motion.
 
-## Centripetal acceleration
+###  Centripetal acceleration
 
 As seen already, in uniform circular motion the velocity vector turns continuously without changing its magnitude (speed), as shown in Figure 2.50.
+
+![](fig-2.50.png)
 
 <center>Figure 2.50 Velocity in uniform circular motion </center>
 
 Note that the length of the velocity vector (blue) is not changed during the motion, implying that the speed remains constant. Even though the velocity is tangential at every point in the circle, the acceleration is acting towards the centre of the circle. This is called centripetal acceleration. It always points towards the centre of the circle. This is shown in the Figure 2.51.
 
+![](fig-2.51.png)
+
 <center>Figure 2.51 Centripetal acceleration </center>
 
 The centripetal acceleration is derived from a simple geometrical relationship between position and velocity vectors (Figure 2.48 or Figure 2.52)
+
+![](fig-2.52.png)
 
 <center>Figure 2.52 Geometrical relationship between the position and velocity vectors </center>
 
@@ -2090,17 +2255,23 @@ For uniform circular motion \(v = \omega r\) where \(\omega\) is the angular vel
 
 \[a = -\omega^2 r\]
 
-image[[520, 206, 863, 347]]
+**Note:**
+The magnitude of centripetal
+acceleration is constant for
+uniform circular motion. But
+centripetal acceleration is not constant,
+but takes different directions during the
+motion.
 
-## Non uniform circular motion
+### Non uniform circular motion
 
 If the speed of the object in circular motion is not constant, then we have non- uniform circular motion. For example, when the bob attached to a string moves in vertical circle, the speed of the bob is not the same at all time. Whenever the speed is not same in circular motion, the particle will have both centripetal and tangential acceleration as shown in the Figure 2.53.
+
+![](fig-2.53.png)
 
 <center>Figure 2.53 Resultant acceleration \((a_R)\) in non uniform circular motion </center>
 
 The resultant acceleration is obtained by vector sum of centripetal and tangential acceleration.
-
-1
 
 Since centripetal acceleration is \(\frac{v^2}{r}\) , the magnitude of this resultant acceleration is given by \(a_R = \sqrt{a_t^2 + \left(\frac{v^2}{r}\right)^2}\) .
 
@@ -2108,14 +2279,15 @@ This resultant acceleration makes an angle \(\theta\) with the radius vector as 
 
 This angle is given by \(\tan \theta = \frac{a_t}{(v^2/r)}\) .
 
-## EXAMPLE 2.40
+### EXAMPLE 2.40
 
 A particle moves in a circle of radius \(10 \, \text{m}\) . Its linear speed is given by \(v = 3t\) where t is in second and v is in \(\text{m} \, \text{s}^{-1}\) .
 
 (a) Find the centripetal and tangential acceleration at \(t = 2 \, \text{s}\) .
+
 (b) Calculate the angle between the resultant acceleration and the radius vector.
 
-## Solution
+### Solution
 
 The linear speed at \(t = 2 \, \text{s}\)
 
@@ -2135,11 +2307,13 @@ The angle between the radius vector with resultant acceleration is given by
 
 In terms of degree \(\theta = 0.69 \times 57.27^{\circ} \approx 40^{\circ}\)
 
-## Are we moving with the same speed both day and night with respect to Sun?
+### Are we moving with the same speed both day and night with respect to Sun?
 
 Earth orbits the Sun in an elliptical orbit. Let us specify the velocity of the centre of Earth with respect to Sun as \(\vec{v}_c\) . This \(\vec{v}_c\) is due to the elliptical motion of the Earth around the Sun. We know that at the same time Earth is also spinning on its own axis. Due to this spinning, all objects on the surface of the Earth undergo circular motion with velocity \((\vec{v}_s)\) with respect to the axis of rotation of the Earth. At night both \(\vec{v}_c\) and \(\vec{v}_s\) are either in the same direction or at an acute angle with each other. So, the velocity of an object on the surface of Earth with respect to Sun at night time is \(\vec{v}_{\text{night}} = \vec{v}_c + \vec{v}_s\) . During the day \(\vec{v}_c\) and \(\vec{v}_s\) are either in opposite directions or at an obtuse angle with each other. So, the velocity of the object with respect to Sun at day time \(\vec{v}_{\text{day}} = \vec{v}_c - \vec{v}_s\) . From this, we can conclude that any object on the surface of the Earth travels faster with respect to Sun during night than during day time. This happens due to the rotation of the Earth.
 
-## Kinematic Equations of circular motion
+![](fig-2.42.1.png)
+
+### Kinematic Equations of circular motion
 
 If an object is in circular motion with constant angular acceleration \(\alpha\) , we can derive kinematic equations for this motion, analogous to those for linear motion.
 
@@ -2165,16 +2339,21 @@ By following this convention, kinematic equations for circular motion are as in 
 | \(v^2 = u^2 + 2as\) | \(\omega^2 = \omega_0^2 + 2\alpha \theta\) |
 | \(s = \frac{(v + u)t}{2}\) | \(\theta = \frac{(\omega_0 + \omega)t}{2}\) |
 
+
+
+**Note:** 
+
+
 Kinematic equations for linear motion are applicable for only constant acceleration. Similarly kinematic equations for angular motion are applicable to only constant angular acceleration.
 
-## EXAMPLE 2.41
+### EXAMPLE 2.41
 
 A particle is in circular motion with an acceleration \(\alpha = 0.2 \, \text{rad} \, \text{s}^{-2}\)
 
 (a) What is the angular displacement made by the particle after 5 s?
 (b) What is the angular velocity at \(t = 5 \, \text{s}\)? Assume the initial angular velocity is zero.
 
-## Solution
+### Solution
 
 Since the initial angular velocity is zero \((\omega_0 = 0)\)
 
@@ -2188,47 +2367,27 @@ In terms of degree
 
 \[\theta = 2.5 \times 57.27^{\circ} \approx 143^{\circ}\]
 
-Unit 2 Kinematics
-95
-SUM M A R Y
+## SUMMARY
 
-- A state of rest or of motion is defined with respect to a frame of reference.
-
+* A state of rest or of motion is defined with respect to a frame of reference.
 - In Physics, we conventionally follow a right handed Cartesian coordinate system to explain the motion of objects
-
-- To explain linear motion the concept of point mass is used.
-
+* To explain linear motion the concept of point mass is used.
 - A vector is a quantity which has both magnitude and direction. A scalar has only magnitude.
-
-- The length of a vector is called magnitude or norm of the vector
-
+* The length of a vector is called magnitude or norm of the vector
 - In a Cartesian coordinate system the unit vectors are orthogonal to each other.
-
-- Vectors can be added using either the triangular law of addition or the parallelogram law of addition.
-
+* Vectors can be added using either the triangular law of addition or the parallelogram law of addition.
 - Any vector can be resolved into three components with respect to a Cartesian coordinate system
-
-- The magnitude or norm of a vector \(\vec{A} = A_x \hat{i} + A_y \hat{j} + A_z \hat{k}\) is given by \(A = \sqrt{A_x^2 + A_y^2 + A_z^2}\)
-
+* The magnitude or norm of a vector \(\vec{A} = A_x \hat{i} + A_y \hat{j} + A_z \hat{k}\) is given by \(A = \sqrt{A_x^2 + A_y^2 + A_z^2}\)
 - If two vectors are equal, then their corresponding individual components should be separately equal.
-
-- The position vector of a particle with respect to a Cartesian coordinate system is given by \(\vec{r} = x \hat{i} + y \hat{j} + z \hat{k}\)
-
+* The position vector of a particle with respect to a Cartesian coordinate system is given by \(\vec{r} = x \hat{i} + y \hat{j} + z \hat{k}\)
 - The scalar product of two vectors is defined by \(\vec{A} \cdot \vec{B} = AB \cos \theta\) (\(\theta\) is the angle between \(\vec{A}\) and \(\vec{B}\))
-
-- The vector product of two vectors is defined by \(\vec{A} \times \vec{B} = AB \sin \theta \hat{n}\). The direction of \(\hat{n}\) can be found using right hand thumb rule or right hand cork screw rule.
-
+* The vector product of two vectors is defined by \(\vec{A} \times \vec{B} = AB \sin \theta \hat{n}\). The direction of \(\hat{n}\) can be found using right hand thumb rule or right hand cork screw rule.
 - In physics, scalar and vector products are used to describe various concepts.
-
-- Distance is the total path length travelled by the particle and displacement is the difference between final and initial positions. Distance is a scalar quantity and displacement is a vector
-
+* Distance is the total path length travelled by the particle and displacement is the difference between final and initial positions. Distance is a scalar quantity and displacement is a vector
 - Average velocity is defined as \(\vec{v}_{avg} = \frac{\Delta \vec{r}}{\Delta t}\) and instantaneous velocity is defined as \(\vec{v} = \lim_{\Delta t \to 0} \frac{\Delta \vec{r}}{\Delta t} = \frac{d\vec{r}}{dt}\). Both average velocity and instantaneous velocity are vector quantities.
-
-- Momentum is defined as \(\vec{p} = m \vec{v}\).
-
-1
-
+* Momentum is defined as \(\vec{p} = m \vec{v}\).
 - The average acceleration is defined as \(\vec{a}_{\text{avg}} = \frac{\vec{v}_2 - \vec{v}_1}{t_2 - t_1} = \frac{\Delta \vec{v}}{\Delta t}\) and instantaneous acceleration is defined as \(\vec{a} = \lim_{\Delta t \to 0} \frac{\Delta \vec{v}}{\Delta t} = \frac{d\vec{v}}{dt}\) For constant acceleration, kinematic equations can be used to analyse motion of a particle. In projectile motion for which acceleration is uniform, the path traced by the particle is a parabola. The maximum height and range of the particle in projectile motion depend inversely on acceleration due to gravity g. The angular displacement of the particle is defined by \(\theta = \frac{s}{r}\) and angular velocity \(\vec{\omega} = \frac{d\vec{\theta}}{dt}\) The relation between the linear velocity and angular velocity is given by \(\vec{v} = \vec{\omega} \times \vec{r}\) The centripetal acceleration is given by \(a_c = -\frac{v^2}{r}\) or \(-\omega^2 r\) and is always directed towards the centre of the circle.
+![](summary.PNG)
 
 1. Which one of the following Cartesian coordinate systems is not followed in physics?
 

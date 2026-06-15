@@ -4,31 +4,81 @@ weight: 4
 ---
 
 
-# Unit 4: Work, Energy and Power
+# Work, Energy and Power
 
-## 4.1 Work
+### Learning Objectives
 
-### 4.1.1 Definition of Work
+#### In this unit, student is exposed to  
 
-In physics, work is said to be done by a force when the force produces a displacement in the body. The work done by a force is defined as the product of the component of the force along the direction of the displacement and the magnitude of the displacement.
+- definition of work
+- work done by a constant and a variable force
+- various types of energy
+- law of conservation of energy
+- vertical circular motion
+- definition of power
+- various types of collisions
 
+### Introduction
+
+The term work is used in diverse contexts in
+daily life. It refers to both physical as well as
+mental work. In fact, any activity can generally
+be called as work. But in Physics, the term work
+is treated as a physical quantity with a precise
+definition. Work is said to be done by the force
+when the force applied on a body displaces
+it. To do work, energy is required. In simple
+words, energy is defined as the ability to do
+work. Hence, work and energy are equivalents
+and have same dimension. Energy, in Physics
+exists in different forms such as mechanical,
+electrical, thermal, nuclear and so on. Many
+machines consume one form of energy and
+deliver energy in a different form. In this
+chapter we deal mainly with mechanical
+energy and its two types namely kinetic
+energy and potential energy. The next quantity in this sequence of discussion is
+the rate of work done or the rate of energy
+delivered. The rate of work done is called
+power. A powerful strike in cricket refers to
+a hit on the ball at a fast rate. This chapter
+aims at developing a good understanding
+of these three physical quantities namely
+work, energy and power and their physical
+significance.
+
+### Work
+
+ILet us consider a force \(\vec{\mathbf{F}}\), acting on a body which moves it by a displacement in some direction (d \(\vec{\mathbf{r}}\)) as shown in Figure 4.1
 Mathematically, the small amount of work \( \mathrm{d}W \) done by a force \( \bar{\mathbf{F}} \) in producing a small displacement \( \mathrm{d}\bar{\mathbf{r}} \) is given by
 
 \[
-\mathrm{d}W = \bar{\mathbf{F}} \cdot \mathrm{d}\bar{\mathbf{r}}
+W = \vec{\mathbf{F}} \cdot \mathrm{d}\vec{\mathbf{r}}
 \]
+
+<center>
+
+![](image.png)
+
+</center>
+
+<center>
 
 **Figure 4.1 Work done by a force**
 
-Here, the product \( \bar{\mathbf{F}}\cdot \mathrm{d}\bar{\mathbf{r}} \) is a scalar product (or dot product). The scalar product of two vectors is a scalar. Thus, work done is a scalar quantity. It has only magnitude and no direction. In SI system, unit of work done is \( \mathrm{Nm} \) (or) joule (J). Its dimensional formula is \( [\mathrm{ML}^2 \mathrm{T}^{-2}] \).
+</center>
 
-The equation is,
+Here, the product \( \vec{\mathbf{F}}\cdot \mathrm{d}\vec{\mathbf{r}} \) is a scalar product (or dot product). The scalar product of two vectors is a scalar(refer section 2.5.1). Thus, work done is a scalar quantity. It has only magnitude and no direction. In SI system, unit of work done is \( \mathrm{Nm} \) (or) joule (J). Its dimensional formula is \( [\mathrm{ML}^2 \mathrm{T}^{-2}] \).
+
+The equation(4.1) is,
 
 \[
-\mathrm{W} = \mathrm{F}\,\mathrm{dr}\cos \theta
+\mathrm{W} = \mathrm{F}\,\mathrm{dr}\cos \theta     (4.2)
 \]
 
 which can be realised using Figure 4.2 (as \( \vec{\mathbf{a}}\cdot \vec{\mathbf{b}} = \mathrm{ab}\cos \theta \)) where, \( \theta \) is the angle between applied force and the displacement of the body.
+
+![](fig-4.2.png)
 
 **Figure 4.2 Calculating work done**
 
@@ -40,6 +90,8 @@ Work done is zero in the following cases.
 
 (ii) When the displacement is zero \( (\mathrm{dr} = 0) \). For example, when force is applied on a rigid wall it does not produce any displacement. Hence, the work done is zero as shown in Figure 4.3(a).
 
+![](fig-4.3.png)
+
 **Figure 4.3 Different cases of zero work done**
 
 (iii) When the force and displacement are perpendicular \( (\theta = 90^{\circ}) \) to each other. When a body moves on a horizontal direction, the gravitational force (mg) does no work on the body, since it acts at right angles to the displacement as shown in Figure 4.3(b). In circular motion the centripetal force does not do work on the object moving on a circle as it is always perpendicular to the displacement as shown in Figure 4.3(c).
@@ -47,6 +99,8 @@ Work done is zero in the following cases.
 For a given force (F) and displacement (dr), the angle \( \theta \) between them decides the value of work done as consolidated in Table 4.1.
 
 There are many examples for the negative work done by a force. In a football game, the goalkeeper catches the ball coming towards him by applying a force such that the force is applied in a direction opposite to that of the motion of the ball till it comes to rest in his hands. During the time of applying the force, he does a negative work on the ball as shown in Figure 4.4. We will discuss many more situations of negative work further in this unit.
+
+![](image_7.png)
 
 **Figure 4.4 Negative work done**
 
@@ -64,6 +118,8 @@ There are many examples for the negative work done by a force. In a football gam
 
 A box is pulled with a force of \( 25 \, \mathrm{N} \) to produce a displacement of \( 15 \, \mathrm{m} \). If the angle between the force and displacement is \( 30^{\circ} \), find the work done by the force.
 
+![](eg-4.1.png)
+
 **Solution**
 
 Force, \( \mathrm{F} = 25 \, \mathrm{N} \)
@@ -72,9 +128,11 @@ Displacement, \( \mathrm{dr} = 15 \, \mathrm{m} \)
 
 Angle between F and dr, \( \theta = 30^{\circ} \)
 
-Work done, \( \mathrm{W} = \mathrm{F}\,\mathrm{dr}\cos \theta = 25 \times 15 \times \cos 30^{\circ} = 25 \times 15 \times \frac{\sqrt{3}}{2} = 324.76 \, \mathrm{J} \)
+Work done, \( \mathrm{W} = \mathrm{F}\,\mathrm{dr}\cos \theta = 25 \times 15 \times \cos 30^{\circ} = 25 \times 15 \times \frac{\sqrt{3}}{2}  \)
 
-### 4.1.2 Work done by a constant force
+W = \(324.76 \, \mathrm{J} \)
+
+### Work done by a constant force
 
 When a constant force F acts on a body, the small work done (dW) by the force in producing a small displacement dr is given by the relation,
 
@@ -93,26 +151,30 @@ The total work done in producing a displacement from initial position \( \mathbf
 
 The graphical representation of the work done by a constant force is shown in Figure 4.5. The area under the graph shows the work done by the constant force.
 
+![](fig-4.5.png)
+
 **Figure 4.5 Work done by the constant force**
 
 **EXAMPLE 4.2**
 
 An object of mass \( 2 \, \mathrm{kg} \) falls from a height of \( 5 \, \mathrm{m} \) to the ground. What is the work done by the gravitational force on the object? (Neglect air resistance; Take \( \mathrm{g} = 10 \, \mathrm{m}\mathrm{s}^{-2} \))
 
+![](eg-4.2.png)
+
 **Solution**
 
-In this case the force acting on the object is downward gravitational force \( m\bar{g} \). This is a constant force.
+In this case the force acting on the object is downward gravitational force \( m\vec{g} \). This is a constant force.
 
 Work done by gravitational force is
 
 \[
-\mathrm{W} = \int_{\mathrm{r}_{\mathrm{i}}}^{\mathrm{r}_{\mathrm{f}}}\mathrm{F}\cdot \mathrm{d}\bar{\mathrm{r}}
+\mathrm{W} = \int_{\mathrm{r}_{\mathrm{i}}}^{\mathrm{r}_{\mathrm{f}}}\mathrm{F}\cdot \mathrm{d}\vec{\mathrm{r}}
 \]
 \[
 \mathrm{W} = \left(\mathrm{F}\cos \theta\right)\int_{\mathrm{r}_{\mathrm{i}}}^{\mathrm{r}_{\mathrm{f}}}\mathrm{d}\mathrm{r} = \left(\mathrm{mg}\cos \theta\right)\left(\mathrm{r}_{\mathrm{f}} - \mathrm{r}_{\mathrm{i}}\right)
 \]
 
-The object also moves downward which is in the direction of gravitational force \( (\bar{F} = m\bar{g}) \) as shown in figure. Hence, the angle between them is \( \theta = 0^{\circ} \); \( \cos 0^{\circ} = 1 \) and the displacement, \( \left(\mathrm{r}_{\mathrm{f}} - \mathrm{r}_{\mathrm{i}}\right) = 5 \, \mathrm{m} \)
+The object also moves downward which is in the direction of gravitational force \( (\vec{F} = m\vec{g}) \) as shown in figure. Hence, the angle between them is \( \theta = 0^{\circ} \); \( \cos 0^{\circ} = 1 \) and the displacement, \( \left(\mathrm{r}_{\mathrm{f}} - \mathrm{r}_{\mathrm{i}}\right) = 5 \, \mathrm{m} \)
 
 \[
 \mathrm{W} = mg\left(\mathrm{r}_{\mathrm{f}} - \mathrm{r}_{\mathrm{i}}\right)
@@ -126,6 +188,8 @@ The work done by the gravitational force on the object is positive.
 **EXAMPLE 4.3**
 
 An object of mass \( m = 1 \, \mathrm{kg} \) is sliding from top to bottom in the frictionless inclined plane of inclination angle \( \theta = 30^{\circ} \) and the length of inclined plane is \( 10 \, \mathrm{m} \) as shown in the figure. Calculate the work done by gravitational force and normal force on the object. Assume acceleration due to gravity, \( \mathrm{g} = 10 \, \mathrm{m}\mathrm{s}^{-2} \)
+
+![](image-6.png)
 
 **Solution**
 
@@ -219,14 +283,17 @@ W_{\mathrm{gravity}} = F_{g}h\cos \theta = mgh(\cos 180^{\circ}) = 250 \times 10
 W_{\mathrm{net}} = W_{\mathrm{weight\ lifter}} + W_{\mathrm{gravity}} = 25 \, \mathrm{kJ} - 12.5 \, \mathrm{kJ} = +12.5 \, \mathrm{kJ}
 \]
 
-### 4.1.3 Work done by a variable force
+### Work done by a variable force
 
 When the component of a variable force F acts on a body, the small work done (dW) by the force in producing a small displacement dr is given by the relation
 
 \[
 \mathrm{d}W = \left(\mathrm{F}\cos \theta\right)\mathrm{d}r
 \]
-
+<center>
+[F cos q is the component
+of the variable force F]
+</center>
 where, F and \( \theta \) are variables. The total work done for a displacement from initial position \( \mathbf{r}_{\mathrm{i}} \) to final position \( \mathbf{r}_{\mathrm{f}} \) is given by the relation,
 
 \[
@@ -234,6 +301,8 @@ W = \int_{r_{i}}^{r_{f}}\mathrm{d}W = \int_{r_{i}}^{r_{f}}\mathrm{F}\cos \theta 
 \]
 
 A graphical representation of the work done by a variable force is shown in Figure 4.6. The area under the graph is the work done by the variable force.
+
+![](image-7.png)
 
 **Figure 4.6 Work done by a variable force**
 
@@ -249,7 +318,7 @@ Work done,
 W = \int_{x_i}^{x_f} \mathrm{F}(x)\,\mathrm{d}x = k \int_{0}^{4} x^{2}\,\mathrm{d}x = k \left[ \frac{x^{3}}{3} \right]_{0}^{4} = \frac{1 \times 64}{3} = \frac{64}{3} \, \mathrm{N\,m}
 \]
 
-## 4.2 Energy
+## Energy
 
 Energy is defined as the capacity to do work. In other words, work done is the manifestation of energy. That is why work and energy have the same dimension \( \mathrm{(ML^2T^{-2})} \).
 
@@ -277,13 +346,19 @@ The SI unit of energy is the same as that of work done i.e., \( \mathrm{N\,m} \)
 | 1 calorie (cal) | \( 4.186 \, \mathrm{J} \) |
 | 1 kilowatt hour (kWh) | \( 3.6 \times 10^{6} \, \mathrm{J} \) |
 
-### 4.2.1 Kinetic energy
+### Kinetic energy
 
 Kinetic energy is the energy possessed by a body by virtue of its motion. All moving objects have kinetic energy. A body that is in motion has the ability to do work. For example a hammer kept at rest on a nail does not push the nail into the wood. Whereas the same hammer when it strikes the nail, draws the nail into the wood as shown in Figure 4.7. Kinetic energy is measured by the amount of work that the body can perform before it comes to rest. The amount of work done by a moving body depends both on the mass of the body and the magnitude of its velocity. A body which is not in motion does not have kinetic energy.
 
+![](image_9.png)
+
+<center>
+
 **Figure 4.7 Demonstration of kinetic energy**
 
-### 4.2.2 Work-Kinetic Energy Theorem
+</center>
+
+### Work-Kinetic Energy Theorem
 
 Work and energy are equivalents. This is true in the case of kinetic energy also. To prove this, let us consider a body of mass m at rest on a frictionless horizontal surface.
 
@@ -320,7 +395,7 @@ Substituting this in the work equation,
 \mathrm{W} = \mathrm{m}\left(\frac{\mathrm{v}^{2} - \mathrm{u}^{2}}{2\mathrm{s}}\right)\mathrm{s} = \frac{1}{2}\mathrm{m}\mathrm{v}^{2} - \frac{1}{2}\mathrm{m}\mathrm{u}^{2}
 \]
 
-The expression for kinetic energy:
+**The expression for kinetic energy:**
 
 The term \( \left(\frac{1}{2}\mathrm{mv}^{2}\right) \) in the above equation is the kinetic energy of the body of mass (m) moving with velocity (v).
 
@@ -334,18 +409,27 @@ Kinetic energy of the body is always positive.
 \Delta \mathrm{KE} = \frac{1}{2}\mathrm{mv}^{2} - \frac{1}{2}\mathrm{mu}^{2}
 \]
 
-Thus, \( \mathrm{W} = \Delta \mathrm{KE} \)
+<center>Thus, \( \mathrm{W} = \Delta \mathrm{KE} \)</center>
+
+The expression on the right hand side
+(RHS) of equation (4.12) is the change in
+kinetic energy (∆KE) of the body.
+This implies that the work done by the
+force on the body changes the kinetic energy
+of the body. This is called work-kinetic energy
+theorem.
+#### The work-kinetic energy theorem implies the following.
 
 1. If the work done by the force on the body is positive then its kinetic energy increases.
 2. If the work done by the force on the body is negative then its kinetic energy decreases.
 3. If there is no work done by the force on the body then there is no change in its kinetic energy, which means that the body has moved at constant speed provided its mass remains constant.
 
-### 4.2.3 Relation between Momentum and Kinetic Energy
+### Relation between Momentum and Kinetic Energy
 
-Consider an object of mass m moving with a velocity \( \bar{\mathbf{v}} \). Then its linear momentum is
+Consider an object of mass m moving with a velocity \( \vec{\mathbf{v}} \). Then its linear momentum is
 
 \[
-\bar{\mathbf{p}} = \mathbf{m}\bar{\mathbf{v}}
+\vec{\mathbf{p}} = \mathbf{m}\vec{\mathbf{v}}
 \]
 and its kinetic energy,
 \[
@@ -353,19 +437,19 @@ and its kinetic energy,
 \]
 
 \[
-\mathrm{KE} = \frac{1}{2}\mathrm{m}\mathbf{v}^2 = \frac{1}{2}\mathbf{m}\left(\bar{\mathbf{v}}.\bar{\mathbf{v}}\right)
+\mathrm{KE} = \frac{1}{2}\mathrm{m}\mathbf{v}^2 = \frac{1}{2}\mathbf{m}\left(\vec{\mathbf{v}}.\vec{\mathbf{v}}\right)
 \]
 
 Multiplying both the numerator and denominator by mass, m
 
 \[
-\mathrm{KE} = \frac{1}{2}\frac{\mathbf{m}^2(\bar{\mathbf{v}}.\bar{\mathbf{v}})}{\mathbf{m}} = \frac{1}{2}\frac{\left(\mathbf{m}\bar{\mathbf{v}}\right).\left(\mathbf{m}\bar{\mathbf{v}}\right)}{\mathbf{m}} = \frac{1}{2}\frac{\bar{\mathbf{p}}.\bar{\mathbf{p}}}{\mathbf{m}} = \frac{\mathbf{p}^2}{2\mathbf{m}}
+\mathrm{KE} = \frac{1}{2}\frac{\mathbf{m}^2(\vec{\mathbf{v}}.\vec{\mathbf{v}})}{\mathbf{m}} = \frac{1}{2}\frac{\left(\mathbf{m}\vec{\mathbf{v}}\right).\left(\mathbf{m}\vec{\mathbf{v}}\right)}{\mathbf{m}} = \frac{1}{2}\frac{\vec{\mathbf{p}}.\vec{\mathbf{p}}}{\mathbf{m}} = \frac{\mathbf{p}^2}{2\mathbf{m}}
 \]
 
-where \( \left|\bar{\mathbf{p}}\right| \) is the magnitude of the momentum. The magnitude of the linear momentum can be obtained by
+where \( \left|\vec{\mathbf{p}}\right| \) is the magnitude of the momentum. The magnitude of the linear momentum can be obtained by
 
 \[
-\left|\bar{\mathbf{p}}\right| = \mathbf{p} = \sqrt{2\mathbf{m}\left(\mathrm{KE}\right)}
+\left|\vec{\mathbf{p}}\right| = \mathbf{p} = \sqrt{2\mathbf{m}\left(\mathrm{KE}\right)}
 \]
 
 Note that if kinetic energy and mass are given, only the magnitude of the momentum can be calculated but not the direction of momentum. It is because the kinetic energy and mass are scalars.
@@ -390,18 +474,17 @@ Note that \( \mathrm{KE}_1 \neq \mathrm{KE}_2 \) i.e., even though both are havi
 
 (b) As the momentum, \( p = mv \), the two objects will not have same speed.
 
-### 4.2.4 Potential Energy
+### Potential Energy
 
 The potential energy of a body is associated with its position and configuration with respect to its surroundings. This is because the various forces acting on the body also depends on position and configuration.
 
 Potential energy of an object at a point \( P \) is defined as the amount of work done by an external force in moving the object at constant velocity from the point \( O \) (initial location) to the point \( P \) (final location). At initial point \( O \) potential energy can be taken as zero.
-
+<center>
 Mathematically, potential energy is defined as
-
 \[
 U = \int \bar{F}_{a}\,d\bar{r}
 \]
-
+</center>
 where the limit of integration ranges from initial location point \( O \) to final location point \( P \).
 
 We have various types of potential energies. Each type is associated with a particular force. For example,
@@ -412,23 +495,30 @@ We have various types of potential energies. Each type is associated with a part
 
 (iii) The energy due to electrostatic force on charges gives rise to electrostatic potential energy.
 
-### 4.2.5 Potential energy near the surface of the Earth
+We will learn more about conservative
+forces in the section 4.2.7. Now, we continue
+to discuss more about gravitational potential
+energy and elastic potential energy.
+
+### Potential energy near the surface of the Earth
 
 The gravitational potential energy (U) at some height \( h \) is equal to the amount of work required to take the object from ground to that height \( h \) with constant velocity.
 
 Let us consider a body of mass \( m \) being moved from ground to the height \( h \) against the gravitational force as shown in Figure 4.8.
 
+![](image-10.png)
+
 **Figure 4.8 Gravitational potential energy**
 
-The gravitational force \( \bar{F}_{g} \) acting on the body is, \( \bar{F}_{g} = - mg \,\hat{j} \) (as the force is in \( y \) direction, unit vector \( \hat{j} \) is used). Here, negative sign implies that the force is acting vertically downwards. In order to move the body without acceleration (or with constant velocity), an external applied force \( \bar{F}_{a} \) equal in magnitude but opposite to that of gravitational force \( \bar{F}_{\mathrm{g}} \) has to be applied on the body i.e., \( \bar{F}_{\mathrm{a}} = -\bar{F}_{\mathrm{g}} \). This implies that \( \bar{F}_{a} = +\mathrm{mg}\,\hat{j} \). The positive sign implies that the applied force is in vertically upward direction. Hence, when the body is lifted up its velocity remains unchanged and thus its kinetic energy also remains constant.
+The gravitational force \( \vec{F}_{g} \) acting on the body is, \( \vec{F}_{g} = - mg \,\hat{j} \) (as the force is in \( y \) direction, unit vector \( \hat{j} \) is used). Here, negative sign implies that the force is acting vertically downwards. In order to move the body without acceleration (or with constant velocity), an external applied force \( \vec{F}_{a} \) equal in magnitude but opposite to that of gravitational force \( \vec{F}_{\mathrm{g}} \) has to be applied on the body i.e., \( \vec{F}_{\mathrm{a}} = -\vec{F}_{\mathrm{g}} \). This implies that \( \vec{F}_{a} = +\mathrm{mg}\,\hat{j} \). The positive sign implies that the applied force is in vertically upward direction. Hence, when the body is lifted up its velocity remains unchanged and thus its kinetic energy also remains constant.
 
 The gravitational potential energy (U) at some height \( h \) is equal to the amount of work required to take the object from the ground to that height \( h \).
 
 \[
-\mathrm{U} = \int \bar{F}_{a}\,d\bar{r} = \int_{0}^{h} \left|\bar{F}_{a}\right| \left|\mathrm{d}\bar{r}\right| \cos \theta
+\mathrm{U} = \int \vec{F}_{a}\,d\vec{r} = \int_{0}^{h} \left|\vec{F}_{a}\right| \left|\mathrm{d}\vec{r}\right| \cos \theta
 \]
 
-Since the displacement and the applied force are in the same upward direction, the angle between them, \( \theta = 0^{\circ} \). Hence, \( \cos 0^{\circ} = 1 \) and \( \left|\bar{F}_{\mathrm{a}}\right| = \mathrm{mg} \) and \( \left|\mathrm{d}\bar{r}\right| = \mathrm{d}r \).
+Since the displacement and the applied force are in the same upward direction, the angle between them, \( \theta = 0^{\circ} \). Hence, \( \cos 0^{\circ} = 1 \) and \( \left|\vec{F}_{\mathrm{a}}\right| = \mathrm{mg} \) and \( \left|\mathrm{d}\vec{r}\right| = \mathrm{d}r \).
 
 \[
 \mathrm{U} = \mathrm{mg}\int_{0}^{h} \mathrm{d}r = \mathrm{mg}h
@@ -436,7 +526,20 @@ Since the displacement and the applied force are in the same upward direction, t
 
 Note that the potential energy stored in the object is defined through work done by the external force which is positive. Physically this implies that the agency which is applying the external force is transferring the energy to the object which is then stored as potential energy. If the object is allowed to fall from a height \( h \) then the stored potential energy is converted into kinetic energy.
 
-**Why should the object be moved at constant velocity when we define potential energy?** If the object does not move at constant velocity, then it will have different velocities at the initial and final locations. According to work-kinetic energy theorem, the external force will impart some extra kinetic energy. But we associate potential energy to the forces like gravitational force, spring force and coulomb force. So the external agency should not impart any kinetic energy when the object is taken from initial to final location.
+**How can an object move withzero acceleration (constant velocity) when the external force is acting on the object?** 
+
+It is possible when there is another
+force which acts exactly opposite
+to the external applied force. They
+both cancel each other and the
+resulting net force becomes zero,
+hence the object moves with zero
+acceleration.
+* Why should the object be moved at
+constant velocity when we define
+potential energy?
+
+If the object does not move at constant velocity, then it will have different velocities at the initial and final locations. According to work-kinetic energy theorem, the external force will impart some extra kinetic energy. But we associate potential energy to the forces like gravitational force, spring force and coulomb force. So the external agency should not impart any kinetic energy when the object is taken from initial to final location..
 
 **EXAMPLE 4.8**
 
@@ -460,45 +563,93 @@ An object of mass \( 2 \, \mathrm{kg} \) is taken to a height \( 5 \, \mathrm{m}
 
 (d) Since the external force and gravitational force are equal and opposite, the net force is zero.
 
-### 4.2.6 Elastic Potential Energy
+### Elastic Potential Energy
 
 When a spring is elongated, it develops a restoring force. The potential energy possessed by a spring due to a deforming force which stretches or compresses the spring is termed as elastic potential energy. The work done by the applied force against the restoring force of the spring is stored as the elastic potential energy in the spring.
 
 Consider a spring-mass system. Let us assume a mass, \( m \) lying on a smooth horizontal table as shown in Figure 4.9. Here, \( x = 0 \) is the equilibrium position. One end of the spring is attached to a rigid wall and the other end to the mass.
 
+![](image-11.png)
+
 **Figure 4.9 Potential energy of the spring (elastic potential energy)**
 
-As long as the spring remains in equilibrium position, its potential energy is zero. Now an external force \( \bar{F}_{\mathrm{a}} \) is applied so that it is stretched by a distance \( x \) in the direction of the force.
+As long as the spring remains in equilibrium position, its potential energy is zero. Now an external force \( \vec{F}_{\mathrm{a}} \) is applied so that it is stretched by a distance \( x \) in the direction of the force.
 
-There is a restoring force called spring force \( \bar{F}_{\mathrm{s}} \) developed in the spring which tries to bring the mass back to its original position. This applied force and the spring force are equal in magnitude but opposite in direction i.e., \( \bar{F}_{\mathrm{a}} = -\bar{F}_{\mathrm{s}} \). According to Hooke's law, the restoring force developed in the spring is
-
-\[
-\bar{F}_{\mathrm{s}} = -\mathrm{k}\bar{x}
-\]
-
-The negative sign in the above expression implies that the spring force is always opposite to that of displacement \( \bar{x} \) and \( k \) is the spring constant.
-
-**Work done by the spring force**
-
-The work done by the spring force for a displacement from \( x_i \) to \( x_f \) is given by
+There is a restoring force called spring force \( \vec{F}_{\mathrm{s}} \) developed in the spring which tries to bring the mass back to its original position. This applied force and the spring force are equal in magnitude but opposite in direction i.e., \( \vec{F}_{\mathrm{a}} = -\vec{F}_{\mathrm{s}} \). According to Hooke's law, the restoring force developed in the spring is
 
 \[
-W_s = \int_{x_i}^{x_f} \bar{F}_s \cdot d\bar{r} = \int_{x_i}^{x_f} (-kx\hat{i}) \cdot (dx\hat{i}) = \int_{x_i}^{x_f} -kx \, dx = -\frac{1}{2}k(x_f^2 - x_i^2)
+\vec{F}_{\mathrm{s}} = -\mathrm{k}\vec{x}
 \]
 
-If we take the displacement from \( x_i = 0 \) to \( x_f = x \), then
+The negative sign in the above expression implies that the spring force is always opposite to that of displacement \( \vec{x} \) and \( k \) is the spring constant.Therefore applied
+force is \( \vec{F}_a = + k \vec{x} \).The positive sign implies that the applied force is in the direction of displacement \( \vec{x} \).The spring force is an example of variable force as it depends on the displacement \( \vec{x} \).Let the spring be stretched to a small distance d\( \vec{x} \).The work done by the applied force on the spring to stretch it by a displacement \( \vec{x} \) is stored as elastic potential energy.
+\[
+U = \int \vec{F}_a \cdot d\vec{r}
+  = \int_0^x |\vec{F}_a|\, |d\vec{r}| \cos\theta
+\]
 
 \[
-W_s = -\frac{1}{2}kx^2
+= \int_0^x F_a\, dx \cos\theta
+\]
+The applied force \( \vec{F}_a \) and the displacement d\( \vec{r} \)
+(i.e., here dx ) are in the same direction. As, the initial position is taken as the equilibrium position or mean position,x=0 is the lower limit of integration.
+
+\[
+U = \int_0^x kx\,dx
 \]
 
-**Elastic potential energy**
-
-The work done by the external applied force is stored as potential energy in the spring.
+\[
+U = k \left[ \frac{x^2}{2} \right]_0^x
+\]
 
 \[
 U = \frac{1}{2}kx^2
 \]
+
+If the initial position is not zero, and if the mass is changed from position x_i to x_f , then the elastic potential energy is 
+
+\[
+U = \frac{1}{2}k\left(x_f^2 - x_i^2\right)
+\]
+
+From equations (4.24) and (4.25), we observe that the potential energy of the stretched pring depends on the force constant k and elongation or compression x.
+
+**Note:**
+
+The potential energy stored in the spring does not
+depend on the mass that is attached to the spring.
+
+### Force-displacement graph for a spring
+
+Since the restoring spring force and displacement are linearly related as F = – k x, and are opposite in direction, the graph between F and x is a straight line with dwelling only in the second and fourth quadrant as shown in Figure 4.10. The elastic potential energy can be easily calculated by drawing a F - x graph. The shaded area (triangle) is the work done by the spring force.
+
+\[
+\text{Area}
+= \frac{1}{2}(\text{base})(\text{height})
+= \frac{1}{2}x(x)x(kx)
+\]
+
+\[
+= \frac{1}{2}kx^2
+\]
+
+![](image-12.png)
+
+###  Potential energy-displacement graph for a spring
+
+A compressed or extended spring will transfer its stored potential energy into kinetic energy of the mass attached to the spring. The potential energy-displacement graph is shown in Figure 4.11.
+
+![](image-13.png)
+
+In a frictionless environment, the energy gets transferred from kinetic to potential and potential to kinetic repeatedly such that the total energy of the system remains constant. At the mean position,
+
+<center> 
+
+\[
+\Delta KE = \Delta U
+\]
+
+</center>
 
 **EXAMPLE 4.9**
 
@@ -547,7 +698,7 @@ U = \frac{1}{2}kx^2 = \frac{1}{2} \times 0.1 \times (0.25)^2 = 0.003125 \, \math
 (b) The work done \( W_s \) by the spring force is given by,
 
 \[
-W_s = \int_{0}^{x} \bar{F}_s \cdot d\bar{r} = \int_{0}^{x} (-kx\hat{i}) \cdot (dx\hat{i}) = \int_{0}^{x} (-kx)dx = -\frac{1}{2}kx^2
+W_s = \int_{0}^{x} \vec{F}_s \cdot d\vec{r} = \int_{0}^{x} (-kx\hat{i}) \cdot (dx\hat{i}) = \int_{0}^{x} (-kx)dx = -\frac{1}{2}kx^2
 \]
 \[
 W_s = -\frac{1}{2} \times 0.1 \times (0.25)^2 = -0.0031 \, \mathrm{J}
@@ -564,7 +715,7 @@ U = \frac{1}{2}kx^2 = 0.0031 \, \mathrm{J}
 Work done by the restoring spring force during compression is given by
 
 \[
-W_s = \int_{0}^{x} \bar{F}_s \, d\bar{r} = \int_{0}^{x} (kx\hat{i}) \cdot (-dx\hat{i}) = \int_{0}^{x} (-kx)dx = -\frac{1}{2}kx^2 = -0.0031 \, \mathrm{J}
+W_s = \int_{0}^{x} \vec{F}_s \, d\vec{r} = \int_{0}^{x} (kx\hat{i}) \cdot (-dx\hat{i}) = \int_{0}^{x} (-kx)dx = -\frac{1}{2}kx^2 = -0.0031 \, \mathrm{J}
 \]
 
 **Potential energy-displacement graph for a spring**
@@ -579,7 +730,7 @@ In a frictionless environment, the energy gets transferred from kinetic to poten
 \Delta \mathrm{KE} = \Delta U
 \]
 
-### 4.2.7 Conservative and non-conservative forces
+### Conservative and non-conservative forces
 
 **Conservative force**
 
@@ -594,6 +745,8 @@ F_x = -\frac{dU}{dx}
 \]
 
 Examples for conservative forces are elastic spring force, electrostatic force, magnetic force, gravitational force, etc.
+
+![](image-14.png)
 
 **Figure 4.12 Conservative force**
 
@@ -614,9 +767,13 @@ A force is said to be non-conservative if the work done by or against the force 
 
 The properties of conservative and non-conservative forces are summarized in the Table 4.3.
 
+![](image-15.png)
+
 **EXAMPLE 4.11**
 
 Compute the work done by the gravitational force for the following cases
+
+![](image-16.png)
 
 **Solution**
 
@@ -683,9 +840,14 @@ The total work done on the object \( W_{total} = W_{ext} + W_{k} = 200 \, \mathr
 
 Since the friction is a non-conservative force, out of \( 200 \, \mathrm{J} \) given by the external force, the \( 180 \, \mathrm{J} \) is lost and it cannot be recovered.
 
-### 4.2.8 Law of conservation of energy
+###  Law of conservation of energy
 
 When an object is thrown upwards its kinetic energy goes on decreasing and consequently its potential energy keeps increasing (neglecting air resistance). When it reaches the highest point its energy is completely potential. Similarly, when the object falls back from a height its kinetic energy increases whereas its potential energy decreases. When it touches the ground its energy is completely kinetic. At the intermediate points the energy is both kinetic and potential as shown in Figure 4.13. When the body reaches the ground the kinetic energy is completely dissipated into some other form of energy like sound, heat, light and deformation of the body etc.
+
+In this example the energy transformation takes place at every point. The sum of kinetic energy and potential energy i.e., the total mechanical energy always remains constant,
+implying that the total energy is conserved. This is stated as the law of conservation of energy.
+
+![](image-18.png)
 
 **Figure 4.13 Conservation of energy**
 
@@ -746,7 +908,11 @@ v = \sqrt{\frac{2}{m} \mathrm{KE}} = \sqrt{\frac{2}{1} \times 100} = \sqrt{200} 
 
 A body of mass \( 100 \, \mathrm{kg} \) is lifted to a height 10 m from the ground in two different ways as shown in the figure. What is the work done by the gravity in both the cases? Why is it easier to take the object through a ramp?
 
+![](image-19.png)
+
 **Path (1) straight up**
+
+![](image-20.png)
 
 **Path (2) along the ramp**
 
@@ -804,6 +970,10 @@ Since the gravitational force is conservative; the total energy is conserved thr
 | Potential energy | 0 | \( mgh \) |
 | Total energy | \( \frac{1}{2}mv_0^2 \) | \( \frac{1}{2}mv^2 + mgh \) |
 
+
+
+Final values of potential energy, kinetic energy and total energy are measured at the height h.
+
 By law of conservation of energy, the initial and final total energies are the same.
 
 \[
@@ -816,7 +986,7 @@ By law of conservation of energy, the initial and final total energies are the s
 \mathrm{v} = \sqrt{\mathrm{v}_0^2 - 2\mathrm{gh}}
 \]
 
-Note that similar result is obtained using kinematic equation based on calculus method. However, calculation through energy conservation method is much easier than calculus method.
+Note that in section (2.11.2) similar result is obtained using kinematic equation based on calculus method. However, calculation through energy conservation method is much easier than calculus method.
 
 **EXAMPLE 4.16**
 
@@ -854,7 +1024,7 @@ v = \sqrt{\frac{2KE}{m}} = \sqrt{\frac{2 \times 50}{2}} = \sqrt{50} \, \mathrm{m
 
 (b) Since the restoring spring force is \( \mathrm{F} = -\mathrm{kx} \), when the object crosses the equilibrium position, it experiences no force. Note that at equilibrium position, the object moves very fast. When the object is at \( x = +10 \, \mathrm{m} \) (elongation), the force \( \mathrm{F} = -\mathrm{kx} = -(1)(10) = -10 \, \mathrm{N} \). Here the negative sign implies that the force is towards equilibrium i.e., towards negative \( x \)-axis and when the object is at \( x = -10 \, \mathrm{m} \) (compression), it experiences a force \( \mathrm{F} = -(1)(-10) = +10 \, \mathrm{N} \). Here the positive sign implies that the force points towards positive \( x \)-axis. The object comes to momentary rest at \( x = \pm 10 \, \mathrm{m} \) even though it experiences a maximum force at both these points.
 
-### 4.2.9 Motion in a vertical circle
+### Motion in a vertical circle
 
 Imagine that a body of mass (m) attached to one end of a massless and inextensible string executes circular motion in a vertical plane with the other end of the string fixed. The length of the string becomes the radius \( (\vec{r}) \) of the circular path (Figure 4.14).
 
@@ -876,20 +1046,25 @@ In the radial direction,
 
 where, \( \mathrm{a}_{\mathrm{r}} = \frac{\mathrm{v}^{2}}{\mathrm{r}} \) is the centripetal acceleration.
 
+![](image-22.png)
+
 **Figure 4.14 Motion in vertical circle**
 
 The circle can be divided into four sections A, B, C, D for better understanding of the motion. The four important facts to be understood from the two equations are as follows:
 
 (i) The mass is having tangential acceleration (g sin \( \theta \)) for all values of \( \theta \) (except \( \theta = 0^{\circ} \)), it is clear that this vertical circular motion is not a uniform circular motion.
 
-(ii) From the equations it is understood that as the magnitude of velocity is not a constant in the course of motion, the tension in the string is also not constant.
+(ii)From the equations (4.28) and (4.29) it is understood that as the magnitude of velocity is not a constant in the course of motion, the tension in the string is also not constant.
 
 (iii) The equation \( \mathrm{T} = \mathrm{mg}\cos \theta + \frac{\mathrm{mv}^{2}}{\mathrm{r}} \) highlights that in sections A and D of the circle \( \left(\text{for } -\frac{\pi}{2} < \theta < \frac{\pi}{2}; \cos \theta \text{ is positive}\right) \), the term mg \( \cos \theta \) is always greater than zero. Hence the tension cannot vanish even when the velocity vanishes.
 
 (iv) The equation \( \frac{\mathrm{mv}^{2}}{\mathrm{r}} = \mathrm{T} - \mathrm{mg}\cos \theta \) further highlights that in sections B and C of the circle \( \left(\text{for } \frac{\pi}{2} < \theta < \frac{3\pi}{2}; \cos \theta \text{ is negative}\right) \), the second term is always greater than zero. Hence velocity cannot vanish, even when the tension vanishes.
 
+These points are to be kept in mind while solving problems related to motion in vertical circle.
+
 To start with let us consider only two positions, say the lowest point 1 and the highest point 2 as shown in Figure 4.15 for further analysis. Let the velocity of the body at the lowest point 1 be \( \vec{\nu}_{1} \), at the highest point 2 be \( \vec{\nu}_{2} \). The direction of velocity is tangential to the circular path at all points. Let \( \vec{T}_{1} \) be the tension in the string at the lowest point and \( \vec{T}_{2} \) be the tension at the highest point. Tension at each point acts towards the centre. The tensions and velocities at these two points can be found by applying the law of conservation of energy.
 
+![](image-23.png)
 **Figure 4.15 Motion in vertical circle shown for lowest and highest points**
 
 **For the lowest point (1)**
@@ -1018,9 +1193,9 @@ The required speed at the highest point \( v_2 = \sqrt{\mathrm{gr}} = \sqrt{10 \
 
 The speed at lowest point \( v_1 = \sqrt{5\mathrm{gr}} = \sqrt{5} \times \sqrt{\mathrm{gr}} = \sqrt{5} \times \sqrt{5} = 5 \, \mathrm{ms}^{-1} \)
 
-## 4.3 Power
+## Power
 
-### 4.3.1 Definition of power
+### Definition of power
 
 Power is a measure of how fast or slow a work is done. Power is defined as the rate of work done or energy delivered.
 
@@ -1036,7 +1211,17 @@ The average power \( (P_{av}) \) is defined as the ratio of the total work done 
 P_{av} = \frac{\mathrm{total\ work\ done}}{\mathrm{total\ time\ taken}}
 \]
 
-### 4.3.2 Unit of power
+### Instantaneous power
+
+The instantaneous power \(P_{inst} \) is defined as the power delivered at an instant (as time interval approaches zero),
+
+<center>
+
+\(P_{inst} \) =  \( \frac{dW}{dt} \)
+
+</center>
+
+### Unit of power
 
 Power is a scalar quantity. Its dimension is \( [\mathrm{ML}^{2}\mathrm{T}^{-3}] \). The SI unit of power is watt (W), named after the inventor of the steam engine James Watt. One watt is defined as the power when one joule of work is done in one second, \( (1 \, \mathrm{W} = 1 \, \mathrm{J} \, \mathrm{s}^{-1}) \).
 
@@ -1093,15 +1278,16 @@ Electrical energy consumed is the product of power and time of usage.
 \[
 \mathrm{Electrical\ energy} = 18 \, \mathrm{units}
 \]
+**Notes:**
 
 Incandescent lamps glow for 1000 hours. CFL lamps glow for 6000 hours. But LED lamps glow for 50000 hrs (almost 25 years at 5.5 hour per day).
 
-### 4.3.3 Relation between power and velocity
+### Relation between power and velocity
 
-The work done by a force \( \bar{\mathbf{F}} \) for a displacement \( \mathrm{d}\bar{\mathbf{r}} \) is
+The work done by a force \( \vec{\mathbf{F}} \) for a displacement \( \mathrm{d}\bar{\mathbf{r}} \) is
 
 \[
-\mathrm{W} = \int \bar{\mathrm{F}} \cdot \mathrm{d}\bar{\mathrm{r}}
+\mathrm{W} = \int \vec{\mathrm{F}} \cdot \mathrm{d}\vec{\mathrm{r}}
 \]
 
 Left hand side can be written as
@@ -1110,28 +1296,28 @@ Left hand side can be written as
 \mathrm{W} = \int \mathrm{dW} = \int \frac{\mathrm{dW}}{\mathrm{dt}} \mathrm{dt}
 \]
 
-Since, velocity is \( \bar{\nu} = \frac{d\bar{r}}{dt} \); \( d\bar{r} = \bar{\nu} dt \). Right hand side can be written as
+Since, velocity is \( \vec{\nu} = \frac{d\vec{r}}{dt} \); \( d\vec{r} = \vec{\nu} dt \). Right hand side can be written as
 
 \[
-\int \bar{\mathrm{F}} \cdot \mathrm{d}\bar{\mathrm{r}} = \int \left( \bar{\mathrm{F}} \cdot \frac{d\bar{r}}{dt} \right) \mathrm{dt} = \int \left( \bar{\mathrm{F}} \cdot \bar{\nu} \right) \mathrm{dt}
+\int \vec{\mathrm{F}} \cdot \mathrm{d}\vec{\mathrm{r}} = \int \left( \vec{\mathrm{F}} \cdot \frac{d\vec{r}}{dt} \right) \mathrm{dt} = \int \left( \vec{\mathrm{F}} \cdot \vec{\nu} \right) \mathrm{dt}
 \]
 
 Substituting, we get
 
 \[
-\int \frac{\mathrm{d}W}{\mathrm{d}t} \mathrm{d}t = \int \left( \bar{\mathrm{F}} \cdot \bar{\nu} \right) \mathrm{d}t
+\int \frac{\mathrm{d}W}{\mathrm{d}t} \mathrm{d}t = \int \left( \vec{\mathrm{F}} \cdot \vec{\nu} \right) \mathrm{d}t
 \]
 \[
-\int \left( \frac{\mathrm{d}W}{\mathrm{d}t} - \bar{\mathrm{F}} \cdot \bar{\nu} \right) \mathrm{d}t = 0
+\int \left( \frac{\mathrm{d}W}{\mathrm{d}t} - \vec{\mathrm{F}} \cdot \vec{\nu} \right) \mathrm{d}t = 0
 \]
 
 This relation is true for any arbitrary value of dt. This implies that the term within the bracket must be equal to zero, i.e.,
 
 \[
-\frac{\mathrm{d}W}{\mathrm{d}t} - \bar{\mathrm{F}} \cdot \bar{\nu} = 0
+\frac{\mathrm{d}W}{\mathrm{d}t} - \vec{\mathrm{F}} \cdot \vec{\nu} = 0
 \]
 \[
-\text{Or} \quad \frac{\mathrm{d}W}{\mathrm{d}t} = \bar{\mathrm{F}} \cdot \bar{\nu} = P
+\text{Or} \quad \frac{\mathrm{d}W}{\mathrm{d}t} = \vec{\mathrm{F}} \cdot \vec{\nu} = P
 \]
 
 **EXAMPLE 4.19**
@@ -1146,48 +1332,48 @@ The vehicle's engine has to do work against resistive force and make vehicle to 
 \mathrm{P} = (\text{resistive force} + \text{mass} \times \text{acceleration}) \times \text{velocity}
 \]
 \[
-\mathrm{P} = \bar{\mathrm{F}}_{\mathrm{tot}} \cdot \bar{\mathrm{v}} = (F_{\mathrm{resistive}} + ma)v
+\mathrm{P} = \vec{\mathrm{F}}_{\mathrm{tot}} \cdot \vec{\mathrm{v}} = (F_{\mathrm{resistive}} + ma)v
 \]
 \[
 = (500 \, \mathrm{N} + 1250 \, \mathrm{kg} \times 0.2 \, \mathrm{ms}^{-2}) \times 30 \, \mathrm{ms}^{-1} = (500 + 250) \times 30 = 750 \times 30 = 22500 \, \mathrm{W} = 22.5 \, \mathrm{kW}
 \]
 
-## 4.4 Collisions
+## Collisions
 
 Collision is a common phenomenon that happens around us every now and then. For example, carom, billiards, marbles, etc. Collisions can happen between two bodies with or without physical contacts.
 
-Linear momentum is conserved in all collision processes. When two bodies collide, the mutual impulsive forces acting between them during the collision time \( (\Delta t) \) produces a change in their respective momenta. That is, the first body exerts a force \( \bar{\mathbf{F}}_{21} \) on the second body. From Newton's third law, the second body exerts a force \( \bar{\mathbf{F}}_{12} \) on the first body. This causes a change in momentum \( \Delta \bar{\mathbf{p}}_1 \) and \( \Delta \bar{\mathbf{p}}_2 \) of the first body and second body respectively. Now, the relations could be written as,
+Linear momentum is conserved in all collision processes. When two bodies collide, the mutual impulsive forces acting between them during the collision time \( (\Delta t) \) produces a change in their respective momenta. That is, the first body exerts a force \( \vec{\mathbf{F}}_{21} \) on the second body. From Newton's third law, the second body exerts a force \( \vec{\mathbf{F}}_{12} \) on the first body. This causes a change in momentum \( \Delta \vec{\mathbf{p}}_1 \) and \( \Delta \vec{\mathbf{p}}_2 \) of the first body and second body respectively. Now, the relations could be written as,
 
 \[
-\Delta \bar{\mathbf{p}}_1 = \bar{\mathbf{F}}_{12} \Delta t, \quad \Delta \bar{\mathbf{p}}_2 = \bar{\mathbf{F}}_{21} \Delta t
+\Delta \vec{\mathbf{p}}_1 = \vec{\mathbf{F}}_{12} \Delta t, \quad \Delta \vec{\mathbf{p}}_2 = \vec{\mathbf{F}}_{21} \Delta t
 \]
 
 Adding the two equations, we get
 
 \[
-\Delta \bar{\mathbf{p}}_1 + \Delta \bar{\mathbf{p}}_2 = \bar{\mathbf{F}}_{12} \Delta t + \bar{\mathbf{F}}_{21} \Delta t = (\bar{\mathbf{F}}_{12} + \bar{\mathbf{F}}_{21}) \Delta t
+\Delta \vec{\mathbf{p}}_1 + \Delta \vec{\mathbf{p}}_2 = \vec{\mathbf{F}}_{12} \Delta t + \vec{\mathbf{F}}_{21} \Delta t = (\vec{\mathbf{F}}_{12} + \vec{\mathbf{F}}_{21}) \Delta t
 \]
 
-According to Newton's third law, \( \bar{\mathbf{F}}_{12} = -\bar{\mathbf{F}}_{21} \)
+According to Newton's third law, \( \vec{\mathbf{F}}_{12} = -\vec{\mathbf{F}}_{21} \)
 
 \[
-\Delta \bar{\mathbf{p}}_1 + \Delta \bar{\mathbf{p}}_2 = 0
+\Delta \vec{\mathbf{p}}_1 + \Delta \vec{\mathbf{p}}_2 = 0
 \]
 \[
-\Delta (\bar{\mathbf{p}}_1 + \bar{\mathbf{p}}_2) = 0
+\Delta (\vec{\mathbf{p}}_1 + \vec{\mathbf{p}}_2) = 0
 \]
 
 Dividing both sides by \( \Delta t \) and taking limit \( \Delta t \to 0 \), we get
 
 \[
-\lim_{\Delta t \to 0} \frac{\Delta(\bar{\mathbf{p}}_1 + \bar{\mathbf{p}}_2)}{\Delta t} = \frac{d(\bar{\mathbf{p}}_1 + \bar{\mathbf{p}}_2)}{dt} = 0
+\lim_{\Delta t \to 0} \frac{\Delta(\vec{\mathbf{p}}_1 + \vec{\mathbf{p}}_2)}{\Delta t} = \frac{d(\vec{\mathbf{p}}_1 + \vec{\mathbf{p}}_2)}{dt} = 0
 \]
 
 The above expression implies that the total linear momentum is a conserved quantity.
 
 Note: The momentum is a vector quantity. Hence, vector addition has to be followed to find the total momentum of the individual bodies in collision.
 
-### 4.4.1 Types of Collisions
+### Types of Collisions
 
 In any collision process, the total linear momentum and total energy are always conserved whereas the total kinetic energy need not be conserved always. Some part of the initial kinetic energy is transformed to other forms of energy. This is because, the impact of collisions and deformation occurring due to collisions may in general, produce heat, sound, light etc. By taking these effects into account, we classify the types of collisions as follows:
 
@@ -1207,29 +1393,33 @@ In a collision, the total initial kinetic energy of the bodies (before collision
 
 Total kinetic energy before collision \( \neq \) Total kinetic energy after collision
 
+**(Total kinetic energy before collision) - (Total kinetic energy after collision) = (loss in energy during collision) = \( \Delta Q \)** 
+
+
 Even though kinetic energy is not conserved but the total energy is conserved. This is because the total energy contains the kinetic energy term and also a term \( \Delta Q \), which includes all the losses that take place during collision. Note that loss in kinetic energy during collision is transformed to another form of energy like sound, thermal, etc. Further, if the two colliding bodies stick together after collision such collisions are known as completely inelastic collision or perfectly inelastic collision. Such a collision is found very often. For example when a clay putty is thrown on a moving vehicle, the clay putty sticks to the moving vehicle and they move together with the same velocity.
 
 **Table 4.4 Comparison between elastic and inelastic collisions**
 
-| S.No. | Elastic Collision |
-|---|---|
-| 1. | Total momentum is conserved |
-| 2. | Total kinetic energy is conserved |
-| 3. | Forces involved are conservative forces |
-| 4. | Mechanical energy is not dissipated |
+![](image-24.png)
 
-### 4.4.2 Elastic collisions in one dimension
+### Elastic collisions in one dimension
 
 Consider two elastic bodies of masses \( m_{1} \) and \( m_{2} \) moving in a straight line (along positive \( x \) direction) on a frictionless horizontal surface as shown in Figure 4.16.
+
+![](image-25.png)
 
 **Figure 4.16 Elastic collision in one dimension**
 
 | | Mass | Initial velocity | Final velocity |
 |---|---|---|---|
-| Mass \( m_1 \) | \( m_1 \) | \( u_1 \) | \( v_1 \) |
-| Mass \( m_2 \) | \( m_2 \) | \( u_2 \) | \( v_2 \) |
+| Mass \( m_1 \) | | \( u_1 \) | \( v_1 \) |
+| Mass \( m_2 \) | | \( u_2 \) | \( v_2 \) |
 
 In order to have collision, we assume that the mass \( m_{1} \) moves faster than mass \( m_{2} \) i.e., \( u_{1} > u_{2} \). For elastic collision, the total linear momentum and kinetic energies of the two bodies before and after collision must remain the same.
+| Collision Stage | Momentum of mass \(m_1\) | Momentum of mass \(m_2\) | Total linear momentum |
+|-----------------|--------------------------|--------------------------|-----------------------|
+| **Before collision** | \(p_{i1} = m_1u_1\) | \(p_{i2} = m_2u_2\) | \(p_i = p_{i1} + p_{i2}\)<br>\(p_i = m_1u_1 + m_2u_2\) |
+| **After collision** | \(p_{f1} = m_1v_1\) | \(p_{f2} = m_2v_2\) | \(p_f = p_{f1} + p_{f2}\)<br>\(p_f = m_1v_1 + m_2v_2\) |
 
 From the law of conservation of linear momentum,
 
@@ -1264,22 +1454,26 @@ Using the formula \( a^2 - b^2 = (a+b)(a-b) \) we can rewrite the above equation
 m_1 (u_1 + v_1)(u_1 - v_1) = m_2 (v_2 + u_2)(v_2 - u_2)
 \]
 
-Dividing this equation by the momentum equation (after rearranging), we get
 
-\[
-u_1 - v_1 = v_2 - u_2
-\]
+\( \frac{m_1(u_1+v_1)(u_1-v_1)}{m_1(u_1-v_1)} \) = \( \frac{m_2(v_2+u_2)(v_2-u_2)}{m_2(v_2-u_2)} \)
+
+
+After cancelling the common terms,
+
+$$
+u_1 + v_1 = v_2 + u_2
+$$
 
 Rearranging,
 
+$$
+u_1 - u_2 = v_2 - v_1
+$$
+
+Equation can be rewritten as
+
 \[
 u_1 - u_2 = -(v_1 - v_2)
-\]
-
-or
-
-\[
-u_1 - u_2 = v_2 - v_1
 \]
 
 This means that for any elastic head-on collision, the relative speed of the two elastic bodies after the collision has the same magnitude as before collision but in opposite direction. Further note that this result is independent of mass.
@@ -1362,11 +1556,20 @@ The first equation implies that the first body which is heavier continues to mov
 
 A lighter particle moving with a speed of \( 10 \, \mathrm{m}\mathrm{s}^{-1} \) collides with an object of double its mass moving in the same direction with half its speed. Assume that the collision is a one dimensional elastic collision. What will be the speed of both particles after the collision?
 
+![](image-29.png)
+
 **Solution**
 
 Let the mass of the first body be \( m \) which moves with an initial velocity, \( \mathbf{u}_1 = 10 \, \mathrm{m}\mathrm{s}^{-1} \). Therefore, the mass of second body is \( 2m \) and its initial velocity is \( \mathbf{u}_2 = \frac{1}{2} \mathbf{u}_1 = 5 \, \mathrm{m}\mathrm{s}^{-1} \)
 
 Then, the final velocities of the bodies can be calculated from the equations:
+
+$$
+v_1 =
+\left(\frac{m_1 - m_2}{m_1 + m_2}\right)u_1
++
+\left(\frac{2m_2}{m_1 + m_2}\right)u_2
+$$
 
 \[
 v_1 = \left( \frac{m - 2m}{m + 2m} \right) 10 + \left( \frac{2 \times 2m}{m + 2m} \right) 5 = \left( \frac{-m}{3m} \right) 10 + \left( \frac{4m}{3m} \right) 5 = -\frac{10}{3} + \frac{20}{3} = \frac{10}{3} = 3.33 \, \mathrm{ms}^{-1}
@@ -1375,9 +1578,19 @@ v_1 = \left( \frac{m - 2m}{m + 2m} \right) 10 + \left( \frac{2 \times 2m}{m + 2m
 v_2 = \left( \frac{2m}{m + 2m} \right) 10 + \left( \frac{2m - m}{m + 2m} \right) 5 = \left( \frac{2m}{3m} \right) 10 + \left( \frac{m}{3m} \right) 5 = \frac{20}{3} + \frac{5}{3} = \frac{25}{3} = 8.33 \, \mathrm{ms}^{-1}
 \]
 
+![](image-30.png)
+
+| Mass | Velocity (Initial) | Velocity (Final) | Linear Momentum (Initial) | Linear Momentum (Final) |
+|------|---------------------|------------------|---------------------------|-------------------------|
+| \(m_1\) | \(u_1\) | \(v\) | \(m_1u_1\) | \(m_1v\) |
+| \(m_2\) | \(u_2\) | \(v\) | \(m_2u_2\) | \(m_2v\) |
+| **Total** | — | — | \(m_1u_1 + m_2u_2\) | \((m_1 + m_2)v\) |
+
+The common velocity can be computed by
+
 As the two speeds \( v_1 \) and \( v_2 \) are positive, they move in the same direction with the velocities, \( 3.33 \, \mathrm{m}\mathrm{s}^{-1} \) and \( 8.33 \, \mathrm{m}\mathrm{s}^{-1} \) respectively.
 
-### 4.4.3 Perfect inelastic collision
+### Perfect inelastic collision
 
 In a perfectly inelastic or completely inelastic collision, the objects stick together permanently after collision such that they move with common velocity. Let the two bodies with masses \( m_1 \) and \( m_2 \) move with initial velocities \( u_{1} \) and \( u_{2} \) respectively before collision. After perfect inelastic collision both the objects move together with a common velocity \( \mathbf{v} \) as shown in Figure 4.17.
 
@@ -1386,11 +1599,76 @@ Since, the linear momentum is conserved during collisions,
 \[
 m_{1}u_{1} + m_{2}u_{2} = (m_{1} + m_{2})\mathbf{v}
 \]
+
+![](image-30.png)
+
+| Mass | Velocity (Initial) | Velocity (Final) | Linear Momentum (Initial) | Linear Momentum (Final) |
+|------|---------------------|------------------|---------------------------|-------------------------|
+| \(m_1\) | \(u_1\) | \(v\) | \(m_1u_1\) | \(m_1v\) |
+| \(m_2\) | \(u_2\) | \(v\) | \(m_2u_2\) | \(m_2v\) |
+| **Total** | — | — | \(m_1u_1 + m_2u_2\) | \((m_1 + m_2)v\) |
+
+The common velocity can be computed by
+
 \[
 \mathbf{v} = \frac{m_{1}u_{1} + m_{2}u_{2}}{m_{1} + m_{2}}
 \]
 
-**4.4.4 Loss of kinetic energy in inelastic collision**
+**EXAMPLE 4.21**
+A bullet of mass 50 g is fired from below into a suspended object of mass 450 g. The object rises through a height of 1.8 m with bullet remaining inside the object. Find the speed of the bullet. Take g = 10\( \mathrm{m\,s^{-2}} \).
+
+ **Solution**
+
+ m1 = 50 g = 0.05 kg;m2=450g=0.45kg
+
+ ![](image-32.png)
+
+The speed of the bullet is \(u_1\). The second body is at rest \(u_2\)=0 . Let the common velocity of the bullet and the object after the bullet is embedded into the object is v.
+
+$$
+v=\frac{m_1u_1+m_2u_2}{m_1+m_2}
+$$
+
+Substituting the given values,
+
+$$
+v=\frac{0.05u_1+(0.45\times0)}{0.05+0.45}
+=\frac{0.05}{0.50}u_1
+$$
+
+The combined velocity is the initial velocity for the vertical upward motion of the combined bullet and the object. From second equation of motion,
+
+$$
+v=\sqrt{2gh}
+$$
+
+Substituting the given values,
+
+$$
+v=\sqrt{2\times10\times1.8}
+=\sqrt{36}
+$$
+
+Therefore,
+
+$$
+v=6\,\mathrm{m\,s^{-1}}
+$$
+
+Substituting this in the above equation, the value of \(u_1\) is
+
+\( \mathbf{6} = \frac {0.05}{0.50} \) \(u_1\) 
+
+or
+
+ \(u_1\) =\( \frac{0.05}{0.50} \) x 6 = 10 x 6
+
+\(u_1\) = 60 \( \mathrm{m\,s^{-1}} \)
+
+
+**Loss of kinetic energy in inelastic collision**
+
+In perfectly inelastic collision, the loss in kinetic energy during collision is transformed to another form of energy like sound, thermal, heat, light etc. Let \(KE_i\) be the total kinetic energy before collision and \(KE_f\) be the total kinetic energy after collision.
 
 Total kinetic energy before collision,
 
@@ -1416,7 +1694,7 @@ Substituting the expression for \( v \) and simplifying, we get
 \text{Loss of KE}, \Delta Q = \frac{1}{2} \left( \frac{m_{1} m_{2}}{m_{1} + m_{2}} \right) (u_{1} - u_{2})^{2}
 \]
 
-### 4.4.5 Coefficient of restitution (e)
+### Coefficient of restitution (e)
 
 Suppose we drop a rubber ball and a plastic ball on the same floor. The rubber ball will bounce back higher than the plastic ball. This is because the loss of kinetic energy for an elastic ball is much lesser than the loss of kinetic energy for a plastic ball. The amount of kinetic energy after the collision of two bodies, in general, can be measured through a dimensionless number called the coefficient of restitution (COR).
 
@@ -1443,6 +1721,10 @@ In general, the coefficient of restitution for a material lies between \( 0 < \m
 Show that the ratio of velocities of equal masses in an inelastic collision when one of the masses is stationary is \( \frac{v_{1}}{v_{2}} = \frac{1 - e}{1 + e} \).
 
 **Solution**
+\[
+\mathrm{e} = \frac{\text{velocity of separation (after collision)}}{\text{velocity of approach (before collision)}} = \frac{(v_{2} - v_{1})}{(u_{1} - u_{2})}
+\]
+
 
 \[
 \mathrm{e} = \frac{(v_2 - v_1)}{(u_1 - u_2)} = \frac{(v_2 - v_1)}{(u_1 - 0)} = \frac{(v_2 - v_1)}{u_1}
@@ -1473,31 +1755,30 @@ On simplification, we get
 
 - When a force \( \vec{F} \) acting on an object displaces it by \( d\vec{r} \), then the work done (W) by the force is \( W = \vec{F} \cdot d\vec{r} = Fdr\cos \theta \).
 
-- The work done by the variable force is defined by \( \int_{i}^{f} \vec{F} \cdot d\vec{r} \).
+* The work done by the variable force is defined by \( \int_{i}^{f} \vec{F} \cdot d\vec{r} \).
 
 - Work-kinetic energy theorem: The work done by a force on the object is equal to the change in its kinetic energy.
-
-- The kinetic energy can also be defined in terms of momentum which is given by \( K.E = \frac{p^{2}}{2m} \).
+* The kinetic energy can also be defined in terms of momentum which is given by \( K.E = \frac{p^{2}}{2m} \).
 
 - The potential energy at a point P is defined as the amount of work required to move the object from some reference point O to the point P with constant velocity. It is given by \( U = \int_{0}^{P} \vec{F}_{ext} \cdot d\vec{r} \). The reference point can be taken as zero potential energy.
 
-- The gravitational potential energy at a height h is given by \( U = mgh \). When the elongation or compression is x, the spring potential energy is given by \( U = \frac{1}{2} kx^{2} \). Here k is spring constant.
+* The gravitational potential energy at a height h is given by \( U = mgh \). When the elongation or compression is x, the spring potential energy is given by \( U = \frac{1}{2} kx^{2} \). Here k is spring constant.
 
 - The work done by a conservative force around the closed path is zero and for a non-conservative force it is not zero.
 
-- The gravitational force, spring force and Coulomb force are all conservative but frictional force is non-conservative.
+* The gravitational force, spring force and Coulomb force are all conservative but frictional force is non-conservative.
 
 - In the conservative force field, the total energy of the object is conserved.
 
-- In the vertical circular motion, the minimum speed required by the mass to complete the circle is \( \sqrt{5gr} \). Where r is the radius of the circle.
+* In the vertical circular motion, the minimum speed required by the mass to complete the circle is \( \sqrt{5gr} \). Where r is the radius of the circle.
 
 - Power is defined as the rate of work done or energy delivered. It is equal to \( P = \frac{W}{t} = \vec{F} \cdot \vec{v} \).
 
-- The total linear momentum of the system is always conserved for both the elastic and inelastic collisions.
+* The total linear momentum of the system is always conserved for both the elastic and inelastic collisions.
 
 - The kinetic energy of the system is conserved in elastic collisions.
 
-- The coefficient of restitution \( e = \frac{\text{velocity of separation (after collision)}}{\text{velocity of approach (before collision)}} \).
+* The coefficient of restitution \( e = \frac{\text{velocity of separation (after collision)}}{\text{velocity of approach (before collision)}} \).
 
 ## Multiple Choice Questions
 

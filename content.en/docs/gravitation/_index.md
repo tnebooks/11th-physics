@@ -1,6 +1,7 @@
 ---
 title: 'gravitation'
 weight: 6
+summary: "This chapter explores the universal law of gravitation proposed by Newton, which states that every particle in the universe attracts every other particle with a force proportional to the product of their masses and inversely proportional to the square of the distance between them. It covers concepts such as gravitational field, gravitational potential energy, and the variation of acceleration due to gravity with altitude, depth, and rotation of the Earth. The chapter also discusses Kepler's laws of planetary motion, orbital velocity, escape speed, and phenomena like tides and satellite motion."
 ---
 
 **Learning Objectives**

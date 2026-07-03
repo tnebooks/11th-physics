@@ -1,6 +1,7 @@
 ---
 title: 'kinematics'
 weight: 2
+summary: "This chapter deals with the motion of objects without considering the forces that cause them, focusing on parameters like displacement, velocity, and acceleration. It covers concepts such as uniform and non-uniform motion, equations of motion for uniformly accelerated bodies, and graphical methods to analyze motion. The chapter also introduces motion in two dimensions, including projectile motion and relative velocity, forming the foundation for understanding more complex dynamics."
 ---
 
 

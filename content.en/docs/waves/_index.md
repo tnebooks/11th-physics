@@ -3,6 +3,7 @@ title: 'waves'
 weight: 11
 extensions:
     - katex
+summary: "This chapter deals with the propagation of disturbances through a medium, focusing on mechanical waves such as transverse and longitudinal waves, and their characteristic properties like wavelength, frequency, wave speed, and amplitude. It covers the principle of superposition, interference, reflection, and transmission of waves, along with the formation of standing waves in strings and pipes. The chapter also discusses the Doppler effect, beats, and the speed of sound in different media, providing a comprehensive understanding of wave phenomena in daily life."
 ---
 
 

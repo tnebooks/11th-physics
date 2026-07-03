@@ -3,7 +3,7 @@ title: 'oscillations'
 weight: 10
 extensions:
     - katex
-
+summary: "This chapter studies the periodic and oscillatory motions of objects, focusing on simple harmonic motion (SHM) as the most fundamental type of oscillation characterized by a restoring force proportional to displacement. It covers the kinematics and dynamics of SHM, including equations of displacement, velocity, acceleration, energy, and time period, along with concepts like phase, frequency, and angular frequency. The chapter also discusses different types of pendulums, damped and forced oscillations, and the phenomenon of resonance, highlighting their importance in various physical systems."
 ---
 
 

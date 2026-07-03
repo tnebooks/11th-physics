@@ -1,6 +1,7 @@
 ---
 title: 'kinetic theory of gases'
 weight: 9
+summary: "This chapter explains the behavior of gases at the molecular level using the kinetic theory, which relates macroscopic properties like pressure, temperature, and volume to the microscopic motion of gas molecules. It covers the assumptions of the kinetic theory, the derivation of the ideal gas equation, and concepts such as mean free path, root-mean-square speed, and the distribution of molecular speeds. The chapter also discusses the degrees of freedom, the principle of equipartition of energy, and the specific heat capacities of gases based on their molecular structure."
 ---
 
 # Unit 9: Kinetic Theory of Gases

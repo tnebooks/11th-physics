@@ -1,6 +1,7 @@
 ---
 title: 'motion of system of particles and rigid bodies'
 weight: 5
+summary: "This chapter extends the laws of motion to systems of particles and rigid bodies, introducing concepts such as center of mass, torque, and angular momentum to describe rotational motion. It covers the relationship between linear and angular quantities, the moment of inertia and its dependence on mass distribution, and the parallel and perpendicular axes theorems for calculating moments of inertia. The chapter also discusses the conservation of angular momentum, the dynamics of rolling motion, and the conditions for equilibrium of rigid bodies under the action of multiple forces."
 ---
 
 

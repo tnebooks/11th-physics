@@ -1,6 +1,7 @@
 ---
 title: 'work, energy and power'
 weight: 4
+summary: "This chapter defines work as the product of force and displacement, energy as the capacity to do work, and power as the rate at which work is done, establishing the interrelationships among these three fundamental concepts. It covers different forms of energy such as kinetic and potential energy, the work-energy theorem, and the law of conservation of mechanical energy in conservative force fields. The chapter also discusses elastic and inelastic collisions, power in terms of average and instantaneous values, and practical applications like efficiency and energy conversion in everyday life."
 ---
 
 

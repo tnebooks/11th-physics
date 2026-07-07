@@ -1,32 +1,43 @@
 ---
-title: "1.3 PHYSICS IN RELATION TO TECHNOLOGY AND SOCIETY"
+title: 'தொழில் நுட்பம் மற்றும் சமுதாயத்துடன் இயற்பியலின் தொடர்பு'
 weight: 3
 ---
 
-Technology is the application of the principles of physics for practical purposes. The application of knowledge for practical purposes in various fields to invent and produce useful products or to solve problems is known as technology. Thus, physics and technology can both together impact our society directly or indirectly. For example,
+### 1.3 தொழில் நுட்பம் மற்றும் சமுதாயத்துடன் இயற்பியலின் தொடர்பு
 
-i. Basic laws of electricity and magnetism led to the discovery of wireless communication technology which has shrunk the world with effective communication over large distances.
+இயற்பியலின் கோட்பாடுகளை நடைமுறையில் பயன்படுத்துவதே தொழில் நுட்பமாகும். பல்வேறு துறைகளில் பயனுள்ள பொருட்களை கண்டுபிடிக்கவும் அவற்றைத் தயாரிக்கவும் மற்றும் நடைமுறைப் பிரச்சனைகளைத் தீர்க்கவும் அறிவுத் திறனைப் பயன்படுத்துவதுமே தொழில் நுட்பவியலாகும் (technology).
 
-ii. The launching of satellite into space has revolutionized the concept of communication.
+எனவே நம் சமுதாயத்துடன் நேரடியாகவோ, அல்லது மறைமுகமாகவோ இயற்பியலும் தொழில் நுட்பவியலும் இணைந்து தாக்கத்தை ஏற்படுத்துகின்றன.
 
-iii. Microelectronics, lasers, computers, superconductivity and nuclear energy have comprehensively changed the thinking and living style of human beings.
+**எடுத்துக்காட்டாக,**
 
-Physics being a fundamental science has played a vital role in the development of all other sciences. A few examples:
+i. மின்னோட்டவியல் மற்றும் காந்தவியலின் அடிப்படை விதிகளின் கீழ் கண்டுபிடிக்கப்பட்ட கம்பியிலை தொலைத் தொடர்புமுறை உலகத்தைச் சுருக்கி மிக நீண்ட தொலைவிற்கான மிகச்சிறந்த தொடர்பை ஏற்படுத்துகிறது.
 
-**1. Physics in relation to Chemistry:** In physics, we study the structure of atom, radioactivity, X-ray diffraction etc. Such studies have enabled researchers in chemistry to arrange elements in the periodic table on the basis of their atomic numbers. This has further helped to know the nature of valency, chemical bonding and to understand the complex chemical structures. Inter-disciplinary branches like Physical chemistry and Quantum chemistry play important roles here.
+ii. விண்ணவளியில் (space) நிலை நிறுத்தப்பட்ட செயற்கைக்கோள்கள் கோள்கள் தொலைத்தொடர்பில் மிகப்பெரிய புரட்சியை உருவாக்குகின்றன.
 
-**2. Physics in relation to biology:** Biological studies are impossible without a microscope designed using physics principles. The invention of the electron microscope has made it possible to see even the structure of a cell. X-ray and neutron diffraction techniques have helped us to understand the structure of nucleic acids, which help to control vital life processes. X-rays are used for diagnostic purposes. Radio-isotopes are used in radiotherapy for the cure of cancer and other diseases. In recent years, biological processes are being studied from the physics point of view.
+iii. நுண் எலக்ட்ரானியல் (Microelectronics), லேசர் (Laser), கணினி (Computer), மீக்கடத்தி (Super Conductor) மற்றும் அணுக்கு ஆற்றல் ஆகியவை மனிதனின் சிந்தனையையும் வாழ்க்கை முறையையும் முழுமையாக மாற்றியுள்ளன.
 
-**3. Physics in relation to mathematics:** Physics is a quantitative science. It is most closely related to mathematics as a tool for its development.
+அனைத்து அறிவியலின் வளர்ச்சிக்கும், அடிப்படை அறிவியலான இயற்பியல் முக்கியப் பங்காற்றுகிறது.
 
-**4. Physics in relation to astronomy:** Astronomical telescopes are used to study the motion of planets and other heavenly bodies in the sky. Radio telescopes have enabled the astronomers to observe distant points of the universe. Studies of the universe are done using physical principles.
+**எடுத்துக்காட்டாக,**
 
-**5. Physics in relation to geology:** Diffraction techniques help to study the crystal structure of various rocks. Radioactivity is used to estimate the age of rocks, fossils and the age of the Earth.
+1. **வேதியியலுடன் இயற்பியலின் தொடர்பு:**  
+இயற்பியலில் அணு அமைப்பு, கதிரியக்கம், X – கதிர் விளிம்பு விளைவு முதலியவற்றை நாம் பயிக்கின்றோம். அமைப்பைப் பயன்படுத்தி வேதியியல் ஆய்வாளர்கள் தனிம வரிசை அட்டவணையில் அணு எண் அடிப்படையில் அணுக்களை வரிசைப் படுத்துகின்றனர். இது மேலும் அணுக்களின் இணைதிறனின் இயல்புகள், வேதியியல் பிணைப்பு பற்றி அறியவும், சிக்கலான வேதியியல் அமைப்புகளை புரிந்து கொள்ளவும் உதவுகிறது. இங்கு இயல் வேதியியல் (Physical Chemistry), மற்றும் குவாண்டம் வேதியியல் (Quantum Chemistry) போன்ற வேதியியலின் உட்பிரிவுகள் முக்கிய பங்காற்றுகின்றன.
+2. **உயிரியலுடன் இயற்பியலின் தொடர்பு:**  
+இயற்பியல் தத்துவங்களின் அடிப்படையில் உருவாக்கப்படும் நுண்ணோக்கி (microscope) இல்லாமல் உயிரியல் ஆய்வுகளை நிகழ்த்த முடியாது. எலக்ட்ரான் நுண்ணோக்கி கண்டுபிடிப்பு ஒரு செல்கின் கட்டமைப்பைக்கூட பார்க்க உதவுகிறது. X – கதிர் மற்றும் நியூட்ரான் விளிம்பு விளைவு நுணுக்கங்கள் நியூக்ளியின் அமைப்புகளைப் புரிந்து கொள்ளவும் அதன்மூலம் அடிப்படையான வாழ்க்கை செயல்முறைகளைக் கட்டுப்படுத்தவும் உதவுகிறது. X – கதிர்கள் உடலைப் பகுப்பாய்வு செய்ய உதவுகிறது. ரேடியோ ஐசோடோப்புகள், புற்றுநோய் மற்றும் இதர நோய்களைக் குணப்படுத்த ரேடியோ சிகிச்சை முறையில் பயன்படுத்தப்படுகிறது. தற்பொழுது உயிரியல் செயல்முறைகள் இயற்பியலின் கண்ணோட்டத்தில் கற்பிக்கப்படுகின்றன.
+3. **கணிதவியலில் இயற்பியல் தொடர்பு:**  
+இயற்பியல் என்பது அளவிடக்கூடிய ஒரு அறிவியல் ஆகும். இயற்பியலின் வளர்ச்சிக்கு கணிதவியல் முக்கியக் கருவியாக உள்ளதால் இயற்பியல் கணிதத்துடன் மிக நெருங்கிய தொடர்பு கொண்டுள்ளது.
+4. **வானியலுடன் இயற்பியலின் தொடர்பு:**  
+கோள்களின் இயக்கம் மற்றும் வான் பொருட்கள் பற்றி அறிய வானியல் தொலைநோக்கிகள் பயன்படுகின்றன. வானியலாளர்கள் அண்டத்தின் தொலைதூரத்தை உற்றுநோக்க ரேடியோ தொலைநோக்கியைப் பயன்படுத்துகின்றனர். இயற்பியல் தத்துவங்களைப் பயன்படுத்தி அண்டத்தினைப் பற்றி கற்றுக்கொள்ள முடிகின்றது.
+5. **புவிநிலை அமைப்பியலுடன் இயற்பியலின் தொடர்பு:**  
+வேறுபட்ட பாறைகளின் படிக கட்டமைப்பைப் பற்றி அறிய விளிம்பு விளைவின் நுட்பங்கள் உதவுகின்றன. பாறைகளின் வயது, படிமங்களின் வயது மற்றும் புவியின் வயது ஆகியவற்றைக் கணிக்க கதிரியக்க முறை பயன்படுகிறது.
+6. **கடலியலுடன் இயற்பியலின் தொடர்பு:**  
+கடலில் நடைபெறும் இயற்பியல் மற்றும் வேதியியல் மாற்றங்களைக் கடலியலாளர்கள் புரிந்து கொள்ள விரும்புகின்றனர். அவர்கள் வெப்பநிலை, உப்புத்தன்மை, நீரோட்டத்தின் வேகம், வாயுக்களின் பாய ஓட்டம், வேதியியல் கூறுகள் போன்ற அளவுகளை அளவீடு செய்கின்றனர்.
+7. **உளவியலுடன் இயற்பியலின் தொடர்பு:**  
+அனைத்து உளவியல் இடைவிடைகளும் உடலியக்க செயல்முறைகள் மூலமே பெறப்படுகின்றன. நடைபெறும் மனை கடத்திகள் இயக்கங்கள் இயற்பியலின் பண்புகளான விரவல் மற்றும் மூலக்கூறுகளின் இயக்கம் ஆகியவற்றின் அடிப்படையிலேயே அமைக்கின்றன. அலை, துகள் இயக்க இருமைகளின் அடிப்படையிலேயே மூளையின் செயல்பாடும் அமைந்துள்ளது.
 
-**6. Physics in relation to oceanography:** Oceanographers seek to understand the physical and chemical processes of the oceans. They measure parameters such as temperature, salinity, current speed, gas fluxes, chemical components.
+இயற்பியலை மிகச்சிறந்த கருவியாகக் கொண்டு உண்மையான அறிவியலை இயற்கை விளக்குகிறது. அறிவியலையும், தொழில்நுட்பவியலையும் சம நிலையில் பயன்படுத்த வேண்டும். இல்லையெனில் அறிவியலை நமக்கு கற்பித்த இயற்கையை அழிக்கும் கருவிகளாக அவை மாறிவிடும்.
 
-**7. Physics in relation to psychology:** All psychological interactions can be derived from a physical process. The movements of neurotransmitters are governed by the physical properties of diffusion and molecular motion. The functioning of our brain is related to our underlying wave-particle dualism.
+உலக வெப்பமயமாதல் மற்றும் தொழில் நுட்பத்தின் எதிர்மறைத் தாக்கம் ஆகியவை தடுக்கப்பட வேண்டும். தொழில்நுட்ப உதவியுடன் தேவையான மற்றும் பொருந்தக் கூடிய பாதுகாப்பான அறிவியலை இந்த நூற்றாண்டின் தேவை ஆகும்.
 
-Nature teaches true science with physics as an efficient tool. Science and technology should be used in a balanced manner so that they do not become weapons to destroy nature which taught us science. Global warming and other negative impacts of technology need to be checked. Safe science with moderate and appropriate use of technology is the need of this century.
-
-The scope and opportunities for higher education in physics and various fellowships offered is given in the beginning of the book.
+உயர்கல்வியில் இயற்பியலின் நோக்கமும், வாய்ப்புகளும் மற்றும் பல்வேறு ஆய்வு உதவித்தொகை பற்றிய விவரங்களும் பாடத்தின் ஆரம்பத்திலேயே தொகுக்கப்பட்டுள்ளன.

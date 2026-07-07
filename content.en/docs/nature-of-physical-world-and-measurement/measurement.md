@@ -1,7 +1,9 @@
 ---
-title: "1.4 MEASUREMENT"
+title: "Measurement"
 weight: 4
 ---
+
+## 1.4 MEASUREMENT
 
 > "When you can measure what you are speaking about and can express it in numbers, you know something about it; but when you cannot express it in numbers, your knowledge is of a meager and unsatisfactory kind" — Lord Kelvin
 
@@ -39,7 +41,7 @@ A complete set of units which is used to measure all kinds of fundamental and de
 
 (c) The m.k.s system is based on metre, kilogram and second as the three basic units for measuring length, mass and time respectively.
 
-> The cgs, mks and SI are metric or decimal system of units. The fps system is not a metric system.
+>**Did you know?** The cgs, mks and SI are metric or decimal system of units. The fps system is not a metric system.
 
 ### 1.4.5 SI Unit System
 
@@ -57,7 +59,7 @@ In SI, there are seven fundamental units as given in Table 1.2
 **Table 1.2 SI Base Quantities and Units**
 
 ---
-| Base Quantity | SI Units | Unit Symbol | Definition |
+| Base Quantity | Units | Unit Symbol | Definition |
 |---------------|----------|-------------|-------------|
 | Length | metre | m | One metre is the length of the path travelled by light in vacuum in $1/299{,}792{,}458$ of a second (1983) |
 | Mass | kilogram | kg | One kilogram is the mass of the prototype cylinder of platinum iridium alloy (whose height is equal to its diameter), preserved at the International Bureau of Weights and Measures at Serves, near Paris, France. (1901) |

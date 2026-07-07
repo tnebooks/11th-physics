@@ -1,48 +1,33 @@
 ---
-title: 'அறிவியல் – ஓர் அறிமுகம்'
+title: "1.1 SCIENCE-INTRODUCTION"
 weight: 1
 ---
 
-## 1.1 அறிவியல் – ஓர் அறிமுகம்
+The word 'science' has its root in the Latin verb scientia, meaning "to know". In Tamil language, it is 'அறிவியல்' (Ariviyal) meaning 'knowing the truth'. The human mind is always curious to know and understand different phenomena like the bright celestial objects in nature, cyclic changes in the seasons, occurrence of rainbow, etc. The inquisitive mind looks for meaningful patterns and relations in such phenomena. Today's modern science and technology is an offshoot of the understanding of nature. Science is the systematic organization of knowledge gained through observation, experimentation and logical reasoning. The knowledge of science dealing with non- living things is physical science
 
-'Science' என்ற சொல் அறிந்து கொள்ளுதல் என்றும் பொருளுடைய சைன்சியா (Scientia) எனும் இலத்தின் மூலச் சொல்லிலிருந்து உருவானதாகும். தமிழ்மொழியில் Science என்பது அறிவியல் எனும் பொருள் கொள்ளப்படுகிறது. உண்மைகளை அறிந்து ஆராய்வதே அறிவியலாகும். மனித மனம் எப்போதும் இயற்கையின் பல்வேறு நிகழ்வுகளான கிரகங்கள், ஒளிரும் நட்சத்திரங்களின் இயக்கங்கள், பருவகாலச் சுழற்சி மாற்றம் மற்றும் வானவில் உருவாதல் போன்றவற்றை அறிந்து கொள்ளவும், புரிந்து கொள்ளவும் ஆர்வமுடன் இருந்து வந்திருக்கிறது. அவை உருவாகும் விதத்தையும் அவற்றின் இடையேயான தொடர்புகளையும் அறிய ஆராய்ச்சி நோக்குள்ள மனம் முனைகிறது. இயற்கையைப் புரிந்து கொள்ளும் இந்த முயற்சிகள் இன்றைய நவீன அறிவியலுக்கும், தொழில் நுட்பத்திற்கும் வழிவகுத்தது. இயற்கை நிகழ்வுகளை உற்றுநோக்கி, ஆய்வு செய்து மற்றும் பகுத்தறிந்து பெறப்பட்ட முறையான அறிவே அறிவியலாகும்.
+(Physics and Chemistry), and that dealing with living things is biological science (Botany, Zoology etc.).
 
-உயிரற்ற பொருட்களைப் பற்றிப் பயிலும் அறிவியல், இயல் அறிவியல் (இயற்பியல், வேதியியல்) என்றும், உயிருள்ள பொருட்களைப் பற்றிப் பயிலும் அறிவியல் உயிர் அறிவியல் (தாவரவியல், விலங்கியல் மற்றும் பல) என்றும் அழைக்கப்படுகிறது.
+Curiosity- driven observations of natural happenings was the origin of science. The word 'science' was coined only in the \(19^{\mathrm{th}}\) century. Natural philosophy was the earlier name given to science, when ancient civilization knew and practised astronomy, chemistry, human physiology and agriculture. Oral communication was the mode of conveying knowledge when writing systems were not yet developed. One of the oldest forerunners of scientific advancements, from astronomy to medicine, were the Egyptians. Scientific and mathematical excellence in India dates back to prehistoric human activity in the Indus Valley Civilization (3300 - 1300 BC(BCE).
 
-இயற்கை நிகழ்வுகளை ஆர்வமாக உற்று நோக்குதல், அறிந்து கொள்ளுதலும் அறிவியலின் ஆரம்பமாகும். அறிவியல் எனும் சொல் 19 ஆம் நூற்றாண்டிலேயே பயன்படுத்தப்பட்டது. முற்காலத்தில் இயற்கை தத்துவவியலே (natural philosophy) அறிவியல் என அழைக்கப்பட்டது. பண்டைய நாகரிக காலத்தில் வானியல், வேதியியல், மனித உடற்கூறியல் மற்றும் வேளாண்மை போன்றவற்றைப் பற்றி அறிந்து சிறந்த முறையில் பயன்படுத்தினார்கள். எழுத்துமுறை வளர்ச்சி பெறுவதற்கு முன்பு வாய்வழி மூலமே அறிவு பரிமாறிக் கொள்ளப்பட்டது. பண்டைய காலத்தில் வானியல் முதல் மருத்துவம் வரை அறிவியல் இந்திய அரசியலமைப்புச் சட்டம் 51A(h) அடிப்படைக்கடமைகள் பிரிவு IV இல் "அறிவியல் மனப்பான்மையையும், மனித நேயத்தையும், சீர்திருத்தத்தையும், ஆய்வு மனப்பான்மையையும் போற்றி வளர்ப்பது ஒவ்வொரு இந்தியக் குடிமகனின் கடமையாகும்" என்று கூறப்பட்டுள்ளது. இதுவே நமது அறிவியல் கல்வியின் நோக்கமாகும்.
+### 1.1.1 The Scientific Method
 
-> இந்திய அரசியலமைப்புச் சட்டம் 51A(h) அடிப்படைக் கடமைகள் பிரிவு IV இல் " அறிவியல் மனப்பான்மையையும், மனித நேயத்தையும், சீர்திருத்தத்தையும், ஆய்வு மனப்பான்மையையும் போற்றி வளர்ப்பது ஒவ்வொரு இந்தியக் குடிமகனின் கடமையாகும்" என்று கூறப்பட்டுள்ளது. இதுவே நமது அறிவியல் கல்வியின் நோக்கமாகும்.
+The scientific method is a step-by-step approach in studying natural phenomena and establishing laws which govern these phenomena. Any scientific method involves the following general features.
 
-முன்னேற்றங்கள் அனைத்திலும் எகிப்தியர்களே முன்னோடிகளாகச் சிறந்து விளங்கினார்கள். சிந்து சமவெளி நாகரிக காலந்தொட்டே (3300 – 1300 கி.மு (பொ.ஆ.மு)), இந்தியர்கள் அறிவியல் மற்றும் கணிதப் பயன்பாட்டில் சிறந்து விளங்கினார்கள்.
+(i) Systematic observation  
+(ii) Controlled experimentation  
+(iii) Qualitative and quantitative reasoning  
+(iv) Mathematical modeling  
+(v) Prediction and verification or falsification of theories  
 
-### 1.1.1 அறிவியல் முறை
+**Example**
 
-அறிவியல் முறை என்பது இயற்கை நிகழ்வுகளைப் புரிந்துகொள்வதற்கும் மற்றும் இயற்கை நிகழ்வுகள் தோன்ற காரணமாக உள்ள விதிகளை உருவாக்குவதற்குமான ஒரு படிப்படியான அணுகுமுறையாகும்.
+Consider a metallic rod being heated. When one end of the rod is heated, heat is felt at the other end. The following questions can be asked on this observation:
 
-எந்த ஒரு அறிவியல் முறையும் கீழ்க்கண்ட பொதுவான அம்சங்களை உள்ளடக்கியது.
+a) What happens within the rod when it is heated?  
+b) How does the heat reach the other end?  
+c) Is this effect true for all materials?  
+d) If heat flows through the material, is it possible to visualize heat?  
 
-(i) முறைப்படுத்தப்பட்ட உற்று நோக்கல்  
-(ii) கட்டுப்படுத்தப்பட்ட பரிசோதனை  
-(iii) தரமான மற்றும் அளந்தறியும் பகுப்பாய்வு  
-(iv) கணிதவியல் மாதிரிகள்  
-(v) கணித்தல் மற்றும் சரிபார்த்தல் அல்லது தவறான கோப்பாக்களை அறிவியல் முறை மூலம் கண்டறிந்து தவிர்த்தல்.
+The process of finding the answers to these queries is scientific investigation.
 
-**எடுத்துக்காட்டு**
-
-ஒரு உலோகத் தண்டின் ஒரு முனையை வெப்பப்படுத்தும் போது மறு முனையில் வெப்பம் உணரப்படுகிறது. இந்நிகழ்வை உற்று நோக்கி கீழ்க்காணும் விளக்கங்களை எழுப்பலாம்.
-
-(a) வெப்பப்படுத்தும்பொழுது அந்த தண்டின் உள்ளே நிகழ்வது என்ன?
-
-(b) வெப்பம் மறுமுனைக்கு எவ்வாறு பரவியது?
-
-(c) எல்லா பொருட்களிலும் இந்த விளைவு நிகழுமா?
-
-(d) பொருட்களின் வழியே வெப்பம் பரவுகிறது எனில் வெப்பத்தைக் காண முடியுமா?
-
-மேற்காணும் வினாக்களுக்கான விடைகளைக் கண்டறியும் வழிமுறையே அறிவியல் ஆய்வு முறையாகும்.
-
-வெப்ப இயக்கவியலின் அடிப்படைக் கருத்துக்கள் அலகு 8 இல் விளக்கப்பட்டுள்ளன.
-
-> **உங்களுக்குத் தெரியுமா?**
->
-> பொ.ஆ.மு* (BCE) 350இல் இயற்பியல் (Physics) என்ற பெயர் அரிஸ்டாட்டில் (Aristotle) என்பவரால் அறிமுகப்படுத்தப்பட்டது. (*பொது ஆண்டுக்கு முன்)
+The basic phenomenon of heat is discussed in unit $8$.

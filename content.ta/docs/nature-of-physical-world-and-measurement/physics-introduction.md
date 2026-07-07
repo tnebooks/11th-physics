@@ -1,78 +1,75 @@
 ---
-title: 'இயற்பியல் – அறிமுகம்'
+title: "1.2 PHYSICS - INTRODUCTION"
 weight: 2
 ---
+The word 'physics' is derived from the Greek word "Fusis", meaning nature. The study of nature and natural phenomena is dealt within physics. Hence physics is considered as the most basic of all sciences.
 
-### 1.2 இயற்பியல் – அறிமுகம்
+Unification and Reductionism are the two approaches in studying physics. Attempting to explain diverse physical phenomena with a few concepts and laws is unification. For example, Newton's universal law of gravitation (in unit 6) explains the motion of freely falling bodies towards the Earth, motion of planets around the Sun, motion of the Moon around the Earth, thus unifying the fundamental forces of nature.
 
-Physics (இயற்பியல்) என்ற சொல்லானது, இயற்கை என்ற பொருளுடைய **பைசிஸ்** (Fysis) என்ற கிரேக்கச் சொல்லில் இருந்து தருவிக்கப்பட்டது. இயற்பியல் என்பது இயற்கை மற்றும் இயற்கையின் நிகழ்வுகளைப் பற்றி பயிலுவதாகும், எனவே இயற்பியலே அறிவியலின் அனைத்துப் பிரிவுகளுக்கும் அடிப்படையானதாகக் கருதப்படுகிறது.
+An attempt to explain a macroscopic system in terms of its microscopic constituents is reductionism. For example, thermodynamics (unit 8) was developed to explain macroscopic properties like temperature, entropy, etc., of bulk systems. The above properties have been interpreted in terms of the molecular constituents (microscopic) of the bulk system by kinetic theory (unit 9) and statistical mechanics.
 
-இயற்பியல் பயிலுவதில் ஒன்றினைத்துப் பார்த்தல் (Unification) மற்றும் பகுத்துப்பார்த்தல் (Reductionism) ஆகிய இரு அணுகுமுறைகள் உள்ளன. ஒன்றினைத்துப் பார்த்தல் என்பது வேறுபட்ட இயற்பியல் நிகழ்வுகளை ஒரு சில தத்துவங்கள் மற்றும் விதிகளைப் பயன்படுத்தி விளக்க முயற்சித்தலாகும். எடுத்துக்காட்டாக, புவியை நோக்கித் தடையின்றி தானே விழும் பொருட்களின் இயக்கம், சூரியனைச் சுற்றி வரும் கோள்களின் இயக்கம், புவியைச் சுற்றிவரும் சந்திரனின் இயக்கம் ஆகியவற்றிற்கு காரணமான இயற்கையின் விசைகளை நியூட்டனின் ஈர்ப்பியல் விதி ஒன்றினைக்கின்றது (அலகு 6 இல் விளக்கப்படுகிறது).
+### 1.2.1 Branches of Physics
 
-ஒரு பெரிய அமைப்பினை அல்லது பொருளை (Macroscopic) அதனுள் அடங்கிய நுண்ணிய துகள்களின் (Microscopic) மூலம் விளக்க முயற்சிப்பது பகுத்துப்பார்த்தலாகும். எடுத்துக்காட்டாக, பெரிய அமைப்பின் பண்புகளான வெப்பநிலை, என்ட்ரோபி (Entropy) போன்றவற்றை விளக்க வெப்ப இயக்கவியல் (Thermodynamics) உருவாக்கப்பட்டது. (அலகு - 8).
+Physics as a fundamental science helps to uncover the laws of nature. The language of its expression is mathematics. In ancient times, humans lived with nature – their lifestyles were integrated with nature. They could understand the signals from the movement of the stars and other celestial bodies. They could determine the time to sow and reap by watching the sky. Thus, astronomy and mathematics were the first disciplines to be developed. The chronological development of various branches of physics is presented in Appendix A1.1. The various branches of physics are schematically shown in figure 1.1. The essential focus of different areas is given in Table 1.1.
 
-மூலக்கூறுகளின் இயக்கவியல் கொள்கை (Kinetic Theory) (அலகு 9) மற்றும் புள்ளியியல் எந்திரவியல் (Statistical Mechanics) ஆகியவை மேற்கூறிய ஒரு பெரிய அமைப்பின் (பொருளின்) பண்புகளை அந்த பெரிய அமைப்பின் (பொருளின்) நுண் துகள்களான மூலக்கூறுகள் வழியே விளக்குகிறது.
+Some of the fundamental concepts of basic areas of physics are discussed in higher secondary first year physics books volume 1 and 2. Mechanics is covered in unit 1 to 6. Unit 1 gives an idea of the development of physics along with discussion on basic elements such as measurement, units etc. Unit 2 gives the basic mathematics needed to express the impact of physical principles and their governing laws. The impact of forces acting on objects in terms of the fundamental laws of motion of Newton are very systematically covered in unit 3. Work and energy which are the basic parameters of investigation of the mechanical world are presented in unit 4. Unit 5 deals with the mechanics of rigid bodies (in contrast, objects are viewed as point objects in units 3 and 4). The basics of gravitation and its consequences are discussed in unit 6. Older branches of physics such as different properties of matter are discussed in unit 7. The impact of heat and investigations of its consequences are covered in units 8 and 9. Important features of oscillations and wave motion are covered in units 10 and 11.
 
-> **குறிப்பு**
->
-> இயற்பியலில் ஒரு பெரிய அமைப்பு (macroscopic system) என்பது நம் கண்ணால் காணக்கூடிய ஒரு கல்லிலிருந்து, வானில் இருக்கும் விண்மீன்கள் வரை அனைத்தையும் குறிக்கும். நுண்ணமைப்பு (microscopic system) என்பது நம் கண்ணிற்கு புலப்படாத சிறிய அளவிலான மூலக்கூறுகளைக் குறிக்கும். சிறிய அளவிலான மூலக்கூறுகள் ஒருங்கிணையும் போது பெரிய அளவிலான பொருள் உருவாகிறது.
+![**Figure 1.1 Branches of Physics**](<fig 1.1.png>)
 
-### 1.2.1 இயற்பியலின் பிரிவுகள்
+---
+**Table 1.1 Branches of Physics**
 
-இயற்கையின் விதிகளை வெளிக்கொணர்வதில் துணைபூர்ந்த அடிப்படை அறிவியல் இயற்பியலாகும். இந்த இயற்பியலின் மொழி கணிதவியலாகும். பழங்காலத்தில் மனிதர்கள் இயற்கையோடு இணைந்து வாழ்ந்தனர். அவர்கள் வாழ்க்கையானது இயற்கையோடு இணைக்கப்பட்டிருந்தது. வான்பொருட்கள் மற்றும் விண்மீன்களின் இயக்கங்களை அடிப்படையாக்கொண்டு பருவ காலங்களை கணித்தனர். விதைக்கும் மற்றும் அறுவடை செய்யும் காலங்களை வான்வெளியை
+---
+**Classical Physics** refers to traditional physics that was recognized and developed before the beginning of the 20th century.
 
-![பாடம் 1.1 இயற்பியலின் பிரிவுகள்](p1.png)
+---
+| Branch | Major focus |
+|--------|-------------|
+| 1. Classical mechanics | The study of forces acting on bodies whether at rest or in motion |
+| 2. Thermodynamics | The study of the relationship between heat and other forms of energy |
+| 3. Optics | The study of light |
+| 4. Electricity and magnetism | The study of electricity and magnetism and their mutual relationship |
+| 5. Acoustics | The study of the production and propagation of sound waves |
+| 6. Astrophysics | The branch of physics which deals with the study of the physics of astronomical bodies |
+| 7. Relativity | One of the branches of theoretical physics which deals with the relationship between space, time and energy particularly with respect to objects moving in different ways |
+---
+**Modern Physics** refers to the concepts in physics that have surfaced since the beginning of the 20th century.
 
-**அட்டவணை 11.1 இயற்பியலின் பிரிவுகள்**
-| மரபு இயற்பியல் (Classical Physics) | 20 – ஆம் நூற்றாண்டின் தொடக்கத்திற்கு முன் வளர்ச்சியடைந்த மற்றும் ஏற்றுக்கொள்ளப்பட்ட அடிப்படை இயற்பியல் பற்றியது |
-|---|---|
-| **பிரிவு (Branch)** | **கவனம் செலுத்தப்பட்ட பகுதி (Major Focus)** |
-| 1. மரபு எந்திரவியல் (Classical Mechanics) | ஓய்வு அல்லது இயக்கநிலையில் உள்ள பொருட்களின் மீது செயல்படும் விசைகளைப் பற்றிய விளக்கம் |
-| 2. வெப்ப இயக்கவியல் (Thermodynamics) | வெப்பம் மற்றும் பல்வேறு ஆற்றல்களுக்கிடையேயான தொடர்பைப் பற்றிய விளக்கம் |
-| 3. ஒளியியல் (Optics) | ஒளியைப் பற்றிய விளக்கம் |
-| 4. மின்னோட்டவியலும் காந்தவியலும் (Electricity & Magnetism) | மின்னோட்டம், காந்தவியல் மற்றும் அவற்றின் தொடர்புகளைப் பற்றிய விளக்கம் |
-| 5. ஒலியியல் (Acoustics) | ஒலி அலைகள் உருவாதல் மற்றும் பரவுதல் பற்றிய விளக்கம் |
-| 6. வான் இயற்பியல் (Astrophysics) | வானியல் பொருட்களைப் பற்றிய விளக்கம் |
-| 7. சார்பியல் (Relativity) | கோட்பாட்டு இயற்பியலின் ஒரு பிரிவாகும். வெவ்வேறு முறைகளில் இயங்கும் பொருட்களைப் பொருத்து வெளி, நேரம் மற்றும் ஆற்றல் இவற்றிற்கு இடையேயான தொடர்பிற்கான விளக்கம். |
-| நவீன இயற்பியல் (Modern Physics) | 20 – ஆம் நூற்றாண்டின் தொடக்கத்தில் உள்ள இயற்பியல் கருத்துக்கள். |
-|---|---|
-| 1. *குவாண்டம் எந்திரவியல் (Quantum Mechanics) | அணு மற்றும் அணு உட்துகள் மட்டங்களில் நடைபெறும் நிகழ்வுகளைப் பற்றியது. |
-| 2. அணு இயற்பியல் (Atomic Physics) | அணுவின் பண்புகள் மற்றும் அதன் அமைப்புகளைப் பற்றிய இயற்பியல் விளக்கம் |
-| 3. அணுக்கரு இயற்பியல் (Nuclear Physics) | அணுக்கரு அமைப்பு, பண்புகள் அதன் இடைவினைகள் பற்றிய இயற்பியல் விளக்கம் |
-| 4. பொதிவு பருப்பொருள்கள் இயற்பியல் (Condensed Matter Physics) | பொதிவு பருப்பொருள்களின் (திண்மம், திரவம், இவ்விரு நிலைகளுக்கு இடைப்பட்ட நிலையிலுள்ள பொருட்கள் மற்றும் அடர்வாயுக்கள்) பண்புகளைப்பற்றியது. இது நானோ அறிவியல் (Nano Science), ஒளிச்சிப்ப அறிவியல் (Photonics) போன்ற நன்கு வளர்ந்து வரும் இயற்பியலின் பல்வேறு உட்பிரிவுகளைக் கொண்டுள்ளது. மேலும் இது பொருள் வகை அறிவியலின் (Material Science) அடிப்படைகளை உள்ளடக்கியுள்ளது. இதன் நோக்கம் சிறந்த நம்பகத் தன்மையுடன் பயன்படுத்தக்கூடிய பருப்பொருட்களை உருவாக்குவதைப் பற்றியது. |
-| 5. உயர் ஆற்றல் இயற்பியல் (High Energy Physics) | துகள்களின் இயல்புகளைப் பற்றிய விளக்கம் |
+---
 
-> *குவாண்டம் இயற்பியல் என்பது விரிவான அணுகுமுறையாகும், மரபு எந்திரவியலின் முடிவுகளை குவாண்டம் எந்திரவியலில் மூலமும் பெறலாம். இதன் விரிவான விளக்கம் இப்பாடப்புத்தகத்தின் நோக்கத்திற்கு அப்பாற்பட்டது.
+| Branch | Major focus |
+|--------|-------------|
+| 1. Quantum mechanics | The study of the discrete nature of phenomena at the atomic and subatomic levels |
+| 2. Atomic physics | The branch of physics which deals with the structure and properties of the atom |
+| 3. Nuclear physics | The branch of physics which deals with the structure, properties and reaction of the nuclei of atoms |
+| 4. Condensed matter physics | The study of the properties of condensed materials (solids, liquids and those intermediate between them and dense gas). It branches into various sub-divisions including developing fields such as nano science, photonics etc. It covers the basics of materials science, which aims at developing new material with better properties for promising applications. |
+| 5. High energy physics | The study of the nature of the particles |
+---
+*Quantum mechanics is a broader approach; classical results can be reproduced in quantum mechanics also. Detailed explanation is beyond the scope of this book.
 
-நோக்குவதன் மூலம் அனுமானித்து வந்தனர். எனவே, முதன்முதலில் வளர்ச்சியடைந்த அறிவியல் பிரிவு வானியலும் கணிதவியலுமேயாகும். இயற்பியலின் பல்வேறு பிரிவுகளின் காலமுறை வளர்ச்சி பின் இணைப்பு 2 (A.1.1) இல் தொகுத்து வழங்கப்பட்டுள்ளது. படம் 1.1 இல் இயற்பியலின் வெவ்வேறு பிரிவுகள் மற்றும் அவற்றின் தொடர்புகள் சுட்டிப்படமாக காட்டப்பட்டுள்ளது. மேலும், அட்டவணை 1.1 இல் இயற்பியல் பிரிவுகளின் அடிப்படை சட்டிக்காட்டப்பட்டுள்ளன.
+---
 
-மேல்நிலை முதலாமாண்டு இயற்பியல் பாடப்புத்தகத்தின் தொகுதி 1 மற்றும் 2 இல் இயற்பியலின் அடிப்படை பிரிவுகளின் முக்கியக்கருத்துக்கள் விவரிக்கப்பட்டுள்ளன. குறிப்பாக எந்திரவியல் (Mechanics) 1 முதல் 6 வரையிலான அலகுகளாக தொகுத்து வழங்கப்பட்டுள்ளது. அலகு 1 இல் இயற்பியலின் வளர்ச்சி அதன் அடிப்படைக் கருத்துக்களான அளவீட்டியல், அலகுகள் போன்றவற்றுடன் விவரிக்கப்பட்டுள்ளன. இயற்பியல் தத்துவங்கள் மற்றும் அவற்றுக்குக் காரணமான இயற்பியல் விதிகளை விவரிப்பதற்குத் தேவையான அடிப்படை கணிதவியல், அலகு 2 இல் விவரிக்கப்பட்டுள்ளது.
+### 1.2.2 Scope and Excitement of Physics
 
-பொருட்களின் மீது செயல்படும் விசையின் தாக்கம் நியூட்டனின் இயக்கவியல் விதிகளின் அடிப்படையில் அலகு 3 இல் முறையாக விவரிக்கப்பட்டுள்ளது. எந்திரவியல் உலகில் ஆய்வு செய்வதற்குத் தேவையப்படும் முக்கிய அளவுருக்களான வேலை மற்றும் ஆற்றல் பற்றிய கருத்துக்கள் அலகு 4 இல் வழங்கப்பட்டுள்ளன.
+Discoveries in physics are of two types; accidental discoveries and well-analysed research outcome in the laboratory based on intuitive thinking and prediction. For example, magnetism was accidentally observed but the reason for this strange behavior of magnets was later analysed theoretically. This analysis revealed the underlying phenomena of magnetism. With this knowledge, artificial magnets were prepared in the laboratories. Theoretical predictions are the most important contribution of physics to the developments in technology and medicine. For example, the famous equation of Albert Einstein, $E = mc^2$ was a theoretical prediction in 1905 and experimentally proved in 1932 by Cockcroft and Walton. Theoretical predictions aided with recent simulation and computation procedures are widely used to identify the most suited materials for robust applications. The pharmaceutical industry uses this technique very effectively to design new drugs. Biocompatible materials for organ replacement are predicted using quantum prescriptions of physics before fabrication. Thus, experiments and theory work hand in hand complimenting one another.
 
-அலகு 3 மற்றும் 4 இல் பொருட்களை புள்ளிப்பொருட்களாக (Point objects) கருத்தப்பட்டதற்கு மாறாக அலகு 5 இல் திண்மப்பொருட்களின் (Rigid bodies) இயந்திரவியல் பற்றிய கருத்துக்கள் விவரிக்கப்பட்டுள்ளன. அலகு 6 இல் ஈர்ப்புவிசை மற்றும் அதன் விளைவுகள் விளக்கப்பட்டுள்ளன. அலகு 7 இல் இயற்பியலின் பழம்பிரிவான பல்வேறு பருப்பொருட்களின் பண்புகள் விளக்கப்பட்டுள்ளன. வெப்பத்தின் தாக்கம் மற்றும் அதன் விளைவுகளை ஆய்வு செய்வது குறித்து அலகு 8 மற்றும் 9 இல் விளக்கப்பட்டுள்ளது. அலகுகள் மற்றும் அலை இயக்கத்தின் முக்கியக் கூறுகள் அலகு 10 மற்றும் 11 இல் விவரிக்கப்பட்டுள்ளன.
+Physics has a huge scope as it covers a tremendous range of magnitude of various physical quantities (length, mass, time, energy etc). It deals with systems of very large magnitude as in astronomical phenomena as well as those with very small magnitude involving electrons and protons.
 
-### 1.2.2 இயற்பியல் கற்றலின் இனிமையும், வாய்ப்புகளும்
+- Range of time scales: astronomical scales to microscopic scales, $10^{18} \, \text{s}$ to $10^{-22} \, \text{s}$.
 
-இயற்பியல் கண்டுபிடிப்புகள் இருமையானவை. அவை தற்போதைய கண்டுபிடிப்புகள் மற்றும் உள்ளுணர்வு மூலம் கணித்தவற்றை ஆய்வகங்கள் மூலம் நன்கு பகுப்பாய்வு செய்து கண்டறிதல் என்பன ஆகும். எடுத்துக்காட்டாக, காந்தத் தன்மை தற்போதாக உணரப்பட்டது. ஆனால் காந்தவியலின் விசேஷப் பண்புகள் கோட்பாட்டினில் (Theoretically) பின்னர் பகுப்பாய்வு செய்யப்பட்டன. இந்தப் பகுப்பாய்வு காந்தப்பொருட்களின் அடிப்படை பண்புகளை வெளிப்படுத்தியது. இதன் மூலம் செயற்கைக் காந்தங்கள் ஆய்வகத்தில் உருவாக்கப்பட்டன. இயற்பியல் கோட்பாடுகளை பயன்படுத்தி முன்னறியும் முறையானது (Prediction) தொழில் நுட்பம் மற்றும் மருத்துவத் துறையின் வளர்ச்சியில் முக்கிய பங்கு வகிக்கிறது. எடுத்துக்காட்டாக, 1905 இல் ஆல்பர்ட் ஐன்ஸ்டீனால் கருத்தியல் ரீதியாக கண்டறியப்பட்ட $E = mc^2$ மிகவும் பிரபலமான சமன்பாடு ஆகும். 1932 இல் காக்ராஃப் மற்றும் வால்டன் அவர்களால் சோதனை மூலம் இக்கருத்து நிரூபிக்கப்பட்டது. கோட்பாடு ரீதியான கணிப்புகளும் (Theoretical Predictions), கணக்கீட்டு நடைமுறைகளும் (Computation Procedures), முக்கியமான பயன்பாடுகளுக்குத் தேவைப்படும் பொருந்தமான மூலப்பொருட்களைத் தேர்ந்தெடுக்கப் பயன்படுகின்றன. மருந்து தயாரிப்பு நிறுவனங்கள் புதிய மருந்து பொருட்களைத் தயாரிக்க இந்த அணுகுமுறையையே பயன்படுத்துகின்றன.
+- Range of masses: from heavenly bodies to electron, $10^{55} \, \text{kg}$ (mass of known observable universe) to $10^{-31} \, \text{kg}$ (mass of an electron). The actual mass of an electron is $9.11 \times 10^{-31} \, \text{kg}$.
 
-மனித உடலுக்கு ஊறு விளைவிக்காத பொருட்களைக் கொண்டு மாற்று உறுப்புகள் தயாரிப்பதற்கு குவாண்டம் இயற்பியல் (Quantum Physics) பயன்படுத்தப்படுகிறது. இதன் மூலம் ஆய்வுக் கூட ஆராய்ச்சி செயல்முறையில் ஆராயும் முன், குவாண்டம் இயற்பியல் கோட்பாடுகளைப் பயன்படுத்தி பொருந்தமான பொருட்களை முன்னறியும் முறை நவீன சிகிச்சை முறையில் பயன்படுத்தப்படுகிறது. இவ்வாறு கோட்பாடுகளும் (Theoretical) ஆய்வகச் செயல்முறைகளும் (Experimental) பயன்பாட்டில் ஒன்றிணைந்து இணைந்து செயல்படுகின்றன.
+The study of physics is not only educative but also exciting in many ways.
 
-மிகப்பெரிய மதிப்புகள் உடைய பல்வேறு இயற்பியல் அளவுகளை (நீளம், நிறை, காலம், ஆற்றல் போன்றவை) உள்ளடக்கியது என்பதால் இயற்பியலின் வாய்ப்புகள் பரந்து விரிந்து காணப்படுகின்றன.
+- A small number of basic concepts and laws can explain diverse physical phenomena.
+- The most interesting part is the designing of useful devices based on the physical laws.
 
-எலக்ட்ரான் மற்றும் புரோட்டான்களை உள்ளடக்கிய மீச்சிறு அளவுகள் முதல் வானியல் நிகழ்வுகள் போன்ற மிகப்பெரிய அளவுகள் வரை இயற்பியல் எடுத்துரைக்கிறது.
+For example:
+i) use of robotics
+ii) journey to Moon and to nearby planets with controls from the ground
+iii) technological advances in health sciences etc.
 
-- **கால அளவின் வீச்சு (Range):** வானியல் அளவு முதல் நுண்ணிய அளவு வரை ($10^{18}$ s to $10^{-22}$ s).
-- **நிறைக்களின் வீச்சு (Range):** மீப்பெரு வான் பொருட்களிலிருந்து எலக்ட்ரான் வரை, $10^{55}$ kg (அளவிடக்கூடிய பிரபஞ்சத்தின் நிறை) முதல் $10^{-31}$ kg (எலக்ட்ரானின் நிறை = $9.11 \times 10^{-31}$ kg) வரை.
+- Carrying out new challenging experiments to unfold the secrets of nature and in verifying or falsifying the existing theories.
+- Probing and understanding the science behind natural phenomena like the eclipse, and why one feels the heat when there is a fire? (or) What causes the wind, etc.
 
-இயற்பியலைக் கற்றல் என்பது ஒரு கல்வி சார்ந்த நிகழ்வு மட்டுமின்றி, பல்வேறு வழிகளில் வியப்பூட்டும் வகையிலும் அமைந்துள்ளது.
-
-- சில அடிப்படைக் கருத்துகள் மற்றும் விதிகள் (Concepts and laws) வேறுபட்ட பல இயற்பியல் நிகழ்வுகளை (Physical Phenomena) விளக்குவதாக உள்ளன.
-- இயற்பியல் விதிகளை அடிப்படையாகக் கொண்டு பலவகை பயன்பாட்டுக் கருவிகள் வடிவமைக்கப்படுகின்றன.
-
-**எடுத்துக்காட்டாக,** i) ரோபோக்களின் பயன் ii) நிலவு மற்றும் அருகில் உள்ள கோள்களுக்கான பயன்படுத்த முடியாத கட்டுப்படுத்துவது. iii) உடல்நல அறிவியலில் (Health Sciences) பயன்படும் தொழில் நுட்ப முன்னேற்றங்கள் போன்றவை.
-
-- இயற்கையின் உண்மையான இரகசியங்களை வெளிப்படுத்தக்கூடிய புதிய சவால் விடும் செய்முறைகளை பயன்படுத்துதல் மற்றும் ஏற்கனவே உள்ள அறிவியல் கோட்பாடுகளின் உண்மை நிலையை உறுதிப்படுத்துதல்.
-- கிரகணம் எவ்வாறு உருவாகிறது? நெருப்பின் அருகில் உள்ள ஒருவர் வெப்பத்தை உணருவது ஏன்? காற்று ஏன் வீசுகின்றது? போன்ற இயற்பியல் நிகழ்வுகளுக்குப் பின் உள்ள அறிவியலை நன்கு ஆய்வு செய்து புரிந்து கொள்ளுதல்.
-
-தொழில்நுட்பத்தில் முன்னேறிக் கொண்டிருக்கும் இன்றைய உலகில் அனைத்து வகையான பொறியியல் மற்றும் தொழில்நுட்பப் பாடப் பிரிவுகளுக்கு அடிப்படையாக இயற்பியல் விளங்குகிறது.
+In today's world of technological advancement, the building block of all engineering and technical education is physics which is explained with the help of mathematical tools.

@@ -1,120 +1,128 @@
 ---
-title:
+title: "1.4 MEASUREMENT"
 weight: 4
 ---
 
-### 1.4 அளவீட்டியல்
+> "When you can measure what you are speaking about and can express it in numbers, you know something about it; but when you cannot express it in numbers, your knowledge is of a meager and unsatisfactory kind" — Lord Kelvin
 
-"நீங்கள் எதைப் பற்றி பேசுகிறீர்களோ, அதனை அளவீடு செய்து பின்பு அதனை எண்ணாக வெளிப்படுத்த முடியும் என்றால் மட்டுமே உங்களுக்கு அதனைப் பற்றி ஓரளவாவது தெரிந்துள்ளது எனலாம். ஆனால் எண்ணாக மட்டுமே அளவிட முடியாது மற்றும் போதுமற்றதான அளவே அதனைப் பற்றிய அறிவு உள்ளது" – லார்டு கெல்வின்.
+The comparison of any physical quantity with its standard unit is known as measurement.
 
-அளவீட்டியல் என்பது எந்த ஒரு இயற்பியல் அளவையும் அதன் படித்தர அளவுடன் ஒப்பிடுவது ஆகும். அதுவே அறிவியல் ஆராய்ச்சிகளுக்கும், சோதனைகளுக்கும் அடிப்படை அளவீட்டியலாகும். இது நம் அன்றாட வாழ்வில் முக்கியப் பங்கு வகிக்கின்றது. இயற்பியல் என்பது அளந்தறியும் அறிவியலாகும். இயற்பியல் அளவீடுகளை குறிப்பிடக்கூடிய எண்களையே இயற்பியலாளர்கள் எப்பொழுதும் கையாள்கின்றனர்.
+Measurement is the basis of all scientific studies and experimentation. It plays an important role in our daily life. Physics is a quantitative science and physicists always deal with numbers which are the measurement of physical quantities.
 
-#### 1.4.1 இயற்பியல் அளவின் வரையறை
+### 1.4.1 Definition of Physical Quantity
 
-அளவிடப்படக்கூடியது, அதன் மூலம் இயற்பியல் விதிகளை விவரிக்கத் தக்கதுமான அளவுகள் இயற்பியல் அளவுகள் எனப்படுகின்றன. எடுத்துக்காட்டு நீளம், நிறை, காலம், விசை, ஆற்றல் மற்றும் பல.
+Quantities that can be measured, and in terms of which, laws of physics are described are called physical quantities. Examples are length, mass, time, force, energy, etc.
 
-#### 1.4.2 இயற்பியல் அளவுகளின் வகைகள்
+### 1.4.2 Types of Physical Quantities
 
-இயற்பியல் அளவுகள் இரு வகைப்படும். ஒன்று அடிப்படை அளவுகள், மற்றொன்று வழி அளவுகள்.
+Physical quantities are classified into two types. They are fundamental and derived quantities.
 
-வேறு எந்த இயற்பியல் அளவுகளாலும் குறிப்பிடப்பட இயலாத அளவுகள் அடிப்படை அளவுகள் எனப்படும். அவை நீளம், நிறை, காலம், மின்னோட்டம், வெப்பநிலை, ஒளிச்செறிவு மற்றும் பொருளின் அளவு (amount of a substance) ஆகும்.
+Fundamental or base quantities are quantities which cannot be expressed in terms of any other physical quantities. These are length, mass, time, electric current, temperature, luminous intensity and amount of substance.
 
-அடிப்படை அளவுகளால் குறிப்பிடக்கூடிய அளவுகள், வழி அளவுகள் எனப்படும். எடுத்துக்காட்டு, பரப்பு, கனஅளவு, திசைவேகம், முடுக்கம், விசை மற்றும் பல.
+Quantities that can be expressed in terms of fundamental quantities are called derived quantities. For example, area, volume, velocity, acceleration, force, etc.
 
-#### 1.4.3 அலகின் வரையறை மற்றும் அதன் வகைகள்
+### 1.4.3 Definition of Unit and its Types
 
-அளவீட்டு முறை என்பது அடிப்படையில் ஒரு ஒப்பீட்டு முறையே ஆகும். அளவு ஒன்றை அளந்தறிய, நாம் எப்பொழுதும் அதனை ஒரு படித்தர அளவுடன் ஒப்பிடுகிறோம்.
+The process of measurement is basically a process of comparison. To measure a quantity, we always compare it with some reference standard. For example, when we state that a rope is 10 meter long, it is to say that it is 10 times as long as an object whose length is defined as 1 metre. Such a standard is known as the unit of the quantity. Here 1 metre is the unit of the quantity 'length'.
 
-எடுத்துக்காட்டாக, கயிறு ஒன்றின் நீளம் 10 மீட்டர் என்பது, 1 மீட்டர் நீளம் என வரையறுக்கப்பட்ட ஒரு பொருளின் நீளத்தைப் போல் 10 மடங்கு நீளமுள்ளது என்பதாகும். இங்கு மீட்டர் என்பதே நீளத்தின் படித்தர அளவாகும். இந்த படித்தர அளவே அலகு என்றழைக்கப்படுகிறது.
+An arbitrarily chosen standard of measurement of a quantity, which is accepted internationally is called unit of the quantity.
 
-உலகளவில் ஏற்றுக்கொள்ளப்பட்ட, தனித்துவமிக்க தெரிவு செய்யப்பட்ட ஒரு அளவின் படித்தர அளவே அலகு என வரையறுக்கப்படுகிறது.
+The units in which the fundamental quantities are measured are called fundamental or base units and the units of measurement of all other physical quantities, which can be obtained by a suitable multiplication or division of powers of fundamental units, are called derived units.
 
-அடிப்படை அளவுகளை அளந்தறியும் அலகுகள் அடிப்படை அலகுகள் எனவும், மற்ற இயற்பியல் அளவுகளை அளவிடுவதற்காக அடிப்படை அலகுகளைப் பெருக்கல் அல்லது வகுத்தல்களின் மூலம் பெறப்படும் அலகுகள், வழி அலகுகள் எனவும் அழைக்கப்படுகின்றன.
+### 1.4.4 Different types of Measurement Systems
 
-#### 1.4.4 பல்வேறு அளவிடும் முறைகள்
+A complete set of units which is used to measure all kinds of fundamental and derived quantities is called a system of units. Here are the common system of units used in mechanics:
 
-அனைத்து விதமான அடிப்படை மற்றும் வழி அளவுகளை அளக்கப் பயன்படும் அலகுகளின் ஒரு முழுமையான தொகுப்பே அளவிடும் முறையாகும்.
+(a) the f.p.s. system is the British Engineering system of units, which uses foot, pound and second as the three basic units for measuring length, mass and time respectively.
 
-எந்திரவியலில் பயன்படும் பொதுவான அலகு முறைகள் கீழே தரப்பட்டுள்ளன.
+(b) The c.g.s system is the Gaussian system, which uses centimeter, gram and second as the three basic units for measuring length, mass and time respectively.
 
-**(அ) f.p.s அலகு முறை**
+(c) The m.k.s system is based on metre, kilogram and second as the three basic units for measuring length, mass and time respectively.
 
-f.p.s அலகு முறை ஓர் பிரிட்டிஷ் அலகு முறையாகும். இம்முறையில் நீளம், நிறை மற்றும் காலத்தை அளக்க முறையே அடி (Foot), பவுண்ட் (Pound), வினாடி (Second) ஆகிய மூன்று அடிப்படை அலகுகள் பயன்படுத்தப்படுகின்றன.
+> The cgs, mks and SI are metric or decimal system of units. The fps system is not a metric system.
 
-**(ஆ) c.g.s அலகு முறை**
+### 1.4.5 SI Unit System
 
-இது ஓர் காஸ்ஸியன் (Gaussian) முறையாகும். இம்முறையில் நீளம், நிறை மற்றும் காலத்தை அளக்க முறையே சென்டிமீட்டர், கிராம் மற்றும் வினாடி ஆகிய மூன்று அடிப்படை அலகுகள் பயன்படுத்தப்படுகின்றன.
+The system of units used by scientists and engineers around the world is commonly called the metric system but, since 1960, it has been known officially as the International System, or SI (the abbreviation for its French name, Système International). The SI with a standard scheme of symbols, units and abbreviations, were developed and recommended by the General Conference on Weights and Measures in 1971 for international usage in scientific, technical, industrial and commercial work. The advantages of the SI system are,
 
-**(இ) m.k.s முறை**
+i) This system makes use of only one unit for one physical quantity, which means a rational system of units.
 
-இம்முறையில் நீளம், நிறை மற்றும் காலத்தை அளக்க முறையே மீட்டர், கிலோகிராம் மற்றும் வினாடி ஆகிய மூன்று அடிப்படை அலகுகள் பயன்படுத்தப்படுகின்றன.
+ii) In this system, all the derived units can be easily obtained from basic and supplementary units, which means it is a coherent system of units.
 
-> **உங்களுக்கு தெரியுமா?**
->
-> cgs, mks மற்றும் SI அலகு முறைகள் மெட்ரிக் அல்லது தசம அலகு முறையாகும். ஆனால் fps அலகு முறை மெட்ரிக் அலகு முறை அல்ல.
+iii) It is a metric system which means that multiples and submultiples can be expressed as powers of 10.
 
-#### 1.4.5 SI அலகு முறை
+In SI, there are seven fundamental units as given in Table 1.2
 
-அறிவியல் அறிஞர்கள் மற்றும் பொறியியல் வல்லுனர்களால் உலகம் முழுவதும் பயன்படுத்தப்பட்ட அலகு முறை மெட்ரிக் முறை (Metric System) என அழைக்கப்பட்டது. 1960 க்கு பின்னர் இது பன்னாட்டு அலகு முறை அல்லது SI அலகு முறையாக (Systeme International – French name) அனைவராலும் ஏற்றுக்கொள்ளப்பட்டது. உலகளாவிய அறிவியல், தொழில்நுட்பம், தொழில் துறை மற்றும் வணிகப் பயன்பாட்டிற்காக, 1971 இல் நடைபெற்ற எடைகள் மற்றும் அளவீடுகள் பொதுமாநாட்டில் SI அலகு முறையின் நிலையான திட்டக் குறியீடுகள், அலகுகள் மற்றும் சுருக்கக்குறியீடுகள் உருவாக்கப்பட்டு அனைவராலும் ஏற்றுக்கொள்ளப்பட்டன.
+---
+**Table 1.2 SI Base Quantities and Units**
 
-**SI அலகு முறையின் சிறப்பியல்புகளைக் காண்போம்.**
+---
+| Base Quantity | SI Units | Unit Symbol | Definition |
+|---------------|----------|-------------|-------------|
+| Length | metre | m | One metre is the length of the path travelled by light in vacuum in $1/299{,}792{,}458$ of a second (1983) |
+| Mass | kilogram | kg | One kilogram is the mass of the prototype cylinder of platinum iridium alloy (whose height is equal to its diameter), preserved at the International Bureau of Weights and Measures at Serves, near Paris, France. (1901) |
+| Time | second | s | One second is the duration of $9{,}192{,}631{,}770$ periods of radiation corresponding to the transition between the two hyperfine levels of the ground state of Cesium-133 atom. (1967) |
+| Electric current | ampere | A | One ampere is the constant current, which when maintained in each of the two straight parallel conductors of infinite length and negligible cross section, held one metre apart in vacuum shall produce a force per unit length of $2 \times 10^{-7} \, \text{N/m}$ between them. (1948) |
+| Temperature | kelvin | K | One kelvin is the fraction $\frac{1}{273.16}$ of the thermodynamic temperature of the triple point* of the water. (1967) |
+| Amount of substance | mole | mol | One mole is the amount of substance which contains as many elementary entities as there are atoms in $0.012 \, \text{kg}$ of pure carbon-12. (1971) |
+| Luminous intensity | candela | cd | One candela is the luminous intensity in a given direction, of a source that emits monochromatic radiation of frequency $5.4 \times 10^{14} \, \text{Hz}$ and that has a radiant intensity of $\frac{1}{683}$ watt/steradian in that direction. (1979) |
+---
+*Triple point of water is the temperature at which saturated vapour, pure water and melting ice are all in equilibrium. The triple point temperature of water is $273.16 \, \text{K}$.
 
-i. இம்முறையில் ஒரு இயற்பியல் அளவிற்கு ஒரு அலகு மட்டுமே பயன்படுத்தப்படுகிறது. அதாவது இம்முறை ஒரு பங்கீட்டு, பகுத்தறிவுக்கினைச் (rational method) முறையாகும்.
+---
 
-ii. இம்முறையில் அனைத்து வழி அலகுகளும், அடிப்படை அலகுகளில் இருந்து எளிதாக தருவிக்கப்படுகின்றன. எனவே, இது ஒரு ஒருங்கமை (coherent) அலகு முறையாகும்.
+---
+**Table 1.3 Derived Quantities and their Units**
 
-iii. இது ஒரு மெட்ரிக் அலகு முறையாகும். பெருக்கல் மற்றும் வகுத்தல் மூலம் இது அலகு மாற்றங்களை எளிதாக்குகிறது.
+---
 
-**அட்டவணை 11.1 இயற்பியலின் பிரிவுகள்**
-| அளவிடை அளவுகள் | SI அலகுகள் |||
-|:---|:---:|:---:|:---|
-|  | **அலகு** | **குறியீடு** | **வரையறை** |
-| **நீளம்** | மீட்டர் | *m* | வெற்றிடத்தில் $\dfrac{1}{299,792,458}$ நொடியில் ஒளியானது கடக்கும் பாதையின் நீளம் 1 மீட்டர் ஆகும் (1983). |
-| **நிறை** | கிலோகிராம் | *kg* | பிரான்சில், பாரிசுக்கு அருகில் செர்வ்ஸ் என்ற இடத்தில் உள்ள பன்னாட்டு எடைகள் மற்றும் அளவைகள் நிறுவனத்தில் வைக்கப்பட்டுள்ள பிளாட்டினம்–இரிடியம் உலோகக் கலவையினால் உருவான (இதன் விட்டம் அதன் உயரத்திற்கு சமம்) நிறையே ஒரு கிலோகிராம் ஆகும் (1901). |
+| Physical quantity | Expression | Unit |
+|-------------------|------------|------|
+| Plane angle | $\text{arc} / \text{radius}$ | rad |
+| Solid angle | $\text{surface area} / \text{radius}^2$ | sr |
+| Area | $\text{length} \times \text{breadth}$ | $\text{m}^2$ |
+| Volume | $\text{area} \times \text{height}$ | $\text{m}^3$ |
+| Velocity | $\text{displacement} / \text{time}$ | $\text{m} \, \text{s}^{-1}$ |
+| Acceleration | $\text{velocity} / \text{time}$ | $\text{m} \, \text{s}^{-2}$ |
+| Angular velocity | $\text{angular displacement} / \text{time}$ | $\text{rad} \, \text{s}^{-1}$ |
+| Angular acceleration | $\text{angular velocity} / \text{time}$ | $\text{rad} \, \text{s}^{-2}$ |
+| Density | $\text{mass} / \text{volume}$ | $\text{kg} \, \text{m}^{-3}$ |
+| Linear momentum | $\text{mass} \times \text{velocity}$ | $\text{kg} \, \text{m} \, \text{s}^{-1}$ |
+| Moment of inertia | $\text{mass} \times (\text{distance})^2$ | $\text{kg} \, \text{m}^2$ |
+| Force | $\text{mass} \times \text{acceleration}$ | $\text{kg} \, \text{m} \, \text{s}^{-2}$ or $\text{N}$ |
+| Pressure | $\text{force} / \text{area}$ | $\text{N} \, \text{m}^{-2}$ or $\text{Pa}$ |
+| Energy (work) | $\text{force} \times \text{distance}$ | $\text{N} \, \text{m}$ or $\text{J}$ |
+| Power | $\text{Work} / \text{time}$ | $\text{J} \, \text{s}^{-1}$ or $\text{watt} \, (\text{W})$ |
+| Impulse | $\text{force} \times \text{time}$ | $\text{N} \, \text{s}$ |
+| Surface tension | $\text{force} / \text{length}$ | $\text{N} \, \text{m}^{-1}$ |
+| Moment of force (torque) | $\text{force} \times \text{distance}$ | $\text{N} \, \text{m}$ |
+| Electric charge | $\text{current} \times \text{time}$ | $\text{A} \, \text{s}$ or $\text{C}$ |
+| Current density | $\text{current} / \text{area}$ | $\text{A} \, \text{m}^{-2}$ |
+| Magnetic induction | $\text{force} / (\text{current} \times \text{length})$ | $\text{N} \, \text{A}^{-1} \, \text{m}^{-1}$ or $\text{tesla}$ |
+| Force constant | $\text{force} / \text{displacement}$ | $\text{N} \, \text{m}^{-1}$ |
+| Planck's constant | $\text{energy of photon} / \text{frequency}$ | $\text{J} \, \text{s}$ |
+| Specific heat (S) | $\text{heat energy} / (\text{mass} \times \text{temperature})$ | $\text{J} \, \text{kg}^{-1} \, \text{K}^{-1}$ |
+| Boltzmann constant (k) | $\text{energy} / \text{temperature}$ | $\text{J} \, \text{K}^{-1}$ |
+---
 
-**அட்டவணை 1.2 அடிப்படை அளவுகளும் அவற்றின் SI அலகுகளும்.**
-| அளவிடை அளவுகள் | SI அலகுகள் |||
-|:---|:---:|:---:|:---|
-|  | **அலகு** | **குறியீடு** | **வரையறை** |
-| **காலம்** | வினாடி | *s* | சீசியம் 133– அணுவின் இரு ஆற்றல் நிலைகளின் மீநுண்ணிய மட்டங்களுக்கிடையே பரிமாறும் நிகழ்தலால் ஏற்படும் கதிர்வீச்சின் அலைவு காலத்தின் 9,192,631,770 மடங்கு ஒரு நொடியாகும் (1967). |
-| **மின்னோட்டம்** | ஆம்பியர் | *A* | வெற்றிடத்தில், ஒரு மீட்டர் இடைவெளியில் வைக்கப்பட்ட புறக்கணிக்கத்தக்க குறுக்குவெட்டுப்பரப்பு உடைய இருமுடிவிலா நீளங்கள் உடைய நேரான இணைக்கடத்திகள் வழியே, பாயும் சீரான மின்னோட்டம் அவற்றிடையே ஒரு மீட்டர் நீளத்திற்கு $2\times10^{-7}\ N\,m^{-1}$ விசையை ஏற்படுத்தினால், அம்மின்னோட்டம் ஒரு ஆம்பியர் ஆகும் (1948). |
-| **வெப்பநிலை** | கெல்வின் | *K* | நீரின் முப்புள்ளியின்* (Triple point) வெப்பநிலையல் $\dfrac{1}{273.16}$ பின்னத்திற்கு ஒரு கெல்வின் ஆகும் (1967). |
-| **பொருளின் அளவு** | மோல் | *mol* | 0.012 கிலோகிராம் தூய கார்பன்–12 இல் உள்ள அணுக்களின் எண்ணிக்கைக்குச் சமமான பல துகள்களை உள்ளடக்கிய பொருளின் அளவு ஒரு மோல் எனப்படும் (1971). |
-| **ஒளிச்செறிவு** | கேண்டெலா | *cd* | $5.4\times10^{14}\ Hz$ அதிர்வெண் உடைய ஒளிமூலம், ஒரு திசையில் உமிழும் ஒற்றை நிறக் கதிர்வீச்சின் செறிவு, குறிப்பிட்ட திசையில் $\dfrac{1}{683}$ வாட்/ஸ்டெரேடியன் எனில், அத்தகைய ஒளிச்செறிவு ஒரு கேண்டெலா ஆகும் (1979). |
+Note:
 
-> *நீரின் முப்புள்ளி என்பது திண்மம், திரவம் மற்றும் உறக்கப் பணிக்கப்பட்ட ஆவி மூன்றும் சமநிலையில் உள்ளபோது உள்ள வெப்பநிலை ஆகும். நீரின் முப்புள்ளி வெப்பநிலை 273.16 K.
+$$
+\pi \, \text{radian} = 180^\circ
+$$
 
-**அட்டவணை 1.3 வழி அளவுகளும் அவற்றின் அலகுகளும்**
-| இயற்பியல் அளவு | சமன்பாடு | அலகு |
-|---|---|---|
-| தளக்கோணம் | வட்டவில் / ஆரம் | rad |
-| திண்மக்கோணம் | மேற்பரப்பு / ஆரம்$^2$ | sr |
-| பரப்பு (செவ்வகம்) | நீளம் × அகலம் | m$^2$ |
-| கனஅளவு அல்லது பருமன் | பரப்பு × உயரம் | m$^3$ |
-| திசைவேகம் | இடப்பெயர்ச்சி / காலம் | m s$^{-1}$ |
-| முடுக்கம் | திசைவேகம் / காலம் | m s$^{-2}$ |
-| கோணத் திசைவேகம் | கோணஇடப்பெயர்ச்சி / காலம் | rad s$^{-1}$ |
-| கோணமுடுக்கம் | கோணத் திசைவேகம் / காலம் | rad s$^{-2}$ |
-| அடர்த்தி | நிறை / பருமன் | kg m$^{-3}$ |
-| நீர் நெருக்கம் | நிறை × திசைவேகம் | kg m s$^{-1}$ |
-| நிலைமத் திருப்புத்திறன் | நிறை × (தொலைவு)$^2$ | kg m$^2$ |
-| விசை | நிறை × முடுக்கம் | kg m s$^{-2}$ அல்லது N |
-| அழுத்தம் | விசை / பரப்பு | N m$^{-2}$ அல்லது Pa |
-| ஆற்றல் (வேலை) | விசை × தொலைவு | N m அல்லது J |
-| திறன் | வேலை / காலம் | J s$^{-1}$ அல்லது வாட் (W) |
-| காந்தத்தூண்டல் விசை | விசை × காலம் | N s |
-| பரப்பு இழுவிசை | விசை / நீளம் | N m$^{-1}$ |
-| விசையின் திருப்புத்திறன் (திருப்பு விசை) | விசை × தொலைவு | N m |
-| மின்னூட்டம் | மின்னோட்டம் × காலம் | A s அல்லது C |
-| மின்னோட்ட அடர்த்தி | மின்னோட்டம் / பரப்பு | A m$^{-2}$ |
-| காந்தத் தூண்டல் | விசை / (மின்னோட்டம் × நீளம்) | N A$^{-1}$ m$^{-1}$ அல்லது tesla |
-| விசை மாறிலி | விசை / இடப்பெயர்ச்சி | N m$^{-1}$ |
-| பிளாங்க் மாறிலி | போட்டானின் ஆற்றல் / அதிர்வெண் | J s |
-| தகைவெப்பம் (S) | வெப்ப ஆற்றல் / (நிறை × வெப்பநிலை) | J kg$^{-1}$ K$^{-1}$ |
-| போல்ட்ஸ்மேன் மாறிலி (k) | ஆற்றல் / வெப்பநிலை | J K$^{-1}$ |
+$$
+1 \, \text{radian} = \frac{180}{\pi} \approx \frac{180 \times 7}{22} \approx 57^\circ 27''
+$$
 
+Also, $1^\circ$ (degree of arc) = $60'$ (minute of arc) and $1'$ (minute of arc) = $60''$ (seconds of arc)
 
+Relations between radian, degree and minutes:
 
-![](p2.png)
-
-![](p3.png)
+$$
+\begin{array}{l}
+1^\circ = \frac{\pi}{180} \, \text{rad} = 1.744 \times 10^{-2} \, \text{rad} \\ \\
+1' = \frac{1}{60} \times 1.744 \times 10^{-2} \, \text{rad} = 2.906 \times 10^{-4} \, \text{rad} \approx 2.91 \times 10^{-4} \, \text{rad} \\ \\
+1'' = \frac{1}{3600} \times 1.744 \times 10^{-2} \, \text{rad} \approx 4.84 \times 10^{-6} \, \text{rad}
+\end{array}
+$$

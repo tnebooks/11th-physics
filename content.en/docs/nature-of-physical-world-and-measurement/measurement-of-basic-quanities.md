@@ -177,25 +177,8 @@ where $v$ is the speed of the radio wave. As the time taken ($t$) is for the dis
 
 ![**Figure 1.6 RADAR method**](<image_16.png>)
 
-**EXAMPLE 1.3**
+![](image.png)
 
-A RADAR signal is beamed towards a planet and its echo is received $7$ minutes later. If the distance between the planet and the Earth is $6.3 \times 10^{10}$ m, calculate the speed of the signal.
-
-**Solution**
-
-The distance of the planet from the Earth $d = 6.3 \times 10^{10}$ m
-
-Time $t = 7$ minutes $= 7 \times 60$ s
-
-The speed of signal $v = ?$
-
-The speed of signal
-
-$$
-v = \frac{2d}{t} = \frac{2 \times 6.3 \times 10^{10}}{7 \times 60} = 3 \times 10^{8} \text{ m/s}
-$$
-
----
 **Table 1.5 Range and Order of Lengths**
 
 ---

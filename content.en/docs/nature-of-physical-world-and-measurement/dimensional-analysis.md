@@ -45,8 +45,7 @@ Acceleration is velocity per time.
 
 **Linear momentum or Momentum**, $\vec{p} = m\vec{v}$, $[\vec{p}] = MLT^{-1}$
 
-**Force** $\vec{F} = m\vec{a}$, $[\vec{F}] = MLT^{-2}$
-
+![](image-3.png)
 This is true for any kind of force. There are only four types of forces that exist in nature viz strong force, electromagnetic force, weak force and gravitational force. Further, frictional force, centripetal force, centrifugal force, all have the dimension $MLT^{-2}$.
 
 **Impulse** $\vec{I} = \vec{F}t$, $[\vec{I}] = MLT^{-1}$ (dimension of momentum)
@@ -57,12 +56,13 @@ $$
 \vec{L} = \vec{r} \times \vec{p}, \quad [\vec{L}] = ML^2 T^{-1}
 $$
 
-**Work done**, $\vec{W} = \vec{F} \cdot \vec{d}$, $[W] = ML^2 T^{-2}$
+**Work done** ![](image-4.png)
 
-**Kinetic energy** $KE = \frac{1}{2} mv^2$, $\displaystyle [KE] = \left[ \frac{1}{2} \right] [mv^2] = ML^2 T^{-2}$
+**Kinetic energy** ![](image-5.png)
 
-Since the number $\frac{1}{2}$ is dimensionless, the dimension of kinetic energy is $ML^2 T^{-2}$. Similarly, to get the dimension of potential energy, let us consider the gravitational potential energy,
-
+![](image-6.png)
+![](image-7.png)level.
+Hence,
 $$
 PE = mgh, \quad [PE] = [m][g][h] = M \cdot LT^{-2} \cdot L = ML^2 T^{-2}
 $$
@@ -359,3 +359,4 @@ $$
 - The uncertainty in a measurement is called error. The accuracy of a measurement is a measure of how close the measured value is to the true value of the quantity. Every accurate measurement is precise but every precise measurement need not be accurate.
 - When two or more quantities are added or subtracted, the result can be as precise as the least of the individual precisions. When the quantities are multiplied or divided, the result has the same number of significant figures as the quantity with the smallest number of significant figures.
 - Dimensional analysis is used to perform quick check on the validity of equations. Whenever the quantities are added, subtracted or equated, they must have the same dimension. A dimensionally correct equation may not be a true equation but every true equation is necessarily dimensionally correct.
+![](image-8.png)

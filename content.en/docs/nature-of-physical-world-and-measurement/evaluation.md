@@ -7,14 +7,15 @@ weight: 9
 1. One of the combinations from the fundamental physical constants is $\frac{hc}{G}$. The unit of this expression is
    a) $\text{kg}^2$  b) $\text{m}^3$  c) $\text{s}^{-1}$  d) $\text{m}$
 
-2. If the error in the measurement of radius is $2\%$, then the error in the determination of volume of the sphere will be
-   a) $8\%$  b) $2\%$  c) $4\%$  d) $6\%$
+2. If the error in the measurement of radius is $2\$%, then the error in the determination of volume of the sphere will be
+  a) $8\$%  b) $2\$%  c) $4\$%  d) $6\$%
+
 
 3. If the length and time period of an oscillating pendulum have errors of $1\%$ and $3\%$ respectively then the error in measurement of acceleration due to gravity is
-   a) $4\%$  b) $5\%$  c) $6\%$  d) $7\%$
+   a) $4\$%  b) $5\$%  c) $6\$%  d) $7\$%
 
 4. The length of a body is measured as $3.51$ m, if the accuracy is $0.01$ m, then the percentage error in the measurement is
-   a) $351\%$  b) $1\%$  c) $0.28\%$  d) $0.035\%$
+   a) $351\$%  b) $1\$%  c) $0.28\$%  d) $0.035\$%
 
 5. Which of the following has the highest number of significant figures?
    a) $0.007 \text{ m}^2$  b) $2.64 \times 10^{24} \text{ kg}$  c) $0.0006032 \text{ m}^2$  d) $6.3200 \text{ J}$

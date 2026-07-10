@@ -1,6 +1,13 @@
 ---
 title: 'இயற்பியல் – அறிமுகம்'
-weight: 2
+weight: 2\
+references:
+  links: []
+
+  books:
+    - b1:
+        title: "இயற்பியல் உலகின் இயல்பும் அளவீடும்"
+        url: "https://ncert.nic.in/textbook/pdf/keph101.pdf"
 ---
 
 ### 1.2 இயற்பியல் – அறிமுகம்

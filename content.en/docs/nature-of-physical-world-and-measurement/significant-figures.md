@@ -1,6 +1,13 @@
 ---
 title: "Significant figures"
 weight: 7
+references:
+  links: []
+
+  books:
+    - b1:
+        title: "Units and Measurements"
+        url: "https://ncert.nic.in/textbook/pdf/keph101.pdf"
 ---
 
 ## 1.7 SIGNIFICANT FIGURES

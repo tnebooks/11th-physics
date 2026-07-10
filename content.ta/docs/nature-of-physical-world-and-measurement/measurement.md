@@ -1,6 +1,13 @@
 ---
 title: 'அளவீட்டியல்'
 weight: 4
+references:
+  links: []
+
+  books:
+    - b1:
+        title: "அலகுகள் மற்றும் அளவீடுகள்"
+        url: "https://ncert.nic.in/textbook/pdf/keph101.pdf"
 ---
 
 ### 1.4 அளவீட்டியல்

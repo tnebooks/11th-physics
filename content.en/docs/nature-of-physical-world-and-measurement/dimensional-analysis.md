@@ -1,6 +1,15 @@
 ---
 title: "Dimensional analysis"
 weight: 8
+references:
+    links:
+        - "[Pendulum Lab](https://phet.colorado.edu/sims/html/pendulum-lab/latest/pendulum-lab_en.html)"
+        - "[Masses and Springs](https://phet.colorado.edu/sims/html/masses-and-springs/latest/masses-and-springs_en.html)"
+
+    books:
+        - b1:
+            title: "Units and Measurements"
+            url: "https://ncert.nic.in/textbook/pdf/keph101.pdf"
 ---
 
 ## 1.8 DIMENSIONAL ANALYSIS

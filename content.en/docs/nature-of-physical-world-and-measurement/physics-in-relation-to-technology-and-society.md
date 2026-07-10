@@ -1,6 +1,9 @@
 ---
 title: "Physics in relation to technology and society"
 weight: 3
+references:
+  links: []
+        
 ---
 
 ## 1.3 PHYSICS IN RELATION TO TECHNOLOGY AND SOCIETY

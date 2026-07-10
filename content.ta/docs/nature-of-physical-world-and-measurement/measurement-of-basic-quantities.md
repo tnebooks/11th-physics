@@ -1,6 +1,15 @@
 ---
 title: 'அடிப்படை அளவுகளின் அளவீட்டியல்'
 weight: 5
+references:
+  links:
+    - "[Gravity and Orbits](https://phet.colorado.edu/sims/html/gravity-and-orbits/latest/gravity-and-orbits_en.html)"
+    - "[John Travoltage](https://phet.colorado.edu/sims/html/john-travoltage/latest/john-travoltage_en.html)"
+
+  books:
+    - b1:
+        title: "அலகுகள் மற்றும் அளவீடுகள்"
+        url: "https://ncert.nic.in/textbook/pdf/keph101.pdf"
 ---
 
 ### 1.5 அடிப்படை அளவுகளின் அளவீட்டியல்

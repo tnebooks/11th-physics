@@ -1,6 +1,13 @@
 ---
 title: "Theory of errors"
 weight: 6
+references:
+  links: []
+
+  books:
+    - b1:
+        title: "Units and Measurements"
+        url: "https://ncert.nic.in/textbook/pdf/keph101.pdf"
 ---
 ## 1.6 THEORY OF ERRORS
 

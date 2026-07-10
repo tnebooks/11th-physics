@@ -1,6 +1,13 @@
 ---
 title: "Physics-introduction"
 weight: 2
+references:
+  links: []
+
+  books:
+    - b1:
+        title: "Nature of Physical World and Measurement"
+        url: "https://ncert.nic.in/textbook/pdf/keph101.pdf"
 ---
 
 ## 1.2 PHYSICS-INTRODUCTION

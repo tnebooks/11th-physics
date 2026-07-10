@@ -1,6 +1,20 @@
 ---
 title: "Measurement"
 weight: 4
+references:
+    links: []
+
+    books:
+        - b1:
+            title: "Units and Measurements"
+            url: "https://ncert.nic.in/textbook/pdf/keph101.pdf"
+    
+    videos:
+        - custom:
+            title:
+            desc:
+            url:
+
 ---
 
 ## 1.4 MEASUREMENT

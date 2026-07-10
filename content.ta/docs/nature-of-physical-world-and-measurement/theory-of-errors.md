@@ -1,6 +1,13 @@
 ---
 title: 'பிழைகள்'
 weight: 6
+references:
+  links: []
+
+  books:
+    - b1:
+        title: "அலகுகள் மற்றும் அளவீடுகள்"
+        url: "https://ncert.nic.in/textbook/pdf/keph101.pdf"
 ---
 
 ### 1.6 பிழைகள்

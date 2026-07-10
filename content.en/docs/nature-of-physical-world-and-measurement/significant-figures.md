@@ -1,7 +1,16 @@
 ---
-title: "1.7 SIGNIFICANT FIGURES"
+title: "Significant figures"
 weight: 7
+references:
+  links: []
+
+  books:
+    - b1:
+        title: "Units and Measurements"
+        url: "https://ncert.nic.in/textbook/pdf/keph101.pdf"
 ---
+
+## 1.7 SIGNIFICANT FIGURES
 
 ### 1.7.1 Definition and Rules of Significant Figures
 
@@ -37,9 +46,9 @@ The rules for counting significant figures are given in Table 1.9.
 
 State the number of significant figures in the following:
 
-i) $600800$ \quad ii) $400$ \quad iii) $0.007$ \quad iv) $5213.0$ \quad v) $2.65 \times 10^{24}$ m \quad vi) $0.0006032$
+i) $600800$ ii) $400$  iii) $0.007$  iv) $5213.0$  v) $2.65 \times 10^{24}$ m  vi) $0.0006032$
 
-**Solution:** i) four \quad ii) one \quad iii) one \quad iv) five \quad v) three \quad vi) four
+**Solution:** i) four  ii) one  iii) one  iv) five  v) three  vi) four
 
 ---
 
@@ -85,7 +94,6 @@ In addition and subtraction, the final result should retain as many decimal plac
 
 1. $3.1 + 1.780 + 2.046 = 6.926$ \\
 Here the least number of significant digits after the decimal is one. Hence the result will be $6.9$.
-
 2. $12.637 - 2.42 = 10.217$ \\
 Here the least number of significant digits after the decimal is two. Hence the result will be $10.22$.
 
@@ -97,6 +105,5 @@ In multiplication or division, the final result should retain as many significan
 
 1. $1.21 \times 36.72 = 44.4312 = 44.4$ \\
 Here the least number of significant digits in the measured values is three. Hence the result when rounded off to three significant digits is $44.4$.
-
 2. $36.72 \div 1.2 = 30.6 = 31$ \\
 Here the least number of significant digits in the measured values is two. Hence the result when rounded off to significant digit becomes $31$.

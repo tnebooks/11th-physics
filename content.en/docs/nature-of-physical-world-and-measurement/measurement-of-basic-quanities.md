@@ -1,15 +1,30 @@
 ---
-title: "1.5 MEASUREMENT OF BASIC QUANTITIES"
+title: "Measurement of basic quantities"
 weight: 5
+references:
+  links:
+    - "[Gravity and Orbits](https://phet.colorado.edu/sims/html/gravity-and-orbits/latest/gravity-and-orbits_en.html)"
+    - "[John Travoltage](https://phet.colorado.edu/sims/html/john-travoltage/latest/john-travoltage_en.html)"
+
+  books:
+    - b1:
+        title: "Units and Measurements"
+        url: "https://ncert.nic.in/textbook/pdf/keph101.pdf"
 ---
 
+## 1.5 MEASUREMENT OF BASIC QUANTITIES
+
 ### 1.5.1 Measurement of Length
+
+**The Radian (rad):** One radian is the angle subtended at the centre of a circle by an arc equal in length to the radius of the circle.
+
+**The Steradian (sr):** One steradian is the solid angle subtended at the centre of a sphere, by that surface of the sphere, which is equal in area, to the square of radius of the sphere.
 
 The concept of length in physics is related to the concept of distance in everyday life. Length is defined as the distance between any two points in space. The SI unit of length is metre. The objects of our interest vary widely in sizes. For example, large objects like the galaxy, stars, Sun, Earth, Moon etc., and their distances constitute a macrocosm. It refers to a large world, in which both objects and distances are large. On the contrary, objects like molecules, atoms, proton, neutron, electron, bacteria etc., and their distances constitute microcosm, which means a small world in which both objects and distances are small-sized.
 
 Distances ranging from $10^{-5}$ m to $10^{2}$ m can be measured by direct methods. For example, a metre scale can be used to measure the distance from $10^{-3}$ m to $1$ m, vernier calipers up to $10^{-4}$ m, a screw gauge up to $10^{-5}$ m and so on. The atomic and astronomical distances cannot be measured by any of the above mentioned direct methods. Hence, to measure the very small and the very large distances, indirect methods have to be devised and used. In Table 1.4, a list of powers of $10$ (both positive and negative powers) is given. Prefixes for each power are also mentioned. These prefixes are used along with units of length, and of mass.
 
-> The supplementary quantities of plane and solid angle were converted into Derived quantities in 1995 (GCWM)
+> **Did you know?** The supplementary quantities of plane and solid angle were converted into Derived quantities in 1995 (GCWM)
 
 ---
 **Table 1.4 Prefixes for Powers of Ten**
@@ -243,7 +258,7 @@ $1 \text{ parsec} = 3.08 \times 10^{16}$ m $= 3.26$ light year
 
 Figure 1.7 The international 1 kg standard of mass, aplatinum-iridium (9:1) cylinder 3.9 cm in height anddiameter.
 
-> Why is the cylinder used in defining kilogram made up of platinum-iridium alloy?  
+> **Did ypu know?** Why is the cylinder used in defining kilogram made up of platinum-iridium alloy?  
 > This is because the platinum-iridium alloy is least affected by environment and time.
 
 > **Chandrasekhar Limit (CSL)** is the largest practical unit of mass.  

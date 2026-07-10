@@ -1,6 +1,13 @@
 ---
 title: 'முக்கிய எண்ணுருக்கள்'
 weight: 7
+references:
+  links: []
+
+  books:
+    - b1:
+        title: "அலகுகள் மற்றும் அளவீடுகள்"
+        url: "https://ncert.nic.in/textbook/pdf/keph101.pdf"
 ---
 
 ### 1.7 முக்கிய எண்ணுருக்கள்

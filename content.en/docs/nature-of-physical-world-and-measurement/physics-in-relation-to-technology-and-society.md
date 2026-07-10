@@ -1,7 +1,12 @@
 ---
-title: "1.3 PHYSICS IN RELATION TO TECHNOLOGY AND SOCIETY"
+title: "Physics in relation to technology and society"
 weight: 3
+references:
+  links: []
+        
 ---
+
+## 1.3 PHYSICS IN RELATION TO TECHNOLOGY AND SOCIETY
 
 Technology is the application of the principles of physics for practical purposes. The application of knowledge for practical purposes in various fields to invent and produce useful products or to solve problems is known as technology. Thus, physics and technology can both together impact our society directly or indirectly. For example,
 

@@ -1,7 +1,18 @@
 ---
-title: "1.8 DIMENSIONAL ANALYSIS"
+title: "Dimensional analysis"
 weight: 8
+references:
+    links:
+        - "[Pendulum Lab](https://phet.colorado.edu/sims/html/pendulum-lab/latest/pendulum-lab_en.html)"
+        - "[Masses and Springs](https://phet.colorado.edu/sims/html/masses-and-springs/latest/masses-and-springs_en.html)"
+
+    books:
+        - b1:
+            title: "Units and Measurements"
+            url: "https://ncert.nic.in/textbook/pdf/keph101.pdf"
 ---
+
+## 1.8 DIMENSIONAL ANALYSIS
 
 ### 1.8.1 Dimension of Physical Quantities
 
@@ -45,7 +56,7 @@ Acceleration is velocity per time.
 
 **Linear momentum or Momentum**, $\vec{p} = m\vec{v}$, $[\vec{p}] = MLT^{-1}$
 
-**Force** $\vec{F} = m\vec{a}$, $[\vec{F}] = MLT^{-2}$
+**Force** $\vec{F} = m\vec{a}$, $[\vec{F}] = MLT^{-2}$ = $\frac{Momentum}{time}$
 
 This is true for any kind of force. There are only four types of forces that exist in nature viz strong force, electromagnetic force, weak force and gravitational force. Further, frictional force, centripetal force, centrifugal force, all have the dimension $MLT^{-2}$.
 

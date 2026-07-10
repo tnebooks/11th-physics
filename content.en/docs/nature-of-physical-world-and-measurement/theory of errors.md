@@ -1,7 +1,15 @@
 ---
-title: "1.6 THEORY OF ERRORS"
+title: "Theory of errors"
 weight: 6
+references:
+  links: []
+
+  books:
+    - b1:
+        title: "Units and Measurements"
+        url: "https://ncert.nic.in/textbook/pdf/keph101.pdf"
 ---
+## 1.6 THEORY OF ERRORS
 
 The foundation of all experimental science and technology is measurement. The result obtained from any measurement will contain some uncertainty. Such an uncertainty is termed error. Any calculation made using the measured values will also have an error. It is not possible to make exact measurements in an experiment.
 
@@ -36,13 +44,9 @@ The uncertainty in a measurement is called an error. Random error, systematic er
 Systematic errors are reproducible inaccuracies that are consistently in the same direction. These occur often due to a problem that persists throughout the experiment. Systematic errors can be classified as follows:
 
 1. **Instrumental errors:** When an instrument is not calibrated properly at the time of manufacture, instrumental errors may arise. If a measurement is made with a meter scale whose end is worn out, the result obtained will have errors. These errors can be corrected by choosing the instrument carefully.
-
 2. **Imperfections in experimental technique or procedure:** These errors arise due to the limitations in the experimental arrangement. As an example, while performing experiments with a calorimeter, if there is no proper insulation, there will be radiation losses. This results in errors and to overcome these, necessary correction has to be applied.
-
 3. **Personal errors:** These errors are due to individuals performing the experiment, may be due to incorrect initial setting up of the experiment or carelessness of the individual making the observation due to improper precautions.
-
 4. **Errors due to external causes:** The change in the external conditions during an experiment can cause error in measurement. For example, changes in temperature, humidity, or pressure during measurements may affect the result of the measurement.
-
 5. **Least count error:** Least count is the smallest value that can be measured by the measuring instrument, and the error due to this measurement is least count error. The instrument's resolution hence is the cause of this error. Least count error can be reduced by using a high precision instrument for the measurement.
 
 **ii) Random errors**
@@ -67,7 +71,17 @@ Certain procedures to be followed to minimize experimental errors, along with ex
 
 **iii) Gross Error**
 
-The error caused due to the shear carelessness of an observer is called gross error. For example: (i) Reading an instrument without setting it properly. (ii) Taking observations in a wrong manner without bothering about the sources of errors and the precautions. (iii) Recording wrong observations. (iv) Using wrong values of the observations in calculations. These errors can be minimized only when an observer is careful and mentally alert.
+The error caused due to the shear carelessness of an observer is called gross error. For example: 
+
+(i) Reading an instrument without setting it properly. 
+
+(ii) Taking observations in a wrong manner without bothering about the sources of errors and the precautions. 
+
+(iii) Recording wrong observations. 
+
+(iv) Using wrong values of the observations in calculations. 
+
+These errors can be minimized only when an observer is careful and mentally alert.
 
 ---
 **Table 1.8 Minimizing Experimental Error**
@@ -151,11 +165,11 @@ $T_m = 2.62$ s (Rounded off to 2nd decimal place)
 
 $$
 \begin{array}{l}
-\Delta T_1 = |2.62 - 2.63| = 0.01 \text{ s} \\
-\Delta T_2 = |2.62 - 2.56| = 0.06 \text{ s} \\
-\Delta T_3 = |2.62 - 2.42| = 0.20 \text{ s} \\
-\Delta T_4 = |2.62 - 2.71| = 0.09 \text{ s} \\
-\Delta T_5 = |2.62 - 2.80| = 0.18 \text{ s}
+\Delta T_1 = |2.62 - 2.63| = +0.01 \text{ s} \\
+\Delta T_2 = |2.62 - 2.56| = +0.06 \text{ s} \\
+\Delta T_3 = |2.62 - 2.42| = +0.20 \text{ s} \\
+\Delta T_4 = |2.62 - 2.71| = +0.09 \text{ s} \\
+\Delta T_5 = |2.62 - 2.80| = +0.18 \text{ s}
 \end{array}
 $$
 
@@ -179,19 +193,31 @@ $$
 
 ### 1.6.4 Propagation of Errors
 
-A number of measured quantities may be involved in the final calculation of an experiment. Different types of instruments might have been used for taking readings. Then we may have to look at the errors in measuring various quantities, collectively. The error in the final result depends on (i) The errors in the individual measurements (ii) On the nature of mathematical operations performed to get the final result. So we should know the rules to combine the errors.
+A number of measured quantities may be involved in the final calculation of an experiment. Different types of instruments might have been used for taking readings. Then we may have to look at the errors in measuring various quantities, collectively. The error in the final result depends on 
+
+(i) The errors in the individual measurements 
+
+(ii) On the nature of mathematical operations performed to get the final result. So we should know the rules to combine the errors.
 
 The various possibilities of the propagation or combination of errors in different mathematical operations are discussed below:
 
 **(i) Error in the sum of two quantities**
 
-Let $\Delta A$ and $\Delta B$ be the absolute errors in the two quantities $A$ and $B$ respectively. Then, Measured value of $A = A \pm \Delta A$, Measured value of $B = B \pm \Delta B$. Consider the sum, $Z = A + B$. The error $\Delta Z$ in $Z$ is then given by
+Let $\Delta A$ and $\Delta B$ be the absolute errors in the two quantities $A$ and $B$ respectively. Then,
+
+ Measured value of $A = A \pm \Delta A$,
+ 
+Measured value of $B = B \pm \Delta B$. 
+
+Consider the sum, $Z = A + B$. 
+
+The error $\Delta Z$ in $Z$ is then given by
 
 $$
 Z \pm \Delta Z = (A \pm \Delta A) + (B \pm \Delta B) = (A + B) \pm (\Delta A + \Delta B) = Z \pm (\Delta A + \Delta B)
 $$
 
-or
+(or)
 
 $$
 \Delta Z = \Delta A + \Delta B \tag{1.3}

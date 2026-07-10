@@ -1,7 +1,17 @@
 ---
-title: "1.2 PHYSICS - INTRODUCTION"
+title: "Physics-introduction"
 weight: 2
+references:
+  links: []
+
+  books:
+    - b1:
+        title: "Nature of Physical World and Measurement"
+        url: "https://ncert.nic.in/textbook/pdf/keph101.pdf"
 ---
+
+## 1.2 PHYSICS-INTRODUCTION
+
 The word 'physics' is derived from the Greek word "Fusis", meaning nature. The study of nature and natural phenomena is dealt within physics. Hence physics is considered as the most basic of all sciences.
 
 Unification and Reductionism are the two approaches in studying physics. Attempting to explain diverse physical phenomena with a few concepts and laws is unification. For example, Newton's universal law of gravitation (in unit 6) explains the motion of freely falling bodies towards the Earth, motion of planets around the Sun, motion of the Moon around the Earth, thus unifying the fundamental forces of nature.
@@ -15,16 +25,11 @@ Physics as a fundamental science helps to uncover the laws of nature. The langua
 Some of the fundamental concepts of basic areas of physics are discussed in higher secondary first year physics books volume 1 and 2. Mechanics is covered in unit 1 to 6. Unit 1 gives an idea of the development of physics along with discussion on basic elements such as measurement, units etc. Unit 2 gives the basic mathematics needed to express the impact of physical principles and their governing laws. The impact of forces acting on objects in terms of the fundamental laws of motion of Newton are very systematically covered in unit 3. Work and energy which are the basic parameters of investigation of the mechanical world are presented in unit 4. Unit 5 deals with the mechanics of rigid bodies (in contrast, objects are viewed as point objects in units 3 and 4). The basics of gravitation and its consequences are discussed in unit 6. Older branches of physics such as different properties of matter are discussed in unit 7. The impact of heat and investigations of its consequences are covered in units 8 and 9. Important features of oscillations and wave motion are covered in units 10 and 11.
 
 ![**Figure 1.1 Branches of Physics**](<fig 1.1.png>)
-
----
 **Table 1.1 Branches of Physics**
 
----
-**Classical Physics** refers to traditional physics that was recognized and developed before the beginning of the 20th century.
-
----
-| Branch | Major focus |
+|Classical Physics | Refers to traditional physics that was recognized and developed before the beginning of the 20th century. |
 |--------|-------------|
+| **Branch** | **Major focus** |
 | 1. Classical mechanics | The study of forces acting on bodies whether at rest or in motion |
 | 2. Thermodynamics | The study of the relationship between heat and other forms of energy |
 | 3. Optics | The study of light |
@@ -32,12 +37,8 @@ Some of the fundamental concepts of basic areas of physics are discussed in high
 | 5. Acoustics | The study of the production and propagation of sound waves |
 | 6. Astrophysics | The branch of physics which deals with the study of the physics of astronomical bodies |
 | 7. Relativity | One of the branches of theoretical physics which deals with the relationship between space, time and energy particularly with respect to objects moving in different ways |
----
-**Modern Physics** refers to the concepts in physics that have surfaced since the beginning of the 20th century.
 
----
-
-| Branch | Major focus |
+| Modern Physics | refers to the concepts in physics that have surfaced since the beginning of the 20th century. |
 |--------|-------------|
 | 1. Quantum mechanics | The study of the discrete nature of phenomena at the atomic and subatomic levels |
 | 2. Atomic physics | The branch of physics which deals with the structure and properties of the atom |
@@ -56,11 +57,9 @@ Discoveries in physics are of two types; accidental discoveries and well-analyse
 Physics has a huge scope as it covers a tremendous range of magnitude of various physical quantities (length, mass, time, energy etc). It deals with systems of very large magnitude as in astronomical phenomena as well as those with very small magnitude involving electrons and protons.
 
 - Range of time scales: astronomical scales to microscopic scales, $10^{18} \, \text{s}$ to $10^{-22} \, \text{s}$.
-
 - Range of masses: from heavenly bodies to electron, $10^{55} \, \text{kg}$ (mass of known observable universe) to $10^{-31} \, \text{kg}$ (mass of an electron). The actual mass of an electron is $9.11 \times 10^{-31} \, \text{kg}$.
 
 The study of physics is not only educative but also exciting in many ways.
-
 - A small number of basic concepts and laws can explain diverse physical phenomena.
 - The most interesting part is the designing of useful devices based on the physical laws.
 

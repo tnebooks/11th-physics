@@ -5,3 +5,5 @@ themes/
 *.backup
 
 .hugo_build.lock
+
+tools/

@@ -23,6 +23,7 @@ npm run watch
 ```
 
 
+
 ```bash  hugo server
 hugo server  --themesDir ../ --disableFastRender
 ```

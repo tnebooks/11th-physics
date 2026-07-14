@@ -2,6 +2,7 @@
 title: "LAW OF CONSERVATION OF TOTAL LINEAR MOMENTUM"
 weight: 5
 ---
+
 ### 3.5 LAW OF CONSERVATION OF TOTAL LINEAR MOMENTUM
 
 In nature, conservation laws play a very important role. The dynamics of motion of bodies can be analysed very effectively using conservation laws. There are three conservation laws in mechanics. Conservation of total energy, conservation of total linear momentum, and conservation of angular momentum. By combining Newton's second and third laws, we can derive the law of conservation of total linear momentum.

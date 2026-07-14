@@ -1,5 +1,5 @@
 ---
-title: 'Science'
+title: 'science'
 categories:
     - science
     - physics

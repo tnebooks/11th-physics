@@ -1,5 +1,7 @@
 ---
 title: 'oscillations'
+categories:
+    - oscillations
 weight: 10
 extensions:
     - katex

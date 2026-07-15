@@ -1,5 +1,7 @@
 ---
 title: 'waves'
+categories:
+    - waves
 weight: 11
 extensions:
     - katex

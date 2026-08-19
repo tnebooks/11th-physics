@@ -1,5 +1,7 @@
 ---
 title: 'properties of matter'
+categories:
+    - properties-of-matter
 weight: 7
 summary: "This chapter deals with the physical properties of matter, focusing on elasticity, viscosity, surface tension, and fluid mechanics, which determine how materials respond to external forces. It covers concepts such as stress and strain, Hooke's law, and elastic moduli, along with the behavior of fluids through Pascal's law, buoyancy, and streamline flow. The chapter also discusses surface tension, capillary action, and viscous drag, providing a comprehensive understanding of solids and fluids in everyday applications."
 ---

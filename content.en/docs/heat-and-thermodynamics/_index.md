@@ -1,5 +1,7 @@
 ---
 title: 'heat and thermodynamics'
+categories:
+    - heat-and-thermodynamics
 weight: 8
 summary: "This chapter introduces the fundamental concepts of heat, temperature, and the laws of thermodynamics, explaining how thermal energy is transferred and transformed between systems. It covers the zeroth, first, and second laws of thermodynamics, along with concepts such as internal energy, work done by gases, entropy, and heat engines. The chapter also discusses thermal expansion, specific heat capacity, latent heat, and the different modes of heat transfer—conduction, convection, and radiation."
 ---
